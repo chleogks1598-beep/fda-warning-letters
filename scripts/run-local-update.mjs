@@ -110,6 +110,9 @@ function main() {
 
   const e = node("scripts/extract-local.mjs");
   log(`요약·지적사항 추출 ${e.EXTRACTED}건 · 실패 ${e.FAIL}건`);
+  // 사용량 한도 등으로 차단기가 걸린 회차. 실패가 아니라 **다음 회차가 이어받는다**는 뜻이라
+  // 종료코드는 0 이다 — 로그에 남기지 않으면 왜 조금만 하고 끝났는지 알 수 없다.
+  if (e.HALTED === "1") log("· 연속 실패로 추출을 중단했습니다(남은 건은 다음 회차가 이어받습니다).");
 
   const m = node("scripts/merge.mjs");
   log(`data.json — 총 ${m.TOTAL}건 (요약 대기 ${m.PENDING}건)`);

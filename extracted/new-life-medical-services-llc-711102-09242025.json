@@ -1,0 +1,65 @@
+{
+ "headlineKo": "제대유래·엑소좀 제품 무허가 신약·무면허 생물학적제제 판매",
+ "summaryKo": "FDA는 2024년 5월 14일부터 5월 20일까지 플로리다주 Lutz 소재 New Life Medical Services, LLC 시설을 실사하고, 이 회사가 제대(탯줄) 유래 제품(Restor+, Regain, Renyte), 양수 유래 제품(ReCyte/Cytosomes), 엑소좀 제품(Rexo)을 동종이식용으로 판매하는 사실을 확인했다. 웹사이트·인스타그램·의사용 가이드·제품 설명서 등에서 통증·염증·신경병증·골극 치료 및 조직 재생 효능을 표방하고 있어 이들 제품은 FD&C Act 201(g)(1)의 의약품이자 PHS Act 351(i)의 생물학적제제에 해당하며, 승인된 신약신청·BLA 없이 주간(州間) 거래에 유통되어 505(a) 및 351(a)(1) 위반으로 판단됐다. 또한 Restor+·Regain·Renyte는 제대를 관(conduit) 형태에서 주사제 형태로 가공해 최소조작 기준(21 CFR 1271.10(a)(1))을 충족하지 못하고, 공여자에서의 기본 기능과 다른 용도로 사용되어 동종사용(homologous use) 기준(21 CFR 1271.10(a)(2))도 충족하지 못하므로 361 HCT/P로만 규제될 수 없다고 지적했다. FDA는 별도로 Restor Charge·Rexo Charge에 대한 고객 명단과 준수 계획 제출을 요구했고, 15 영업일 내 서면 답변을 요구하면서 시정하지 않으면 압류·금지명령 등 조치가 가능함을 통보했다.",
+ "inspectionStart": "2024-05-14",
+ "inspectionEnd": "2024-05-20",
+ "facility": "244 Crystal Grove Blvd, Lutz, FL 33548-6460, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a) (21 U.S.C. §355(a)); PHS Act 351(a)(1) (42 U.S.C. §262(a)(1)); FD&C Act 301(d)",
+   "area": "허가·표시",
+   "titleKo": "승인 없는 신약·무면허 생물학적제제 유통",
+   "detailKo": "회사는 제대 유래 제품 Restor+·Regain·Renyte, 양수 유래 제품 ReCyte(구 Cytosomes), 엑소좀 제품 Rexo를 동종이식용으로 판매하고 있다. 웹사이트(www.newliferegen.com)와 인스타그램(newliferegen), 의사용 가이드, 제품 설명서, 교육 영상에서 \"Restor+가 강력한 생리활성 분자를 분비해 조직 복구·재생에 최적 환경을 조성한다\", \"염증성 사이토카인 발현을 줄이는 강한 항염 효과가 있다\", Renyte는 \"손상되거나 부족한 결합조직을 보충·대체\"한다, ReCyte는 \"염증에 도움이 되고 치유 과정을 촉진\"한다는 등 질병의 진단·치료·예방 또는 신체 구조·기능에 영향을 주려는 의도를 표시했다. 인스타그램 게시물은 Restor+와 Rexo를 정형외과 시술, 척추주위 치료, 모발 재생, 신경병증 치료에 적합하다고 열거했고, 실사 중 확보한 증거에는 \"제품 전반이 통증 관리, 연부조직 염증, 불유합 골절에 쓰이며 모든 제품의 적용법은 복사·붙여넣기 수준\"이라는 회사 측 진술이 포함됐다. 이들 제품은 승인된 BLA의 대상이 아니며, 승인 신청 없이 주간 거래에 유통·인도하는 행위는 FD&C Act 301(d)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 1271.10(a)(1), 21 CFR 1271.3(f)(1)",
+   "area": "허가·표시",
+   "titleKo": "최소조작 기준 미충족 HCT/P",
+   "detailKo": "Restor+·Regain·Renyte는 21 CFR 1271.3(d)의 HCT/P에 해당하나, 제대 조직을 관(conduit) 형태에서 주사 가능한 형태로 가공하는 공정이 HCT/P의 물리적 상태를 현저히 변경한다. 이러한 가공은 물리적 완전성과 관 형태를 변형·제거해 재건·복구·대체 용도와 관련된 원래의 관련 특성을 변경하므로 최소조작 기준을 충족하지 못한다. 또한 회사는 21 CFR 1271.15의 어떤 예외에도 해당하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 1271.10(a)(2), 21 CFR 1271.3(c)",
+   "area": "허가·표시",
+   "titleKo": "동종사용(homologous use) 기준 미충족",
+   "detailKo": "HCT/P는 표시·광고 등 제조자의 객관적 의도가 공여자에서와 동일한 기본 기능을 수여자에게서 수행함을 보여야 하나, 이 제품들은 제대의 기본 기능인 관(conduit) 역할만을 의도하지 않는다. 회사는 조직 치유·보충, 정형외과 시술, 신경병증 치료, 염증 감소 용도로 제품을 의도하고 있으며 이는 공여자에서 제대의 기본 기능이 아니다. 따라서 이들 제품은 361 조항과 21 CFR part 1271만으로 규제되지 않고 FD&C Act상 의약품 및 PHS Act상 생물학적제제로 규제된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "",
+   "area": "기타",
+   "titleKo": "추가 제품 Restor Charge·Rexo Charge 관련 우려",
+   "detailKo": "FDA는 웹사이트 및 기타 기록 검토에서 회사가 제대 유래 제품 Restor Charge와 엑소좀 기반 제품 Rexo Charge도 판매하고 있음을 확인했다. 이들 역시 시판 전 심사·승인 대상인 의약품 및/또는 생물학적제제로 판단된다. 2024년 12월 19일자 인스타그램 게시물은 \"Restor Charge와 Rexo Charge가 더 낮은 가격에 강력한 치유 잠재력을 제공한다\"고 표시했다. FDA는 엑소좀 제품 투여 환자에서 중대한 이상사례가 다수 보고되어 엑소좀 제품에 대한 공중보건 안전 공지를 발령한 바 있음을 함께 환기했다.",
+   "responseKo": "FDA는 답변 시 각 제품의 고객 명단과 FD&C Act 준수 여부에 대한 입장, 준수한다고 보면 그 근거를, 아니면 준수 계획을 제출하도록 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "무허가 신약",
+  "무면허 생물학적제제(BLA)",
+  "HCT/P 최소조작",
+  "동종사용",
+  "엑소좀 제품",
+  "제대 유래 제품"
+ ],
+ "id": "new-life-medical-services-llc-711102-09242025",
+ "extractedAt": "2026-09-11T14:36:27Z",
+ "sourceChars": 11177
+}

@@ -1,0 +1,38 @@
+{
+ "headlineKo": "알레르겐 치약 Allerdent 미승인 신약·무허가 생물학적제제",
+ "summaryKo": "FDA CBER는 2025년 9월 Allovate Therapeutics의 홍보 브로슈어(웨일코넬 ENT 사이트 게재)를 검토해, 알레르겐 치약 'Allerdent'가 미승인 신약이자 무허가 생물학적제제라고 통보했다. 브로슈어의 \"칫솔질만으로 알레르기 면역요법(OMIT)을 경험할 수 있다\"는 표현 등으로 보아 질병의 진단·치료·예방 목적임이 인정되어 FD&C Act 201(g)(1)상 의약품이자 PHS Act 351(i)상 생물학적제제에 해당하나, 승인된 BLA가 없다. 이 편지는 시설 실사에 따른 CGMP 지적이 아니라 제품 규제상태(미승인·무허가)에 관한 서면 경고이며, 회사 웹사이트(allovate.com)가 연결되는 Easily Healthcare에서도 동종 알레르겐 치약이 판매 중인 점이 각주로 지적됐다. FDA는 수령 후 15영업일 내 서면 답변을 요구하며, 미시정 시 추가 통보 없이 압류·금지명령 등의 조치가 가능하다고 경고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a) (21 U.S.C. § 355(a)); PHS Act 351(a)(1) (42 U.S.C. § 262(a)(1)); FD&C Act 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약·무허가 생물학적제제의 주간 유통",
+   "detailKo": "FDA는 Allerdent(알레르겐 치약)를 소개하며 \"자택으로 직접 배송 가능\"하다고 기재한 브로슈어(https://ent.weill.cornell.edu/sites/default/files/lifewithoutallergies.pdf, 2025년 9월 최종 확인)를 검토했다. 브로슈어에는 \"Allerdent로 매일 양치하면서 알레르기 면역요법을 받을 수 있으며 이를 구강점막 면역요법(OMIT)이라 한다\"는 표현이 있어, 제품이 인체 질병의 진단·치료·완화·예방 또는 신체 구조·기능에 영향을 줄 목적임을 보여준다. 따라서 해당 제품은 FD&C Act 201(g)(1)상 의약품이자 PHS Act 351(i)상 생물학적제제에 해당한다. 생물학적제제를 주간 유통하려면 안전성·순도·역가를 입증해 발급되는 BLA가 유효해야 하나, 이 제품은 승인된 BLA의 대상이 아니다. 또한 FDA는 allovate.com이 연결되는 Easily Healthcare 사이트에서 알레르겐 치약 Easily Allergy Toothpaste가 판매되는 점도 확인했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "무허가 생물학적제제",
+  "BLA 미보유",
+  "알레르겐 치약",
+  "구강점막 면역요법(OMIT)",
+  "CBER"
+ ],
+ "id": "allovate-therapeutics-llc-708912-09302025",
+ "extractedAt": "2026-09-11T14:35:52Z",
+ "sourceChars": 5054
+}

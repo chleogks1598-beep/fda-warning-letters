@@ -1,0 +1,47 @@
+{
+ "headlineKo": "품질부서 기능 부재, 원료 확인시험·공급자 검증 누락",
+ "summaryKo": "FDA는 2025년 2월 18일부터 20일까지 네바다주 Henderson 소재 Gussyup LLC(dba Private Label Grooming) 의약품 제조소를 실사하고 CGMP 위반 2건을 지적했다. 품질부서(QU)가 완제품 출하 전 시험, 안정성 프로그램, 배치기록 관리를 전혀 감독하지 못했고, 입고 원료에 대한 확인시험 없이 공급자 COA에만 의존하며 공급자 적격성 평가 프로그램도 없었다. 회사는 Form FDA 483에 대한 답변을 제출하지 않았고, 실사 종료 시점에 OTC 의약품 제조 중단과 FDA 등록 철회 의사를 통보했다. FDA는 제조 재개 전 사전 통보를 요구하고 CGMP 적격 컨설턴트 고용을 권고했으며, 글리세린 등 DEG·EG 고위험 원료에 대해 서한일로부터 30일 내 시험 결과 제출을 요구했다.",
+ "inspectionStart": "2025-02-18",
+ "inspectionEnd": "2025-02-20",
+ "facility": "7360 Eastgate Rd, Suite 135, Henderson, NV 89011-4091, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서가 CGMP 준수 감독 책임을 수행하지 못함",
+   "detailKo": "제조되는 의약품이 CGMP를 준수하고 확인시험·함량·품질·순도의 설정 규격에 적합한지 보증할 권한과 책임을 갖춘 적절한 품질부서(QU)를 수립하지 못했다. 구체적으로 QU는 완제품의 출하·유통 전 적절한 시험(21 CFR 211.165(a),(b)), 적절하고 지속적인 안정성 프로그램의 수립(21 CFR 211.166(a)), 각 배치의 제조·가공·포장·보관의 유의미한 각 단계 수행을 완전히 문서화한 배치 제조·관리기록(21 CFR 211.188)을 확보하지 못했다. FDA는 회사의 품질시스템 전반이 부적절하다고 판단하고 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 가이던스를 참조하도록 안내했다.",
+   "responseKo": "회사로부터 답변을 받지 못했다. FDA는 QU 권한·자원에 대한 종합 평가 및 개선계획, 시험실 시스템의 독립적 평가, 배치별 화학·미생물 규격과 시험법 목록, 유효기간 내 유통 배치의 보관검체 전수 시험 계획, 안정성 프로그램 CAPA, 문서화 체계 평가, 마스터 제조·관리기록 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 시험성적 신뢰성 미검증",
+   "detailKo": "OTC 의약품을 제조하면서 입고 원료에 대해 확인시험·순도·함량·품질 시험을 실시하지 않았고, 원료 공급자에 대한 벤더 적격성 평가 프로그램도 수립하지 않았다. 공급자의 시험성적서(COA) 결과를 적절한 밸리데이션을 통한 신뢰성 확인 없이 그대로 사용했으며, 입고되는 각 원료 로트에 대해 최소 1회의 특이적 확인시험도 수행하지 않았다. FDA는 공급자 COA만으로는 원료의 확인시험을 대신할 수 없음을 명시했고, 디에틸렌글리콜(DEG)·에틸렌글리콜(EG) 오염 원료로 인한 전 세계 치명적 중독 사고 사례를 들어 고위험 원료 시험 가이던스를 안내했다.",
+   "responseKo": "회사로부터 답변을 받지 못했다. FDA는 자재 시스템의 독립적 종합 검토, 입고 로트별 화학·미생물 규격, COA 신뢰성 검증 프로그램 SOP, 서한일로부터 30일 이내 고위험 원료 보관검체의 DEG·EG 시험 결과 제출, 글리세린 등 위험 성분 함유 유효기간 내 제품에 대한 전면 위해평가와 필요 시 고객통지·리콜 조치를 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질부서 기능 부재",
+  "원료 확인시험",
+  "공급자 적격성 평가",
+  "DEG·EG 오염",
+  "안정성 프로그램",
+  "OTC 제조 중단"
+ ],
+ "id": "gussyup-llc-dba-private-label-grooming-709488-07092025",
+ "extractedAt": "2026-09-11T14:41:45Z",
+ "sourceChars": 13792
+}

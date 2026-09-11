@@ -1,0 +1,46 @@
+{
+ "headlineKo": "세마글루타이드 API 공정검증 미실시·원료 확인시험 누락, 수입경보 66-40",
+ "summaryKo": "FDA는 2025년 3월 12일 FD&C Act 704(a)(4)에 따라 기록 제출을 요구했고, 중국 쓰촨성 청두 소재 Chengdu Brilliant Biopharmaceutical(FEI 3015530591)이 제출한 기록을 검토했다. 현장 실사가 아닌 기록 검토만으로 API CGMP 중대 일탈 2건 — 세마글루타이드(GLP-1) API의 공정검증 미실시, 입고 원료 배치별 확인시험 미실시 — 이 확인됐다. 이에 따라 회사의 의약품은 501(a)(2)(B)에 따라 변질품(adulterated)으로 판정됐다. FDA는 2025년 7월 9일자로 이 회사의 모든 의약품을 수입경보 66-40에 등재했으며, 시정 완료 전까지 신규 허가·보충 승인을 보류할 수 있다고 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "#33, Tengfei 12th Road, Southwest Airport Economic Dev Zn, Shuangliu District Chengdu, Sichuan, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "",
+   "area": "제조·공정관리",
+   "titleKo": "API 제조공정의 재현성 입증 실패(공정검증 미실시)",
+   "detailKo": "제출된 기록상 해당 사업장에서 제조하는 GLP-1 계열 API 세마글루타이드(Semaglutide)에 대해 공정검증(process validation)을 전혀 수행하지 않았다. FDA는 상업적 유통 전에 공정적격성평가(PPQ)가 완료되어야 하며, 이후에도 배치 내·배치 간 변동을 지속 모니터링해 관리상태를 유지해야 한다고 지적했다. 적절한 공정검증 없이는 규격에 맞는 제품을 재현성 있게 생산할 수 있다는 기본적 보증이 없다.",
+   "responseKo": "FDA는 답변 시 제품수명주기 전반의 관리상태 확보를 위한 검증 프로그램 요약과 절차, 각 시판 제품의 PPQ 일정, 설비·시설 적격성평가 프로토콜 및 절차 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 배치별 확인시험 미실시",
+   "detailKo": "제출된 기록상 API 제조에 사용되는 원료에 대해 (비공개) 기간 중 확인시험(identity test)을 수행하지 않았다. 해당 원료 예시도 (비공개) 처리됐다. 적절한 시험 없이는 출고 전 원료가 적합한 규격에 부합한다는 과학적 근거가 없다.",
+   "responseKo": "FDA는 구성품·용기·마개 공급자 적격성 및 입고 자재 관리의 적정성에 대한 독립적 전면 검토, 입고 로트별 화학·미생물 QC 규격, 공급자 COA를 활용할 경우 신뢰성 검증·주기적 재검증 방안과 모든 입고 로트에 대해 최소 1개 확인시험을 반드시 수행하겠다는 확약을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-07-09)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "공정검증(PPQ)",
+  "세마글루타이드 API",
+  "원료 확인시험",
+  "수입경보 66-40",
+  "704(a)(4) 기록요구"
+ ],
+ "id": "chengdu-brilliant-biopharmaceutical-co-ltd-711330-09112025",
+ "extractedAt": "2026-09-11T14:37:17Z",
+ "sourceChars": 8204
+}
