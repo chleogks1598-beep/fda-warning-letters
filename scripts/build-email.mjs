@@ -53,7 +53,8 @@ const prev = readJson(process.argv[2], { records: [] });
 const prevById = new Map((prev.records || []).map((r) => [r.id, r]));
 const curRecs = cur.records || [];
 
-let fresh, closed, gone, summarized;
+let fresh, closed, gone;
+let summarized;
 if (SAMPLE > 0) {
   fresh = curRecs.filter((r) => !r.delisted).slice(0, SAMPLE);
   closed = [];
@@ -68,9 +69,17 @@ if (SAMPLE > 0) {
   );
 }
 
+// ★ 소급 추출(backfill) 중에는 '요약완료' 알림을 보내지 않는다.
+//   512건을 소급 정리하는 동안은 회차마다 수십 건씩 요약이 붙는데, 그걸 매번 메일로 보내면
+//   정작 중요한 '신규 warning letter' 알림이 묻힌다. 평소 회차(신규 몇 건이 뒤늦게 정리된 경우)
+//   는 보내는 게 맞으므로 건수로 가른다.
+const BACKFILL_AT = Number(process.env.BACKFILL_AT || 10);
+const backfill = summarized.length > BACKFILL_AT;
+if (backfill) summarized = [];
+
 if (!fresh.length && !closed.length && !gone.length && !summarized.length) {
   emitOutput({ send: "false" });
-  console.log("SEND=false");
+  console.log(`SEND=false${backfill ? " (소급 추출 중 — 요약완료 알림 생략)" : ""}`);
   process.exit(0);
 }
 
