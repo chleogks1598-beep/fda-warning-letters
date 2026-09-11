@@ -1,0 +1,74 @@
+{
+ "headlineKo": "무허가 GLP-1 무균주사제 제조, 무균공정 검증 전무·실사 거부",
+ "summaryKo": "FDA는 2026년 2월 3일부터 2월 13일까지 뉴저지주 Northvale 소재 New Life Pharma LLC 제조소를 실사했다. 세마글루타이드·터제파타이드 무균 다회용 바이알이 승인되지 않은 신약이자 등록·목록화 위반으로 표시위반 의약품에 해당하며, CGMP 위반 2건(무균공정 검증 부재, 품질부서 기능 상실)이 지적됐다. 회사는 무균 제조 구역 중 \"Area Not In Use\"로 표시된 두 곳에 대한 조사관 출입을 거부해 501(j)에 따른 불량의약품 판정까지 받았다. 2026년 3월 6일자 Form FDA 483 답변은 시정조치 증거가 불충분해 부적절하다고 평가됐고, 회사는 2026년 2월 25일 자진회수를 실시했으며 FDA는 제조를 재개하지 말 것을 요구했다.",
+ "inspectionStart": "2026-02-03",
+ "inspectionEnd": "2026-02-13",
+ "facility": "265 Livingston Street, Northvale, NJ 07647-1901, United States",
+ "form483ResponseDate": "2026-03-06",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a) / 301(d)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 제조·유통",
+   "detailKo": "\"Semaglutide Sterile Multi-Dose Vial\"과 \"Tirzepatide Sterile Multi-Dose Vial\"은 질병의 치료·예방 목적이거나 신체 구조·기능에 영향을 주려는 의도가 있어 FD&C Act 201(g)(1)상 의약품에 해당한다. 동결건조 분말을 고무마개 무균 유리 다회용 바이알에 충전해 재용해 후 비경구 주사하도록 설계됐고, 체중감량 클리닉(med spa)과 성형외과에 유통됐으며 일부는 온라인 구매한 정균수(bacteriostatic water)와 함께 출하됐다. 라벨에 NDC 코드, \"Rx-only\", \"Sterile Multi-Dose Vial; Refrigerate after reconstitution\" 표기가 있어 처방의약품 용도임이 드러난다. FDA 기록 검토 결과 두 제품에 대한 승인 신청은 존재하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 510, 510(j) / 502(o) / 21 CFR 207.25(f), 207.41",
+   "area": "허가·표시",
+   "titleKo": "시설 등록 허위 기재 및 품목 목록화 누락",
+   "detailKo": "FDA 등록 데이터베이스상 New Life Pharma LLC는 \"Contract manufacturing for human over-the-counter drug products produced under a monograph\"으로 등록돼 있으나, 실사 결과 OTC 모노그래프 의약품은 전혀 제조하지 않고 무허가 처방의약품을 제조·유통하고 있었다. 또한 상업적 유통용 의약품을 제조하면서도 labeler code를 부여받지 않았고 어떤 품목도 FDA에 목록화하지 않았다. 이에 따라 제품은 502(o)상 표시위반 의약품에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.113(b)",
+   "area": "무균·멸균",
+   "titleKo": "무균의약품 미생물오염 방지 절차·공정밸리데이션 부재",
+   "detailKo": "무균을 표방하는 세마글루타이드·터제파타이드 다회용 바이알 등 다수의 GLP-1 완제의약품을 미생물오염 방지 절차 없이 제조했다. 무균공정 시뮬레이션(media fill), 기류가시화(smoke) 시험, 세척밸리데이션을 전혀 수행하지 않았고 정기 환경모니터링 프로그램도 수립하지 않았다. 미생물·부유입자 데이터로 뒷받침되지 않는 ISO 8 조건에서 제조했으며, 이는 무균조작에 요구되는 중요구역(ISO 5) 기준에 미달한다. FDA는 이러한 결함이 무균성 보증에 필요한 기본 관리가 결여된 것으로, 환자가 비무균 제품을 투여받아 중증 감염 등 생명을 위협하는 합병증에 노출될 심각한 위험을 초래했다고 지적했다.",
+   "responseKo": "2026년 3월 6일자 483 답변은 CGMP 적합성 확보를 위한 시정조치 증거가 불충분하고 무균의약품을 제조할 역량이 있다는 확신을 주지 못해 부적절하다고 평가됐다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 CGMP 준수 보증 책임 불이행",
+   "detailKo": "품질부서가 세마글루타이드·터제파타이드 무균 다회용 바이알 제조에 필요한 CGMP 절차와 공정이 수립·준수되도록 보증하지 못했다. 구체적으로 제품의 규격·함량·품질·순도를 보증하기 위한 생산 및 공정관리 문서절차 미수립(21 CFR 211.100(a)), 각 원료 시료의 확인시험 및 순도·함량·품질 규격 적합성 시험 미실시(21 CFR 211.84(d)(1), (d)(2)), 무균·무발열성을 표방하는 각 배치에 대한 적절한 실험실 시험 미실시(21 CFR 211.167(a)), 장비 세척·유지관리 문서절차 미수립 및 미준수(21 CFR 211.67(b)), 적절한 안정성시험으로 뒷받침되는 유효기한 표시 미보증(21 CFR 211.137(a))이 확인됐다.",
+   "responseKo": "2026년 3월 6일자 483 답변 전반이 시정조치 증거 부족으로 부적절하다고 평가됐으며, FDA는 Quality Systems Approach to Pharmaceutical CGMP Regulations 가이던스 참조를 권고했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 501(j) / 704(a)",
+   "area": "기타",
+   "titleKo": "FDA 실사 제한·거부",
+   "detailKo": "실사 중 회사는 제조구역 내 \"Area Not In Use\"로 표시된 두 개 구역에 대해 조사관에게 출입 권한이 없다며 접근을 거부했고, 거부 의사를 조사관에게 확인해 주었다. FDA는 704(a)에 따른 실사 권한이 \"not in use\"로 지정된 구역을 포함한 제조시설 전 구역에 미치며 회사의 구역 지정이 법정 권한을 제한하지 않는다고 밝혔다. 이로 인해 해당 시설에서 제조·처리·포장·보관된 의약품은 501(j)에 따라 불량의약품으로 간주된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": true,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "무허가 신약",
+  "GLP-1 무균주사제",
+  "무균공정 밸리데이션",
+  "등록·목록화 위반",
+  "실사 거부",
+  "자진회수"
+ ],
+ "id": "new-life-pharma-llc-725661-04142026",
+ "extractedAt": "2026-09-11T09:32:56Z",
+ "sourceChars": 14944
+}

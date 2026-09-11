@@ -121,7 +121,7 @@ function main() {
     if (Number(e.FAIL)) parts.push(`추출실패 ${e.FAIL}건`);
     const msg = `data: FDA warning letter 갱신${parts.length ? " — " + parts.join(" · ") : ""}`;
     if (commit(msg, ["public/data.json", "extracted", "newdocs/list.json"])) push("데이터");
-    else log("변경 없음 — 커밋할 것이 없습니다.");
+    else if (!DRY) log("변경 없음 — 커밋할 것이 없습니다.");
   }
   log("=== 갱신 끝 ===");
 }

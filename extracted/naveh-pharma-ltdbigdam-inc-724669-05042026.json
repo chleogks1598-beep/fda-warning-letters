@@ -1,0 +1,47 @@
+{
+ "headlineKo": "고장성 식염수 미승인 신약 판매, 품질부서 부재",
+ "summaryKo": "FDA는 2026년 3월 Naveh Pharma/Bigdam의 웹사이트(navehpharma.com, u-better.com)와 Amazon 스토어를 검토해 \"RSV Hypertonic Saline 3%\"와 \"Hypertonic Saline 7%\"가 기관지염(RSV)·낭성섬유증 등 질병 치료 목적으로 표시·판매되고 있음을 확인했고, 승인 신청이 없는 미승인 신약으로 판단했다. 또한 2025년 4월 28일자 FD&C Act 704(a)(4) 기록 제출 요구에 대한 회사 제출자료를 검토한 결과, 이스라엘 Netanya 소재 Naveh Pharma (1966) LTD(FEI 3027300316) 시설에 품질부서(QU)가 아예 존재하지 않는다는 사실이 드러났다. 이에 따라 제조·공정·포장·보관 방법이 CGMP에 부합하지 않아 제품은 FD&C Act 501(a)(2)(B)에 따른 불량의약품으로 간주됐다. FDA는 현장 실사 없이 웹사이트·기록 검토만으로 경고서를 발부했으며, 15영업일 내 시정조치 회신을 요구하고 미이행 시 압류·금지명령 등 조치가 가능하다고 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Naveh Pharma (1966) LTD, FEI 3027300316, 19 Yad Kharutsim, Netanya, Sharon Area, Israel",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 301(d), 505(a) (21 U.S.C. 331(d), 355(a))",
+   "area": "허가·표시",
+   "titleKo": "승인 없이 미승인 신약을 미국 내 판매",
+   "detailKo": "FDA는 2026년 3월 회사 웹사이트와 Amazon 스토어를 검토해 \"RSV Hypertonic Saline 3%\"와 \"Hypertonic Saline 7%\"가 미국 내 판매되고 있음을 확인했다. 3% 제품은 \"For treatment of Bronchiolitis (RSV - respiratory syncytial virus)\", 급성 기관지염 입원 영아의 임상 개선 및 입원기간 단축, 점액섬모청소 촉진 등을 표시했고, 제품명 자체가 \"RSV Hypertonic Saline\"이었다. 7% 제품은 낭성섬유증 환자 임상시험 인용과 함께 \"Improving lung function\", \"Decreases hospital admissions\", \"Effective treatment of moderately and severe lung diseases\" 등을 표방했다. 이러한 표시는 21 CFR 201.128상 사용목적 증거로서 두 제품을 FD&C Act 201(g)(1)상 의약품에 해당시키며, 표시된 사용조건에서 GRASE로 일반적으로 인정되지 않아 201(p)상 \"신약\"이다. 해당 제품에 대해 505조에 따른 승인 신청이 유효하게 존재하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질부서(QU) 자체를 설치하지 않음",
+   "detailKo": "회사가 704(a)(4) 요구에 따라 제출한 기록과 정보에 따르면, 회사에는 미국으로 출하되는 완제의약품의 제조 및 출하에 대한 적절한 품질 감독을 수행할 품질부서(QU)가 존재하지 않는다. 원자재·용기·마개·공정중품·포장재·표시재료 및 완제품을 승인 또는 불합격 처리할 책임과 권한을 가진 품질관리 조직이 확립되어 있지 않다. 품질부서가 없으므로 해당 시설에는 실효적인 품질시스템이 결여되어 있다. FDA는 ICH Q10 및 Quality Systems Approach to Pharmaceutical CGMP Regulations 가이던스를 참고하도록 안내했다.",
+   "responseKo": "FDA는 회신 시 QU를 실효적으로 기능하게 할 권한·자원 부여를 포함한 포괄적 평가 및 개선계획(절차의 적절성 판단, 전 공정에 대한 QU 감독, 출하 판정 전 배치별 최종 검토, 조사 감독·승인 등)을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "품질부서 부재",
+  "불량의약품(적법성)",
+  "웹사이트 표시·광고",
+  "704(a)(4) 기록 요구",
+  "고장성 식염수"
+ ],
+ "id": "naveh-pharma-ltdbigdam-inc-724669-05042026",
+ "extractedAt": "2026-09-11T09:29:12Z",
+ "sourceChars": 9902
+}
