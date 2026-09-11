@@ -1,0 +1,92 @@
+{
+ "headlineKo": "완제품 출하시험·원료 확인시험 누락, 미승인신약·표시위반",
+ "summaryKo": "FDA는 2024년 3월 4일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토해 중국 저장성 항저우 소재 Hangzhou Glamcos Biotech(FEI 3017053743)의 OTC 의약품 제조 CGMP 위반 4건을 지적했다. 완제품 출하 전 함량·확인시험 미실시, 글리세린·프로필렌글리콜 등 DEG/EG 고위험 원료의 확인시험 및 공급자 관리 미흡, 주성분 시험이 빠진 안정성시험 프로그램, 불완전한 배치기록이 핵심이며 API 공급자는 FDA 등록조차 되어 있지 않았다. 또한 'disinpro multi-purpose ANTIBACTERIAL WIPES'는 벤잘코늄클로라이드 0.2% 함유로 TFM 허용범위(0.1~0.13%)를 벗어난 미승인 신약이고, 두 제품 모두 21 CFR 330.1(g)의 경고문구 누락으로 표시위반에 해당한다. 회사는 최초 기록요청에 '3년간 미국향 의약품을 제조하지 않았다'고 주장했다가 FDA가 2024년 1월 8일자 선적 정보를 제시하자 자료를 제출했고, FDA는 2024년 9월 30일 수입경보 66-40을 적용하고 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No 288 Xiufeng Road Tonglu County, Hangzhou, Zhejiang, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 적합성 시험 미실시",
+   "detailKo": "제출된 기록상 출하·유통 전에 완제품에 대한 적절한 시험을 수행했음을 입증하지 못했다. 주성분의 함량(strength)과 확인(identity) 시험을 포함한 전체 출하시험이 출하·유통 전에 수행되어야 한다. 적절한 시험 없이는 제품이 출하 전 규격에 적합하다는 과학적 근거를 확보할 수 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 및 공급자 시험성적 검증 미흡",
+   "detailKo": "피부의 세균을 감소시키는 용도의 항균 물티슈 등 OTC 의약품을 제조하면서, DEG·EG 오염 고위험 원료인 글리세린과 프로필렌글리콜 등 입고 원료에 대해 확인시험을 적절히 수행했음을 입증하지 못했다. 이들 고위험 원료의 확인시험에는 DEG/EG 안전기준 충족을 확인하는 USP 한도시험이 포함되어야 한다. FDA는 또한 원료의약품(API) 공급자가 FDA에 등록되지 않은 것으로 보이며, 제출 자료상 원료 공급자 적격성 평가도 충분하지 않다고 지적했다. DEG/EG 오염 성분 사용은 전 세계적으로 치명적 중독 사고를 일으킨 바 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 부적절",
+   "detailKo": "제출된 안정성 기록상 표시된 유효기간 동안 제품의 품질특성이 유지된다는 점을 입증하지 못했다. 예를 들어 안정성시험 항목에 주성분 시험이 포함되어 있지 않았다. 적절한 안정성시험 없이는 유효기간까지 규격 적합 여부를 뒷받침할 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.188",
+   "area": "문서·데이터완전성",
+   "titleKo": "배치 제조·관리기록 불완전",
+   "detailKo": "제출된 기록상 배치 제조기록이 미흡했다. 예로 OTC 의약품 배치기록에 제조·가공·포장·보관의 각 중요 공정 단계가 수행되었다는 문서화가 누락되어 있었다. 완전한 배치기록이 없으면 배치 간 균일성을 보증할 수 없고 일탈 조사 능력에도 영향을 줄 수 있다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 — 벤잘코늄클로라이드 농도 초과",
+   "detailKo": "'disinpro multi-purpose ANTIBACTERIAL WIPES'와 'Antibacterial Wet Wipes'는 표시된 사용목적('손 세정으로 피부의 세균 감소', '99.9% 살균')상 FD&C Act 201(g)(1)(B)·(C)의 '의약품'이며 소비자용 antiseptic rub 제품에 해당한다. 'disinpro' 제품은 표시상 벤잘코늄클로라이드를 0.2% 함유한다고 기재했으나 허용 농도는 0.1~0.13%이므로 1994년 TFM(2016년 소비자용 antiseptic rub 제안규칙으로 개정)에 부합하지 않고, 505G(a)(3)에 따른 승인 없는 판매 요건도 충족하지 못한다. 승인된 신약허가도 없고 GRASE를 뒷받침하는 적절한 대조 임상자료도 확인되지 않아 미승인 신약으로 주간 거래에 도입한 것은 505(a) 및 301(d) 위반이다. FDA는 추가로 두 제품이 'antiseptic wipes'로 판매되면서 라벨에 'For hand washing…'이라고 기재해 소비자용 antiseptic wash 용법까지 시사하는데, wipe는 antiseptic wash의 허용 제형이 아니어서 사용법이 상충된다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(f)(2), 502(ee) (21 U.S.C. 352(f)(2), 352(ee)); 21 CFR 330.1(g)",
+   "area": "허가·표시",
+   "titleKo": "표시위반 — 필수 경고문구 누락",
+   "detailKo": "두 제품 모두 라벨에 21 CFR 330.1(g)가 요구하는 경고문구 전문, 구체적으로 'If swallowed, get medical help or contact a Poison Control Center right away.' 문구가 누락되어 502(f)(2)에 따른 misbranded 제품이다. 또한 'disinpro multi-purpose ANTIBACTERIAL WIPES'는 505G 적용 대상 일반의약품이면서 그 요건을 충족하지 못하고 505조 승인 신청도 없어 502(ee)에 따라서도 misbranded에 해당한다. 이러한 표시위반 제품을 주간 거래에 도입하는 것은 301(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 7,
+   "cfr": "FD&C Act 704(a)(4)",
+   "area": "품질시스템",
+   "titleKo": "기록요청에 대한 허위 소명 의혹",
+   "detailKo": "회사는 FDA의 최초 기록요청에 대해 최근 3년간 미국향 의약품을 제조한 사실이 없다고 주장했다. 그러나 FDA가 2024년 1월 8일자까지의 해당 시설 출하 선적 정보를 제시하자 그제서야 요청 자료를 제출했다. FDA는 회사가 미국향 의약품을 제조·가공·포장·보관하지 않는다고 허위로 주장했을 가능성을 우려하며, 실사 지연·거부에 관한 FDA 지침을 인용했다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-09-30)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "출하시험 미실시",
+  "DEG/EG 확인시험",
+  "공급자 적격성",
+  "안정성시험",
+  "미승인 신약",
+  "수입경보 66-40"
+ ],
+ "id": "hangzhou-glamcos-biotech-co-ltd-692583-10072024",
+ "extractedAt": "2026-09-11T19:33:59Z",
+ "sourceChars": 17968
+}

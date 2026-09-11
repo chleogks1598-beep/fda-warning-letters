@@ -1,0 +1,47 @@
+{
+ "headlineKo": "수입 원료 로트별 확인시험 미실시, 품질부서 입고자재 승인·거부 체계 부재",
+ "summaryKo": "FDA는 2024년 4월 29일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토해 중국 쓰촨성 청두 소재 Chengdu Innovation Pharmaceutical Co., Ltd.(FEI 3027222600) 원료의약품(API) 제조소의 CGMP 중대 일탈을 확인했다. 현장 실사가 아닌 기록 검토 방식이었으며, 입고 자재 로트별 확인시험 미실시와 품질부서(QU)의 원료·중간체·포장재·표시재료 승인/거부 체계 미수립 등 2건이 지적됐다. 이 편지에는 회사의 Form FDA 483 답변에 대한 평가는 없고, FDA는 CGMP 자격을 갖춘 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다. FDA는 2025년 1월 17일 이 회사 제품을 수입경보 66-40에 등재했으며, 신규 허가·보충 승인 보류 및 수출증명서 발급 보류 가능성을 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No.123, 1st Floor, No 91 Zhongheng Street, Jinniu District, Chengdu, Sichuan, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 자재 로트별 확인시험 미실시",
+   "detailKo": "회사는 미국 내 (비공개)로 유통되는 API를 제조한다. 제출된 기록과 정보상 입고 자재의 각 로트·각 선적분에 대해 적절한 시험을 수행하고 있음을 입증하지 못했다. 특히 회사는 FDA 요청에 대한 답변에서, 의약품 제조에 사용 승인하기 전 입고 자재의 각 선적분·각 로트에 대해 확인시험(identity testing)을 수행하지 않는다고 스스로 진술했다. 적절한 시험 없이는 입고 자재가 사용 전 적합한 규격에 부합한다는 과학적 근거를 확보할 수 없다.",
+   "responseKo": "FDA는 답변 서한에서 모든 입고 자재 로트에 대해 최소 1개의 특이적 확인시험을 항상 수행하겠다는 확약, 공급자 적격성·유효기한/재시험일 부여 여부에 대한 독립적 자재 시스템 전면 검토, COA 신뢰성 검증 프로그램 SOP 등을 제출하도록 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 자재 승인·거부 체계 미수립",
+   "detailKo": "제출된 기록과 정보는 품질부서(QU)가 의약품 제조 운영의 품질을 감독할 책임을 실효적으로 수행하지 않았음을 보여준다. 구체적으로 QU는 원료·중간체·포장재·표시재료를 승인 또는 거부하는 적절한 체계를 수립하지 않았다. FDA는 API가 CGMP에 부합하게 제조되는지 판단할 때 품질 감독에 관한 사항을 포함한 ICH Q7의 기대사항을 고려한다고 밝혔다.",
+   "responseKo": "FDA는 QU가 실효적으로 기능하도록 권한과 자원을 부여하는 종합 평가 및 개선계획(절차의 견고성 판단, 전 공정에 대한 QU 감독, 처분 결정 전 배치별 완전한 최종 검토, 일탈조사 감독·승인 포함)을 제출하도록 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-01-17)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록 요청",
+  "입고자재 확인시험",
+  "공급자 관리",
+  "품질부서 감독",
+  "ICH Q7",
+  "수입경보 66-40"
+ ],
+ "id": "chengdu-innovation-pharmaceutical-co-ltd-698786-02052025",
+ "extractedAt": "2026-09-11T19:42:10Z",
+ "sourceChars": 8150
+}

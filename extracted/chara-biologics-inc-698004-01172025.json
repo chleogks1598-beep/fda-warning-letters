@@ -1,0 +1,65 @@
+{
+ "headlineKo": "무허가 신약·무면허 생물학적제제, 품질부서 부재·기증자적격 기록 누락",
+ "summaryKo": "FDA는 2024년 7월 23일부터 8월 16일까지 캘리포니아 채츠워스 소재 Chara Biologics를 실사했다. 회사가 제조·유통하는 양수 유래 CharaExo와 제대 유래 CharaCore·CharaOmni는 BLA도 IND도 없이 질병 치료 목적으로 광고·판매되어 무허가 신약이자 무면허 생물학적제제로 판정됐고, CharaCore·CharaOmni는 최소조작·동종사용 기준을 충족하지 못해 21 CFR 1271 단독 규제 대상이 아니다. CGMP·CGTP 위반 2건(품질관리부서 미설립, 기증자 적격성 판정 기록 미보관)과 CharaExo 유효기간을 근거자료 없이 1년 이상 연장한 표시부정 위반이 지적됐다. 2024년 9월 1일·12월 23일 접수된 답변은 회사가 제조업자가 아니라고 주장했으나 서명 진술서와 실제 포장·표시·보관·유통 활동에 배치되어 부적절하다고 평가됐으며, FDA는 시정되지 않을 경우 압류·금지명령 등 사전 통지 없는 조치를 경고했다.",
+ "inspectionStart": "2024-07-23",
+ "inspectionEnd": "2024-08-16",
+ "facility": "Chara Biologics, Inc., 9568 Topanga Canyon Blvd., Suite 104, Chatsworth, CA 91311, United States",
+ "form483ResponseDate": "2024-09-01",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a), 21 CFR 211.22(d)",
+   "area": "품질시스템",
+   "titleKo": "모든 표시·완제품을 승인·거부할 품질관리부서 미설립",
+   "detailKo": "회사는 CharaCore를 재표시·보관·유통하고 CharaOmni를 보관·유통하는 제조업자(21 CFR 210.3(b)(12))임에도 모든 표시와 완제품을 승인 또는 거부할 권한과 책임을 가진 품질부서를 두지 않았고, 품질관리부서의 책임과 절차를 문서화해 이행하지 않았다. 유통 전 승인·거부 판단에 필요한 제조기록이나 시험성적서 등 문서를 입고 로트별로 수령하지 않았다. 또한 시험실 관리(211.160(b)), 생산·공정관리 절차(211.100(a)), 배치 출하 전 제조·관리기록 검토 승인(211.192), 불만 처리 절차(211.198(a)), 올바른 라벨·표시·포장 사용 보증 절차(211.130)가 수립돼 있지 않았다.",
+   "responseKo": "FDA는 회사가 \"줄기세포 가공·제조업체였던 적이 없다\"고 주장하고 \"제조업체가 건물 반입 전 모든 제품을 라벨링하도록 합의했다\"고 밝혔으나, 포장·표시·시험·품질관리도 제조에 해당하므로 여전히 CGMP 적용 대상 제조업자라고 판단했다. 실사 중 받은 서명 진술서에서 대표가 \"Chara Biologics가 Chara 제품들의 주된 제조 주체\"라고 진술한 점과도 일치한다고 지적했다. 아울러 위탁제조 시에도 품질관리부서가 수탁 제조 제품의 승인·거부 책임을 진다는 점(21 CFR 211.22(a))과 품질협약 가이던스를 안내했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 1271.55(d)(1)(iii)",
+   "area": "문서·데이터완전성",
+   "titleKo": "기증자 적격성 판정 기록 미보관",
+   "detailKo": "제대(umbilical cord) 기증자에 대한 기증자 적격성 판정 문서를 보관하지 않았다. 판정을 수행한 책임자의 이름과 판정 일자를 포함한 기록이 유지되지 않았다. 해당 제대는 CharaCore 제조에 사용되며, CharaCore는 다시 CharaOmni 제조에 사용된다.",
+   "responseKo": "회사는 위탁제조업체가 HCT/P의 기증자 적격성을 판정한다고 답변했으나, FDA는 자사 시설에 재고로 남아 있거나 이미 유통되어 시장에 있는 제품에 대한 기증자 적격성 판정 기록은 회사가 보유해야 한다고 지적했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 505(a) (21 U.S.C. § 355(a)), PHS Act 351(a)(1) (42 U.S.C. § 262(a)(1))",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약·무면허 생물학적제제 유통",
+   "detailKo": "브로슈어 \"Let the Joy of Healing Begin\", 의사용 FAQ, AAICT \"Exosome Protocols\", 웹사이트(www.charaomni.com, www.charabiologics.com/science 및 연결된 aaict.org)에서 CharaExo·CharaCore·CharaOmni를 파킨슨·알츠하이머·다발성경화증·ALS·당뇨·자폐·심장질환·신부전·간경변·자가면역질환·불임·발기부전 등 다수 질환의 치료 목적으로 광고했다. 따라서 이들 제품은 FD&C Act 201(g)(1)의 의약품이자 PHS Act 351(i)의 생물학적제제에 해당하나, 승인된 BLA도 유효한 IND도 없다. CharaCore·CharaOmni는 제대를 관(conduit) 형태에서 유동성 형태로 가공해 물리적 완전성과 관형 구조를 변형·제거하므로 최소조작 기준(21 CFR 1271.10(a)(1))을 충족하지 못하고, 기증자에서의 기본 기능과 다른 용도로 의도되어 동종사용 기준(21 CFR 1271.10(a)(2))도 충족하지 못하며 21 CFR 1271.15의 예외에도 해당하지 않는다. 한편 CharaExo는 분비체액인 양수 유래로 21 CFR 1271.3(d)(3)상 HCT/P에서 제외된다.",
+   "responseKo": "제품이 PHS Act 361조에 따라 제조되었다는 주장은 수집된 증거상 361조 단독 규제 요건을 충족하지 못해 인정되지 않았다. 답변은 IND 부재와 BLA 미승인 상태를 전혀 다루지 않았고, 시설 내 재고 및 시장에 남은 유통 제품의 처리 계획도 제시하지 못했다. FDA는 2019년 11월 25일자 서한으로 이미 동일 취지를 통지했고 회사가 2019년 12월 17일 답변에서 후기(testimonial) 삭제를 약속했음에도, 웹사이트와 연결된 소셜미디어 계정에 질병 치료 후기가 여전히 게시돼 있었다고 지적했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(a) (21 U.S.C. § 352(a))",
+   "area": "허가·표시",
+   "titleKo": "근거자료 없는 유효기간 연장으로 표시부정",
+   "detailKo": "CharaExo 로트의 제조사 유효기간(expiration date)을 뒷받침하는 데이터 없이 1년 이상 연장했다. 이러한 허위·오인 표시로 인해 CharaExo는 FD&C Act 502(a)에 따라 표시부정(misbranded) 의약품에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "무허가 신약",
+  "무면허 생물학적제제",
+  "HCT/P 최소조작·동종사용",
+  "품질관리부서 미설립",
+  "기증자 적격성 기록",
+  "유효기간 연장 표시부정"
+ ],
+ "id": "chara-biologics-inc-698004-01172025",
+ "extractedAt": "2026-09-11T19:44:50Z",
+ "sourceChars": 22185
+}

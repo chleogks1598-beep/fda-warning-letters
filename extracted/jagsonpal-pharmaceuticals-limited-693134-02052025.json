@@ -1,0 +1,56 @@
+{
+ "headlineKo": "CMO 관리 실패·실사 입장 거부, 미등록 제조소 표시 위반",
+ "summaryKo": "FDA는 2024년 3월 20일, 3월 27일, 4월 3일에 인도 라자스탄주 Bhiwadi 소재 Jagsonpal Pharmaceuticals Limited 등록 시설(FEI 3004153045)을 실사해 원료의약품(API) CGMP 위반을 확인했다. 위탁제조소(CMO)에 대한 품질부서의 감독 실패, 실사 입장 거부 및 자료 제공 제한, 등록·품목신고(리스팅) 위반이 지적됐다. 회사는 2024년 4월 22일 Form FDA 483에 답변했고 FDA는 이를 검토했다고만 밝혔을 뿐 개별 평가는 제시하지 않았으며, QU 감독 전반의 평가·개선계획과 CMO의 FDA 등록 확인을 요구했다. FDA는 2025년 1월 17일 이 회사 제품을 수입경보 66-40에 등재했고, CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "2024-03-20",
+ "inspectionEnd": "2024-04-03",
+ "facility": "B-1124, RIICO Industrial Area, Phase-III, Bhiwadi Dist., Alwar, Rajasthan, 301019, India",
+ "form483ResponseDate": "2024-04-22",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "품질시스템",
+   "titleKo": "위탁제조소 CGMP 준수에 대한 품질부서 감독 실패",
+   "detailKo": "회사는 위탁제조소(CMO, (비공개))에 제조·가공·포장을 맡기고 그 제품을 받아 수입 기록상 자사를 제조원으로 신고했으며, 해당 CMO는 FDA에 의약품 제조소로 등록되어 있지 않았다. 실사 중 제출된 위탁계약서에는 Jagsonpal 직원이 제조·시험을 감독하고 CMO의 CGMP 준수를 보증할 책임이 있다고 규정되어 있었다. 그러나 회사는 CMO의 공정밸리데이션 완료, 마스터 제조지시서의 완전성, 제품 분석에 사용한 공정서 시험법의 사용적합성 검증을 적절히 확인하지 않았다. FDA는 위탁업체를 제조원의 연장으로 보며 계약과 무관하게 의약품 품질에 대한 책임은 회사에 있다고 지적했다.",
+   "responseKo": "FDA는 2024년 4월 22일자 483 답변과 이후 서신 수령 사실만 밝혔을 뿐 개별 평가는 제시하지 않았으며, 답신에 위탁제조소 적격성 평가를 포함한 품질부서 감독 체계의 종합 평가·개선계획과 해당 CMO의 FDA 등록 확인 자료를 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 501(j)",
+   "area": "기타",
+   "titleKo": "실사 입장 거부 및 요청 자료 제공 제한",
+   "detailKo": "2024년 3월 15일 FDA 조사관이 등록 주소(B-1124, RIICO Ind. Area, Phase-III, Bhiwadi Dist., Alwar, Rajasthan, 301019, India)에 실사를 위해 도착했으나 현장 인원이 입장을 거부했다. 2024년 3월 20일에는 입장이 허용되었으나 실사 중 요청 자료 접근이 제한되었다. 완전한 분석 데이터, 장비 로그북, 변경관리 문서가 요청에도 제공되지 않았고, 회사 측은 시설이 (비공개) 상태라는 이유를 들었다. 이 요청 시점에 Jagsonpal과 CMO 양측 담당자가 모두 입회해 있었다. FDA는 실사를 지연·거부·제한할 경우 해당 의약품이 FD&C Act 501(j)에 따라 불량의약품으로 간주될 수 있다고 밝혔다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(o), 510(j); 21 CFR 207.41(a), 21 CFR 207.49(a)(12)",
+   "area": "허가·표시",
+   "titleKo": "미등록 시설 제조 및 제조원 표시 오기 등 등록·리스팅 위반",
+   "detailKo": "해당 제품((비공개))은 미등록 시설((비공개))에서 제조되었고 그 시설이 21 CFR 207.41(a)에 따른 품목신고를 하지 않아 제품이 FD&C Act 502(o)에 따라 표시위반(misbranded) 상태가 되었다. 또한 NDC가 부여된 의약품은 21 CFR 207.49(a)(12)에 따라 실제 제조 시설명을 기재해야 하나, 리스팅에는 실제 제조소 대신 Jagsonpal Pharmaceuticals Ltd.가 제조원으로 기재되어 있었다. FDA는 실제 제조소를 제조원으로 리스팅에 반영해야 한다고 지적했으며, 510(j)에 따른 최신 리스팅 정보 미제공은 301(p) 위반이고 표시위반 의약품의 주간(州間) 유통은 301(a)에 따라 금지된다고 밝혔다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-01-17)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "위탁제조소 관리",
+  "품질부서 감독",
+  "실사 거부",
+  "시설 등록·품목신고",
+  "표시위반",
+  "수입경보 66-40"
+ ],
+ "id": "jagsonpal-pharmaceuticals-limited-693134-02052025",
+ "extractedAt": "2026-09-11T19:39:58Z",
+ "sourceChars": 11686
+}

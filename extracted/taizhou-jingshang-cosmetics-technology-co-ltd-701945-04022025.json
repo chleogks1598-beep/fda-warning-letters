@@ -1,0 +1,56 @@
+{
+ "headlineKo": "원료 확인시험 미실시·공급자 COA 무검증, GC 전자데이터 삭제·품질부서 기능 부재",
+ "summaryKo": "FDA는 2024년 11월 18일부터 21일까지 중국 저장성 타이저우 소재 Taizhou Jingshang Cosmetics Technology Co., Ltd.(FEI 3014244255) 의약품 제조소를 실사하고 CGMP 위반 3건을 지적했다. 원료 확인시험 미실시 및 공급자 시험성적서 무검증, 시험기록 불완전(가스크로마토그래피 전자데이터 백업 없이 삭제된 정황, 판독 불가·배치 추적 불가한 종이기록), 품질관리부서(QU)의 변경관리·시험법 검증·안정성 프로그램·연차품질평가 감독 실패가 확인됐다. 회사는 Form FDA 483에 대한 답변을 제출하지 않아 FDA가 답변을 접수하지 못한 상태다. 회사가 이 시설의 모든 의약품 생산을 중단하겠다고 밝힌 점을 FDA가 확인했으며, 생산 재개 시 사전 통보와 21 CFR 211.34 자격 컨설턴트 고용 및 6개 시스템 전반 감사를 요구하고, 미개선 시 801(a)(3)에 따른 수입 거부 가능성을 통보했다.",
+ "inspectionStart": "2024-11-18",
+ "inspectionEnd": "2024-11-21",
+ "facility": "Luqiao District, Shanhoupan Village, Hengjie Town, Taizhou, Zhejiang Province, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 시험성적서 신뢰성 미검증",
+   "detailKo": "(비공개) OTC 의약품을 제조하면서 입고 원료 전량에 대한 확인시험을 적절히 수행했음을 입증하지 못했고, 공급자가 제공한 시험성적서(COA)를 검증 없이 그대로 수용했다. 원료의약품으로 사용되는 (비공개) 성분에 대해 (비공개) 오염 여부 시험을 적절히 수행하지 않았으며, 해당 오염물질 함유 성분은 전 세계적으로 치명적 중독 사고를 일으킨 바 있다. 또한 (비공개) 오염 고위험 성분에 대해 각 로트의 각 선적분마다 USP 확인시험(유해 불순물 안전 한도 확인을 위한 한도시험 포함)을 실시하지 않아 해당 원료의 사용 적합성을 보증하지 못했다. 적절한 시험 없이는 원료가 규격에 적합하다는 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.194(a)",
+   "area": "문서·데이터완전성",
+   "titleKo": "시험기록에 완전한 데이터 미포함",
+   "detailKo": "실험실 기록에 수행된 분석을 뒷받침하는 완전한 데이터가 포함되어 있지 않았다. 예를 들어 가스크로마토그래피 시스템에서 생성된 전자데이터가 별도 저장장소로 적절히 백업되지 않았고 시스템에서 삭제된 것으로 보였다. 또한 제출된 종이기록은 판독이 어렵고 특정 배치와의 추적성이 결여되어 있었다. 시험 조건과 데이터의 완전한 기록을 유지하지 못하면 데이터 신뢰성이 훼손되고, 품질부서가 기준 적합성을 보증하는 기능을 수행할 수 없게 된다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 감독 책임 수행 실패",
+   "detailKo": "의약품 제조를 감독할 책임과 권한을 갖춘 적절한 품질부서(QU)를 확립하지 못했다. 구체적으로 QU는 제조 관련 적절한 변경관리 절차 준수(21 CFR 211.22(d)), 공정 중 및 완제품 시험을 위한 적절한 함량시험법·절차·밸리데이션(21 CFR 211.160(b)), 적절하고 지속적인 안정성 프로그램의 확립(21 CFR 211.166(a)), 최소 연 1회의 정기적 제품 생산 검토 수행(21 CFR 211.180(e))을 보증하지 못했다. FDA는 회사의 품질시스템이 전반적으로 부적절하다고 판단하고 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 가이던스를 참고하도록 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 확인시험",
+  "공급자 COA 검증",
+  "데이터 완전성",
+  "품질부서 감독 실패",
+  "생산 중단",
+  "CGMP 컨설턴트"
+ ],
+ "id": "taizhou-jingshang-cosmetics-technology-co-ltd-701945-04022025",
+ "extractedAt": "2026-09-11T19:30:49Z",
+ "sourceChars": 10003
+}

@@ -1,0 +1,47 @@
+{
+ "headlineKo": "시험법 적합성 미검증(USP<61> 동등성), 냉장고 온도 일탈 미조사",
+ "summaryKo": "FDA는 2024년 9월 9일부터 13일까지 플로리다주 할리우드 소재 계약시험소 ABR Laboratory LLC(FEI 3020570829)를 실사하고 완제의약품 CGMP 위반 2건을 지적했다. 고객사 OTC 의약품의 미생물 시험에 사용한 자사 시험법이 USP<61> 수재법과 동등 이상임을 입증하지 못했고 일부 품목은 method suitability 자체를 수행하지 않았으며, 기준미달 보관온도(2~8℃ 냉장고가 24시간 이상 최고 17.4℃까지 일탈)가 식별·조사되지 않았다. 회사의 2024년 9월 29일 483 답변은 시험법 동등성 입증자료와 품목별 적합성 데이터가 없고, 일탈의 범위·영향 평가와 근본원인 규명이 빠져 있어 모두 부적절하다고 평가됐다. FDA는 21 CFR 211.34 요건을 갖춘 CGMP 컨설턴트 고용을 권고하고, 시험실 시스템 및 일탈조사 시스템에 대한 독립적 종합평가와 소급 재시험·고객 통보 절차 제출을 요구했으며 미시정 시 압류·금지명령 등 조치 가능성을 경고했다.",
+ "inspectionStart": "2024-09-09",
+ "inspectionEnd": "2024-09-13",
+ "facility": "450 North Park Road, Suite 303, Hollywood, FL 33021-6917, United States",
+ "form483ResponseDate": "2024-09-29",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(e)",
+   "area": "시험·QC",
+   "titleKo": "시험법의 정확성·적합성 미확립",
+   "detailKo": "계약시험소로서 고객사 OTC 의약품을 시험하면서 적합한 시험법을 사용하지 않았다. 미생물 오염 시험에 사용한 Plate Count용 (비공개) 배지는 USP<61> Microbiological Examination of Nonsterile Products가 요구하는 Soybean-Casein Digest Agar와 조성이 달랐으나, 자사 시험법이 USP<61> 수재법과 동등하거나 더 우수함을 입증하지 못했다. 또한 (비공개) 및 (비공개) OTC 의약품에 대해서는 method suitability 시험 자체를 수행하지 않았다. 해당 (비공개) 제품은 소아의 (비공개) 증상에 사용되는 제품이다. 시험법 타당성을 평가하지 않으면 고객에게 제공한 데이터가 제품 품질·안전성을 정확히 반영하는지 보증할 수 없다.",
+   "responseKo": "회사는 STP-002 미생물시험법에 대한 종합 밸리데이션에 착수했고 제품군별 적합성 시험을 하겠다고 답변했으나, FDA는 부적절하다고 평가했다. 자사 시험법이 해당 USP 수재법과 동등 이상이며 의도한 용도에 적합함을 보여줄 충분한 정보가 없고, 제품군 단위 계획만 제시했을 뿐 개별 품목별로 시험법 적합성을 뒷받침하는 데이터가 없기 때문이다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "일탈·불일치에 대한 철저한 조사 실패",
+   "detailKo": "시험실 장비의 온도·습도 기준 이탈을 조사하지 않았다. 예로 2~8℃ 냉장고가 24시간 넘게 기준을 벗어나 최고 17.4℃까지 상승했으나 이 일탈이 식별되지도 조사되지도 않았다. 해당 냉장고에는 growth promotion test에 사용하는 표준 미생물(reference microorganisms)이 보관되어 있었다. 표준 균주를 허용 범위 밖에서 보관하면 증식능이 손상되어 표준균주로서의 가치와 시험 결과의 정확성이 훼손된다.",
+   "responseKo": "회사는 관련 절차를 개정하고 온도 일탈을 실시간으로 경보하는 모니터링 시스템을 도입하겠다고 답변했다. FDA는 해당 일탈의 범위와 시험결과 정확성에 대한 영향을 조사하지 않았고 근본원인을 규명해 재발을 방지하지 않았으며, 다른 시험실·제조 장비와 관련 절차 전반에 대한 점검을 약속하지 않아 부적절하다고 평가했다. 일탈·불일치·불만·OOS·부적합 조사 시스템 전반에 대한 독립적 종합평가와 개선 실행계획 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "계약시험소",
+  "시험법 적합성(method suitability)",
+  "USP<61> 미생물한도시험",
+  "일탈 조사",
+  "표준균주 보관온도",
+  "CGMP 컨설턴트"
+ ],
+ "id": "abr-laboratory-llc-696872-02102025",
+ "extractedAt": "2026-09-11T19:40:41Z",
+ "sourceChars": 8445
+}

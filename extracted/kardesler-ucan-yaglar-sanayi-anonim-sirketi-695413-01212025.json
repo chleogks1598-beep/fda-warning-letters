@@ -1,0 +1,56 @@
+{
+ "headlineKo": "원료 DEG·EG 및 메탄올 확인시험 누락, 완제품 함량시험 부재·QU 기능 부실",
+ "summaryKo": "터키 Gebze 소재 Kardesler Ucan Yaglar Sanayi Anonim Sirketi(FEI 3012634391)에 대해 FDA는 현장 실사 대신 FD&C Act 704(a)(4)에 따라 2024년 3월 15일 및 후속 요청으로 제출받은 기록을 검토했고, 그 결과 CGMP 위반 3건을 지적했다. 손소독 물티슈 등 OTC 제품에 쓰이는 글리세린·프로필렌글리콜의 DEG/EG 확인시험과 에탄올의 메탄올 시험을 로트별 입고분마다 수행했음을 입증하지 못했고, 완제품의 에탄올·염화벤잘코늄 확인 및 함량시험도 출하 전 수행 근거가 없었다. 품질부서(QU)가 자재 시스템에서 원료 승인·거부 권한을 제대로 행사하지 못한 점도 지적됐다. FDA는 2025년 1월 14일 이 회사를 수입경보 66-40에 등재했고, 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Inonu Mah Gebze Plastikciler OSB, Mah 42 Sokak No: 1, Gebze/Kocaeli 41400, Turkey",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 — DEG/EG 및 메탄올 미검출",
+   "detailKo": "손소독 물티슈 등 OTC 의약품을 제조하면서 입고 원료의 확인시험을 적절히 수행했음을 입증하지 못했다. DEG·EG 오염 고위험 원료인 글리세린과 프로필렌글리콜에 대해 USP 확인시험(DEG/EG 한도시험 포함)을 각 로트의 각 입고분마다 수행하지 않아, 해당 원료의 사용 적합성을 보증하지 못했다. 원료의약품으로 사용하는 에탄올에 대해서도 메탄올 시험을 적절히 수행했음을 입증하지 못했다. DEG/EG 및 메탄올 오염 원료 사용은 전 세계적으로 다수의 치명적 중독 사고를 초래한 바 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 확인·함량시험 미실시",
+   "detailKo": "제출된 기록상 각 배치의 완제품에 대해 출하·유통 전 주성분의 확인 및 함량이 최종 규격에 적합한지 시험했음을 입증하지 못했다. 예를 들어 완제품 중 에탄올 또는 염화벤잘코늄의 확인 및 함량을 시험했다는 근거가 답변에 없었다. 적절한 시험 없이는 제품이 출하 전 규격에 적합함을 보증할 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질부서(QU) 권한·책임 미확립",
+   "detailKo": "제출된 기록은 품질부서가 의약품 제조 전반의 품질을 감독하는 책임을 실효성 있게 수행했음을 보여주지 못했다. 특히 자재 시스템(Materials System)에서 원료의 승인·거부 권한을 적절히 행사하지 않았다. FDA는 생산, 시설·장비, 시험실 관리, 포장·표시 등 다른 CGMP 운영 전반에 대해서도 QU의 감독이 적절하지 않을 수 있다고 우려했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-01-14)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "DEG·EG 확인시험",
+  "메탄올 시험",
+  "원료 확인시험",
+  "완제품 함량시험",
+  "품질부서 감독",
+  "수입경보 66-40"
+ ],
+ "id": "kardesler-ucan-yaglar-sanayi-anonim-sirketi-695413-01212025",
+ "extractedAt": "2026-09-11T19:43:45Z",
+ "sourceChars": 9266
+}

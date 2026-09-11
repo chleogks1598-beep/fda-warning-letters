@@ -1,0 +1,47 @@
+{
+ "headlineKo": "원료 식별시험 미실시·에탄올 메탄올 미검사, 품질부서 부재",
+ "summaryKo": "FDA는 2024년 3월 25일 FD&C Act 704(a)(4)에 따라 중국 광둥성 산터우 소재 Shantou Kangjie Daily Chemical Industry Co., Ltd(FEI 3016825286)에 기록 제출을 요구했고, 제출된 기록을 검토해 2건의 중대한 CGMP 위반을 확인했다. 손소독제 등 OTC 의약품을 제조하면서 입고 원료의 식별시험을 로트별로 수행하지 않았고, 원료약으로 사용하는 에탄올에 대해 메탄올 시험도 하지 않았다. 또한 회사는 품질부서(QU) 자체가 없다고 답변해 원부자재·제품의 승인·거부 권한을 가진 품질관리조직이 부재한 것으로 확인됐다. FDA는 2025년 1월 23일 이 회사 제품을 수입경보 66-40에 등재했고, 21 CFR 211.34에 적합한 CGMP 컨설턴트 고용과 전체 운영에 대한 6-시스템 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Kangjie Company, Xiangang Road; Simapu Town, Shantou, Guangdong, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 식별시험 미실시",
+   "detailKo": "손소독제를 포함한 OTC 의약품을 제조하면서, 제출된 기록상 제조에 사용되는 입고 원료의 식별시험을 수행한다는 점을 입증하지 못했다. 회사는 제조에 사용 승인하기 전 각 원료(component)의 각 로트별 선적분에 대해 식별시험을 하지 않는다고 진술했다. 적절한 시험 없이는 원료가 사용 전 규격에 적합하다는 과학적 근거가 없다. 또한 원료약으로 사용하는 에탄올에 대해 메탄올 시험을 하지 않는데, 메탄올로 오염된 에탄올 사용은 전 세계적으로 치명적 중독 사고를 일으켜 왔다(FDA의 Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol 가이던스 참조).",
+   "responseKo": "회사의 704(a)(4) 제출 답변 자체가 식별시험 미실시를 인정하는 내용이었다. FDA는 답신 시 공급자 적격성·자재관리 시스템 종합 검토, 입고 로트별 화학·미생물 규격, 로트별 식별시험 수행 약속, COA 신뢰성 검증 프로그램 SOP, 위탁시험기관 관리 프로그램 요약을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서(QU) 부재",
+   "detailKo": "제출된 기록과 정보상 품질부서가 의약품 제조 운영의 품질을 감독하는 책임을 실효적으로 수행하지 못했다. 회사는 답변에서 품질부서(QU) 자체가 없다고 밝혔다. 원부자재·용기·마개·공정중 물질·포장재·표시재료 및 완제품의 승인 또는 거부 권한을 가진 조직이 없어 회사의 품질시스템 전반이 부적절하다. FDA는 Quality Systems Approach to Pharmaceutical CGMP Regulations 가이던스를 참고하라고 안내했다.",
+   "responseKo": "회사 답변은 QU가 없다는 사실 확인에 그쳤다. FDA는 QU에 권한과 자원을 부여하기 위한 종합 평가·개선 계획(절차의 적절성 판단, 전 공정에 대한 QU 감독, 배치별 최종 검토 후 출하 판정, 일탈조사 감독·승인 포함)을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-01-23)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 식별시험",
+  "에탄올 메탄올 오염",
+  "품질부서 부재",
+  "손소독제",
+  "수입경보 66-40",
+  "704(a)(4) 기록요구"
+ ],
+ "id": "shantou-kangjie-daily-chemical-industry-co-ltd-698223-01282025",
+ "extractedAt": "2026-09-11T19:43:06Z",
+ "sourceChars": 9158
+}

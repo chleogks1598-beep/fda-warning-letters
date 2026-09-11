@@ -1,0 +1,65 @@
+{
+ "headlineKo": "산업용 화학품과 설비 공용 교차오염, BZK 출하시험 누락·FDA 로고 오인 표시",
+ "summaryKo": "FDA는 2024년 7월 15~19일 미국 조지아주 Kennesaw에 있는 Atlanta Supersource, Inc.(FEI 3016837288)의 OTC 손소독제 제조소를 실사했다. CGMP 위반 3건(설비 세척·교차오염 관리, 완제품 출하 전 시험, 원자재 확인시험 및 용수 관리)과 표시 위반 1건이 지적되어 제품은 FD&C Act 501(a)(2)(B)에 따른 불량의약품, INSTANT HAND SANITIZER 겔·폼은 502(a)에 따른 오표시로 판정됐다. 회사의 Form FDA 483 답변은 CGMP 준수를 위한 시정조치의 구체성과 근거가 부족해 부적절하다고 평가됐다. FDA는 품질시스템이 부적절하다고 지적하고 CGMP 컨설턴트 고용 및 6-시스템 전면 감사를 권고했으며, 회사가 손소독제 생산 중단을 약속했음에도 웹사이트에서 여전히 손소독제를 판매 홍보하고 있음을 지적하고 제조 재개 시 사전 통보를 요구했다. 수입경보나 리콜 권고는 없으나 미시정 시 압류·금지명령 등 조치 가능성을 경고했다.",
+ "inspectionStart": "2024-07-15",
+ "inspectionEnd": "2024-07-19",
+ "facility": "3655 Kennesaw 75 Parkway NW, Suite 100, Kennesaw, GA 30144-6502, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.67(a)",
+   "area": "시설·장비",
+   "titleKo": "설비 세척·관리 미비로 교차오염 위험",
+   "detailKo": "회사는 국소용 OTC 손소독제를 제조하면서, 동일한 제조설비로 \"cause severe skin burns\", \"may cause allergic skin reactions\" 같은 경고문이 붙은 상업용 산업화학제품도 제조했다. FDA는 이러한 독성 산업용 제품과 의약품을 같은 설비로 제조하는 것은 교차오염 위험 때문에 CGMP상 용인될 수 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격 적합성 시험 미실시",
+   "detailKo": "회사는 출하·유통 전에 주성분인 benzalkonium chloride(BZK)의 확인시험과 함량시험을 적절히 수행하지 않았다. FDA는 확인·함량을 포함한 완전한 출하시험이 배치 출하 및 유통 전에 수행되어야 하며, 적절한 시험 없이는 제품이 출하 전 규격에 적합하다는 과학적 근거를 확보할 수 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원자재 확인시험·규격 적합성 확인 및 용수 관리 미비",
+   "detailKo": "제조에 사용하는 각 원자재(예: BZK, (비공개))의 입고 로트·선적 단위마다 확인시험을 실시하지 않았고, 사용 전에 순도·함량·품질에 대한 문서화된 규격 적합 여부도 판정하지 않았다. 또한 원료로 사용하는 용수 시스템이 USP 정제수 각조 규격에 적합한 물을 생산할 수 있음을 보증하도록 적절히 모니터링되지 않았다. FDA는 제약용수는 사용 목적에 적합해야 하고 화학적·미생물학적 특성의 지속적 적합성을 위해 정기적으로 시험되어야 한다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(a), 21 U.S.C. 352(a)",
+   "area": "허가·표시",
+   "titleKo": "FDA 승인 오인 표시로 인한 오표시",
+   "detailKo": "\"SuperSource INSTANT HAND SANITIZER Rinse Free Gel\"과 \"Rinse-Free Foam\"은 라벨에 \"Uses: may help reduce bacteria that potentially can cause disease\"라는 표현을 써 FD&C Act 201(g)(1)(B)·(C)상 의약품에 해당한다. 그런데 라벨에 \"MADE IN AN FDA REGISTERED FACILITY\", \"Approved FDA formulation\" 문구와 FDA 로고와 유사한 형태의 \"FDA\" 약자를 사용했다. 등록·품목신고는 승인을 의미하지 않으나(21 CFR 207.77(a)) 일반 소비자는 이를 알기 어려워 해당 표시는 제품이 FDA의 승인·보증을 받은 것처럼 오인시킨다. 두 제품은 FDA 승인 신청 대상이 아니므로 표시가 거짓·오인성이어서 502(a)상 오표시이며, 이를 주간 거래에 도입하는 것은 301(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "교차오염",
+  "산업용 화학품 설비 공용",
+  "BZK 확인·함량시험",
+  "원자재 입고시험",
+  "USP 정제수 관리",
+  "FDA 로고 오인 표시"
+ ],
+ "id": "atlanta-supersource-inc-693399-01082025",
+ "extractedAt": "2026-09-11T19:46:02Z",
+ "sourceChars": 12212
+}

@@ -1,0 +1,65 @@
+{
+ "headlineKo": "원료 식별시험·공급자COA 검증 누락, 공정·용수 밸리데이션 부재",
+ "summaryKo": "FDA는 2024년 3월 4일 및 이후의 FD&C Act 704(a)(4) 자료 제출 요구에 따라 중국 광둥성 둥관 소재 Imperial Palace Commodity (Dongguan) Co., Ltd.(FEI 3014838570)가 제출한 기록을 검토했다. 알코올 와이프 등 OTC 의약품 제조와 관련해 입고 원료 식별시험 및 공급자 COA 신뢰성 검증 미비, 공정 및 용수시스템 밸리데이션 미흡, 안정성시험의 부적합한 미생물 시험법(USP <51> 오용), 품질부서(QU) 기능 미흡 등 4건이 지적됐다. 특히 글리세린의 DEG·EG 한도시험과 에탄올의 메탄올 시험을 수행하지 않은 점이 문제로 지적됐다. FDA는 2025년 1월 23일 해당 업체 제품을 수입경보 66-40에 등재했고, 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 523 1st Liudong Road, Changlong Village, Huangjiang Town, Dongguang, Guangdong 523750, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 식별시험 및 공급자 COA 신뢰성 검증 미실시",
+   "detailKo": "알코올 와이프 등 OTC 의약품에 사용되는 입고 원료에 대해 적절한 식별시험을 수행했음을 입증하지 못했다. 공급자 COA에만 의존하고 공급자 시험성적의 신뢰성을 적정 주기로 검증하지 않았다. 알코올 와이프에 사용되는 글리세린은 DEG·EG 오염 고위험 원료임에도 각 로트의 각 선적분에 대해 USP 한도시험을 포함한 식별시험을 수행하지 않았다. 유효성분인 에탄올에 대해서도 메탄올 시험을 적절히 수행하지 않았다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "제조·공정관리 문서화된 절차 미비 (공정·용수 밸리데이션)",
+   "detailKo": "알코올 와이프 제품의 제조공정이 적절히 밸리데이션되었음을 입증하지 못했다. 공정 밸리데이션 근거로 제출한 기록은 분석시험 결과 보고서에 불과했다. 용수를 제품 구성성분으로 사용하면서도 용수시스템이 의도한 용도에 맞게 설계·밸리데이션되었음을 입증하지 못했다. 회사 답변에 따르면 용수시스템은 (비공개) 용수에 한해서만 적격성평가되었고, (비공개) 용수 밸리데이션 보고서에는 총유기탄소(TOC) 시험 결과가 포함되지 않아 USP (비공개) Water 각조 규격 적합성을 입증하지 못했다.",
+   "responseKo": "회사 답변에서 용수시스템이 (비공개) 용수에 한해 적격성평가되었다고 밝혔으나, FDA는 용수 적합성 입증이 되지 않았다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험의 미생물 시험법 부적합",
+   "detailKo": "안정성 프로그램의 미생물 시험법을 \"Antibacterial efficacy test-refer to USP 40 51>\"로 기재하고 총호기성미생물수, 대장균군, 진균 및 기타 특정미생물 결과를 보고했으나, 그 결과는 USP <51> 항균효력시험과 일치하지 않았다. USP <51>은 첨가된 보존제의 효력을 입증하기 위한 방법인데, 회사 답변에 따르면 자사 제품에는 보존제가 포함되어 있지 않다. 적절한 시험법 없이는 표시된 유효기한까지 미생물 규격 적합 여부를 입증할 과학적 근거가 없다.",
+   "responseKo": "회사는 자사 제품에 보존제가 없다고 답변했는데, 이는 오히려 USP <51>을 적용한 시험법 선택이 부적절함을 드러냈다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서(QU)의 권한·책임 미확립",
+   "detailKo": "제출된 기록과 정보상 품질부서(QU)가 의약품 제조 전반의 품질을 감독하는 책임을 실효적으로 수행하지 못했다. 특히 자재 시스템(Materials System)과 실험실 관리 시스템(Laboratory Control System)의 관리기준 확립에 대해 QU가 권한을 적절히 행사하지 못했다. FDA는 QU가 CGMP 운영 전반에 대해 적절한 감독을 수행하지 못하고 있을 가능성을 우려한다고 밝혔다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2025-01-23)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 식별시험",
+  "글리세린 DEG·EG",
+  "에탄올 메탄올 시험",
+  "공정 밸리데이션",
+  "용수시스템 밸리데이션",
+  "품질부서 감독"
+ ],
+ "id": "imperial-palace-commodity-dongguan-co-ltd-692842-01272025",
+ "extractedAt": "2026-09-11T19:42:54Z",
+ "sourceChars": 12183
+}
