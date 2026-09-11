@@ -1,0 +1,47 @@
+{
+ "headlineKo": "탈크 석면시험 USP 미준수, IR 스펙트럼 데이터 조작·QU 통제 실패",
+ "summaryKo": "FDA는 2025년 11월 7일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토한 결과, 인도 Solan Himachal Pradesh 소재 Zydus Lifesciences Limited(FEI 3005430968) 시설에 대해 2026년 6월 2일자 경고서한을 발행했다. 현장 실사가 아닌 기록 검토 방식이었으며, 탈크 원료의 석면 부재 시험 미흡(21 CFR 211.84)과 품질관리부서의 감독 실패(21 CFR 211.22) 2건이 지적됐다. 특히 IR 스펙트럼 보고서에서 부적합 wavenumber 결과가 삭제되고 적합 값이 추가된 정황, 2022~2025년 승인된 29건 중 21건이 동일한 극대값을 보이는 통계적으로 비정상적인 패턴이 확인돼 데이터 진정성이 문제됐다. FDA는 독립 실험실을 통한 석면 재시험, 독립 종합평가, 유효기간 내 제품 위해성 평가(필요시 고객 통보 및 리콜)를 요구했고, 미시정 시 501(a)(2)(B) 부정의약품으로 수입 거부(801(a)(3)) 및 신규 허가 보류가 가능하다고 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Village Swaraj Majra, P.O. Baddi, Tehsil-Nalagarh, Solan Himachal Pradesh, India",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84",
+   "area": "원자재·공급자",
+   "titleKo": "탈크 원료의 석면 부재 시험 부적절",
+   "detailKo": "회사는 탈크를 함유한 처방의약품((비공개))을 제조하며, 해당 USP 품목은 (비공개)% 초과의 탈크로 구성된다. 석면은 탈크의 잠재적 오염물질이자 흡입 시 알려진 인체 발암물질로, 해당 제품은 흡입 또는 (비공개) 부위 사용 등 노출 위험이 있어 환자안전 측면에서 고위험 의약품으로 간주된다. 내부 시험절차와 기준은 현행 USP의 석면 부재 규격에 따라 작성되어 있으나, 실제 기록은 현행 USP 요건대로 시험하고 있음을 입증하지 못했다. IR 분광 확인시험 기기 보고서의 wavenumber 범위가 USP가 요구하는 범위와 달랐고, tremolite·chlorite 검출에 필요한 scale expansion이 전혀 수행·기록되지 않았으며 serpentine 확인 구간도 평가되지 않았다. 여러 lot의 스펙트럼에서 tremolite/chlorite 검출 핵심 구간을 포함하는 영역에 흡수 특징이 나타났음에도 scale expansion 분석이 어떤 분석기록에도 문서화되지 않았다.",
+   "responseKo": "FDA는 서한 회신 시 독립 실험실을 통해 유효기간 내 전 탈크 lot 보관검체(또는 불가 시 해당 완제품 배치 보관검체)의 석면시험 결과를 30일 내 제출하고, 실험실 관행·절차·방법·규격에 대한 독립 종합평가와 시정계획, 석면 오염 위험 성분 함유 제품에 대한 전면 위해성 평가(필요시 고객 통보 및 리콜 포함)를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22",
+   "area": "문서·데이터완전성",
+   "titleKo": "품질관리부서의 시험 감독 및 데이터 완전성 확보 실패",
+   "detailKo": "품질부서(QU)가 적절한 시험 수행을 보증할 권한을 실효적으로 행사하지 못했다. 제출된 탈크 IR 확인시험 기록에서 기준일탈(OOS) wavenumber 결과가 적외선 기기 보고서에서 삭제되고 다수의 적합 wavenumber가 추가되어, 부적합 확인시험이 출하기준에 적합한 것처럼 보이게 되었다. 또한 제출된 탈크 시험성적서 전체를 검토한 결과 통계적으로 발생하기 어려운 wavenumber 패턴이 반복 확인되어 보고 결과의 진정성에 의문이 제기된다. 2022년부터 2025년까지 승인된 29건의 분석결과 중 21건이 서로 다른 lot·날짜임에도 (비공개) cm⁻¹에서 동일한 극대값을 나타냈다.",
+   "responseKo": "FDA는 이 서한에서 지적된 데이터 이상의 범위에 대한 종합 조사 결과와 미국 유통 의약품에 대한 CAPA 보고서, 그리고 QU가 실효적으로 기능할 권한과 자원을 갖도록 하는 종합평가·시정계획(절차의 견고성 판단, 전 공정에 걸친 QU 감독, 출하판정 전 대표 배치의 완전한 최종 검토 포함)을 제출하도록 요구했다.",
+   "dataIntegrity": true
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "데이터 완전성",
+  "탈크 석면시험",
+  "IR 분광 확인시험",
+  "원료 입고시험",
+  "품질부서 감독",
+  "GDUFA III 경고서한 후 회의"
+ ],
+ "id": "zydus-lifesciences-limited-722576-06022026",
+ "extractedAt": "2026-09-11T09:24:36Z",
+ "sourceChars": 12648
+}
