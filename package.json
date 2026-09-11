@@ -1,0 +1,13 @@
+{
+  "name": "fda-warning-letters",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "list": "node scripts/fetch-list.mjs",
+    "fetch": "node scripts/fetch-new.mjs",
+    "extract": "node scripts/extract-local.mjs",
+    "merge": "node scripts/merge.mjs",
+    "update": "node scripts/run-local-update.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

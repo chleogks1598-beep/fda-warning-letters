@@ -1,0 +1,45 @@
+name: Deploy to GitHub Pages
+
+# 이 저장소는 **로컬 스케줄러만** 수집한다(FDA 는 Akamai 봇탐지로 데이터센터 IP 를 잘 막고,
+# 한국어 요약은 로컬 claude CLI 가 필요하다). 그래서 배포 트리거는 push 하나로 충분하지만,
+# 나중에 Actions 가 커밋하는 경로가 생기면 GITHUB_TOKEN 푸시는 워크플로우를 트리거하지
+# 못하므로(무한루프 방지) 그쪽에서 workflow_call 로 직접 불러야 한다 — 미리 열어둔다.
+on:
+  push:
+    branches: [main]
+  workflow_call:
+    inputs:
+      ref:
+        description: '배포할 커밋(비우면 기본 체크아웃)'
+        type: string
+        required: false
+        default: ''
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4

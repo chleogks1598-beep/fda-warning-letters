@@ -1,0 +1,637 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FDA Warning Letter 대시보드 — 의약품 CGMP</title>
+<style>
+  :root{
+    --bg:#f6f8fa; --surface:#ffffff; --surface-2:#f0f3f6; --border:#e2e8f0;
+    --ink:#1a2733; --ink-2:#4a5966; --ink-3:#78889a;
+    --accent:#1367d6; --accent-soft:#e7f0fc;
+    --bar:#1c6fd0; --bar-soft:#dbe7f5;
+    --ok:#0f8a5f; --ok-soft:#e2f4ec; --warn:#c2410c; --warn-soft:#fdece2;
+    --crit:#b3123c; --crit-soft:#fde7ed;
+    --shadow:0 1px 2px rgba(16,32,48,.06),0 2px 8px rgba(16,32,48,.05);
+    --radius:12px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0e141b; --surface:#161e27; --surface-2:#1c2733; --border:#2a3846;
+      --ink:#e6edf3; --ink-2:#a9b8c6; --ink-3:#748291;
+      --accent:#4c9aff; --accent-soft:#16273c;
+      --bar:#4c9aff; --bar-soft:#22384f;
+      --ok:#3fce97; --ok-soft:#12291f; --warn:#f0894f; --warn-soft:#2c1a10;
+      --crit:#ff6b8a; --crit-soft:#2d1219;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 2px 10px rgba(0,0,0,.25);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0e141b; --surface:#161e27; --surface-2:#1c2733; --border:#2a3846;
+    --ink:#e6edf3; --ink-2:#a9b8c6; --ink-3:#748291;
+    --accent:#4c9aff; --accent-soft:#16273c; --bar:#4c9aff; --bar-soft:#22384f;
+    --ok:#3fce97; --ok-soft:#12291f; --warn:#f0894f; --warn-soft:#2c1a10;
+    --crit:#ff6b8a; --crit-soft:#2d1219;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 2px 10px rgba(0,0,0,.25);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:"Malgun Gothic","맑은 고딕",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    line-height:1.5; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1240px;margin:0 auto;padding:20px 18px 64px}
+  header.top{display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px 20px;margin:8px 0 22px}
+  header.top h1{font-size:22px;margin:0;letter-spacing:-.3px;font-weight:800}
+  header.top .sub{color:var(--ink-2);font-size:13px;margin-top:5px;max-width:760px}
+  header.top .sub a{color:var(--accent);text-decoration:none}
+  header.top .sub a:hover{text-decoration:underline}
+  .spacer{flex:1}
+  .theme-btn{background:var(--surface);border:1px solid var(--border);color:var(--ink-2);
+    border-radius:8px;padding:7px 12px;font-size:13px;cursor:pointer;font-family:inherit}
+  .theme-btn:hover{border-color:var(--accent)}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(146px,1fr));gap:14px;margin-bottom:22px}
+  .tile{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:15px 17px;box-shadow:var(--shadow)}
+  .tile .k{font-size:12px;color:var(--ink-3);font-weight:600;letter-spacing:.2px}
+  .tile .v{font-size:29px;font-weight:800;letter-spacing:-1px;margin-top:6px;font-variant-numeric:tabular-nums}
+  .tile .v.warn{color:var(--warn)} .tile .v.ok{color:var(--ok)}
+  .tile .v.crit{color:var(--crit)} .tile .v.review{color:var(--accent)}
+  .tile .u{font-size:12px;color:var(--ink-3);margin-left:3px;font-weight:600}
+
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:22px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:16px 18px;box-shadow:var(--shadow);min-width:0}
+  .card h2{font-size:14px;margin:0 0 14px;font-weight:700}
+  .card h2 .muted{color:var(--ink-3);font-weight:500;font-size:12px}
+
+  .bars{display:flex;flex-direction:column;gap:9px}
+  .barrow{display:grid;grid-template-columns:112px 1fr 44px;align-items:center;gap:10px;font-size:12.5px}
+  .barrow .lbl{color:var(--ink-2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .barrow .track{background:var(--surface-2);border-radius:5px;height:16px;overflow:hidden}
+  .barrow .fill{display:block;background:var(--bar);height:100%;border-radius:5px;min-width:2px;transition:width .3s}
+  .barrow .val{color:var(--ink-2);text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+  .barrow.clickable{cursor:pointer}
+  .barrow.clickable:hover .fill{filter:brightness(1.12)}
+  .barrow.on .fill{background:var(--crit)}
+  .barrow.on .lbl{color:var(--ink);font-weight:700}
+
+  .views{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
+  .views button{background:var(--surface);border:1px solid var(--border);color:var(--ink-2);
+    border-radius:8px;padding:8px 14px;font-size:13px;cursor:pointer;font-family:inherit;font-weight:600}
+  .views button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+
+  .filters{display:flex;flex-wrap:wrap;gap:9px;align-items:center;margin-bottom:12px}
+  .filters input,.filters select{
+    background:var(--surface);border:1px solid var(--border);color:var(--ink);
+    border-radius:8px;padding:9px 11px;font-size:13px;font-family:inherit}
+  .filters input[type=search]{flex:1;min-width:210px}
+  .filters input:focus,.filters select:focus{outline:none;border-color:var(--accent)}
+  .filters .chk{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;color:var(--ink-2);
+    background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:8px 11px;cursor:pointer}
+  .filters .chk input{margin:0}
+  .filters .count{color:var(--ink-3);font-size:12.5px;margin-left:auto;font-weight:600;white-space:nowrap}
+  .reset{background:none;border:none;color:var(--accent);font-size:12.5px;cursor:pointer;font-family:inherit;padding:4px}
+
+  .tablewrap{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    overflow:hidden;box-shadow:var(--shadow)}
+  .scroll{overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  thead th{background:var(--surface-2);color:var(--ink-2);text-align:left;font-weight:700;
+    padding:11px 12px;font-size:12px;cursor:pointer;white-space:nowrap;border-bottom:1px solid var(--border)}
+  thead th:hover{color:var(--accent)}
+  thead th .arw{opacity:.5;font-size:10px}
+  tbody tr.main{border-bottom:1px solid var(--border);cursor:pointer}
+  tbody tr.main:hover{background:var(--surface-2)}
+  tbody td{padding:10px 12px;vertical-align:top}
+  td.num{font-variant-numeric:tabular-nums;color:var(--ink-3);white-space:nowrap}
+  td.co{font-weight:600;max-width:330px}
+  td.co .addr{font-weight:400;color:var(--ink-3);font-size:11.5px;margin-top:2px;
+    display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  td.head{color:var(--ink-2);max-width:400px;font-size:12.5px}
+  /* 지적사항별 보기의 상세는 3줄까지만 — 행 높이가 제각각이면 훑기가 어렵다. 전문은 행을 누르면 나온다. */
+  td.head .clamp{margin-top:4px;color:var(--ink-3);
+    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:700;
+    white-space:nowrap;margin:1px 3px 1px 0}
+  .badge.ok{background:var(--ok-soft);color:var(--ok)}
+  .badge.warn{background:var(--warn-soft);color:var(--warn)}
+  .badge.crit{background:var(--crit-soft);color:var(--crit)}
+  .badge.info{background:var(--accent-soft);color:var(--accent)}
+  .badge.gone{background:var(--surface-2);color:var(--ink-3);border:1px dashed var(--border)}
+  tr.main.gone td.co{color:var(--ink-2)}
+  .chev{color:var(--ink-3);transition:transform .15s;display:inline-block}
+  tr.main.open .chev{transform:rotate(90deg)}
+  tr.detail td{background:var(--surface-2);padding:0}
+  tr.detail .inner{padding:4px 14px 16px}
+
+  .summary{font-size:13px;color:var(--ink);background:var(--surface);border:1px solid var(--border);
+    border-left:3px solid var(--accent);border-radius:6px;padding:11px 13px;margin:8px 0 10px;line-height:1.65}
+  .kv{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:12px;color:var(--ink-3);margin:0 0 10px}
+  .kv b{color:var(--ink-2);font-weight:600}
+  .kws{margin:0 0 10px}
+  .kw{display:inline-block;background:var(--surface);border:1px solid var(--border);border-radius:20px;
+    padding:2px 9px;font-size:11.5px;color:var(--ink-2);margin:2px 4px 2px 0}
+  .deftable{width:100%;border-collapse:collapse;font-size:12.5px;background:var(--surface);
+    border:1px solid var(--border);border-radius:6px;overflow:hidden}
+  .deftable th{background:var(--surface-2);color:var(--ink-3);text-align:left;font-weight:700;
+    padding:8px 9px;font-size:11.5px;white-space:nowrap;cursor:default;border-bottom:1px solid var(--border)}
+  .deftable td{padding:9px;border-top:1px solid var(--border);vertical-align:top;line-height:1.6}
+  .deftable td.n{text-align:center;color:var(--ink-3);font-weight:700;width:28px}
+  .deftable td.area{white-space:nowrap;width:118px}
+  .deftable td.cfr{font-family:ui-monospace,Consolas,monospace;font-size:11.5px;color:var(--ink-2);width:150px}
+  .deftable td.ttl{font-weight:600;min-width:180px}
+  .deftable .resp{color:var(--ink-3);font-size:12px;margin-top:6px;padding-top:6px;border-top:1px dashed var(--border)}
+  .deftable .resp b{color:var(--ink-2)}
+  .links{margin-top:11px;font-size:12.5px;display:flex;gap:14px;flex-wrap:wrap}
+  .links a{color:var(--accent);text-decoration:none;font-weight:600}
+  .links a:hover{text-decoration:underline}
+  .note{color:var(--ink-3);font-size:12px;margin:2px 0 10px;padding:9px 11px;
+    background:var(--surface);border-left:3px solid var(--ink-3);border-radius:4px}
+  .note.review{color:var(--accent);border-left-color:var(--accent);background:var(--accent-soft)}
+
+  .empty{padding:46px 18px;text-align:center;color:var(--ink-3);font-size:13.5px}
+  .more{padding:14px;text-align:center;border-top:1px solid var(--border)}
+  .more button{background:var(--surface-2);border:1px solid var(--border);color:var(--ink-2);
+    border-radius:8px;padding:9px 18px;font-size:13px;cursor:pointer;font-family:inherit;font-weight:600}
+  .more button:hover{border-color:var(--accent);color:var(--accent)}
+  footer{color:var(--ink-3);font-size:12px;margin-top:26px;line-height:1.8}
+  footer a{color:var(--ink-2)}
+
+  @media (max-width:900px){
+    .grid2{grid-template-columns:1fr}
+    td.co{max-width:200px}
+  }
+  @media (max-width:560px){
+    .wrap{padding:14px 14px 48px}
+    .barrow{grid-template-columns:92px 1fr 38px}
+    .filters .count{margin-left:0;width:100%}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>FDA Warning Letter 대시보드 <span style="font-size:14px;color:var(--ink-3);font-weight:600">의약품 CGMP</span></h1>
+      <div class="sub">
+        미국 FDA 가 공개하는 <a id="srcLink" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters" target="_blank" rel="noopener">Warning Letters</a>
+        중 <b>의약품(바이오의약품 포함) CGMP 관련 건</b>만 모아 본문을 한국어로 요약하고 지적사항별로 정리했습니다.
+        <span id="gen"></span>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <button class="theme-btn" id="themeBtn" type="button">테마</button>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="grid2">
+    <div class="card">
+      <h2>지적사항 분야 분포 <span class="muted">클릭하면 필터가 걸립니다</span></h2>
+      <div class="bars" id="barArea"></div>
+    </div>
+    <div class="card">
+      <h2>제조소 소재 국가 <span class="muted">상위 12</span></h2>
+      <div class="bars" id="barCountry"></div>
+    </div>
+  </div>
+  <div class="grid2">
+    <div class="card">
+      <h2>연도별 편지 건수 <span class="muted">FDA 게시일 기준</span></h2>
+      <div class="bars" id="barYear"></div>
+    </div>
+    <div class="card">
+      <h2>많이 인용된 근거 조항 <span class="muted">상위 12</span></h2>
+      <div class="bars" id="barCfr"></div>
+    </div>
+  </div>
+
+  <div class="views">
+    <button type="button" id="vLetter" class="on">편지별</button>
+    <button type="button" id="vDef">지적사항별</button>
+  </div>
+
+  <div class="filters">
+    <input type="search" id="q" placeholder="회사명 · 요약 · 지적사항 · 근거조항 검색">
+    <select id="fArea"></select>
+    <select id="fCountry"></select>
+    <select id="fCat"></select>
+    <select id="fYear"></select>
+    <select id="fStatus">
+      <option value="">상태 전체</option>
+      <option value="open">미종결</option>
+      <option value="closed">종결(Close-out)</option>
+      <option value="delisted">FDA 목록에서 내려간 건</option>
+      <option value="pending">요약 대기</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="fDi">데이터 완전성</label>
+    <label class="chk"><input type="checkbox" id="fIa">수입경보</label>
+    <button class="reset" type="button" id="reset">필터 초기화</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <div class="scroll"><table id="tbl"><thead></thead><tbody></tbody></table></div>
+    <div class="more" id="more" hidden><button type="button" id="moreBtn"></button></div>
+  </div>
+
+  <footer>
+    <div>· 한국어 요약과 지적사항 정리는 FDA 영문 원문을 자동 정리한 것입니다. 정확한 내용은 각 행의 <b>FDA 원문</b>을 확인하세요.</div>
+    <div>· FDA 는 일정 기간이 지나면 warning letter 를 목록에서 내립니다. 이 대시보드는 내려간 건도 <span class="badge gone">목록에서 내려감</span> 표시와 함께 <b>보존본</b>으로 계속 보관합니다.</div>
+    <div>· 본 대시보드는 FDA 공개 데이터를 정리한 <b>참고용</b>이며 공식 자료가 아닙니다.</div>
+  </footer>
+</div>
+
+<script>
+const AREAS = ["품질시스템","문서·데이터완전성","시험·QC","제조·공정관리","무균·멸균","시설·장비","원자재·공급자","허가·표시","기타"];
+let DATA = { records: [] };
+let view = "letter";
+let sortKey = "postedDate", sortDir = -1;
+let shown = 60;
+const state = { q:"", area:"", country:"", cat:"", year:"", status:"", di:false, ia:false };
+
+/* ---------- 테마 ---------- */
+const themeBtn = document.getElementById("themeBtn");
+try{ const t = localStorage.getItem("fdawl-theme"); if(t) document.documentElement.dataset.theme = t; }catch(e){}
+themeBtn.onclick = () => {
+  const cur = document.documentElement.dataset.theme;
+  const next = cur === "dark" ? "light" : cur === "light" ? "" : "dark";
+  if(next) document.documentElement.dataset.theme = next; else delete document.documentElement.dataset.theme;
+  try{ localStorage.setItem("fdawl-theme", next); }catch(e){}
+};
+
+const esc = s => String(s==null?"":s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ymd = s => s || "—";
+
+/* ---------- 링크로 공유되는 상태 (해시) ----------
+   "#view=def&area=문서·데이터완전성&country=India" 처럼 필터가 걸린 화면을 그대로 보낼 수 있다. */
+function readHash(){
+  const p = new URLSearchParams(location.hash.replace(/^#/, ""));
+  if(p.get("view") === "def") view = "def";
+  for(const k of ["q","area","country","cat","year","status"]) if(p.get(k)) state[k] = p.get(k);
+  state.di = p.get("di") === "1";
+  state.ia = p.get("ia") === "1";
+  if(p.get("id")) openId = p.get("id");
+}
+function writeHash(){
+  const p = new URLSearchParams();
+  if(view !== "letter") p.set("view", view);
+  for(const k of ["q","area","country","cat","year","status"]) if(state[k]) p.set(k, state[k]);
+  if(state.di) p.set("di","1");
+  if(state.ia) p.set("ia","1");
+  const h = p.toString();
+  history.replaceState(null, "", h ? "#" + h : location.pathname);
+}
+let openId = "";
+
+/* ---------- 로딩 ---------- */
+fetch("data.json?" + Date.now()).then(r => r.json()).then(d => {
+  DATA = d;
+  document.getElementById("gen").textContent =
+    ` 갱신 ${(d.generatedAt||"").replace("T"," ").replace("Z"," UTC")} · 전체 목록 ${(d.listTotal||0).toLocaleString()}건 중 ${(d.total||0).toLocaleString()}건`;
+  readHash(); buildSelects(); syncSelects(); renderAll();
+  if(openId){
+    const tr = document.querySelector(`#tbl tbody tr.main[data-id="${CSS.escape(openId)}"]`);
+    if(tr){ tr.click(); tr.scrollIntoView({ block:"center" }); }
+  }
+}).catch(e => {
+  document.querySelector("#tbl tbody").innerHTML =
+    `<tr><td class="empty">data.json 을 불러올 수 없습니다 — ${esc(e.message)}</td></tr>`;
+});
+
+/* ---------- 파생 ---------- */
+const recs = () => DATA.records || [];
+/** 편지 한 건이 현재 필터를 통과하는가 (분야·데이터완전성은 지적사항 단위 조건이다). */
+function passLetter(r){
+  if(state.cat && r.category !== state.cat) return false;
+  if(state.country && r.country !== state.country) return false;
+  if(state.year && (r.postedDate||"").slice(0,4) !== state.year) return false;
+  if(state.status === "closed" && !r.closed) return false;
+  if(state.status === "open" && (r.closed || r.delisted)) return false;
+  if(state.status === "delisted" && !r.delisted) return false;
+  if(state.status === "pending" && r.status !== "요약 대기") return false;
+  if(state.ia && !(r.flags && r.flags.importAlert)) return false;
+  if(state.area && !(r.violations||[]).some(v => v.area === state.area)) return false;
+  if(state.di && !(r.violations||[]).some(v => v.dataIntegrity)) return false;
+  if(state.q){
+    const q = state.q.toLowerCase();
+    const hay = [r.company, r.headlineKo, r.summaryKo, r.address, r.facility, r.subject, r.country,
+      r.referenceNo, r.fei, r.marcsCms, (r.keywordsKo||[]).join(" "),
+      (r.violations||[]).map(v => v.titleKo+" "+v.detailKo+" "+v.responseKo+" "+v.cfr+" "+v.area).join(" ")
+    ].join(" ").toLowerCase();
+    if(!hay.includes(q)) return false;
+  }
+  return true;
+}
+const filtered = () => recs().filter(passLetter);
+
+/** 필터를 통과한 편지들의 지적사항을 납작하게 편 목록. */
+function flatDefs(){
+  const out = [];
+  for(const r of filtered()){
+    for(const v of (r.violations||[])){
+      if(state.area && v.area !== state.area) continue;
+      if(state.di && !v.dataIntegrity) continue;
+      out.push({ ...v, _r:r });
+    }
+  }
+  return out;
+}
+
+/* ---------- 통계 ---------- */
+function renderTiles(){
+  const all = recs(), f = filtered();
+  const defs = f.reduce((s,r) => s + (r.defCount||0), 0);
+  const di = f.filter(r => (r.violations||[]).some(v => v.dataIntegrity)).length;
+  const ia = f.filter(r => r.flags && r.flags.importAlert).length;
+  const closed = f.filter(r => r.closed).length;
+  const pending = all.filter(r => r.status === "요약 대기").length;
+  const gone = all.filter(r => r.delisted).length;
+  const t = [
+    ["편지", f.length, "건", ""],
+    ["지적사항", defs, "건", "warn"],
+    ["데이터 완전성 지적", di, "건", "crit"],
+    ["수입경보", ia, "건", "crit"],
+    ["종결(Close-out)", closed, "건", "ok"],
+  ];
+  if(pending) t.push(["요약 대기", pending, "건", "review"]);
+  if(gone) t.push(["목록에서 내려감", gone, "건", ""]);
+  document.getElementById("tiles").innerHTML = t.map(([k,v,u,c]) =>
+    `<div class="tile"><div class="k">${esc(k)}</div><div class="v ${c}">${v.toLocaleString()}<span class="u">${u}</span></div></div>`
+  ).join("");
+}
+
+function bars(el, rows, opts){
+  const max = Math.max(1, ...rows.map(r => r[1]));
+  el.innerHTML = rows.map(([lbl,n]) => {
+    const on = opts && opts.active === lbl;
+    return `<div class="barrow ${opts&&opts.onClick?"clickable":""} ${on?"on":""}" ${opts&&opts.onClick?`data-v="${esc(lbl)}"`:""}>
+      <span class="lbl" title="${esc(lbl)}">${esc(lbl)}</span>
+      <span class="track"><span class="fill" style="width:${(n/max*100).toFixed(1)}%"></span></span>
+      <span class="val">${n.toLocaleString()}</span></div>`;
+  }).join("") || `<div style="color:var(--ink-3);font-size:12.5px">해당 없음</div>`;
+  if(opts && opts.onClick){
+    el.querySelectorAll(".barrow").forEach(b => b.onclick = () => opts.onClick(b.dataset.v));
+  }
+}
+
+function renderCharts(){
+  const f = filtered();
+  // 분야 — 분야 필터 자체는 빼고 센다(다른 분야가 0으로 보이면 전환이 안 된다)
+  const saveArea = state.area, saveDi = state.di;
+  state.area = ""; state.di = false;
+  const base = recs().filter(passLetter);
+  state.area = saveArea; state.di = saveDi;
+  const ac = {}; AREAS.forEach(a => ac[a] = 0);
+  for(const r of base) for(const v of (r.violations||[])) ac[v.area] = (ac[v.area]||0) + 1;
+  bars(document.getElementById("barArea"),
+    Object.entries(ac).filter(([,n]) => n).sort((a,b) => b[1]-a[1]),
+    { active: state.area, onClick: v => { state.area = (state.area === v ? "" : v); syncSelects(); renderAll(); } });
+
+  const cc = {};
+  for(const r of f) if(r.country) cc[r.country] = (cc[r.country]||0) + 1;
+  bars(document.getElementById("barCountry"),
+    Object.entries(cc).sort((a,b) => b[1]-a[1]).slice(0,12),
+    { active: state.country, onClick: v => { state.country = (state.country === v ? "" : v); syncSelects(); renderAll(); } });
+
+  const yc = {};
+  for(const r of f){ const y = (r.postedDate||"").slice(0,4); if(y) yc[y] = (yc[y]||0) + 1; }
+  bars(document.getElementById("barYear"),
+    Object.entries(yc).sort((a,b) => a[0].localeCompare(b[0])),
+    { active: state.year, onClick: v => { state.year = (state.year === v ? "" : v); syncSelects(); renderAll(); } });
+
+  const fc = {};
+  for(const r of f) for(const v of (r.violations||[])){
+    const k = (v.cfr||"").trim(); if(k) fc[k] = (fc[k]||0) + 1;
+  }
+  bars(document.getElementById("barCfr"), Object.entries(fc).sort((a,b) => b[1]-a[1]).slice(0,12));
+}
+
+/* ---------- 필터 UI ---------- */
+function opt(v,l,sel){ return `<option value="${esc(v)}" ${sel===v?"selected":""}>${esc(l)}</option>`; }
+function buildSelects(){
+  const uniq = (fn) => [...new Set(recs().map(fn).filter(Boolean))].sort();
+  document.getElementById("fArea").innerHTML = opt("","분야 전체") + AREAS.map(a => opt(a,a)).join("");
+  document.getElementById("fCountry").innerHTML = opt("","국가 전체") + uniq(r => r.country).map(c => opt(c,c)).join("");
+  document.getElementById("fCat").innerHTML = opt("","분류 전체") + uniq(r => r.category).map(c => opt(c,c)).join("");
+  document.getElementById("fYear").innerHTML = opt("","연도 전체") +
+    [...new Set(recs().map(r => (r.postedDate||"").slice(0,4)).filter(Boolean))].sort().reverse().map(y => opt(y,y+"년")).join("");
+  const bind = (id,key) => document.getElementById(id).onchange = e => { state[key] = e.target.value; shown = 60; renderAll(); };
+  bind("q","q"); bind("fArea","area"); bind("fCountry","country"); bind("fCat","cat"); bind("fYear","year"); bind("fStatus","status");
+  document.getElementById("q").oninput = e => { state.q = e.target.value.trim(); shown = 60; renderAll(); };
+  document.getElementById("fDi").onchange = e => { state.di = e.target.checked; shown = 60; renderAll(); };
+  document.getElementById("fIa").onchange = e => { state.ia = e.target.checked; shown = 60; renderAll(); };
+  document.getElementById("reset").onclick = () => {
+    Object.assign(state, { q:"", area:"", country:"", cat:"", year:"", status:"", di:false, ia:false });
+    shown = 60; syncSelects(); renderAll();
+  };
+  document.getElementById("vLetter").onclick = () => { view = "letter"; shown = 60; renderAll(); };
+  document.getElementById("vDef").onclick = () => { view = "def"; shown = 60; renderAll(); };
+  document.getElementById("moreBtn").onclick = () => { shown += 120; renderTable(); };
+}
+function syncSelects(){
+  document.getElementById("q").value = state.q;
+  document.getElementById("fArea").value = state.area;
+  document.getElementById("fCountry").value = state.country;
+  document.getElementById("fCat").value = state.cat;
+  document.getElementById("fYear").value = state.year;
+  document.getElementById("fStatus").value = state.status;
+  document.getElementById("fDi").checked = state.di;
+  document.getElementById("fIa").checked = state.ia;
+}
+
+/* ---------- 표 ---------- */
+const LETTER_COLS = [
+  ["postedDate","게시일",90], ["letterDate","발행일",90], ["company","회사 / 제조소",0],
+  ["country","국가",0], ["category","분류",0], ["defCount","지적",0], ["headlineKo","요약",0], ["_st","상태",0],
+];
+const DEF_COLS = [
+  ["postedDate","게시일",90], ["company","회사",0], ["area","분야",0],
+  ["cfr","근거 조항",0], ["titleKo","지적사항",0],
+];
+
+function badges(r){
+  const b = [];
+  const f = r.flags || {};
+  if(r.delisted) b.push(`<span class="badge gone" title="FDA 목록에서 내려갔으나 보존본으로 남겨둔 건">목록에서 내려감</span>`);
+  if(r.status === "요약 대기") b.push(`<span class="badge info">요약 대기</span>`);
+  if(f.importAlert) b.push(`<span class="badge crit" title="수입경보 ${esc(f.importAlert)}">수입경보</span>`);
+  if(f.productionSuspended) b.push(`<span class="badge crit">제조중단</span>`);
+  if(f.recall) b.push(`<span class="badge warn">리콜/회수</span>`);
+  if(f.refusedInspection) b.push(`<span class="badge crit">실사거부</span>`);
+  if(f.consultantRecommended) b.push(`<span class="badge warn">컨설턴트 권고</span>`);
+  if(r.closed) b.push(`<span class="badge ok" title="${esc(r.closeoutDate)} Close-out">종결</span>`);
+  return b.join("");
+}
+
+function sortVal(r,k){
+  if(k === "_st") return (r.delisted?"3":r.status==="요약 대기"?"2":r.closed?"1":"0");
+  const v = r[k];
+  return v == null ? (k === "defCount" ? -1 : "") : v;
+}
+function sorted(arr, cols){
+  const k = cols.some(c => c[0] === sortKey) ? sortKey : cols[0][0];
+  return arr.slice().sort((a,b) => {
+    const x = sortVal(a,k), y = sortVal(b,k);
+    const c = typeof x === "number" && typeof y === "number" ? x-y : String(x).localeCompare(String(y),"ko");
+    return c * sortDir || String(b.postedDate||"").localeCompare(String(a.postedDate||""));
+  });
+}
+
+function head(cols){
+  return `<tr>${cols.map(([k,l]) =>
+    `<th data-k="${k}">${esc(l)}${sortKey===k?`<span class="arw"> ${sortDir>0?"▲":"▼"}</span>`:""}</th>`).join("")}</tr>`;
+}
+
+function detailRow(r, span){
+  const v = r.violations || [];
+  const kv = [
+    r.inspectionStart && `<span><b>실사</b> ${ymd(r.inspectionStart)}${r.inspectionEnd&&r.inspectionEnd!==r.inspectionStart?" ~ "+r.inspectionEnd:""}</span>`,
+    r.form483ResponseDate && `<span><b>483 답변</b> ${ymd(r.form483ResponseDate)}</span>`,
+    r.referenceNo && `<span><b>Reference</b> ${esc(r.referenceNo)}</span>`,
+    r.marcsCms && `<span><b>MARCS-CMS</b> ${esc(r.marcsCms)}</span>`,
+    r.fei && `<span><b>FEI</b> ${esc(r.fei)}</span>`,
+    r.recipientName && `<span><b>수신</b> ${esc(r.recipientName)}${r.recipientTitle?" ("+esc(r.recipientTitle)+")":""}</span>`,
+    r.office && `<span><b>발행</b> ${esc(r.office)}</span>`,
+    r.closeoutDate && `<span><b>Close-out</b> ${esc(r.closeoutDate)}</span>`,
+    r.responseDate && `<span><b>응답서 게시</b> ${esc(r.responseDate)}</span>`,
+    (r.flags&&r.flags.importAlert) && `<span><b>수입경보</b> ${esc(r.flags.importAlert)}</span>`,
+  ].filter(Boolean).join("");
+
+  let body = "";
+  if(r.status === "요약 대기"){
+    body = `<div class="note review">아직 본문 요약·지적사항 정리가 되지 않은 건입니다.
+      지적사항이 <b>없다는 뜻이 아닙니다</b> — 원문을 직접 확인하세요.</div>`;
+  } else {
+    body = `<div class="summary">${esc(r.summaryKo)}</div>`;
+    if((r.keywordsKo||[]).length)
+      body += `<div class="kws">${r.keywordsKo.map(k => `<span class="kw">${esc(k)}</span>`).join("")}</div>`;
+    if(kv) body += `<div class="kv">${kv}</div>`;
+    if(r.facility) body += `<div class="kv"><span><b>실사 시설</b> ${esc(r.facility)}</span></div>`;
+    body += v.length ? `<table class="deftable"><thead><tr>
+        <th>#</th><th>분야</th><th>근거 조항</th><th>지적사항</th></tr></thead><tbody>
+      ${v.map(d => `<tr>
+        <td class="n">${esc(d.no)}</td>
+        <td class="area">${esc(d.area)}${d.dataIntegrity?`<br><span class="badge crit">데이터 완전성</span>`:""}</td>
+        <td class="cfr">${esc(d.cfr)||"—"}</td>
+        <td><div class="ttl">${esc(d.titleKo)}</div>
+          ${d.detailKo?`<div>${esc(d.detailKo)}</div>`:""}
+          ${d.responseKo?`<div class="resp"><b>회사 답변에 대한 FDA 평가 —</b> ${esc(d.responseKo)}</div>`:""}
+        </td></tr>`).join("")}
+      </tbody></table>`
+      : `<div class="note">본문에서 번호 매겨진 지적사항을 찾지 못했습니다. 원문을 확인하세요.</div>`;
+  }
+
+  const links = [
+    r.archive && `<a href="${esc(r.archive)}" target="_blank" rel="noopener">보존본 (우리 사본)</a>`,
+    r.url && `<a href="${esc(r.url)}" target="_blank" rel="noopener">FDA 원문 ↗</a>`,
+    `<a href="#id=${encodeURIComponent(r.id)}" data-copy="${esc(r.id)}">이 건 링크 복사</a>`,
+  ].filter(Boolean).join("");
+  body += `<div class="links">${links}</div>`;
+  if(r.delisted)
+    body += `<div class="note">FDA 목록에서 내려간 건입니다(확인 ${esc(r.delistedSince)}). FDA 원문 링크는 더 이상 열리지 않을 수 있으며, 위 <b>보존본</b>으로 내용을 확인할 수 있습니다.</div>`;
+  return `<tr class="detail" hidden><td colspan="${span}"><div class="inner">${body}</div></td></tr>`;
+}
+
+function renderTable(){
+  const thead = document.querySelector("#tbl thead"), tbody = document.querySelector("#tbl tbody");
+  document.getElementById("vLetter").classList.toggle("on", view === "letter");
+  document.getElementById("vDef").classList.toggle("on", view === "def");
+
+  if(view === "letter"){
+    const rows = sorted(filtered(), LETTER_COLS);
+    document.getElementById("count").textContent = `${rows.length.toLocaleString()}건`;
+    thead.innerHTML = head(LETTER_COLS);
+    const page = rows.slice(0, shown);
+    tbody.innerHTML = page.length ? page.map(r => `
+      <tr class="main ${r.delisted?"gone":""}" data-id="${esc(r.id)}">
+        <td class="num">${ymd(r.postedDate)}</td>
+        <td class="num">${ymd(r.letterDate)}</td>
+        <td class="co"><span class="chev">▸</span> ${esc(r.company)}
+          ${r.address?`<div class="addr">${esc(r.address)}</div>`:""}</td>
+        <td class="num">${esc(r.country)||"—"}</td>
+        <td class="num">${esc(r.category)}</td>
+        <td class="num">${r.defCount==null?"—":r.defCount}</td>
+        <td class="head">${esc(r.headlineKo)}</td>
+        <td>${badges(r)}</td>
+      </tr>${detailRow(r, LETTER_COLS.length)}`).join("")
+      : `<tr><td class="empty" colspan="${LETTER_COLS.length}">조건에 맞는 편지가 없습니다.</td></tr>`;
+    setupExpand();
+    toggleMore(rows.length);
+  } else {
+    const defs = flatDefs();
+    document.getElementById("count").textContent =
+      `지적사항 ${defs.length.toLocaleString()}건 / 편지 ${filtered().length.toLocaleString()}건`;
+    thead.innerHTML = head(DEF_COLS);
+    const k = DEF_COLS.some(c => c[0] === sortKey) ? sortKey : "postedDate";
+    const rows = defs.slice().sort((a,b) => {
+      const gv = (d) => ["postedDate","company"].includes(k) ? (d._r[k]||"") : (d[k]||"");
+      return String(gv(a)).localeCompare(String(gv(b)),"ko") * sortDir;
+    });
+    const page = rows.slice(0, shown);
+    tbody.innerHTML = page.length ? page.map(d => `
+      <tr class="main" data-id="${esc(d._r.id)}">
+        <td class="num">${ymd(d._r.postedDate)}</td>
+        <td class="co"><span class="chev">▸</span> ${esc(d._r.company)}
+          <div class="addr">${esc(d._r.country)}</div></td>
+        <td class="num">${esc(d.area)}${d.dataIntegrity?`<br><span class="badge crit">데이터 완전성</span>`:""}</td>
+        <td class="num" style="font-family:ui-monospace,Consolas,monospace;font-size:11.5px">${esc(d.cfr)||"—"}</td>
+        <td class="head"><b>${esc(d.titleKo)}</b>${d.detailKo?`<div class="clamp">${esc(d.detailKo)}</div>`:""}</td>
+      </tr>`).join("")
+      : `<tr><td class="empty" colspan="${DEF_COLS.length}">조건에 맞는 지적사항이 없습니다.</td></tr>`;
+    // 행을 누르면 편지별 보기로 넘어가 그 편지를 펼친다 — 대시보드를 벗어나지 않는다.
+    tbody.querySelectorAll("tr.main").forEach(tr => {
+      tr.onclick = () => { view = "letter"; openRow(tr.dataset.id); };
+    });
+    toggleMore(rows.length);
+  }
+  thead.querySelectorAll("th").forEach(th => th.onclick = () => {
+    const k = th.dataset.k;
+    if(sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = (k === "company" || k === "area" || k === "titleKo") ? 1 : -1; }
+    renderTable();
+  });
+}
+function toggleMore(total){
+  const m = document.getElementById("more");
+  if(total > shown){ m.hidden = false; document.getElementById("moreBtn").textContent = `더 보기 (${(total-shown).toLocaleString()}건 남음)`; }
+  else m.hidden = true;
+}
+function setupExpand(){
+  document.querySelectorAll("#tbl tbody tr.main").forEach(tr => {
+    tr.onclick = () => {
+      const d = tr.nextElementSibling;
+      if(!d || !d.classList.contains("detail")) return;
+      d.hidden = !d.hidden;
+      tr.classList.toggle("open", !d.hidden);
+    };
+  });
+  // 상세 안의 링크 클릭이 행 접기로 번지지 않게 막는다.
+  document.querySelectorAll("#tbl tbody tr.detail a").forEach(a => {
+    a.onclick = ev => {
+      ev.stopPropagation();
+      if(!a.dataset.copy) return;
+      ev.preventDefault();
+      const url = location.origin + location.pathname + "#id=" + encodeURIComponent(a.dataset.copy);
+      const done = () => { const t = a.textContent; a.textContent = "복사됨"; setTimeout(() => a.textContent = t, 1200); };
+      try{ navigator.clipboard.writeText(url).then(done, () => prompt("링크", url)); }
+      catch(e){ prompt("링크", url); }
+    };
+  });
+}
+
+/** 특정 편지를 편지별 보기에서 펼친다. 목록 밖(더 보기 뒤쪽)에 있으면 끝까지 늘려서 찾는다. */
+function openRow(id){
+  const idx = sorted(filtered(), LETTER_COLS).findIndex(r => r.id === id);
+  if(idx >= shown) shown = idx + 1;
+  renderAll();
+  const tr = document.querySelector(`#tbl tbody tr.main[data-id="${CSS.escape(id)}"]`);
+  if(tr){ tr.click(); tr.scrollIntoView({ block:"center", behavior:"smooth" }); }
+}
+
+function renderAll(){ writeHash(); renderTiles(); renderCharts(); renderTable(); }
+</script>
+</body>
+</html>
