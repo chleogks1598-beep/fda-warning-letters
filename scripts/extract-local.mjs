@@ -77,6 +77,14 @@ ${AREAS.map((a) => `- ${a}`).join("\n")}
 규칙:
 - violations 는 편지 본문의 **번호 매겨진 위반 항목**("1. Your firm failed to …")을 그 순서대로 담는다.
   번호가 없이 서술된 편지라면 문단 단위로 위반 사항을 갈라 no 를 1부터 붙여라.
+- **번호 항목을 임의로 쪼개거나 합치지 마라.** 번호가 1~4 까지면 violations 도 4개다.
+- 다만 번호 목록 **밖에 별도 소제목으로 서술된 위반**은 번호가 없어도 담아라. 실제로 자주 나온다:
+  "Unapproved New Drug Violations" / "Misbranding" / "Failure to Submit a Field Alert Report" /
+  "Drug Listing / Registration" 등. 이런 항목은 번호를 이어서(예 5, 6) 붙인다.
+- 반대로 **총괄 위반 근거 서술은 지적사항이 아니다.** 서두·결론의
+  "your drug products are adulterated within the meaning of section 501(a)(2)(B)",
+  "prepared under insanitary conditions … 501(a)(2)(A)" 같은 문장은 번호 항목 전체를 묶어
+  법적으로 규정하는 말이지 별개의 지적이 아니다. 이걸 따로 violation 으로 만들지 마라.
 - 실제 회사의 규제 처분 정보다. **본문에 없는 내용을 지어내지 마라.** 확인되지 않는 필드는 빈 문자열/false.
 - 본문의 (b)(4) 는 FDA 가 비공개 처리한 부분이다. 내용을 추측하지 말고 "(비공개)" 로 적거나 생략하라.
 - detailKo·responseKo 는 한국어로 **요약**하되, 사실관계를 바꾸지 마라. 숫자·날짜는 본문 그대로.

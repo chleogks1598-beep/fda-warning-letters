@@ -114,6 +114,11 @@ function main() {
   const m = node("scripts/merge.mjs");
   log(`data.json — 총 ${m.TOTAL}건 (요약 대기 ${m.PENDING}건)`);
 
+  // 원문 대조 점검은 **보고만** 한다. 자동으로 지우고 다시 뽑게 하면, 매번 같은 판정에 걸리는
+  // 건이 하나라도 있을 때 회차마다 무한히 재처리한다. 재처리는 사람이 `audit.mjs --purge` 로.
+  const a = node("scripts/audit.mjs");
+  if (Number(a.SUSPECT)) log(`⚠ 재확인 필요 ${a.SUSPECT}건 — 'node scripts/audit.mjs' 로 목록 확인`);
+
   if (repo) {
     const parts = [];
     if (Number(f.NEW)) parts.push(`신규 ${f.NEW}건`);
