@@ -1,0 +1,47 @@
+{
+ "headlineKo": "CMO 불순물 통보 후 배포 지속, OTC 21품목 등재 누락",
+ "summaryKo": "FDA는 2025년 6월 16~23일 California주 Canoga Park의 Private Label Skin Care, Inc.(FEI 3015274499) 제조소를 실사하고 CGMP 위반 1건과 의약품 목록 등재(drug listing) 위반을 지적했다. 회사는 OTC 제품의 소유자·표시자로서 CMO에 제조를 위탁했는데, CMO로부터 (비공개) 불순물이 상승했다는 통보를 받고도 해당 배치의 유통을 계속해 품질부서(QU) 기능이 부적절하다고 판단됐다. FDA는 2025년 8월 25일 전화회의에서 시중 배치 회수를 권고했고 회사는 이후 자발적 리콜을 실시했으나, 2025년 7월 15일자 Form FDA 483 답변은 유효기간 내 시중에 남은 다른 배치·제품에 대한 영향 평가가 없어 부적절하다고 평가됐다. 아울러 SPF 제품 등 21개 인체용 OTC 의약품의 목록 등재를 하지 않아 해당 제품은 misbranded(표시위반)로 간주되며, FDA는 QU 종합 평가·보관시료 시험 결과 제출과 15영업일 내 서면 답변을 요구했다.",
+ "inspectionStart": "2025-06-16",
+ "inspectionEnd": "2025-06-23",
+ "facility": "8200 Remmet Ave., Canoga Park, CA 91304-4156, United States",
+ "form483ResponseDate": "2025-07-15",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "구성품·완제품 승인·거부 권한을 갖춘 적정 QC부서 미확립",
+   "detailKo": "회사는 다수 OTC 의약품의 소유자이자 표시자이며, CGMP 활동 일부를 CMO에 위탁하고 있다. 제품 소유자로서 CMO로부터 (비공개) 제품의 (비공개) 불순물 수치가 상승했다는 통보를 받았으나, 통보 이후에도 해당 배치의 유통을 계속했다. FDA는 2025년 8월 25일 전화회의를 열어 시중에 유통 중인 adulterated 배치의 미국 시장 철수를 검토하도록 권고했고, 회사는 (비공개) 날짜에 해당 배치에 대한 자발적 리콜을 실시했다. FDA는 CMO를 이용하는 경우에도 QU가 CMO의 제품·서비스 승인 및 상업적 유통 적합성 판단 책임을 진다는 점을 지적했다.",
+   "responseKo": "회사는 (비공개) 함유 전 제품의 출하 규격·안정성시험에 (비공개) 시험을 도입하고, 주성분·부형제 공급자를 평가하며, 불순물 생성 위험을 줄이는 처방 변경을 검토하겠다고 약속했다. FDA는 이 답변이 부적절하다고 평가했는데, QU가 이미 출하되어 유효기간 내 시중에 남아 있는 다른 배치 및 (비공개) 함유 타 제품에 대한 영향을 판단하지 않았기 때문이다. FDA는 답변으로 QU의 권한·자원 확보를 위한 종합 평가·개선계획과, 유효기간 내 시판 중인 제품 배치의 보관시료 시험 결과 요약 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 510(j) / 21 CFR 207.41(a), 207.53",
+   "area": "허가·표시",
+   "titleKo": "OTC 의약품 21품목의 의약품 목록 등재 누락",
+   "detailKo": "FDA가 전자의약품등록·목록시스템(eDRLS)의 제출 내역을 검토한 결과, 회사는 최소 21개 인체용 OTC 의약품에 대한 drug listing을 제출하지 않았다. 미등재 품목에는 \"Age Defense SPF 45\", \"The Treatment On the Daily SPF 45\", \"100% Mineral Tinted SPF\", \"Healthy Glow Tinted BB Cream SPF 44+\", \"Dermlogic Anti-Aging Resurfacing Peel Pads\", \"Acne Clearing Serum\", \"Pore Refining Cleanser 2% Salicylic Acid\", \"Micro Peel Pads\" 등이 포함된다. 이에 따라 해당 제품들은 FD&C Act 502(o)에 따라 misbranded로 간주되며, 주간 상거래 반입은 301(a), 목록 미제출은 301(p)에 따라 금지된 행위에 해당한다. FDA는 또한 일부 제품이 화장품으로 규제될 수 있고 MoCRA 요건이 적용될 수 있음을 함께 통지했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질부서(QU) 권한",
+  "CMO 위탁관리",
+  "불순물 상승",
+  "자발적 리콜",
+  "의약품 목록 등재",
+  "misbranded"
+ ],
+ "id": "private-label-skin-care-inc-715880-12182025",
+ "extractedAt": "2026-09-11T09:41:46Z",
+ "sourceChars": 12160
+}

@@ -168,6 +168,10 @@
     .wrap{padding:14px 14px 48px}
     .barrow{grid-template-columns:92px 1fr 38px}
     .filters .count{margin-left:0;width:100%}
+    /* 좁은 화면에선 검색창은 한 줄 전체, 선택 상자는 두 칸씩 — 그대로 두면 다섯 개가
+       한 줄에 눌려 들어가 무슨 필터인지 읽을 수 없다. */
+    .filters input[type=search]{flex:1 1 100%;min-width:0}
+    .filters select{flex:1 1 44%;min-width:0}
   }
 </style>
 </head>
