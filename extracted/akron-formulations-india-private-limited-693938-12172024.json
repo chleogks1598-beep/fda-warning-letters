@@ -1,0 +1,47 @@
+{
+ "headlineKo": "수입경보 API 사용, BCC 미시험·방부력시험 미실시",
+ "summaryKo": "FDA는 2024년 3월 25일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토해, 인도 Hyderabad 소재 Akron Formulations India Private Limited(FEI 3017000602)의 OTC 의약품 제조에서 중대한 CGMP 위반 2건을 지적했다. 수입경보(66-40, 99-32, 66-79)에 올라 있던 API 공급사 3곳의 원료를 적격성 평가 없이 사용했고, 도큐세이트나트륨 제품 등에서 Burkholderia cepacia complex(BCC) 시험을 하지 않았으며 영유아용을 포함한 다회용 제품에 방부력시험(AET)을 전혀 수행하지 않았다. 회사는 2024년 10월 15일 OneLAX Docusate Sodium Liquid Stool Softener Laxative를 자발적으로 회수했다. FDA는 2024년 11월 26일 이 회사 제품을 수입경보 66-40에 등재하고 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "134 - B, IDA - Bolaram, Hyderabad, Telangana 502325, India",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "원자재·공급자",
+   "titleKo": "품질부서 기능 미흡 — API 공급자 적격성 평가 부재",
+   "detailKo": "제출 기록상 API 공급사에 대한 적격성 평가가 충분히 이루어지지 않았다. 제조·미국 출하 당시 수입경보 대상이던 공급사 3곳의 API를 사용했다. 한 곳은 (비공개) 시점부터 수입경보 66-40(CGMP 미충족 업체 제품 무검사 억류) 대상으로, 용수 시스템 밸리데이션·모니터링 실패가 지적된 곳이다 — 인근 강에서 농경지를 지나 농업 유출수와 동물 분뇨에 노출된 원수를 시험하지 않고 외기에 개방된 탱크에 저장했다. 이 공급사의 도큐세이트나트륨을 OneLAX Docusate Sodium Liquid Stool Softener Laxative의 API로 사용했다. 나머지 두 곳은 FDA 해외실사 거부로 수입경보 99-32에 이어 66-79 대상이 된 업체였다.",
+   "responseKo": "FDA는 답변에서 품질부서(QU)에 권한과 자원을 부여하기 위한 종합 평가·개선계획과, 모든 구성품·용기·마개 공급자의 적격성 및 입고 자재 관리의 적절성에 대한 독립적 종합 검토를 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "과학적으로 타당한 시험실 관리기준 미확립",
+   "detailKo": "미생물학적 품질과 안전성을 보장할 시험실 관리기준이 확립되지 않았다. 다수 완제품 배치에 대해 Burkholderia cepacia complex(BCC) 시험을 실시하지 않았는데, OneLAX Docusate Sodium Liquid Stool Softener Laxative는 당시 제품 규격에 BCC가 포함되지 않아 출하 전 어떤 배치도 시험되지 않았고, 다른 제품은 규격에 BCC가 있었음에도 일부 배치가 출하 전 미시험이었다. BCC는 도큐세이트나트륨 함유 의약품에서 알려진 우려 균으로 과거 오염 사례와 연관된다. 또한 상온에서 제조·보관되는 (비공개) 구성품에 대해 BCC 시험을 하지 않고 적절한 규격도 두지 않았다. 영유아·소아용 표시 제품을 포함한 다회용 제품을 유통하면서 방부력시험(AET)을 전혀 수행하지 않았다.",
+   "responseKo": "FDA는 시험실 관행 및 제조공정 설계·관리에 대한 종합 평가, 오염 가능 제품 유통에 따른 위해평가와 고객 통지·회수 조치, 유효기간 내 전 배치 보관검체 시험, 제품별 미생물 출하 규격, USP <51>에 따른 AET 연구 자료 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-11-26)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "공급자 적격성",
+  "수입경보 API",
+  "BCC 오염",
+  "방부력시험(AET)",
+  "미생물 시험 누락",
+  "자발적 회수"
+ ],
+ "id": "akron-formulations-india-private-limited-693938-12172024",
+ "extractedAt": "2026-09-12T00:23:43Z",
+ "sourceChars": 13671
+}
