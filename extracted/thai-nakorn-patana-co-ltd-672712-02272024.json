@@ -1,0 +1,47 @@
+{
+ "headlineKo": "출하 전 함량·확인시험 미실시, 품질부서 감독 전반 부실",
+ "summaryKo": "FDA는 2023년 7월 31일부터 8월 4일까지 태국 논타부리 소재 Thai Nakorn Patana Co., Ltd.(FEI 3003067499) 의약품 제조소를 실사하고 CGMP 위반 2건을 지적했다. OTC 의약품을 출하 전 원료 확인·함량시험 없이 유통했고, 품질부서는 공정밸리데이션·시험법·데이터 기록·일탈조사·세척밸리데이션 전반에 걸쳐 감독 책임을 다하지 못했다. 회사의 2023년 8월 16일자 Form FDA 483 답변은 시험 절차나 미시험 출하 제품에 대한 위해성 평가 등 구체적 근거가 없어 부적절하다고 평가됐다. FDA는 회사가 Neotica Crème 등 미국향 의약품 제조 중단을 약속한 점을 인정하면서, 재개 전 21 CFR 211.34 자격을 갖춘 컨설턴트를 선임해 6개 시스템 종합감사를 수행하고 사전 통보할 것과, 미시정 시 801(a)(3)에 따른 수입 거부 가능성을 통지했다.",
+ "inspectionStart": "2023-07-31",
+ "inspectionEnd": "2023-08-04",
+ "facility": "14 Thanon Ngamowongwan Soi 8, Muenang Nonthaburi, Nonthaburi, Thailand",
+ "form483ResponseDate": "2023-08-16",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 확인·함량 시험 미실시",
+   "detailKo": "회사는 OTC (비공개) 의약품을 제조하면서, 출하·유통 전에 원료의약품의 확인(identity) 및 함량(strength)에 대한 적절한 시험을 수행하지 않았다. 즉 각 배치가 최종 완제품 규격에 적합한지 확인하는 실험실 판정 없이 제품이 출하됐다. 그 결과 제품이 모든 완제품 규격에 적합하고 출하·유통에 적합한지 알 수 없는 상태였다.",
+   "responseKo": "회사는 밸리데이션된 분석법으로 (비공개) 함량시험을 수행하겠다고 답했으나, FDA는 시험 절차 등 충분한 세부사항과 적절한 함량시험 없이 출하된 제품에 대한 위해성 평가를 제시하지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 CGMP 감독 책임 불이행",
+   "detailKo": "품질부서(QU)가 의약품 제조 전반에 대한 적절한 감독을 제공하지 못했다. 구체적으로 ▲제품의 확인·함량·품질·순도를 보증하는 적절한 공정밸리데이션 프로그램을 포함한 생산·공정관리(21 CFR 211.100(a)) ▲과학적으로 타당하고 적절한 시험법 및 기준의 사용(21 CFR 211.160(b)) ▲표준액·검액 조제 및 함량시험에서 생성된 완전한 데이터의 문서화·보존(21 CFR 211.194(a)) ▲적절한 일탈 조사(21 CFR 211.192) ▲비전용 제조설비에 대한 세척밸리데이션을 포함한 적절한 세척·유지관리 절차(21 CFR 211.67(a))를 확보하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "출하시험 미실시",
+  "품질부서 감독",
+  "공정밸리데이션",
+  "세척밸리데이션",
+  "데이터 기록·보존",
+  "제조 중단"
+ ],
+ "id": "thai-nakorn-patana-co-ltd-672712-02272024",
+ "extractedAt": "2026-09-12T08:23:51Z",
+ "sourceChars": 6921
+}

@@ -1,0 +1,56 @@
+{
+ "headlineKo": "입고 성분 확인시험 부재·IPA 메탄올 미검사, 완제품 함량·안정성시험 미흡",
+ "summaryKo": "FDA는 TCT Nutraceuticals SDN. BHD(말레이시아 Puchong 소재 OTC 의약품 제조소, FEI 3017270745)에 대해 2022년 6월 16일과 7월 8일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토했다. 현장 실사가 아닌 서류 검토 결과 Antibacterial Hand Sanitizer Gel 제조와 관련해 입고 성분 확인시험 미실시(이소프로필알코올의 메탄올 시험 포함), 완제품 출하 전 함량·불순물 시험 및 시험법 미제출, 안정성시험 프로그램 미비 등 3건의 CGMP 위반이 지적되어 제품이 501(a)(2)(B)에 따른 불량의약품으로 판정됐다. FDA는 2024년 4월 15일 이 회사를 Import Alert 66-40에 등재했고, 미국 시장용 제조를 재개하려면 21 CFR 211.34 요건을 갖춘 컨설턴트를 선임해 6개 시스템 전반 감사와 CAPA 유효성 평가를 받도록 권고했다. 회신은 15영업일 이내 서면으로 요구됐다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 13 Jalan PP11/3 Taman Putra Perdana, 47130 Puchong, Selangor, Malaysia",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 성분 확인시험 미실시 및 메탄올 시험 누락",
+   "detailKo": "이 회사는 Antibacterial Hand Sanitizer Gel을 제조한다. 제출된 기록과 정보로는 제조에 사용되는 입고 성분의 확인시험을 적절히 수행하고 있음을 입증하지 못했다. 또한 주성분인 이소프로필알코올에 대해 메탄올 시험을 수행하고 있음도 입증하지 못했다. 적절한 시험 없이는 원료가 사용 전에 규격에 적합하다는 과학적 근거를 확보할 수 없다. FDA는 메탄올에 오염된 알코올이 전 세계적으로 치명적인 중독 사고를 일으켜 왔음을 지적하며 관련 지침(Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol)을 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격적합 시험 미실시",
+   "detailKo": "제출된 기록과 정보로는 완제품에 대한 적절한 시험을 수행했음을 입증하지 못했다. 예를 들어 제출한 시험성적서(COA)에는 주성분 이소프로필알코올 함량에 대한 적절한 assay 시험이나 불순물 시험이 포함되어 있지 않았다. 또한 회사가 사용하는 시험법 자체를 제출하지 않았다. FDA는 출하·유통 전 주성분의 함량과 확인시험을 포함한 완전한 출하시험이 수행되어야 하며, 시험법 밸리데이션과 검증이 없으면 시험 데이터가 제품 품질을 정확히 반영한다는 기본적 보증이 결여된다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 및 자료 미비",
+   "detailKo": "제출된 기록과 정보로는 표시된 유효기간 동안 제품의 화학적 특성과 미생물학적 특성이 허용 범위 내로 유지됨을 입증할 적절한 안정성시험 프로그램과 뒷받침 자료가 없었다. 제출한 안정성 시험 결과는 색상, 투명도, 냄새, pH에 국한되어 있었다. 확인·함량, 불순물, 미생물학적 특성(총균수 및 유해균 부적합 여부) 자료는 제출되지 않았다. 적절한 안정성 연구가 없으면 제품이 유효기간까지 설정된 규격을 충족하고 품질 특성을 유지하는지에 대한 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-04-15)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "성분 확인시험",
+  "메탄올 오염",
+  "이소프로필알코올",
+  "완제품 출하시험",
+  "안정성시험",
+  "수입경보 66-40"
+ ],
+ "id": "tct-nutraceuticals-sdn-bhd-680743-06052024",
+ "extractedAt": "2026-09-12T08:11:59Z",
+ "sourceChars": 7997
+}

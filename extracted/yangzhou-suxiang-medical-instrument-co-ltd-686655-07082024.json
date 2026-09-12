@@ -1,0 +1,56 @@
+{
+ "headlineKo": "원료 확인시험 미실시, 공정밸리데이션 전 유통·완제품 출하시험 미흡",
+ "summaryKo": "FDA는 2022년 8월 15일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토해 중국 장쑤성 양저우 소재 YangZhou SuXiang Medical Instrument Co., Ltd.(FEI 3014321771)의 OTC 의약품 제조에서 CGMP 위반 3건을 확인했다. 입고 원료의 확인시험 미실시, 공정밸리데이션 보고서 불완전 및 밸리데이션 전 미국 유통, 완제품 출하 전 원료의약품 함량·확인 시험자료 부재가 지적됐으며, 품질부서(QU)가 검증되지 않은 공정으로 생산된 제품을 출하한 점도 문제로 지적됐다. FDA는 2024년 7월 1일 이 회사를 수입경보 66-40에 등재했고, 미국 시장용 제조를 재개하려면 21 CFR 211.34 자격을 갖춘 컨설턴트를 선임해 6개 시스템 전반 감사를 받을 것을 권고했다. 이 편지는 현장실사가 아닌 기록 검토(704(a)(4))에 근거하며, 15영업일 내 서면 답변을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "West of Baoyuan Road, Industrial Concentration Zone, Anyi Town, BaoYing County, Yangzhou City, Jiangsu Province, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 확인시험 미실시",
+   "detailKo": "회사는 (비공개) 용도의 (비공개) Pads 등 OTC 의약품을 제조했으나, 제출한 기록으로는 제조에 사용되는 입고 원료(component)의 확인시험을 적절히 수행하고 있음을 입증하지 못했다. 적절한 시험 없이는 원료가 사용 전 규격에 적합하다는 과학적 근거를 확보할 수 없다. 제조업자는 생산 투입 전 원료를 채취·시험·검사해 품질을 보증할 책임이 있다. FDA는 메탄올에 오염된 에탄올 사용이 전 세계적으로 치명적 중독 사고를 일으킨 점을 지적하며 알코올·이소프로필알코올의 메탄올 시험 정책 가이던스를 제시했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "생산·공정관리 절차 미확립, 공정밸리데이션 전 유통",
+   "detailKo": "제출 정보상 제조공정이 재현성 있고 관리되어 균일한 특성과 품질의 제품을 산출한다는 점을 입증하지 못했다. FDA가 요청한 제조공정 밸리데이션 보고서는 불완전했으며, 회사는 공정밸리데이션을 수행하기 전에 제품을 미국 시장에 유통시켰다. 상업적 유통 전에는 성공적인 공정적격성평가(process qualification)가 선행되어야 하고, 이후에도 공정 성능과 제품 품질에 대한 지속적 감시가 필요하다. 또한 품질부서(QU)가 제조공정이 적절히 밸리데이션되고 관리상태에 있음을 확인하지 않은 채 OTC 제품을 미국 유통용으로 출하했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "완제품 출하 전 적합성 시험 미실시",
+   "detailKo": "제출한 기록과 정보로는 완제품에 대한 적절한 시험을 수행했음을 입증하지 못했다. 예를 들어 유통 출하 전 제품을 적절히 시험했음을 보여주는 분석시험 데이터를 제출하지 못했다. 출하·유통 전에는 원료의약품의 함량 및 확인시험을 포함한 전체 출하시험이 수행되어야 하며, 적절한 시험 없이는 제품이 규격에 적합하다는 과학적 근거를 확보할 수 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-07-01)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 확인시험",
+  "공정밸리데이션",
+  "완제품 출하시험",
+  "품질부서 책임",
+  "수입경보 66-40",
+  "메탄올 오염"
+ ],
+ "id": "yangzhou-suxiang-medical-instrument-co-ltd-686655-07082024",
+ "extractedAt": "2026-09-12T08:06:02Z",
+ "sourceChars": 7999
+}

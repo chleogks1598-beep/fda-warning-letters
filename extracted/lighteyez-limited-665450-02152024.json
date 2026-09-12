@@ -1,0 +1,65 @@
+{
+ "headlineKo": "MSM 점안제 전 시료 미생물 오염, 무허가 신약·품질감독 부재",
+ "summaryKo": "FDA는 LightEyez 웹사이트에서 직접 입수한 \"LightEyez.com MSM Eye Drops v2.0 – Eye Repair\" 점안제 배치 \"P15D7 April 11th 2023\"을 시험해 복합시료 10개 전부에서 심각한 미생물 증식을 확인했고, Pseudomonas·Mycobacterium·Mycolicibacterium·Methylorubrum 속이 검출되어 FD&C Act 501(a)(1) 불량의약품으로 판정했다. 2023년 8월 24일 전화회의에서 회사는 미국 내 유통 중인 무균제품의 자발적 리콜에 동의했고, 미국 제조사는 8월 25일 회신에서 정수시스템 고장으로 여과되지 않은 수돗물이 사용됐음을 인정했으나, 8월 28일 이후 회사와 제조사 모두 FDA와의 연락을 끊고 FDA를 통한 리콜을 개시하지 않았으며 웹사이트에는 해당 1개 배치만 대상으로 한 \"service alert\"만 게시했다. 9월 15일 FDA가 등록 주소를 현장 조사했으나 LightEyez도 제조사도 그 장소에 없어 제조 현장 실사가 불가능했고, FDA는 제조사 활동에 대한 품질 감독 부재(21 CFR 211.22(a)), MSM·색변환·눈미백 점안제의 무허가 신약 판매, 용기·마개 시스템의 오염·누출 위험을 지적했다. FDA는 2023년 8월 22일 소비자 안전경보를 발령했고, 시정되지 않으면 801(a)(3)에 따라 수입 거부될 수 있으며 신규 허가 보류 및 재실사 가능성을 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(1)",
+   "area": "시험·QC",
+   "titleKo": "점안제 전 시료에서 심각한 미생물 오염 검출",
+   "detailKo": "FDA가 LightEyez 웹사이트에서 직접 입수한 MSM Eye Repair Drops 배치 \"P15D7 April 11th 2023\"을 시험한 결과, 개별 검체 2개씩 묶은 복합시료 10개를 분석했고 10개 전부에서 심각한 미생물 증식이 확인됐다. 검출된 오염균에는 Pseudomonas spp., Mycobacterium spp., Mycolicibacterium spp., Methylorubrum spp. 가 포함된다. 안구 투여 경로는 인체의 자연 방어기전 일부를 우회하므로 오염된 점안제 사용은 경미한 안구감염부터 시력을 위협하는 중증 감염, 나아가 생명을 위협하는 감염으로 진행될 수 있다. FDA는 2023년 8월 22일 해당 MSM 점안제를 포함한 제품을 구매·사용하지 말라는 소비자 안전경보를 발령했다.",
+   "responseKo": "회사는 2023년 8월 24일 FDA 전화회의 후 8월 25일 제조사와 함께 회신했고 미국 내 유통 무균제품의 자발적 리콜에 동의했으나, 8월 28일 이후 연락을 끊고 FDA를 통한 리콜을 개시하지 않았으며 웹사이트에 해당 1개 배치만 대상으로 한 \"service alert\"만 게시했다. FDA는 모든 유효기간 내 무균제품의 리콜과, 무효화 여부와 관계없이 미생물 오염 가능성이나 OOS 결과가 있는 모든 무균 배치로 확대한 근본원인 조사를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "제조사 활동에 대한 품질부서 감독 실패",
+   "detailKo": "회사는 자사 점안제를 추가 제조하는 미국 제조사((비공개))의 활동에 대해 적절한 품질 감독 책임을 수행하지 못했다. 회사는 MSM을 비롯한 원료 성분을 영국에서 미국 제조사로 공급했고, 미국 제조사는 2023년 8월 25일 회신에서 정수시스템 고장으로 여과되지 않은 수돗물이 점안제에 사용됐다고 밝혔다. 즉 추가 공정 수행과 용도에 적합한 물 사용 등에 대한 감독이 이루어지지 않았다. 2023년 9월 15일 FDA가 (비공개) 등록 주소를 현장 조사했으나 (비공개)도 LightEyez도 그 장소에 존재하지 않았고, 양측이 FDA와의 연락을 끊어 두 회사의 제조 작업 모두 실사가 불가능한 상태다.",
+   "responseKo": "FDA는 이 서한에 대한 답변으로 LightEyez 본사의 갱신된 주소, 미국 시장용 의약품을 제조하는 모든 시설과 위탁제조 기관의 명칭·주소, 미국 시장에 판매·유통되는 전 제품 목록 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 판매 — MSM·색변환·눈미백 점안제",
+   "detailKo": "FDA는 2023년 8월과 9월에 회사 라벨과 웹사이트(https://www.lighteyez.com/)를 검토해, MSM Eye Repair Drops 외에도 \"MSM Eye Support Eye Drop\", \"Antioxidant Eye Drop (with MSM)\", \"Limbal Ring Preserver\", 색변환 제품 \"Ultra X - The Ultimate Color Changing Drop\", \"The Ultra Drop\", \"Advanced Extra Strength Color Changing Eye Drop (Kijoc Mushroom)\", 눈미백 제품 \"Premium Manuka Eye Lightening Drop\", \"The Original Eye Lightening Drop\", \"The 'Just Raw Honey' Eye Lightening Drop\" 등이 미국 내 판매되고 있음을 확인했다. 웹사이트에는 \"비문증 감소\", \"안압 균등화\", \"손상된 막 복구\", \"녹내장·백내장 효과 완화 가능\", \"홍채의 멜라닌을 분해해 3~15개월 내 눈 색이 영구적으로 변한다\", \"녹내장 약물의 홍채·공막 착색 부작용 대응\" 등 질병의 진단·치료·완화·예방 또는 신체 구조·기능에 영향을 준다는 표방이 게재돼 있어 201(g)(1)상 의약품에 해당한다. 이들 제품은 표방된 용도에 대해 GRASE로 인정되지 않아 201(p)상 신약이며, 505조에 따른 승인 신청이 유효하게 존재하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "",
+   "area": "시설·장비",
+   "titleKo": "용기·마개 시스템의 오염·누출 위험",
+   "detailKo": "FDA는 회사 웹사이트(https://www.lighteyez.com/neweyecolorsupport.html) 검토 결과 용기·마개 시스템이 예견 가능한 외부 요인으로부터 적절한 보호를 제공하는지 우려된다고 지적했다. 회사는 소비자에게 점안기 팁이 막혔을 때 이물질을 노즐에 삽입하거나 점안기 팁을 제거해 뚫으라고 안내하고 있는데, 이는 이물·미생물에 의한 제품 오염 위험을 초래한다. 또한 웹사이트는 용기·마개 시스템에 누출이 발생한다고 밝히면서 \"특히 국제 배송의 경우 항공 운송으로 용기 내 압력이 상승하기 때문\"이라고 인정하고 있다. 용기·마개 시스템은 유효기간 동안 제형의 품질 저하를 유발할 수 있는 요인으로부터 적절히 보호해야 한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "점안제 미생물 오염",
+  "무허가 신약",
+  "품질부서 감독",
+  "자발적 리콜 불이행",
+  "용기·마개 시스템",
+  "실사 불가"
+ ],
+ "id": "lighteyez-limited-665450-02152024",
+ "extractedAt": "2026-09-12T08:26:11Z",
+ "sourceChars": 17583
+}

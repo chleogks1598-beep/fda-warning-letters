@@ -1,0 +1,47 @@
+{
+ "headlineKo": "안정성시험·원료 identity 미비, 글리세린 DEG/EG 미검사",
+ "summaryKo": "FDA는 2022년 11월 9일과 2024년 2월 26일 FD&C Act 704(a)(4)에 따른 기록 제출 요구에 대해 reBom Co., Ltd.(세종, FEI 3013693278)가 제출한 자료를 검토했고, 현장 실사 대신 서류 검토로 CGMP 위반 2건을 지적했다. 안정성시험 프로그램이 미비해 유효기간 2년으로 표시된 dermaFit Athlete Muscle Maintenance Cream에 대해 1개 배치·3개월 자료만 있었고, 화학·미생물 시험 자료도 제시하지 못했다. 원료 identity·순도 시험이 불충분했으며 특히 글리세린 전 로트에 대한 DEG/EG 한도시험을 수행하지 않았고, 완제품 출하시험에도 주성분 함량(assay)과 미생물시험이 빠져 있었다. FDA는 21 CFR 211.34 자격을 갖춘 컨설턴트 선임과 6대 시스템 전반 감사를 권고했으며, 시정되지 않으면 801(a)(3)에 따라 수입을 거부할 수 있고 해당 업소를 기재한 신규 허가 승인을 보류할 수 있다고 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "6 Myeonghaksandanseo-ro, Yeondong-Myeon, Sejong, 30068, South Korea",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "의약품 안정성시험 프로그램 미수립·미이행",
+   "detailKo": "제출된 기록만으로는 제조 중인 OTC 의약품에 대한 적절한 안정성 프로그램이 있음을 입증하지 못했다. 예를 들어 안정성시험 보고서에는 dermaFit Athlete Muscle Maintenance Cream 1개 배치에 대한 3개월치 자료만 포함돼 있었으나, 해당 제품은 유효기간 2년으로 표시돼 있다. 또한 안정성시험 중 적절한 화학적·미생물학적 시험이 수행된다는 자료도 제출하지 못했다. 적절한 안정성시험 없이는 표시된 유효기간까지 제품이 설정 기준에 적합하고 품질특성을 유지하는지에 대한 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료의 identity 및 순도 기준 적합성 시험 미실시",
+   "detailKo": "dermaFit Athlete Muscle Maintenance Cream 등 OTC 의약품을 제조하면서 입고 원료의 identity를 적절히 시험하고 있음을 입증하지 못했다. 순도 기준 적합성도 확보하지 못해, 주성분인 (비공개)에 대한 (비공개) 시험 수행을 입증하지 못했다. 특히 원료 identity 시험에 제조에 사용되는 글리세린 전 로트에 대한 디에틸렌글리콜(DEG)·에틸렌글리콜(EG) 한도시험이 포함돼 있지 않았다. 아울러 완제품 시험도 미흡해, 제출된 dermaFIT Athlete Muscle Maintenance Cream 시험성적서에는 주성분 함량 assay 시험과 미생물시험이 없었다. FDA는 글리세린 등 고위험 원료의 DEG/EG 오염이 전 세계적으로 치명적 중독 사고를 일으켜 왔음을 지적하며 관련 가이던스를 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "안정성시험",
+  "원료 identity 시험",
+  "글리세린 DEG/EG 한도시험",
+  "완제품 출하시험",
+  "704(a)(4) 기록 검토",
+  "CGMP 컨설턴트"
+ ],
+ "id": "rebom-co-ltd-682811-06262024",
+ "extractedAt": "2026-09-12T08:08:23Z",
+ "sourceChars": 8170
+}

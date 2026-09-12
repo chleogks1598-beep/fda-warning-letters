@@ -1,0 +1,56 @@
+{
+ "headlineKo": "FMT 무허가 신약·무면허 생물의약품 직접판매, 기증자 스크리닝 부실",
+ "summaryKo": "FDA CBER은 2024년 2월 www.humanmicrobes.org 웹사이트와 유튜브 채널을 검토했고, 시설 실사가 아닌 온라인 표시·광고 검토에 근거한 경고장이다. 해당 사이트는 분변 미생물 이식(FMT)을 캡슐·관장·주입 형태로 미국·캐나다 등에 판매하면서 C. difficile 외에 IBS, IBD, 파킨슨병, 자폐, 당뇨, 우울·양극성 장애 등의 치료·예방 효과를 표방했다. 이런 표시로 제품은 FD&C Act 201(g)(1)(B)상 의약품이자 201(p)상 신약이고 PHS Act 351(i)상 생물의약품에 해당하는데, 승인된 BLA·NDA도 IND도 없어 무허가 신약이자 무면허 생물의약품으로 주간 통상에 유통시켜 21 U.S.C. § 331(d)를 위반했다. FDA는 2022년 11월 FMT 집행재량 지침의 적용도 배제했으며(C. difficile 외 적응증, 의료인 지시 없는 환자 자가투여, 기증자 스크리닝 미흡에 따른 안전성 우려), 15영업일 내 시정조치 서면 통보를 요구하고 불응 시 압류·금지명령 등 집행조치를 예고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Human Microbes, 3870 La Sierra Avenue #1069, Riverside, CA 92505, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 201(g)(1)(B), 201(p); 21 U.S.C. § 355(a); 21 U.S.C. § 331(d)",
+   "area": "허가·표시",
+   "titleKo": "승인 없이 무허가 신약을 유통",
+   "detailKo": "웹사이트와 유튜브 영상의 표방 문구가 제품을 질병의 완화·치료·예방 용도로 제시해 FD&C Act 201(g)(1)(B)상 의약품에 해당한다. 표시된 용도에 대해 일반적으로 안전하고 유효하다고 인정(GRASE)되지 않으므로 201(p)상 '신약'이다. 웹사이트는 FMT가 C. difficile 감염의 구명 치료이며 IBS, IBD, 파킨슨병, 섬유근육통, 만성피로증후군, 다발성경화증, 자폐, 당뇨, 우울·불안·양극성 장애에 유망하다고 적었고, 비만·자가면역·심혈관질환·암에도 적용 가능성이 있다고 했다. 유튜브 영상 'We want your poop'에서는 한 환자가 FMT로 양극성 장애가 치료됐다고 언급했다. 승인된 신약신청도 시험용신약(IND)도 없는 상태에서 주간 통상에 도입시켜 21 U.S.C. § 331(d)를 위반했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "PHS Act 351(i), 42 U.S.C. § 262(a); 21 CFR Part 312",
+   "area": "허가·표시",
+   "titleKo": "BLA 없이 생물의약품을 판매",
+   "detailKo": "제품은 인체 질병의 예방·치료·완치에 적용되므로 PHS Act 351(i)[42 U.S.C. § 262(i)]상 생물의약품이다. 생물의약품을 합법적으로 판매하려면 유효한 생물의약품허가신청(BLA)이 있어야 하나 해당 제품에는 승인된 BLA가 없다. 개발 단계라면 21 CFR Part 312에 따른 IND가 있어야 하는데 그 역시 없다. 따라서 제품은 무면허 생물의약품이다. 각주에서 FDA는 FMT가 미생물로 구성된 생균치료제(live biotherapeutic product)이며 인체 세포·조직이 아니어서 HCT/P 정의(21 CFR 1271.3(d))에 해당하지 않는다고 명시했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "품질시스템",
+   "titleKo": "FMT 집행재량 정책 적용 대상 아님",
+   "detailKo": "웹사이트가 'FDA 집행재량 정책'을 원용했으나, 2022년 11월 개정 지침은 표준치료에 반응하지 않는 C. difficile 감염 치료에 한해, 그리고 면허 있는 의료인의 지시 아래 기증자와 분변의 스크리닝·시험이 이뤄지는 경우에만 IND 요건에 대한 집행재량을 적용한다. 그러나 이 업체는 C. difficile 외 다른 질환용으로 FMT를 제공하고, '의사와 상의하라'고 권하면서도 기증자가 환자에게 직접 배송하고 자가투여 방법까지 안내해 의료인이 스크리닝·시험을 지시한다는 보증이 없다. 기증자 스크리닝이 미흡해 중대한 안전성 우려가 제기되며, 웹사이트의 '기증자 결과 스프레드시트'에도 장 통증 증가·구역·발한·식욕 저하 등 보고된 안전성 문제가 기재돼 있다. 이러한 이유로 제품은 집행재량 정책 범위에 들지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "분변미생물이식(FMT)",
+  "무허가 신약",
+  "무면허 생물의약품",
+  "BLA·IND 미보유",
+  "집행재량 정책",
+  "기증자 스크리닝"
+ ],
+ "id": "human-microbes-672740-02092024",
+ "extractedAt": "2026-09-12T08:23:38Z",
+ "sourceChars": 8808
+}

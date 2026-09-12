@@ -1,0 +1,65 @@
+{
+ "headlineKo": "인공눈물 녹농균 오염 비무균 유통, 공급자관리·불만처리 부재",
+ "summaryKo": "FDA는 2023년 3월 8일부터 3월 21일까지 미국 뉴저지주 레이크우드 소재 EzriCare LLC(FEI 3022210898) 유통시설을 실사했으며, 이는 위탁제조소 Global Pharma Healthcare Private Limited(인도)에서 발견된 위반 상황에 따른 후속 조치였다. FDA 시험 결과 미개봉 상태의 EzriCare Artificial Tears 14개 배치가 비무균으로 확인됐고, 3개 배치의 녹농균 분리주가 85건 이상의 임상 분리주와 유전적으로 일치해 환자 80명 이상 감염·4명 사망·14건 이상 시력상실로 이어진 다제내성 녹농균 집단발생과 연결됐다. 유통업자로서 CMO 적격성 평가 절차와 CGMP 준수 서면계약이 없었고, 제품 불만 처리 절차도 없어 접수된 불만을 문서화·조사하지 않았으며, 무방부제 다회용 안과용제를 계속 유통했다. FDA는 2023년 4월 10일자 Form FDA 483 답변을 검토했으나 공급자가 제형·포장·표시를 책임진다는 해명은 책임 면제 사유가 되지 않는다고 보았고, CMO는 2023년 1월 3일 수입경보 66-40에 등재, 2023년 2월 2일 자발적 회수가 개시됐으며, 회사는 전 의약품 유통 중단을 약속했다.",
+ "inspectionStart": "2023-03-08",
+ "inspectionEnd": "2023-03-21",
+ "facility": "EzriCare LLC, 1525 Prospect Street, Suite 204, Lakewood, New Jersey 08701, United States",
+ "form483ResponseDate": "2023-04-10",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(1), 501(a)(2)(A), 501(a)(2)(B)",
+   "area": "무균·멸균",
+   "titleKo": "안과용제 비무균·녹농균 오염 제품 유통",
+   "detailKo": "FDA는 CDC와 함께 2022년 12월부터 다제내성 녹농균 다주(多州) 집단발생을 조사했으며, 이 사건으로 환자 80명 이상이 영향을 받고 4명이 사망, 최소 14건의 시력상실이 발생했다. FDA가 수거한 미개봉(intact) 완제품 시험 결과 EzriCare Artificial Tears 14개 배치가 비무균으로 확인되어 제품이 본질적으로(intrinsically) 미생물에 오염되었음이 드러났다. 전장유전체 분석 결과 서로 다른 3개 배치의 녹농균 분리주가 이번 집단발생 관련 임상 분리주 85건 이상과 근접 유전적 일치를 보였다. 또한 서로 다른 배치의 미개봉 검체 2건에서 육안으로 보이는 이물이 검출됐다. 위탁제조소 Global Pharma Healthcare Private Limited는 2023년 2월 20일~3월 2일 실사에서 충전설비 부적합, 멸균공정 밸리데이션 미실시, 다회용 용기 밀폐성 결여, 다회용 OTC 안과용제의 보존제 부재 등 다수의 CGMP 위반이 확인됐다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 301(c), 301(a)",
+   "area": "품질시스템",
+   "titleKo": "부정의약품 수령 및 주간(州間) 유통",
+   "detailKo": "실사와 수입기록 검토 결과, EzriCare Artificial Tears 3개 선적분이 제3자 (비공개)에 의해 위탁제조소 Global Pharma Healthcare Private Limited(FEI 3012323885)로부터 수입되어 EzriCare LLC가 수령한 뒤 고객에게 추가 유통된 것으로 확인됐다. 부정의약품을 주간 통상에서 수령하고 인도하거나 인도를 제안한 행위는 FD&C Act 301(c) 위반이며, 부정의약품 유통은 301(a) 위반이다. 회사는 위탁제조 계약과 무관하게 자사가 유통하는 의약품의 품질에 대한 책임을 진다.",
+   "responseKo": "FDA는 부정의약품을 수령·인도하지 않도록 하는 상세 계획, 공급자·위탁제조소 적격성 프로그램 전면 평가와 주기적 감사 계획, 불만처리 전반 평가 및 현행 공급자·위탁제조소 평가 결과를 제출할 것을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "원자재·공급자",
+   "titleKo": "CMO 적격성 평가·품질계약·불만처리 절차 부재",
+   "detailKo": "회사는 안과용 의약품의 제조·수입에 CMO를 이용한다고 확인했으나, 자사용으로 생산된 안과용제가 적절한 품질특성을 충족하고 미생물 오염이 없음을 보장할 적절한 절차를 갖추지 못했다. Global Pharma Healthcare Private Limited로부터 받은 제품이 미국 유통 전 CGMP에 부합하게 제조됐음을 보장할 공급자 적격성 평가 절차가 없었고, CMO에 CGMP 준수를 요구하거나 미국 공급망 출하 판정을 적절히 수행하도록 하는 서면 계약이나 절차를 제시하지 못했다. 또한 EzriCare 라벨로 유통된 Artificial Tears에 대해 다수의 불만을 접수했으나, 서면·구두 불만 처리를 규정한 문서화된 절차가 없었고 접수된 불만을 문서화·조사하지 않았다.",
+   "responseKo": "회사는 공급자 (비공개)가 제형·포장·표시를 책임진다고 답변했으나, FDA는 해당 다회용 안과용제에 보존제가 없었고 이것이 제품을 건강에 유해하게 만든 한 원인이라고 지적했다. 또한 회사는 (비공개)가 여러 차례 자사 CMO와의 직접 연락을 거부했다고 진술했음에도 해당 제품 유통을 계속했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(j); 21 CFR 200.50",
+   "area": "허가·표시",
+   "titleKo": "비무균 안과용제의 오표시(misbranding)",
+   "detailKo": "EZRICARE Artificial Tears는 제품 표시상 \"눈의 추가 자극에 대한 보호 또는 건조감 완화\", \"경미한 눈 자극이나 바람·햇빛 노출로 인한 불편의 일시적 완화\" 등의 표방으로 FD&C Act 201(g)(1)(B) 및 201(g)(1)(C)상 '의약품'에 해당하며, 안과용 점활제(ophthalmic demulcent)로 사용 의도된다. 21 CFR 200.50은 안과용으로 제공·의도되는 모든 제제는 무균이어야 하며 그렇지 않으면 502(j)에 따라 오표시로 간주한다고 규정한다. FDA 검체 분석에서 해당 제품이 녹농균(Pseudomonas) 속을 포함한 미생물에 오염된 것으로 확인되어 무균이 아니므로 502(j)에 따라 오표시 의약품이다. 세균 오염된 안약을 점안할 경우 경미한 것부터 시력을 위협하는 중증, 나아가 생명을 위협하는 전신 세균감염까지 진행될 합리적 개연성이 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-01-03)",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "안과용제 무균성",
+  "녹농균 오염",
+  "공급자·CMO 적격성평가",
+  "품질계약",
+  "불만처리",
+  "오표시(502(j))"
+ ],
+ "id": "ezricare-llc-658390-02132024",
+ "extractedAt": "2026-09-12T08:26:36Z",
+ "sourceChars": 14458
+}

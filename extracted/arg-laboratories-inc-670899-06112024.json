@@ -1,0 +1,83 @@
+{
+ "headlineKo": "품질부서 부재·OOS 제품 출하, 원료 동일성시험 누락·공정검증 미실시",
+ "summaryKo": "FDA는 텍사스 댈러스 소재 ARG Laboratories, Inc.(FEI 3002556034)를 2023년 9월 11일부터 20일까지 실사했다. 품질부서(QU) 기능 미비, 원료 동일성시험 및 공급자 COA 신뢰성 검증 누락, 공정·세척·용수시스템 검증 미실시, 안정성시험 프로그램 미준수 등 CGMP 위반 4건이 지적됐고, 이에 더해 \"Golden Tiger Natural Pain Relieving Cream\"과 \"Pain Wizard Natural Relief for Muscular & Arthritic Pain\" 제품이 미승인 신약이자 허위표시(misbranded) 제품으로 지적됐다. 회사의 2023년 10월 4일자 Form FDA 483 답변은 근본 원인에 대한 종합적 CAPA와 세부 계획, 이미 유통된 제품에 대한 소급 평가가 없어 모두 부적절하다고 평가됐다. FDA는 CGMP 컨설턴트 고용을 권고하고, 신속히 시정하지 않으면 압류·금지명령 등 조치가 가능하며 수출증명서 발급 보류 및 신규 허가 승인 보류가 있을 수 있음을 통보했다.",
+ "inspectionStart": "2023-09-11",
+ "inspectionEnd": "2023-09-20",
+ "facility": "2639 Manana Drive, Dallas, TX 75220-1301, United States",
+ "form483ResponseDate": "2023-10-04",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a) and (d)",
+   "area": "품질시스템",
+   "titleKo": "품질부서 기능·절차 미비 및 규격부적합품 출하",
+   "detailKo": "미국 시장용 국소 OTC 의약품을 제조하면서 품질부서(QU)가 제조 전반에 대한 적절한 감독을 수행하지 못했다. 공급자 적격성 평가, 변경관리, OOS 결과 조사, 리콜, 불만처리 등 QU의 역할과 책임을 기술한 적절한 절차가 수립되지 않았다. 특히 QU는 활성성분 옥토크릴렌(octocrylene)이 자사 규격 (b)(4)%에 부적합했던 Bullfrog Amphibious SPF Lotion을 출하했다. FDA는 규격에 부적합했으나 출하된 다른 여러 완제품 로트도 확인했다.",
+   "responseKo": "회사는 CGMP 준수 절차를 만들고 모든 활성성분이 \"요구되고 승인된 분석 범위\" 내에 들도록 하겠다고 답변했다. FDA는 이러한 실패를 초래한 QU의 근본적 결함을 다루지 않았고, 감독 결함을 체계적으로 시정할 종합 CAPA 계획이 제시되지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 동일성시험 미실시 및 공급자 시험성적 신뢰성 미검증",
+   "detailKo": "프로필렌글리콜과 옥토크릴렌 등 원료의약품을 포함한 입고 원료에 대해 사용 전 동일성시험을 적절히 실시하지 않았다. 공급자의 시험성적서(COA)에 의존하면서 적절한 주기로 각 공급자 분석의 신뢰성을 확인하지 않았다. 프로필렌글리콜 등 고위험 원료의 동일성시험에는 DEG·EG 안전 한도 확인을 위한 USP 한도시험이 포함되는데, 각 로트의 각 선적분에 대해 이러한 유해 불순물을 검출하는 USP 확인시험을 수행하지 않아 원료의 사용 적합성을 보증하지 못했다. DEG·EG로 오염된 원료 사용은 전 세계적으로 치명적 중독 사고를 일으킨 바 있다.",
+   "responseKo": "회사는 입고 원료를 전량 샘플링·검사하여 \"확인되고 공급자 COA와 일치\"하도록 하고 공급자 시험결과를 검증하겠다고 답변했다. FDA는 시험방법과 공정서 요건 검토를 포함한 구체적 원료 시험 계획이 없고, 공급자 COA 결과의 신뢰성을 적절한 주기로 확인할 방법에 대한 설명이 부족하며, 이미 유통된 제품에 대한 소급 검토를 고려하지 않아 부적절하다고 평가했다. FDA는 회신 시 30일 이내 고위험 원료 보관검체의 DEG·EG 시험결과 제출 약속과 유효기간 내 제품 위험평가 등을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "공정검증·세척검증·용수시스템 검증 미실시",
+   "detailKo": "생산 및 공정관리를 적절히 검증하지 못했다. 실사 중 회사는 공정밸리데이션 및 비전용 설비에 대한 세척밸리데이션 연구를 수행하지 않았음을 인정했다. 또한 OTC 의약품의 구성성분인 물을 공급하는 (b)(4) 용수시스템도 검증하지 않았다. 용수 품질 시험결과를 요청받았을 때 어떠한 시험결과도 제출하지 못했다.",
+   "responseKo": "회사는 OTC 제조에 사용하는 kettle에 대한 밸리데이션과 세척공정·용수시스템 밸리데이션을 수행하겠다고 답변했다. FDA는 세부 내용이 부족하고, 검증되지 않은 공정으로 제조되어 현재 유통 중인 제품에 대한 위험평가나 시정조치가 포함되지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 미준수 및 유효기간 근거 부재",
+   "detailKo": "OTC 의약품에 대한 자사 안정성시험 절차를 따르지 않았다. 실사 중 회사는 고객사가 제공한 유효기간을 사용한다고 진술했으나 그 유효기간을 뒷받침하는 문서를 제출하지 못했다.",
+   "responseKo": "회사는 공정밸리데이션 배치를 안정성시험에 투입하고 고객사가 안정성 데이터를 제공하지 않는 한 적절한 유효기간을 부여하겠다고 답변했다. FDA는 현재 시장에 유통 중인 제품의 유효기간을 뒷받침할 안정성 데이터가 없는 문제를 다루지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a) and 301(d), 21 U.S.C. 355(a) and 331(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 — OTC 모노그래프 M017 부적합",
+   "detailKo": "\"Golden Tiger Natural Pain Relieving Cream\"과 \"Pain Wizard Natural Relief for Muscular & Arthritic Pain\"은 표시·웹사이트상 통증·염증 완화 목적을 표방하여 FD&C Act 201(g)(1)(B)·(C)상 의약품에 해당하며, 외용 진통제(counterirritant external analgesic)로 사용 의도가 인정된다. 두 제품은 캄파·멘톨을 활성성분으로 배합했으나, 웹사이트와 주표시면에서 커큐민, 버드나무 껍질(willow bark), 생강, MSM의 약리작용을 내세워 이들이 21 CFR 201.66(b)(2)상 \"활성성분\"에 해당하는데, 이들 성분은 OTC 모노그래프 M017에서 활성성분으로 허용되지 않는다. 또한 \"Golden Tiger\" 제품은 \"염증…섬유근육통…건염\" 완화 등 M017.50(b)이 허용하지 않는 효능을 표방했다. 따라서 두 제품은 GRASE가 아니며 승인된 신약허가가 없는 미승인 신약이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(ee) and 301(a), 21 U.S.C. 352(ee) and 331(a)",
+   "area": "허가·표시",
+   "titleKo": "허위표시(misbranding) 의약품 유통",
+   "detailKo": "\"Golden Tiger Natural Pain Relieving Cream\"과 \"Pain Wizard Natural Relief for Muscular & Arthritic Pain\"은 FD&C Act 505G의 적용을 받는 일반의약품이지만 해당 조항에 따른 판매 요건을 충족하지 못하고 505조에 따른 승인 신청도 없으므로 502(ee)조상 허위표시 의약품에 해당한다. 이러한 제품을 주간 상거래에 도입하거나 도입을 위해 인도하는 행위는 301(a)조에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질부서 감독",
+  "원료 동일성시험",
+  "DEG/EG 오염",
+  "공정·세척 밸리데이션",
+  "안정성시험",
+  "미승인 신약·허위표시"
+ ],
+ "id": "arg-laboratories-inc-670899-06112024",
+ "extractedAt": "2026-09-12T08:07:27Z",
+ "sourceChars": 27122
+}

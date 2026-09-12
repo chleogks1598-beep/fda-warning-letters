@@ -1,0 +1,65 @@
+{
+ "headlineKo": "CMO 무균공정 불량·미생물시험 기록 조작, 공급자 관리와 리콜 대응 실패",
+ "summaryKo": "FDA는 안과용 점안제를 유통하는 Velocity Pharma LLC(뉴욕주 Farmingdale 소재)를 2023년 11월 3일부터 12월 14일까지 실사했다. 이는 이 회사의 위탁제조소(CMO)인 인도 Kilitch Healthcare India Limited 실사에서 무균조작 미흡, 배지충전·기류가시화 연구 부적절, 미생물시험실 기록 날조·변조, ISO 5 구역 배양 샘플의 미생물 검출 등 중대한 CGMP 위반이 확인된 데 따른 것이다. 회사는 CMO 및 공급자 적격성평가 절차가 미비했고, 완제품 유통기록에 주소·배치번호·출하수량이 누락돼 있었으며, 2023년 10월 25일 FDA와의 전화회의로 제품이 부적합(adulterated)임을 통보받고도 자사 라벨 제품조차 시장에서 회수하지 않았다. Kilitch는 2023년 10월 23일 수입경보 66-40에 등재됐고 FDA는 10월 27일 직접 소비자 경고를 발령했으며, 리콜은 3주 가까이 지연된 11월 15일에야 시작됐다.",
+ "inspectionStart": "2023-11-03",
+ "inspectionEnd": "2023-12-14",
+ "facility": "210 Sea Lane, Farmingdale, NY",
+ "form483ResponseDate": "2023-12-29",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "무균·멸균",
+   "titleKo": "위탁제조소 실사에서 무균공정 및 시험기록 관련 중대 CGMP 위반 확인",
+   "detailKo": "FDA는 2023년 10월 12~20일 CMO인 Kilitch Healthcare India Limited를 실사해 비위생적 조건과 다수의 CGMP 위반을 확인했다. 무균의약품 제조 시 무균조작 관행 불량, 부적절한 배지충전(media fill) 프로그램 및 기류가시화(airflow visualization) 연구, 미생물시험실 기록의 날조·변조, ISO 5 제조구역 배양 샘플에서의 미생물 검출 등이 포함된다. 또 다른 CMO((비공개))에 대한 실사에서도 같은 유형의 위반과 함께 배양 중 혼탁을 나타낸 무균시험, 찢어지고 육안으로 더러운 무균구역 작업복(gowning) 사용이 확인됐다. Kilitch는 2023년 10월 23일 수입경보 66-40에 등재되고 2023년 11월 15일 유효기간 내 전 제품을 회수했으며, 2024년 3월 28일 경고장(#320-24-29)을 받았다. FDA는 Kilitch에 발행된 경고장 사본을 미국 내 유통사이자 등록 미국대리인인 Velocity Pharma에도 송부했다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 301(a), 301(c); 501(a)(2)(A), 501(a)(2)(B)",
+   "area": "원자재·공급자",
+   "titleKo": "CMO·공급자 적격성평가 절차 미비로 부적합 의약품 유통",
+   "detailKo": "회사는 안과용 의약품 제조를 CMO에 위탁하면서, 자사를 위해 제조된 모든 안과용 제품이 적절한 품질 특성을 충족하는지 보증할 절차를 갖추지 못했다. 또한 Kilitch(FEI 3011853060) 및 (비공개)(FEI 비공개)로부터 받은 제품이 미국 내 유통 전에 CGMP에 따라 제조됐는지 확인할 공급자 적격성평가 절차도 미비했다. 그 결과 회사는 FD&C Act 501(a)(2)(A) 및 501(a)(2)(B)에 따라 부적합(adulterated)인 안과용 의약품을 수령해 주간(州間) 상거래에 유통시켰고, 이는 301(a) 및 301(c) 위반에 해당한다. 회사는 Equate, Rite Aid, CVS, Up&Up, Velocity Pharma, Leader, Rugby 등 브랜드 점안제의 유통사로 영업해 왔다.",
+   "responseKo": "FDA는 회신 시 부적합 의약품을 수령·유통하지 않도록 하는 상세 계획과 함께, 공급자·CMO 적격성평가 프로그램 전반에 대한 평가, 정기 감사 계획, 현재 공급자·CMO에 대한 평가 결과를 제출하도록 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "문서·데이터완전성",
+   "titleKo": "완제의약품 유통기록 미비",
+   "detailKo": "회사의 완제의약품 유통기록이 불충분했다. 실사 중 회사가 제출한 유통기록에는 주소, 배치번호, 시설에서 출하된 수량이 누락되어 있었다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "",
+   "area": "품질시스템",
+   "titleKo": "부적합 제품 회수 조치 지연·미이행",
+   "detailKo": "FDA는 2023년 10월 25일 회사 및 CMO인 Kilitch와 전화회의를 열어 Kilitch 제조 제품이 CGMP를 충족하지 못해 부적합으로 간주된다고 통보했으나, 회사와 Kilitch 모두 시장조치(market action)를 취하겠다는 약속을 하지 않았다. FDA는 회수 결정 지연으로 2023년 10월 27일 직접 소비자 대상 공개 경고를 발령했고, Kilitch는 전화회의로부터 약 3주 뒤인 2023년 11월 15일에야 회수에 착수했다. 미국 시장 내 Kilitch 제품 유통사인 회사는 자사 라벨인 Velocity Pharma 제품을 포함해 부적합 제품을 시장에서 제거하는 조치를 취하지 않았으며, 이는 FDA 통보 직후 즉시 조치한 소매업체들과 뚜렷이 대비된다.",
+   "responseKo": "Kilitch는 제품시험만으로 관찰된 CGMP 결함을 충분히 보완할 수 있다고 주장했으나, FDA는 이에 동의하지 않고 해당 시설 제조 제품에 대한 중대한 우려를 재차 밝혔으며 2024년 3월 28일자 경고장에 그 내용을 기재했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-10-23)",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "공급자·CMO 적격성평가",
+  "수입경보 66-40",
+  "리콜 지연",
+  "무균공정 관리",
+  "미생물시험 기록 조작",
+  "유통기록 미비"
+ ],
+ "id": "velocity-pharma-llc-676434-07172024",
+ "extractedAt": "2026-09-12T08:04:27Z",
+ "sourceChars": 9493
+}

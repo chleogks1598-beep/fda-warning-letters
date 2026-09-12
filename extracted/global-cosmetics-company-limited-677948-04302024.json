@@ -1,0 +1,56 @@
+{
+ "headlineKo": "에탄올 메탄올 시험 미흡, 안정성시험 부실·품질부서 기능 미비",
+ "summaryKo": "FDA는 2022년 9월 12일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토해 중국 광둥성 둥관 소재 Global Cosmetics (China) Company Limited(FEI 3013749236)의 CGMP 위반 3건을 지적했다. 입고 원료 확인시험 미실시와 에탄올의 메탄올 시험 미흡, OTC 손소독제의 안정성 프로그램 부실(12주 데이터만 제출, 화학·미생물 시험 자료 부재), 품질부서(QU)의 감독 기능 미비가 핵심이다. 이 편지는 실사가 아닌 기록 제출에 근거한 것으로 Form FDA 483 답변에 대한 평가는 없다. FDA는 2024년 2월 16일 해당 업체를 수입경보 66-40에 등재했고, 미국 시장용 제조를 재개하려면 21 CFR 211.34 자격을 갖춘 컨설턴트를 선임해 6대 시스템 전반 감사를 받도록 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Global Cosmetics (China) Company Limited, No. 13 Gaobao Road, Changping Town, Dongguan, Guangdong 523581, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 확인시험 및 에탄올 중 메탄올 시험 미흡",
+   "detailKo": "손소독제를 포함한 OTC 의약품을 제조하면서, 제출된 기록만으로는 제조에 사용되는 입고 원료의 확인시험을 적절히 수행하고 있음을 입증하지 못했다. 주성분인 에탄올에 대한 메탄올 시험도 적절히 수행하고 있음을 보이지 못했다. 적절한 시험 없이는 원료가 사용 전에 규격에 적합하다는 과학적 근거가 없다. FDA는 메탄올에 오염된 에탄올 사용이 전 세계적으로 치명적 중독 사고를 일으켜 왔음을 지적하며 알코올·이소프로필알코올의 메탄올 시험 정책 가이던스를 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "의약품 안정성시험 프로그램 미흡",
+   "detailKo": "제출된 기록은 제조 중인 OTC 손소독제에 대해 적절한 안정성 프로그램을 갖추고 있음을 입증하지 못했다. 예로 제출한 안정성 시험 보고서에는 손소독제 1개 배치의 12주 안정성 데이터만 포함돼 있었다. 또한 안정성 시험 중 적절한 화학적·미생물학적 시험이 수행된다는 자료를 제출하지 못했다. 적절한 안정성 연구 없이는 표시된 유효기한까지 제품이 설정 규격과 품질 특성을 유지하는지에 대한 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "적절한 품질관리부서 미확립",
+   "detailKo": "제출된 기록과 정보는 품질부서(QU)가 의약품 제조 작업의 품질을 감독할 책임을 실효성 있게 수행하지 못했음을 보여준다. 품질부서는 자신의 권한과 책임을 온전히 행사할 의무가 있다. FDA는 귀사의 품질부서가 CGMP 운영 전반에 대해 적절한 감독을 수행하지 못하고 있을 것을 우려한다. FDA는 품질시스템 관련 가이던스(Quality Systems Approach to Pharmaceutical CGMP Regulations)를 참조하도록 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-02-16)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "메탄올 시험",
+  "원료 확인시험",
+  "안정성시험",
+  "품질부서 감독",
+  "수입경보 66-40",
+  "손소독제"
+ ],
+ "id": "global-cosmetics-company-limited-677948-04302024",
+ "extractedAt": "2026-09-12T08:19:03Z",
+ "sourceChars": 8822
+}

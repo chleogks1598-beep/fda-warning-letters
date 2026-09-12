@@ -1,0 +1,46 @@
+{
+ "headlineKo": "제품 규격·시험법 미비, 용수 미생물시험 부적정, QU 감독 부재",
+ "summaryKo": "FDA는 2023년 12월 4일부터 8일까지 중국 광둥성 포산시 소재 Guangzhou Baiyunshan Jingxiutang Pharmaceutical Co. Ltd.(FEI 3006010954) 완제의약품 제조소를 실사하고 CGMP 위반 2건을 지적했다. OTC 제품 라벨에는 유효성분이 2종으로 기재돼 있으나 COA에는 단일 함량시험 규격·결과만 있는 등 출하 규격과 시험법이 미비했고, (비공개) 성분에 대해 총호기성미생물수만 시험하고 유해균 시험과 분리균 동정 절차가 없었다. 2024년 1월 2일자 483 답변은 실행 일정·프로토콜·시험법과 규격이 제시되지 않았고 USP 방법 준수 여부와 B. cepacia 외 유해균 시험 여부가 불분명해 부적절하다고 평가됐다. FDA는 반복 위반을 시정하지 못한 점을 들어 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용을 권고했고, 신청서 승인 보류 및 801(a)(3)에 따른 수입 거부 가능성을 통보했다.",
+ "inspectionStart": "2023-12-04",
+ "inspectionEnd": "2023-12-08",
+ "facility": "249 Poyang Road, Huangqi, Dali Town, Nanhai District, Foshan City, Guangdong, China",
+ "form483ResponseDate": "2024-01-02",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "과학적으로 타당한 시험실 관리·규격 미확립",
+   "detailKo": "제조하는 의약품의 중요품질특성에 대한 출하 규격과 분석 시험법을 적절히 설정하지 않았다. 예를 들어 OTC 제품 (비공개)의 라벨에는 유효성분이 2종으로 기재돼 있으나, COA에는 (비공개) 1종에 대한 함량시험 규격과 결과만 기재돼 있었다. 또한 제품 구성성분으로 사용하는 (비공개)가 의도된 용도에 적합한지 보증할 규격이 없었으며, 총호기성미생물수만 시험하고 유해균(objectionable microorganisms) 시험은 전혀 수행하지 않았다. 절차서에는 (비공개) 시스템 시료 분리균의 미생물 동정 필요성도 규정돼 있지 않았다.",
+   "responseKo": "회사는 제품이 중국약전에 \"부합\"하며 총 (비공개)는 \"반복 시험\"으로 측정한다고 답했고, 미국 법규에 따른 함량시험 검토와 Burkholderia cepacia complex 시험을 하겠다고 했다. FDA는 실행 일정·프로토콜·갱신된 규격을 포함한 시험법 등 구체적 내용이 없고, 추가정보 요청에도 요구한 자료를 제출하지 않았으며, USP 공정서 방법 준수 여부와 B. cepacia 외 유해균 시험 여부가 불분명해 부적절하다고 평가했다. 답신에는 시험실 시스템 종합평가·개선계획, 로트별 시험규격 목록, 유효기간 내 미국 유통 배치 보관시료 전수 시험 계획과 결과 요약, 용수 시스템 관리 절차 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "적절한 품질관리부서(QU) 미확립",
+   "detailKo": "회사가 제출한 기록과 정보상 품질부서(QU)가 의약품 제조 전반의 품질을 감독할 책임을 실효적으로 수행하지 못한 것으로 확인됐다. 특히 시험실 시스템의 관리체계 확립에 대해 QU가 권한을 적절히 행사하지 않았다. FDA는 QU가 생산, 시설·장비, 시험실 관리, 포장·표시 시스템 등 다른 CGMP 업무에 대해서도 적절한 감독을 하지 않고 있을 가능성을 우려했다.",
+   "responseKo": "FDA는 QU가 실효적으로 기능할 권한과 자원을 갖추도록 하는 종합평가 및 개선계획을 요구했으며, 절차서의 견고성 판단, 전 공정에 대한 QU 감독 규정, 출하 판정 전 배치별 최종 검토, 일탈조사 감독·승인 등을 포함하도록 했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "출하 규격 미비",
+  "유해균 시험",
+  "품질부서 감독",
+  "반복 위반",
+  "CGMP 컨설턴트"
+ ],
+ "id": "guangzhou-baiyunshan-jingxiutang-pharmaceutical-co-ltd-675823-08012024",
+ "extractedAt": "2026-09-12T08:04:45Z",
+ "sourceChars": 9733
+}

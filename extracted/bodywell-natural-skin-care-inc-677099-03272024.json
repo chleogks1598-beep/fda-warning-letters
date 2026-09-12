@@ -1,0 +1,74 @@
+{
+ "headlineKo": "성분 확인시험 미흡·에탄올 메탄올 미검사, 완제품 시험·공정밸리데이션 부재",
+ "summaryKo": "FDA는 2023년 2월 8일자 FD&C법 704(a)(4) 기록 제출 요구에 따라 캐나다 Delta 소재 Bodywell Natural Skin Care Inc.(FEI 3018011294)가 제출한 기록을 검토했고, 그 결과 CGMP 위반 4건과 미승인 신약 위반을 지적했다. 입고 성분 확인시험을 냄새·색상·비중 확인으로만 대체하고 손소독제용 에탄올의 메탄올 시험을 하지 않았으며, 완제품 함량·순도 시험, 공정 밸리데이션, 배치기록 필수 항목이 모두 결여돼 있었다. 또한 VivaLaCara DERMALERE 크림 2종은 표시·웹사이트의 상처·화상 치유 등 치료 표방으로 미승인 신약에 해당한다고 판단했다. FDA는 2024년 2월 5일 이 회사를 수입경보 66-40에 등재했고, 미국 시장용 제조 재개 전 21 CFR 211.34 자격 컨설턴트 고용과 6대 시스템 전면 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "7338 Progress Way, Unit 3, Delta BC V4G 1L4, Canada",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 21 CFR 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "성분 확인시험 및 공급자 성적서 신뢰성 검증 미실시",
+   "detailKo": "회사는 Prosana Skin & Body Hand Sanitizer Gel, DERMALERE Advanced Burn and Scar Cream 등 OTC 의약품을 제조하면서 입고 성분의 확인시험을 적절히 수행했음을 입증하지 못했다. 특히 미국 유통용 손소독제 제조에 쓰는 에탄올 입고 로트에 대해 메탄올 시험을 하지 않았다. 자체 SOP는 규격에 따른 확인시험과 공급자·주기별 (비공개) 로트에 대한 전체 확인시험을 규정하고 있으나, 실제로는 냄새·색상·비중 시험만 사내에서 수행했다. 회사는 에탄올 공급자가 정확한 정보를 제공한다고 \"신뢰\"하기 때문에 메탄올 시험을 하지 않는다고 답했다. FDA는 메탄올이 혼입된 에탄올이 전 세계적으로 치명적 중독 사고를 일으켰음을 지적하며 메탄올 시험 관련 지침을 안내했다.",
+   "responseKo": "회사는 자재관리 SOP와 공급자 COA를 제출했으나, FDA는 SOP 내용과 달리 실제 시험이 관능·비중 수준에 그치고 메탄올 시험이 없어 원료가 규격에 적합하다는 과학적 근거가 없다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격 적합성 시험 미실시",
+   "detailKo": "제출된 기록상 완제 의약품에 대한 적절한 시험이 수행되고 있음을 입증하지 못했다. 제출된 COA와 배치기록에는 주성분 함량에 대한 적절한 assay 시험이나 불순물 시험이 포함되어 있지 않았다. FDA는 주성분의 함량·확인시험을 포함한 전체 출하시험이 출하·유통 전에 수행되어야 하며, 그렇지 않으면 제품이 규격에 적합하다는 과학적 근거가 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "제조공정 밸리데이션 및 공정관리 절차 미비",
+   "detailKo": "제출 자료는 제조공정이 밸리데이션되었음을 입증하지 못했다. 회사는 생산·세척·시험법 SOP가 Health Canada의 주기적 검토를 받는다고 하면서도 \"다른 어떤 경로로도 이 절차들을 밸리데이션한 적이 없다\"고 진술했다. FDA는 공정 밸리데이션이 전 생애주기에 걸친 설계 타당성과 관리상태를 평가하는 것이며, 상업적 유통 전에 공정 적격성 평가가 성공적으로 완료되어야 하고 이후에도 공정성능·품질에 대한 지속적 감시가 필요하다고 밝혔다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.188(b)",
+   "area": "문서·데이터완전성",
+   "titleKo": "배치기록에 주요 제조단계 수행 기록 누락",
+   "detailKo": "기록 요구에 따라 제출된 배치기록에는 제조에 관한 필수 정보가 결여되어 있었다. 누락 항목에는 샘플링 정보, 실수율 및 이론수율 계산, 각 주요 단계를 수행하고 직접 감독한 자의 식별 및 품질 승인 서명이 포함된다. FDA는 적절한 배치기록 없이는 배치 간 제품 균일성을 보증할 수 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 — 치료 효능 표방 크림 2종",
+   "detailKo": "\"VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream\"과 \"VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream\"의 표시·표시자료 및 라벨에 인쇄된 웹사이트(www.vivalacara.com)에서 의약품 사용목적을 입증하는 표현이 확인됐다. 예: \"경미한 화상과 흉터의 빠른 치유, 일광화상의 신속한 완화, 피부 자극·염증 진정\", \"상처와 손상된 피부의 빠른 치유\", \"Fast Heal Formula, Multi-Action\", 금잔화·캐모마일의 상처 치유 및 피부 염증 완화 효능 표현, 웹사이트의 항산화·항균·항염·항진균·항바이러스 등 \"임상적으로 입증된 특성\" 주장. FDA는 이들이 FD&C법 201(g)(1)(B) 및 (C)에 따른 \"의약품\"이며, 표시된 사용조건에서 안전성·유효성이 일반적으로 인정되지 않으므로 201(p)의 \"신약\"에 해당한다고 판단했다. 승인된 신청서가 없어 주간 상거래 반입은 505(a) 및 301(d) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-02-05)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "성분 확인시험",
+  "에탄올 메탄올 시험",
+  "완제품 출하시험",
+  "공정 밸리데이션",
+  "배치기록 미비",
+  "미승인 신약"
+ ],
+ "id": "bodywell-natural-skin-care-inc-677099-03272024",
+ "extractedAt": "2026-09-12T08:22:13Z",
+ "sourceChars": 13968
+}
