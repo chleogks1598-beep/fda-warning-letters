@@ -1,0 +1,56 @@
+{
+ "headlineKo": "미승인 신약 4종 판매, 결정화 민원 86건 미조사·불순물 OOS 방치",
+ "summaryKo": "FDA는 2023년 2월 2일부터 3월 2일까지 매사추세츠주 Wilmington 소재 Azurity Pharmaceuticals 제조소를 실사하고, 회사 웹사이트 검토를 병행해 CGMP 위반 2건과 미승인 신약 위반을 지적했다. 품질부서는 2022년 12월 초부터 2023년 2월까지 두 달 만에 접수된 결정화 민원 약 86건을 실사 착수 전까지 평가하지 않았고, 납 혼입 민원도 두 배치 중 한 배치만 조사했으며 납 시험은 아예 하지 않았다. 또한 2019년부터 안정성 시험에서 반복 검출되며 증가해온 미지 불순물 OOS에 대해 근본원인도 저감조치도 없었다. 회사는 두 건 모두 미흡을 인정했으나 근거 문서와 소급 검토를 제출하지 않아 FDA는 답변을 부적합으로 판단했고, 실사 중 Field Alert Report 제출·2개 배치 리콜·해당 제품 생산 중단이 이뤄졌으며 FDA는 CGMP 컨설턴트 고용과 미승인 처방약 판매 즉시 중단을 요구했다.",
+ "inspectionStart": "2023-02-02",
+ "inspectionEnd": "2023-03-02",
+ "facility": "841 Woburn Street, Wilmington, MA",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "불명확한 불일치·민원에 대한 조사 미흡",
+   "detailKo": "품질부서(QU)가 불명확한 불일치와 관련된 완제품 배치 및 구성품을 충분히 조사하지 않았다. (비공개) 주사제 2개 배치의 결정화 민원이 2022년 12월 초부터 2023년 2월까지 유통 첫 두 달간 약 86건 접수됐으나, QU는 FDA 실사가 시작될 때까지 이 악화 추세를 평가하지 않았다. 실사 중 Field Alert Report가 제출됐고 해당 2개 배치는 실사 종료 전 리콜됐다. 또한 (비공개) 제품 2개 배치의 납 존재 가능성에 관한 소비자 민원을 받고도 조사는 한 배치에만 국한됐고, 동일 (비공개) 구성품을 사용한 세 번째 배치는 조사 대상에서 빠졌으며, 납 존재 여부를 확인하는 시험은 전혀 수행되지 않았다.",
+   "responseKo": "회사는 조사가 부적절했음을 인정하고 민원 평가 및 신속 조치 프로세스를 강화하겠다고 약속했다. FDA는 약속을 뒷받침하는 문서가 없고 민원·제조 조사에 대한 소급 검토가 제출되지 않아 답변이 부적합하다고 평가했으며, 조사·CAPA·민원처리 시스템에 대한 독립적 평가와 소급 검토, 환자 보호를 위한 관리 전략 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성 시험 프로그램 수립·이행 실패",
+   "detailKo": "(비공개) mg/mL, (비공개) 온스 제품의 안정성 시험 결과를 적절히 평가해 보관조건과 유효기한을 정하지 않았다. 공정성능적격성평가(PPQ) 배치와 연간 안정성 배치의 유연물질 시험에서 개별 미지 불순물 OOS 결과가 다수 발생했다. 회사 조사기록상 이 미지 불순물은 2019년부터 안정성 시험에서 관찰됐고 모든 배치에서 시간이 갈수록 증가했으나, 실사 시점까지 근본원인을 규명하지 못했고 저감 조치도 없었다. 실사 중 회사는 철저한 불순물 조사가 끝날 때까지 해당 제품 생산을 중단하기로 결정했다.",
+   "responseKo": "회사는 공정밸리데이션 중 불순물 평가가 미흡했음을 인정하고 안정성 시험법을 재평가하겠다고 했으나, FDA는 약속을 뒷받침하는 문서와 타 제품 안정성 결과에 대한 소급 검토가 없어 부적합하다고 봤다. FDA는 안정성 프로그램 전반의 독립적 평가·CAPA 계획과, 유효기한 내 미국 시장 유통 배치에 대한 소급 위험평가 및 보관검체 시험을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 301(d), 505(a)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간 상거래 유통",
+   "detailKo": "FIRST® Lansoprazole, FIRST® Pantoprazole, FIRST® Metronidazole, FIRST® Mouthwash BLM은 질병의 진단·치료·완화·예방 목적 또는 신체 구조·기능에 영향을 줄 의도가 있어 FD&C Act 201(g)(1)상 의약품에 해당한다. 회사 웹사이트(azurity.com)에 게재된 라벨링이 의도된 용도의 근거로 인용됐다. Lansoprazole·Pantoprazole 첨부문서는 제품을 프로톤펌프억제제로 기재했고, Metronidazole 첨부문서는 경구용 처방약으로 USP <51> 항균력시험을 충족한다며 FDA 승인 metronidazole 라벨링을 참조하도록 안내했다. Mouthwash BLM 첨부문서는 diphenhydramine 및 lidocaine 분말로 구성된 경구 처방 제품으로 \"1:1:1 Magic Mouthwash의 유효성분에 상응\"한다고 기재했다. 이들 제품은 표시된 용도로 안전성·유효성이 일반적으로 인정되지 않아 201(p)(1)상 신약이며, FDA 승인 신청(505조)이 없으므로 유통은 301(d)·505(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "민원 조사",
+  "Field Alert Report",
+  "안정성 시험",
+  "미지 불순물 OOS",
+  "CAPA"
+ ],
+ "id": "azurity-pharmaceuticals-inc-656489-09202024",
+ "extractedAt": "2026-09-12T00:38:42Z",
+ "sourceChars": 16596
+}

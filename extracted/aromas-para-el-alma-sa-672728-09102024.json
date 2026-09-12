@@ -1,0 +1,83 @@
+{
+ "headlineKo": "에탄올 함량 미달 저역가 출하, 원료 확인시험 누락·QU 기능 부재",
+ "summaryKo": "FDA는 2023년 10월 16일부터 19일까지 코스타리카 소재 Aromas Para El Alma S.A. 제조소를 실사하고 CGMP 위반 4건과 무허가 신약·표시위반을 지적했다. 에탄올 원료를 저농도 제품으로 교체하면서 처방을 개정하지 않아 표시량(60%·70%)보다 낮은 농도로 여러 배치가 제조·출하됐고, 배치기록의 생산지시 미비, 입고 성분 확인시험 및 규격 적합성 확인 누락, 품질부서(QU)의 완제품 시험·안정성 프로그램·QU 절차 미비가 함께 지적됐다. 2023년 11월 8일자 회사 답변은 근거자료가 없고 시중 유통품에 대한 소급 평가와 잠정 생산계획이 불분명해 모두 부적절하다고 평가됐다. 회사는 2023년 10월 19일 자진회수 의향을 서면 제출하고도 실제 회수를 개시하지 않았으며, FDA는 2024년 3월 13일 저역가 사실을 대중에 공지하고 2024년 2월 29일 수입경보 66-40에 등재했으며 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "2023-10-16",
+ "inspectionEnd": "2023-10-19",
+ "facility": "Oficentro Ultima Park 2, Bodega No. 74, Calle Mango, Guachipelín, San Rafael, Escazu, San Jose 10203, Costa Rica",
+ "form483ResponseDate": "2023-11-08",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.101",
+   "area": "제조·공정관리",
+   "titleKo": "성분 투입에 대한 적절한 생산·관리 절차 미확립",
+   "detailKo": "표시 주성분량의 100% 이상을 보장하도록 처방을 설계하지 않았다. EREWHON ANTIBACTERIAL SPRAY와 EREWHON HAND SANITIZER는 각각 에탄올 60%, 70% 함유로 표시되어 있으나, 당초 (비공개)% 에탄올로 처방한 뒤 더 낮은 역가의 에탄올로 교체하면서 제조 처방을 개정하지 않았다. 변경이 완제품 품질에 미치는 영향을 평가하지 않았고 밸리데이션도 수행하지 않아, 여러 배치가 표시량보다 낮은 에탄올 농도(일부는 약 (비공개)%로 산출)로 제조되어 출하됐다. FDA가 2023년 10월 18일 자진회수 여부를 문의하자 회사는 10월 19일 회수 의향을 서면 제출했으나 이 서한 시점까지 회수를 개시하지도, 여러 차례의 연락 요청에 응하지도 않았다. FDA는 2024년 3월 13일 해당 제품의 저역가 사실을 대중에 공지했다.",
+   "responseKo": "처방 평가 조치를 제시했으나 근거자료가 없고 시중 유통 제품에 대한 소급 평가를 고려하지 않았으며 잠정 생산계획도 불분명해 부적절하다고 평가됐다. FDA는 미국 내 유통 배치 목록과 물량 대사, 유효기간 내 보관검체의 화학·미생물 시험 계획, 처방 개정 및 공정 밸리데이션 계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.188",
+   "area": "문서·데이터완전성",
+   "titleKo": "배치 제조·관리기록의 정보 불완전",
+   "detailKo": "제품의 배치제조기록에 적절한 생산지시가 포함되어 있지 않았다. 제조공정의 중요 단계 식별, 중요 공정변수((비공개) 및 (비공개) 시간 등), 각 처방 성분의 중량 또는 부피가 누락됐다. FDA는 불완전한 제조기록으로는 배치가 표시량의 100% 이상 주성분을 함유하도록 제조됐음을 보증할 수 없다고 지적했다.",
+   "responseKo": "배치기록 개선 조치를 제시했으나 근거자료 미제출, 유통 제품에 대한 소급 평가 미고려, 불분명한 잠정 생산계획을 이유로 부적절하다고 평가됐다. 마스터 제조·관리기록과 QU의 출하 전 기록 검토 절차 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 성분의 확인시험 및 규격 적합성 시험 미실시",
+   "detailKo": "에탄올 주성분을 포함한 각 성분의 각 로트·각 선적분에 대해 적절한 확인시험을 실시하지 않았다. 또한 사용 전 각 성분이 순도·역가·품질에 관한 문서화된 규격에 적합한지 확인하지 않았다. 아울러 제품에 사용하는 (비공개) 성분이 해당 제형 제조에 적합하며 최소한 USP (비공개) 모노그래프와 적절한 미생물 한도를 충족한다는 점을 입증하지 못했다.",
+   "responseKo": "성분 관리 개선 조치를 제시했으나 근거자료가 없고 유통 제품에 대한 소급 평가가 없으며 잠정 생산계획이 불분명해 부적절하다고 평가됐다. FDA는 공급자 자격 및 입고자재 관리에 대한 독립적 종합 검토, 성분별 QC 규격, 로트별 시험 방법, COA 신뢰성 검증 프로그램과 그 결과 요약, 위탁시험소 관리 프로그램 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 책임 및 감독 기능 미이행",
+   "detailKo": "품질부서(QU)가 제품 제조에 대한 적절한 감독을 수행하지 못했다. 구체적으로 완제품의 적절한 화학·미생물 시험 및 규격 설정(21 CFR 211.165(a), (b)), 적절한 안정성 프로그램 확립(21 CFR 211.137(a)), QU 책임을 기술한 적절한 절차 확립(21 CFR 211.22(d))을 보증하지 못했다. FDA는 회사의 품질시스템이 전반적으로 미흡하다고 판단하고 Quality Systems Approach to Pharmaceutical CGMP Regulations 가이던스를 참조하도록 안내했다.",
+   "responseKo": "QU 절차를 개정하겠다고 했으나 추가 설명이나 근거자료를 전혀 제출하지 않아 부적절하다고 평가됐다. FDA는 QU에 권한과 자원이 부여되도록 하는 종합 평가 및 개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약을 주간거래에 유통",
+   "detailKo": "EREWHON ANTIBACTERIAL SPRAY는 표시된 사용목적상 국소 소비자용 소독제(antiseptic rub)로서 의약품에 해당하나, 표시된 사용조건에서 안전성·유효성이 일반적으로 인정(GRASE)되지 않는 신약이다. 해당 제품에 대해 승인된 신약신청이 없으며, 1994 TFM 및 2016년 소비자용 소독제 rub 제안규정 등 어떤 모노그래프 조건에도 부합하지 않아 FD&C Act 505G(a)(3)에 따른 무승인 시판 요건도 충족하지 못한다. 예컨대 용도는 \"For hand cleansing to decrease bacteria on the skin\"이라 하면서 사용법에는 \"Spray hands or body with product as many times as needed\"라고 기재해, 손에 한정된 모노그래프 사용조건을 벗어나 전신 적용을 포함하고 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(a), 502(ee), 301(a) (21 U.S.C. 352(a), 352(ee), 331(a))",
+   "area": "허가·표시",
+   "titleKo": "허위·오인 표시로 인한 표시위반",
+   "detailKo": "EREWHON HAND SANITIZER와 EREWHON ANTIBACTERIAL SPRAY의 표시가 허위·오인 소지가 있어 502(a) 위반이다. HAND SANITIZER는 주표시면에 eucalyptus oil을, ANTIBACTERIAL SPRAY는 lemon oil, rosemary oil, eucalyptus oil, clove bud oil, cinnamon oil을 두드러지게 표시했는데, 이들 비활성 성분을 주표시면에 부각하는 것은 21 CFR 201.10(c)(4)상 실제 기능적 역할보다 과도한 가치 인상을 준다. 또한 EREWHON ANTIBACTERIAL SPRAY는 505G 적용 대상 일반의약품이면서 그 시판 요건을 충족하지 못하고 505조 승인도 없어 502(ee)에 따라서도 표시위반이다. FDA는 21 CFR 201.61(a)에 따른 주표시면 품목명과 관련해 각각 \"alcohol gel\", \"alcohol spray\" 및 약리학적 분류 \"Hand Sanitizer\" 표기를 권고했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-02-29)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "저역가 에탄올",
+  "처방 변경 밸리데이션",
+  "원료 확인시험",
+  "품질부서 감독",
+  "무허가 신약",
+  "표시위반"
+ ],
+ "id": "aromas-para-el-alma-sa-672728-09102024",
+ "extractedAt": "2026-09-12T00:40:55Z",
+ "sourceChars": 25050
+}

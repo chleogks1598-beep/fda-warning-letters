@@ -1,0 +1,47 @@
+{
+ "headlineKo": "CMO에 품질부서 책임 전가, 무등록 제조소 생산으로 미표시위반·수입경보 66-40",
+ "summaryKo": "FDA는 2023년 11월 21일과 2024년 4월 5일 FD&C Act 704(a)(4)조에 따라 요청해 제출받은 기록을 검토하여, 인도 구자라트 아메다바드 소재 Omni Lens Pvt. Ltd.(FEI 3008449456)의 CGMP 위반을 확인했다. 이 회사는 CMO에 제조·가공·포장을 맡기면서 품질부서(QU) 책임까지 계약으로 위임했고, 수입기록에는 자사를 제조원으로 신고했다. 그 결과 CMO의 무균 조제실 설계 미흡, 동적 기류 가시화 시험 및 벤잘코늄염화물 함유 점안제의 (비공개) 효력시험 미실시를 감독하지 못했다. 또한 Green Glo·BioGlo·Vista Gonio Eye Lubricant 3개 품목이 FDA 미등록 제조소에서 생산돼 502(o)조상 미표시위반 의약품에 해당하며, FDA는 2024년 9월 27일 이 회사를 수입경보 66-40에 등재했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "5 Samruddhi Ground Floor, Opp. Sakar-III, Near Sattar Taluka Society, Navrangpura, Ahmedabad 380014, Gujarat, India",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서가 CGMP 준수 보증 책임을 수행하지 못함",
+   "detailKo": "회사는 OTC 의약품이 CGMP에 맞게 제조되도록 관리할 적정한 품질부서(QU)를 갖추지 못했다. 제조·가공·포장을 CMO에 위탁하고 그 제품을 받아 수입기록에 자사를 제조원으로 신고하면서도, QU 책임 자체를 CMO에 위임했다. 예를 들어 (비공개)와 맺은 계약서에는 제품이 관련 규정 및 지침의 모든 조항을 준수하도록 보증할 책임을 (비공개)에 하도급한다고 기재돼 있다. 그 결과 CMO에 대한 감독과 절차가 미흡했고, 회사가 제출한 문서에 따르면 CMO의 점안제 제조용 무균 조제실은 적절히 설계되지 않았으며 무균공정에 대한 동적 기류 가시화 시험과 벤잘코늄염화물 함유 점안제의 (비공개) 효력시험을 수행하지 않았다.",
+   "responseKo": "FDA는 이 편지에 대한 답변으로 QU가 실질적 권한과 자원을 갖도록 하는 종합 평가 및 시정계획과, 최고경영진의 품질보증 지원 방안을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 502(o) / 510, 21 CFR Part 207",
+   "area": "허가·표시",
+   "titleKo": "미등록 제조소 생산에 따른 미표시위반 및 제조소 등록·품목 등재 위반",
+   "detailKo": "FD&C Act 510조와 21 CFR Part 207에 따라 미국 내에서 또는 미국 수입을 위해 의약품을 제조·가공하는 업소는 FDA에 등록하고 최초 등록 시 상업 유통용 전 품목을 등재해야 한다. 그러나 Green Glo(NDC 17238-920), BioGlo(NDC 17238-900), Vista Gonio Eye Lubricant(NDC 77790-022)는 FDA에 정식 등록되지 않은 (비공개) 및 (비공개) 업소에서 제조됐다. 따라서 이 3개 품목은 502(o)조상 미표시위반 의약품이며, 이를 주간(州間) 거래에 도입하는 행위는 301(a)조에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-09-27)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "위탁제조(CMO) 관리",
+  "품질부서 책임 위임",
+  "제조소 등록 위반",
+  "미표시위반(misbranding)",
+  "무균공정 기류 가시화",
+  "수입경보 66-40"
+ ],
+ "id": "omni-lens-pvt-ltd-688151-10022024",
+ "extractedAt": "2026-09-12T00:33:28Z",
+ "sourceChars": 9299
+}

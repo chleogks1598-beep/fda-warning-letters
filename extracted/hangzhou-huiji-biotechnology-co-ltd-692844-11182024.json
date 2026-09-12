@@ -1,0 +1,56 @@
+{
+ "headlineKo": "성분 확인시험 누락(DEG/EG·메탄올), 완제 함량시험 부적절, 품질부서 기능 부재",
+ "summaryKo": "FDA는 2024년 3월 4일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토한 결과, 중국 항저우 소재 Hangzhou Huiji Biotechnology(FEI 3010461961)의 OTC 의약품 제조에서 중대한 CGMP 위반 3건을 확인했다. 입고 성분의 확인시험을 수행하지 않아 글리세린의 DEG/EG 한도시험과 에탄올의 메탄올 시험이 빠졌고, 완제 손소독제의 에탄올 확인·함량시험 방법이 적절치 않았으며, 품질부서는 배치기록·안정성자료·용수시스템 관리 감독을 하지 못했다. 이번 편지는 현장 실사가 아닌 기록 검토에 근거한 것으로 Form 483 답변 평가는 없다. FDA는 2024년 11월 15일 수입경보 66-40에 회사를 등재했고, 자격을 갖춘 CGMP 컨설턴트를 고용해 6개 시스템 전반 감사를 받을 것을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 3 Shunshuiqiao Road, Renhe Street, Yuhang District, Hangzhou, Zhejiang, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "성분별 확인시험 미실시",
+   "detailKo": "에틸알코올 함유 겔 손소독제 등 OTC 의약품을 제조하면서 입고 성분에 대한 확인시험을 적절히 수행했음을 입증하지 못했다. 회사는 제조 전 각 성분 입고분마다 확인시험을 하지 않는다고 답변했고, 글리세린과 에탄올을 사용하면서도 USP의 DEG/EG 한도시험 및 메탄올 시험 등 원료시험을 활용하지 않는다고 밝혔다. 글리세린은 디에틸렌글리콜(DEG)·에틸렌글리콜(EG) 오염 고위험 성분으로 각 로트 입고분마다 USP 확인시험을 통해 안전 한도를 확인해야 한다. 손소독제 주성분인 에탄올도 메탄올 오염 여부를 시험하지 않았으며, 두 오염 사례 모두 전 세계적으로 치명적 중독 사고를 일으킨 바 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "완제품 출하 전 주성분 확인·함량시험 미흡",
+   "detailKo": "출하·유통 전에 완제 의약품의 주성분 에탄올에 대한 확인 및 함량시험을 적절히 수행했음을 입증하지 못했다. 회사가 제출한 '에탄올 용질 함량(content of ethanol solutes)' 시험 절차는 에탄올 주성분의 확인과 함량을 판정하기에 적절한 실험실 시험법이 아니다. 또한 21 CFR 211.165(e)에 따른 해당 시험법의 적합성도 입증하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 책임·권한 미확립",
+   "detailKo": "제출 자료상 품질부서(QU)가 의약품 제조 운영의 품질을 감독하는 책임을 실효적으로 수행하지 못한 것으로 확인됐다. 품질부서는 제조 시 적절한 배치제조기록서가 사용되도록 보장하지 못했고, 제품 유효기간을 뒷받침할 적절한 안정성 자료를 확보하지 못했다. 또한 OTC 손소독제 제조에 사용되는 용수시스템이 용도에 맞게 설계·모니터링되도록 관리하지 못했다. FDA는 품질부서가 CGMP 운영 전반에 대해 적절한 감독을 수행하지 못하고 있을 가능성을 우려했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-11-15)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "DEG/EG 한도시험",
+  "메탄올 오염",
+  "원료 확인시험",
+  "완제품 함량시험",
+  "품질부서 감독",
+  "수입경보 66-40"
+ ],
+ "id": "hangzhou-huiji-biotechnology-co-ltd-692844-11182024",
+ "extractedAt": "2026-09-12T00:28:08Z",
+ "sourceChars": 10628
+}

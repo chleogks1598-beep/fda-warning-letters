@@ -1,0 +1,83 @@
+{
+ "headlineKo": "원료 확인시험·메탄올 시험 누락, 미승인 신약·오표시",
+ "summaryKo": "FDA는 실사 대신 2022년 6월 16일자 FD&C Act 704(a)(4) 기록 요청에 따라 EnviroServe Chemicals & Cleaners Ltd.(캐나다 온타리오주 에토비코, FEI 3011214285)가 제출한 기록을 검토했다. 그 결과 원료 확인시험 및 에탄올 중 메탄올 시험 미실시, 완제품 출하 전 함량·확인시험 부재, 안정성시험 자료 부적합, 품질부서(QU) 감독 기능 미비 등 4건의 CGMP 위반이 확인되어 제품이 501(a)(2)(B)에 따라 변질의약품으로 규정됐다. 또한 SOPURE ANTISEPTIC SKIN CLEANSER는 GRASE로 인정되지 않는 미승인 신약이며, 웹사이트의 FDA 로고 유사 표기와 'Medical skin cleanser' 등 Drug Facts 초과 문구로 502(a)·502(c)·502(ee)에 따른 오표시에 해당한다고 지적했다. FDA는 2024년 4월 1일 이 회사를 수입경보 66-40에 등재했고, 미국 시장용 제조를 재개하려면 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트를 고용해 6개 시스템 전반 감사를 받도록 권고하며 15영업일 내 서면 회신을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "110 Ronson Drive, Etobicoke, Ontario M9W 1B6, Canada",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) & 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 및 공급자 시험성적서 신뢰성 검증 미실시",
+   "detailKo": "회사는 SOPURE ANTISEPTIC SKIN CLEANSER 손소독제를 포함한 OTC 의약품을 제조하면서, 제출한 기록상 입고 원료의 확인(identity) 시험을 적절히 수행한다는 점을 입증하지 못했다. 또한 주성분인 에탄올에 대해 메탄올 시험을 수행한다는 증거도 제시하지 못했다. 공급자 시험성적서의 신뢰성을 적절한 주기로 검증하지 않아, 원료가 사용 전 규격에 적합하다는 과학적 근거가 없다. FDA는 메탄올이 혼입된 에탄올 사용이 전 세계적으로 치명적 중독 사고를 일으킨 사례를 지적하며 'Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol' 가이던스를 참조하도록 했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격 적합성 시험 미흡",
+   "detailKo": "제출 기록상 완제품에 대한 적절한 출하시험을 수행했다는 점이 입증되지 않았다. 예를 들어 SOPURE ANTISEPTIC SKIN CLEANSER 손소독제의 배치기록에는 주성분 함량에 대한 적절한 정량(assay) 시험이나 충분한 불순물 시험이 포함되어 있지 않다. 회사는 알코올 함량을 비중계(hydrometer)로 밀도를 측정해 시험하고, 메탄올과 (비공개) 항목은 냄새에 의한 관능검사로 확인하고 있다. FDA는 출하·유통 전에 주성분의 함량 및 확인시험을 포함한 완전한 출하시험이 수행되어야 한다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "유효기간을 뒷받침하는 안정성시험 프로그램 부적절",
+   "detailKo": "SOPURE ANTISEPTIC SKIN CLEANSER 손소독제의 화학적 특성이 표시된 유효기간 동안 유지된다는 점을 입증할 적절한 안정성 자료를 제시하지 못했다. 회사는 장기 안정성 시험을 제출하고 해당 제품에 (비공개)의 유효기간을 부여·적용한다고 보고했으나, 안정성 자료에 확인 및 함량에 대한 적절한 시험이 포함되어 있지 않다. 알코올 함량은 비중계에 의한 밀도 측정으로, 메탄올 및 (비공개)는 냄새 관능검사로 시험하고 있어 주성분이 유효기간 전 기간에 걸쳐 안정하다는 점을 보여주지 못한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 권한·책임 행사 미흡",
+   "detailKo": "제출한 기록과 정보는 품질부서(QU)가 의약품 제조 운영의 품질을 감독할 책임을 실효적으로 수행하지 못했음을 보여준다. FDA는 QU가 CGMP 운영에 대해 적절한 감독을 수행하지 않고 있을 수 있다는 점을 우려한다고 밝혔다. QU는 자신의 권한과 책임을 온전히 행사할 책임이 있으며, FDA는 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 가이던스 참조를 권고했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간 상거래 유통",
+   "detailKo": "SOPURE ANTISEPTIC SKIN CLEANSER는 제품 라벨의 'Kills harmful bacteria/germs'와 웹사이트(https://sopureproducts.ca)의 'EFFECTIVE AGAINST KILLING BACTERIA, VIRUSES, AND GERMS … EFFECTIVELY CLEAN AND DISINFECT SURFACES AND HANDS IN ONE STEP' 등의 표시로 보아 소비자용 국소 소독제로 의도된 '의약품'에 해당한다. 해당 성분(에탄올)은 1994년 TFM 및 2016년 소비자용 antiseptic rub 제안규정에서 Category III로 분류되어 추가 안전성·유효성 자료가 필요하며, 제품은 GRASE로 인정되지 않는 신약이다. 특히 'EFFECTIVE AGAINST KILLING…VIRUSES' 표시는 세균 감소로 사용범위를 제한한 모노그래프 조건을 벗어나므로 505G(a)(1)·505G(a)(3)에 따른 무승인 판매 요건도 충족하지 못한다. FDA 승인 신청서가 없으므로 505(a) 및 301(d) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(a), 502(c), 502(ee); 21 CFR 207.77(a), 21 CFR 201.66(d)(7)",
+   "area": "허가·표시",
+   "titleKo": "FDA 승인 오인 표시 등 오표시",
+   "detailKo": "웹사이트에 FDA 로고와 유사한 형태의 'FDA' 약어와 'U.S. FOOD & DRUG ADMINISTRATION'을 표시하고 '… our hand sanitizer meets the highest standards of quality and safety, as confirmed by … FDA (80773-001) registrations'라고 기재해, 등록·등재가 마치 FDA 승인·보증인 것처럼 오인시켰다(502(a) 위반). 또한 Drug Facts의 Uses 항목에 'Medical skin cleanser' 등 해당 규정에서 정한 용도와 일치하지 않는 불필요한 정보를 기재해 502(c) 위반에 해당한다. 아울러 505G 적용 대상 일반의약품이면서 해당 조항의 요건을 충족하지 않고 505조 승인도 없어 502(ee) 위반이다. 오표시 의약품의 주간 상거래 유통은 301(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-04-01)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 확인시험",
+  "에탄올 중 메탄올 시험",
+  "출하시험·안정성시험",
+  "품질부서 감독",
+  "미승인 신약",
+  "수입경보 66-40"
+ ],
+ "id": "enviroserve-chemicals-cleaners-ltd-674090-09092024",
+ "extractedAt": "2026-09-12T00:39:49Z",
+ "sourceChars": 20116
+}

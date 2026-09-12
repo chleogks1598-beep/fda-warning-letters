@@ -1,0 +1,83 @@
+{
+ "headlineKo": "해충·물샘 등 시설 위생 불량, 출하시험·안정성시험 부재, 미승인신약·등록누락",
+ "summaryKo": "FDA는 2024년 1월 17일부터 2월 26일까지 노스캐롤라이나주 Apex 소재 Choice All Natural, Inc. dba Om Botanical 의약품 제조소를 실사해 CGMP 위반 3건과 미승인 신약·표시위반·시설등록 및 품목신고 위반을 지적했다. 원료 보관구역의 해충 흔적, 제조구역의 누수·천장타일 결손, QC 실험실의 식사·설거지 용도 사용이 관찰됐고, 완제품의 유효성분 함량·확인시험과 미생물 시험 없이 출하했으며 표시된 유효기한을 뒷받침할 안정성시험 프로그램도 없었다. 회사 답변은 해충관리 계획의 구체성 부족, 유효성분 확인·함량시험 실시 미약속, 안정성시험 일정 및 기출하 제품 위험평가 누락으로 모두 부적절하다고 평가됐다. 또한 FDA는 2024년 8월 22일 Rash & Itch 제품에서 Candida parapsilosis 등 오염 가능성을 통보했으나 회사의 2024년 9월 21일 답변에 조사 결과가 없었고, FDA는 CGMP 컨설턴트 고용을 권고하며 미시정 시 압류·금지명령 등 조치 가능성을 경고했다.",
+ "inspectionStart": "2024-01-17",
+ "inspectionEnd": "2024-02-26",
+ "facility": "1019 Classic Road, Apex, NC 27539-4402, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.56(a)",
+   "area": "시설·장비",
+   "titleKo": "제조·보관 건물의 청결·해충관리 실패",
+   "detailKo": "실사관은 원료 보관구역에서 해충 활동 흔적을 확인했고, 의약품 제조구역에서 누수 흔적과 천장 타일 결손을 관찰했다. 또한 QC(품질관리) 실험실이 직원들의 식사 준비, 설거지, 오염된 작업복 보관 용도로 사용되고 있었다. 회사는 OTC 국소용 의약품을 제조한다.",
+   "responseKo": "회사는 '주기적 해충방제 일정 수립'과 지적 구역 청소를 답변했으나, 해충방제 서비스의 구체적 내용과 제조구역의 해충·유해동물 차단 방안을 제시하지 못해 부적절하다고 평가됐다. QC 실험실에서의 비CGMP 활동 중단과 제조구역의 CGMP 전용 사용을 약속하지 않았고, 해당 구역에 보관된 원료 및 제조된 제품에 대한 위험평가도 고려하지 않았다. FDA는 시설·설비 관리 CAPA 계획, 해충 차단 절차, 곤충 등에 오염됐을 수 있는 원료를 사용한 유통 중 제품의 위험평가 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a) and 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 유효성분 확인·함량 및 미생물 시험 미실시",
+   "detailKo": "회사는 미국 시장 출하·유통 전에 완제품의 유효성분 확인·함량시험과 유해미생물 시험을 적절히 수행하지 않았다. FDA는 2024년 8월 22일, 실사 중 수거한 OM BOTANICAL Rash & Itch 제품 시료의 FDA 시험 결과를 회사에 통보하고 Candida parapsilosis 등 오염 가능성이 있는 최근 2년간 전 배치에 대한 조사와 로트 2025113 참고품의 미생물 시험 결과를 요구했다.",
+   "responseKo": "회사는 위탁시험기관을 통해 미생물 시험과 방부력 시험을 실시하겠다고 답변했으나, 완제품의 유효성분별 확인·함량시험 실시를 약속하지 않았고 제품별 구체적 시험 항목과 분석법도 제시하지 않아 부적절하다고 평가됐다. 또한 2024년 9월 21일자 답변에는 오염 가능성 배치에 대한 조사 결과가 포함되지 않았다. FDA는 확인·함량·순도를 포함한 완전한 출하시험이 배치 출하 전 수행돼야 한다고 지적했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.137(a)",
+   "area": "시험·QC",
+   "titleKo": "표시 유효기한을 뒷받침하는 안정성시험 부재",
+   "detailKo": "회사는 유통 중인 제품의 표시 유효기한을 뒷받침할 지속적 안정성시험 프로그램을 수립·유지하지 않았다. 이에 따라 제품이 표시된 유효기한 동안 적합한 품질을 유지한다는 보증이 없다.",
+   "responseKo": "회사는 안정성시험을 수행할 위탁시험기관을 물색 중이라고 답변했으나, 적절한 안정성시험 도입 일정을 제시하지 않았고 안정성 데이터 없이 유통된 제품에 대한 위험평가도 고려하지 않아 부적절하다고 평가됐다. FDA는 안정성지시적 분석법, 시판 용기·마개 시스템에서의 제품별 안정성시험, 매년 대표 배치를 추가하는 지속 프로그램, 시점별 시험항목 정의를 포함한 CAPA 계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 'Rash & Itch Cream' 유통",
+   "detailKo": "'Om Botanical Rash & Itch Cream'은 표시상 경미한 자상·찰과상·발진·덩굴옻나무 등으로 인한 피부 자극과 가려움 완화, 기저귀 발진 치료·예방을 표방해 FD&C Act 201(g)(1)(B)·(C)상 '의약품'이자 피부보호제(skin protectant)에 해당한다. 표시된 유효성분은 Zinc Oxide 5.0%, Witch Hazel 5.0%, Colloidal Oatmeal 3.0%로 각 성분은 피부보호제로 허용되나, 이 세 성분의 조합은 OTC 모노그래프 M016.20(a)에서 허용되지 않는다. 따라서 M016 조건에 부합하지 않고 GRASE로 인정된 바 없으며, 승인된 신약허가도 없어 미승인 신약이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(ee), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "505G 요건 미충족에 따른 표시위반",
+   "detailKo": "'Om Botanical Rash & Itch Cream'은 FD&C Act 505G 적용 대상 일반의약품이나 해당 조항의 판매 요건을 충족하지 않고 505조에 따른 승인 신청도 없으므로 502(ee)에 따라 misbranded(표시위반) 제품에 해당한다. 표시위반 의약품을 주간 거래에 도입하는 것은 301(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 510, 510(j), 301(p); 21 CFR Part 207",
+   "area": "허가·표시",
+   "titleKo": "시설등록 만료 및 품목신고 누락",
+   "detailKo": "Choice All Natural, Inc. dba OM Botanical(FEI 3015097434)의 시설등록은 2021년 12월 31일자로 만료됐으나 그 이후에도 의약품 제조·유통을 계속했다. Om Botanical Rash & Itch, Acne Treatment, Eczema & Psoriasis Relief, Pain Relief, Reef Safe Sunscreen SPF 30 등 제품이 FDA에 품목신고(listing)되지 않은 채 미국 내 유통 중이다. 등록·신고 미이행은 301(p) 위반이며 해당 제조소에서 만든 모든 의약품은 502(o)에 따라 표시위반 제품이 된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "해충·위생관리",
+  "완제품 출하시험",
+  "안정성시험",
+  "미생물 오염(Candida parapsilosis)",
+  "미승인 신약·OTC 모노그래프",
+  "시설등록·품목신고"
+ ],
+ "id": "choice-all-natural-inc-dba-om-botanical-685615-10212024",
+ "extractedAt": "2026-09-12T00:32:50Z",
+ "sourceChars": 22051
+}

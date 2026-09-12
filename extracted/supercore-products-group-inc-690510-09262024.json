@@ -1,0 +1,74 @@
+{
+ "headlineKo": "실데나필·아세트아미노펜 미표시 혼입, 미승인 신약·표시위반",
+ "summaryKo": "FDA는 2024년 5월부터 9월까지 Supercore Products Group의 웹사이트(hardsteelusa.com, supercoreintl.com으로 리다이렉트)를 검토하고 제품 시료와 표시를 확보해 검사했다. 시험 결과 \"Hard Steel\"에서 미표시 실데나필과 아세트아미노펜이, \"Gold Hard Steel Plus\"에서 미표시 실데나필이 검출됐으며, 두 제품은 발기부전 치료 등 질병 치료 표방으로 미승인 신약(FD&C Act 505(a)·301(d))에 해당하고 성분 미표시·적정 사용법 및 경고 결여로 표시위반(502(a), 502(f)(1), 502(f)(2))으로 판정됐다. 회사는 2024년 7월 두 제품을 자발적 전세계 리콜했고 FDA는 소비자 경고를 발령했으나, 웹사이트에서 여전히 \"Pink Pussycat\"·\"HoneyGizer\" 변형 제품을 판매 중인 점에 대해 별도 우려를 표명했다. FDA는 15영업일 내 시정 내용 서면 보고를 요구하며 미이행 시 압류·금지명령 등 법적 조치가 가능함을 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "230 Peachtree Street Ste 2200, Atlanta, GA 30303, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약을 승인 없이 주간거래에 유통",
+   "detailKo": "웹페이지와 제품 라벨에 \"Best Possible Treatment of Erectile Dysfunction\", \"Hard Steel male enhancement is the most powerful all-natural treatment to combat erectile dysfunction\", \"NO MORE Premature Ejaculation\", \"Experience Rock Hard Erections\" 등의 표현을 게시해 질병의 치료·완화 또는 신체 구조·기능에 영향을 줄 목적이 확인됐다. 따라서 두 제품은 FD&C Act 201(g)(1)상 의약품이며, 해당 용도에 대해 안전성·유효성이 일반적으로 인정되지 않으므로 201(p)상 \"신약\"에 해당한다. 두 제품 어느 것에도 유효한 FDA 승인 신청서가 없다. 또한 실데나필은 Viagra가 1998년 3월 27일 신약으로 승인되기 전에 건강기능식품이나 식품으로 유통된 바 없어, 201(ff)(3)(B)(i)에 따라 두 제품은 건강기능식품 정의에서 제외된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 502(a) (21 U.S.C. 352(a))",
+   "area": "허가·표시",
+   "titleKo": "미표시 유효성분 미기재로 표시가 허위·오인",
+   "detailKo": "실험실 분석 결과 \"Hard Steel\"에서 미표시 실데나필과 아세트아미노펜이, \"Gold Hard Steel Plus\"에서 미표시 실데나필이 검출됐으나 두 제품 표시에는 PDE-5 저해제나 아세트아미노펜 함유 사실이 기재돼 있지 않다. 실데나필은 니트로글리세린 등 질산염 제제와 상호작용해 혈압을 위험 수준까지 낮출 수 있으며, 당뇨·고혈압·고지혈증·심장질환 환자가 질산염을 복용하는 경우가 많다. 아세트아미노펜은 다른 함유 제품과 병용 시 의도치 않은 과량 투여로 간기능 이상부터 급성 간부전·사망에 이르는 간독성과 피부 발적·발진·수포 등 중증 피부반응을 일으킬 수 있다. 표시에 이들 성분을 밝히지 않은 것은 502(a)상 표시위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(f)(1) (21 U.S.C. 352(f)(1)), 21 CFR 201.5",
+   "area": "허가·표시",
+   "titleKo": "적정 사용법(adequate directions for use) 미기재",
+   "detailKo": "두 제품 표시에는 일반인이 안전하게 사용할 수 있는 적정 사용법이 기재돼 있지 않다. FDA가 승인한 모든 PDE-5 저해제는 면허를 가진 의료전문가의 감독 하에 사용하도록 신약승인으로 제한돼 있어, 미표시 실데나필을 함유한 두 제품은 503(b)(1)(A)상 전문의약품에 해당하며 일반인용 적정 사용법을 작성하는 것 자체가 불가능하다. 유효한 FDA 승인 신청서가 없으므로 21 CFR 201.100(c)(2) 및 201.115의 면제 대상도 아니다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(f)(2) (21 U.S.C. 352(f)(2))",
+   "area": "허가·표시",
+   "titleKo": "사용자 보호를 위한 적정 경고 결여",
+   "detailKo": "미표시 유효성분으로 인해 제품 표시에 사용자 보호에 필요한 적정 경고가 결여돼 있다. 제품을 복용하는 사람은 미표시 의약품 성분의 존재를 알 수 없어 관련 이상반응 위험에 노출된다. 이러한 표시위반 의약품을 주간거래에 도입하는 행위는 FD&C Act 301(a)상 금지행위다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "",
+   "area": "기타",
+   "titleKo": "타 미표시 성분 의심 제품의 계속 판매",
+   "detailKo": "FDA는 hardsteelusa.com에서 \"Pink Pussycat\"과 \"HoneyGizer\"의 변형 제품을 미국 소비자에게 판매하고 있음을 확인했다. 유사한 명칭의 \"Pink Pussycat\"·\"HoneyGizer\" 제품에 대한 과거 FDA 실험실 분석에서 미표시 실데나필이 검출된 바 있다. FDA는 아직 해당 변형 제품을 수거·시험하지는 않았으나 안전성에 대한 심각한 우려를 표명했으며, 미표시·유해 성분이 함유되지 않도록 할 법적 책임은 회사에 있음을 강조했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미표시 유효성분",
+  "실데나필",
+  "아세트아미노펜",
+  "미승인 신약",
+  "표시위반",
+  "자발적 리콜"
+ ],
+ "id": "supercore-products-group-inc-690510-09262024",
+ "extractedAt": "2026-09-12T00:37:18Z",
+ "sourceChars": 13341
+}

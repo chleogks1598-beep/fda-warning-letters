@@ -1,0 +1,56 @@
+{
+ "headlineKo": "완제품 출하시험·안정성 자료 부재, 이소프로필알코올 메탄올 미시험",
+ "summaryKo": "FDA는 요르단 암만 소재 OTC 의약품 제조소 Nowrez & Ismail Shukri Company(FEI 3009721234)에 대해 현장 실사 대신 FD&C Act 704(a)(4)조에 따라 2022년 9월 12일과 2024년 2월 26일 두 차례 제출받은 기록을 검토했다. 검토 결과 완제품 출하 전 함량·확인시험 미실시, 안정성 시험 프로그램 부재, 원료(이소프로필알코올) 확인시험 및 메탄올 시험 미실시 등 3건의 CGMP 위반이 확인됐고, 제조소의 방법·시설·관리가 CGMP에 부합하지 않아 제품은 501(a)(2)(B)에 따라 불량의약품으로 판정됐다. 회사는 공급자 COA에만 의존해 원료 확인시험을 갈음하고 있었고, 유효기간 근거로 2017~2020년에 시험한 단일 배치 자료만 반복 제출해 부적절했다. FDA는 2024년 7월 3일 해당 제조소를 수입경보 66-40에 등재했으며, 미국 시장용 제조를 재개하려면 21 CFR 211.34 요건을 갖춘 CGMP 컨설턴트를 고용해 6개 시스템 전반 감사를 받도록 권고하고 15영업일 내 서면 답변을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Sahab, King Abdullah II Street, No 22, Amman 11110, Jordan",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격 적합성 시험 미실시",
+   "detailKo": "제출된 기록상 OTC 의약품에 대한 적절한 완제품 시험을 수행했다는 근거가 없었다. 예로 제출한 (비공개)% Isopropyl Rubbing Alcohol 등의 시험성적서(COA)에는 주성분 함량(assay) 시험과 미생물 시험 항목이 포함돼 있지 않았다. FDA는 출하·유통 전에 주성분의 함량 및 확인시험을 포함한 완전한 출하시험이 수행돼야 하며, 적절한 시험 없이는 제품이 규격에 적합하다는 과학적 근거를 확보할 수 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성 시험 프로그램 수립·이행 실패",
+   "detailKo": "제출 자료로는 제조 중인 OTC 의약품에 대한 적절한 안정성 프로그램의 존재가 입증되지 않았다. 회사는 처음에 (비공개)% Isopropyl Rubbing Alcohol (비공개) 배치에 대해 2017년부터 2020년까지 시험한 3년치 안정성 자료를 제출했고, 이후 각 제품 처방별 유효기간 근거 자료를 요구받자 동일하게 2017~2020년에 시험한 (비공개) 배치 자료를 다시 제출했다. 제출된 자료는 2017년 이후 현재까지 출하된 제품의 (비공개) 유효기간을 뒷받침할 화학적·미생물학적 시험이 지속적으로 수행되고 있음을 보여주지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 및 메탄올 시험 미실시",
+   "detailKo": "제출된 기록상 OTC 의약품 제조에 사용되는 입고 원료의 확인시험을 적절히 수행하고 있음이 입증되지 않았다. 회사는 주성분인 이소프로필알코올에 대해 메탄올 시험을 하지 않는다고 답했다. FDA는 확인시험을 공급자 COA에만 의존하는 것은 불충분하며, 제조업자는 사용 전 원료를 직접 채취·시험·검사해 품질을 보증할 책임이 있다고 지적했다. 또한 메탄올에 오염된 에탄올 또는 이소프로필알코올 사용이 전국적으로 치명적 중독 사고를 초래한 사례를 들며 관련 FDA 가이던스(Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol)를 제시했다.",
+   "responseKo": "회사는 이소프로필알코올에 대해 메탄올 시험을 수행하지 않는다고 답변했으며, FDA는 공급자 COA 의존만으로는 확인시험을 갈음할 수 없다고 평가했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-07-03)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "완제품 출하시험",
+  "안정성 시험",
+  "원료 확인시험",
+  "메탄올 오염",
+  "공급자 COA 의존",
+  "수입경보 66-40"
+ ],
+ "id": "nowrez-ismail-shukri-company-682810-07112024",
+ "extractedAt": "2026-09-12T00:45:25Z",
+ "sourceChars": 7728
+}

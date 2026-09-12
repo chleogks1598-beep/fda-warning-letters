@@ -1,0 +1,74 @@
+{
+ "headlineKo": "OOS 은폐·전자데이터 삭제, 품질부서 기능 부재·검증 미흡",
+ "summaryKo": "FDA는 2024년 3월 25일부터 29일까지 한국 충주 소재 Outin Futures Corp. 의약품 제조소를 실사하고 CGMP 위반 4건과 선크림 제품의 표시위반(misbranding)을 지적했다. 시험성적서에 OOS 결과를 기록·조사하지 않고 재시험 값으로 출하했고, 분석기기의 전자 원자료가 삭제된 채 백업도 없었으며 분석자가 관리자 권한을 보유하고 감사추적이 꺼져 있었다. 회사의 2024년 4월 23일 Form FDA 483 답변은 이미 출하된 배치의 위험평가, 전체 실험실 기기에 대한 포괄적 검토, 세척 회수율 검증 등이 빠져 모두 부적절하다고 평가됐다. FDA는 2024년 8월 29일 이 회사를 수입경보 66-40에 등재했고, CGMP 컨설턴트 고용과 데이터 완전성 개선(remediation)을 강력히 권고했다.",
+ "inspectionStart": "2024-03-25",
+ "inspectionEnd": "2024-03-29",
+ "facility": "150 Gieopdosil-Ro, Daesowon-Myeon Chungju, Chungcheongbuk, Korea (the Republic of)",
+ "form483ResponseDate": "2024-04-23",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.194(a)",
+   "area": "문서·데이터완전성",
+   "titleKo": "시험기록에 전체 데이터 미포함, OOS 미기록·미조사",
+   "detailKo": "시험기록이 수행한 분석을 뒷받침할 완전한 데이터를 담고 있지 않았다. Neogen Dermalogy Day-Light Protection Airy Sunscreen 배치 NJ09는 2022년 9월부터 2023년 3월까지 출하시험 및 안정성시험 과정에서 함량(assay) 시험을 여러 차례 재시험했다. 이때 얻어진 OOS 결과는 배치 출하 문서에 기록되지 않았고 당시 품질관리 실험실에서 조사되지도 않았다.",
+   "responseKo": "회사는 결함을 인정하면서도 재시험이 컬럼 컨디셔닝과 재현성 확인, 시험 정확성 확인을 위한 절차였다고 주장했다. FDA는 이미 유통된 함량 규격 부적합 배치에 대한 위험평가가 없고 재시험·확인시험 결함의 범위 평가도 없어 답변이 부적절하다고 판단했다. FDA는 실험실 관행 전반에 대한 독립적 평가와 문서화 관행 CAPA 계획 제출을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.68(b)",
+   "area": "문서·데이터완전성",
+   "titleKo": "전산시스템 접근통제 미흡, 원자료 삭제",
+   "detailKo": "완제의약품 출하시험 데이터를 생성하는 실험실 장비에 접근 제한과 충분한 통제가 없어 데이터 삭제·기록 변경을 막을 수 없었다. 미국 시장에 유통 중인 배치((비공개))의 출하시험 전자 원자료가 삭제되어 접근 불가 상태였고, 실험실 장비 데이터의 백업도 적절히 유지되지 않았다. 또한 분석자들이 크로마토그래피 데이터 시스템의 관리자 권한을 보유해 파일을 변경·삭제할 수 있었고 일부 시스템은 감사추적이 비활성화되어 있었다.",
+   "responseKo": "회사는 분석자 관리자 권한 제거, 감사추적 활성화, 데이터 백업 주기 수립, 전자데이터가 없는 배치의 재시험을 시행했다고 답변했다. FDA는 모든 실험실 기기에 대한 포괄적 검토가 빠져 부적절하다고 평가했으며, 전산시스템 성능·보안에 대한 독립적 평가와 시스템별 CAPA 계획을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22(a) and (d)",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 권한·책임 및 절차 미확립",
+   "detailKo": "품질부서가 효과적인 절차 수립과 감독 등 권한과 책임을 적절히 행사하지 않았다. OTC 제품 Neogen Dermalogy Day-Light Protection Airy Sunscreen에 대한 적절한 OOS 조사 절차가 없었고, 최초 함량시험이 출하규격에 부적합했음에도 조사 없이 재시험 결과로 배치를 출하했다. 원료의약품(API) 공급자와 API 시험을 위탁한 시험소를 적격성 평가하지 않았고, OTC 제조 공정 변경이 변경관리 프로그램을 통해 이뤄지지 않았으며, 해당 OTC 제품의 연간품질평가도 없었다.",
+   "responseKo": "회사는 과거 변경사항 검토에 착수했고 OTC 제품 연간평가 절차를 제출했다고 답변했다. FDA는 품질부서가 결함을 찾아내고 CAPA를 시행할 역량이 있다는 증거를 제시하지 못했다며 부적절하다고 평가했다. 품질부서 권한·자원 확보를 위한 종합 평가·개선계획과 일탈·불만·OOS 조사체계에 대한 독립적 평가를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "생산·공정관리 서면절차 부적절, 공정·세척밸리데이션 미흡",
+   "detailKo": "공정 밸리데이션과 장비 적격성평가 프로그램이 부적절했다. OTC 제품 제조공정 밸리데이션에서 벌크 제품 내 API의 균질성(homogeneity)을 평가하지 않았다. 또한 적절한 장비 세척 밸리데이션이 없었다.",
+   "responseKo": "회사는 탱크의 (비공개) 지점에서 채취한 시료로 API 균질성을 평가하는 밸리데이션 프로토콜과 장비 세척공정 밸리데이션 프로토콜을 제출했다. FDA는 부적절하게 밸리데이션된 공정으로 제조되어 유통된 배치에 대한 위험평가가 없고, 잔류 API 세척 허용기준의 근거가 불충분하며, API 회수율을 입증하는 세척 방법 밸리데이션도 제출되지 않았다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(c), (f)(2), (x)",
+   "area": "허가·표시",
+   "titleKo": "선크림 제품 표시 누락으로 misbranding",
+   "detailKo": "\"NEOGEN DERMALOGY AIRY SUNSCREEN Broad Spectrum SPF 50\"은 \"Drug Facts…Uses ■ Protects the skin from sunburn\", \"INTENSIVE DEFENSE AGAINST UVA/UVB RAYS\" 등의 표시로 보아 FD&C Act 201(g)(1)(B)·(C)상 의약품(선크림)에 해당한다. 그러나 OTC 모노그래프 M020.50(f)이 요구하는 \"Other information: protect the product in this container from excessive heat and direct sun\" 문구가 누락되어 502(c) 위반이다. 또한 M020.50(d)(1)(i)이 요구하는 \"Do not use on damaged or broken skin\" 경고가 없어 502(f)(2) 위반이며, 중대한 이상사례를 보고받을 수 있는 미국 내 주소나 전화번호가 표시되지 않아 502(x) 위반이다. 이러한 표시위반 의약품의 주간 거래 반입은 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-08-29)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "데이터 완전성",
+  "OOS 조사",
+  "감사추적·관리자 권한",
+  "품질부서 권한",
+  "세척 밸리데이션",
+  "선크림 표시위반"
+ ],
+ "id": "outin-futures-corp-684688-09252024",
+ "extractedAt": "2026-09-12T00:34:27Z",
+ "sourceChars": 21655
+}

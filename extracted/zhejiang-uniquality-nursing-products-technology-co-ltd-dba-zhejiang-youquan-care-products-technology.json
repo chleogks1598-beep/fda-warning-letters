@@ -1,0 +1,56 @@
+{
+ "headlineKo": "원료 식별시험 미흡·공급자 COA 검증 부재, QC 규격·품질부서 기능 결함",
+ "summaryKo": "FDA는 2024년 3월 11일과 4월 15일 FD&C Act 704(a)(4)에 따른 자료 제출 요구에 대해 이 업체(FEI 3012557963, 중국 저장성 후저우)가 제출한 기록을 검토했으며, 현장 실사 대신 서면 검토 방식으로 진행됐다. 검토 결과 원료 식별시험 및 공급자 COA 신뢰성 검증 미비, 원료의약품 함량 규격 미확립, 품질부서(QU) 권한 미행사 등 CGMP 위반 3건이 확인됐다. FDA는 이 업체의 의약품이 FD&C Act 501(a)(2)(B)에 따라 변질(adulterated)된 것으로 판단했다. FDA는 2024년 11월 12일 이 업체를 수입경보 66-40에 등재했고, 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트를 고용해 6개 시스템 전반 감사를 수행할 것을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 68 Luhui Road, Taihu Street, Changxing County, Huzhou, Zhejiang 313100, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 식별시험 및 공급자 COA 신뢰성 검증 실패",
+   "detailKo": "업체는 OTC 의약품((비공개))을 제조하면서 입고 원료에 대한 적절한 식별시험을 수행했음을 입증하지 못했다. 공급자가 제공한 시험성적서(COA)에만 의존했고, 각 공급자 COA의 신뢰성을 적절한 주기로 검증·확립하지 않았다. 특히 (비공개) 오염 위험이 높은 원료 2종에 대해 각 로트의 각 선적분마다 식별시험을 수행하지 않았다. 해당 고위험 원료는 USP 식별시험에 유해 불순물의 안전 한도를 확인하는 한도시험이 포함되어 있으나 이를 수행하지 않아 원료의 사용 적합성을 보증하지 못했다. 또한 제품에 사용하는 (비공개) 성분이 사용에 적합하고 해당 USP 모노그래프에 적합함을 입증하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "유효성분 함량 규격 등 적절한 실험실 관리 미확립",
+   "detailKo": "제출 기록상 제품 내 유효성분 (비공개)의 함량(strength)에 대한 적절한 규격을 확립했음을 입증하지 못했다. 예로 제출된 기록에는 (비공개) 함량에 대한 안정성 규격이 (비공개)%로 기재되어 있었고, 업체는 이것이 \"(비공개)의 표면에 대한 값이며 (비공개)%가 제품 전체에 대한 값\"이라고 설명했다. 그러나 이 규격이 완제품의 유효성분 함량이 유효기한 전 기간 동안 (비공개)% 이상이라는 규격에 적합함을 보증한다는 점을 입증하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "적절한 권한을 갖춘 품질관리부서 미확립",
+   "detailKo": "제출 기록상 품질부서(QU)가 의약품 제조 운영의 품질을 감독하는 책임을 실효적으로 수행했음을 입증하지 못했다. 예로 QU는 자재 시스템(Materials System)에서 원료의 승인 또는 거부에 대한 권한을 적절히 행사하지 않았다. FDA는 QU가 CGMP 운영 전반에 대해 적절한 감독을 수행하지 못하고 있을 가능성을 우려하고 있으며, FDA 가이던스 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 참조를 권고했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-11-12)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 식별시험",
+  "공급자 COA 검증",
+  "USP 모노그래프",
+  "함량 규격",
+  "품질부서 감독",
+  "수입경보 66-40"
+ ],
+ "id": "zhejiang-uniquality-nursing-products-technology-co-ltd-dba-zhejiang-youquan-care-products-technology",
+ "extractedAt": "2026-09-12T00:27:30Z",
+ "sourceChars": 9010
+}

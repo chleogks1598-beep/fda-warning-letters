@@ -1,0 +1,75 @@
+{
+ "headlineKo": "성분 확인시험·완제품 출하시험 미실시, 공정밸리데이션 부재로 수입경보",
+ "summaryKo": "FDA는 2024년 3월 25일 FD&C Act 704(a)(4)에 따라 남아프리카공화국 Muizenberg 소재 Catwalk Cosmetic Laboratories Pty Ltd.(FEI 3014345294)에 기록 제출을 요구했고, 제출된 기록을 검토해 총 5건의 CGMP 위반을 지적했다. 입고 원료의 확인시험을 외관·냄새 확인으로만 갈음했고, 완제품은 pH·점도·관능비교만 시험했으며, 안정성시험에 역가·함량시험이 빠져 있었고, 공정밸리데이션 절차와 연구 자체가 없었으며, 품질부서(QU)가 자재 시스템에서 승인·불승인 권한을 제대로 행사하지 못했다. 이 편지는 현장실사가 아닌 704(a)(4) 기록 검토에 근거한 것이어서 Form FDA 483 및 그에 대한 회사 답변 평가는 없다. FDA는 2024년 11월 18일 이 회사를 Import Alert 66-40에 등재했고, 미국 시장용 제조를 재개하려면 21 CFR 211.34 요건을 갖춘 컨설턴트를 선임해 6개 시스템 전반 감사를 받도록 권고했다. 아울러 수입신고 전자자료에서 제조원 표시가 실제와 다른 문제도 지적했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "105 Capricorn Drive, Capricorn Park, Muizenberg, Western Cape, 7945 South Africa",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 성분 확인시험 미실시",
+   "detailKo": "(비공개) 크림 등 OTC 의약품을 제조하면서 입고 성분의 확인시험을 적절히 수행했음을 입증하지 못했다. 회사는 입고 성분의 외관이 공급자 성적서(CoA) 기재와 일치하는지 확인하고, 가능한 경우 냄새로 산패 여부를 보는 것이 전부라고 답변했다. 특히 (비공개) 및 (비공개) 오염 위험이 높은 성분에 대해 USP 확인시험에 포함된 (비공개) 한도시험을 로트별·선적별로 수행하지 않았다. FDA는 이런 불순물로 오염된 원료가 전 세계적으로 치명적 중독 사고를 일으킨 사례를 들어, 사용 전 원료가 규격에 적합하다는 과학적 근거가 없다고 지적했다.",
+   "responseKo": "회사 답변(외관 대조 및 냄새에 의한 산패 확인, 한도시험 미실시)은 성분 확인시험의 적절성을 입증하지 못한다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "완제품 출하 전 규격적합 시험 미실시",
+   "detailKo": "제출된 기록상 출하·유통 전에 완제품을 적절히 시험했음을 입증하지 못했다. 회사는 pH, 점도, \"관능 비교(organoleptic comparison)\" 시험만 수행한다고 진술했다. FDA는 유효성분의 함량(strength)과 확인(identity) 시험을 포함한 완전한 출하시험이 출하·유통 전에 반드시 수행되어야 한다고 지적했다.",
+   "responseKo": "pH·점도·관능비교만 한다는 진술 자체가 출하 전 규격 적합성을 보증할 과학적 근거가 없음을 보여준다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 미흡",
+   "detailKo": "제출된 기록상 의약품이 설정된 유효기간 동안 품질을 유지한다는 점을 입증하지 못했다. 회사는 역가(potency) 및 함량(assay) 시험이 안정성 프로그램에 포함되어 있지 않다고 밝혔다. 적절한 안정성 연구 없이는 표시된 유효기한까지 규격을 충족하고 품질 특성을 유지하는지에 대한 과학적 근거가 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "생산·공정관리 절차 미수립, 공정밸리데이션 부재",
+   "detailKo": "제출 자료로는 제조공정이 재현성 있고 관리되어 균일한 성상과 품질의 제품을 産出한다는 점을 입증하지 못했다. 구체적으로 회사는 공정밸리데이션 절차도, 공정밸리데이션 연구도 보유하고 있지 않다고 진술했다. FDA는 상업적 유통 전에 공정적격성평가(process qualification) 연구가 성공적으로 완료되어야 하며, 이후에도 제품 수명주기 전반에 걸쳐 공정 성능과 제품 품질에 대한 지속적 감시가 필요하다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 권한·책임 미이행",
+   "detailKo": "제출된 기록은 품질부서(QU)가 의약품 제조 전반의 품질을 감독할 책임을 실효적으로 수행하지 못했음을 보여준다. 예를 들어 자재 시스템(Materials System)에서 성분의 승인 또는 불승인 권한을 적절히 행사하지 않았다. FDA는 QU가 CGMP 운영 전반에 대한 감독도 제대로 수행하지 못하고 있을 것을 우려했으며, 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 가이던스를 참고하도록 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2024-11-18)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 확인시험",
+  "디에틸렌글리콜 등 고위험 성분 한도시험",
+  "완제품 출하시험",
+  "안정성시험",
+  "공정밸리데이션",
+  "품질부서 권한",
+  "수입경보 66-40"
+ ],
+ "id": "catwalk-cosmetic-laboratories-pty-ltd-693863-11212024",
+ "extractedAt": "2026-09-12T00:29:00Z",
+ "sourceChars": 11136
+}
