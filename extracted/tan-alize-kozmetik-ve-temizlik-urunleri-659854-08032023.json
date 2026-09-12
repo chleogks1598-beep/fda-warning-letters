@@ -1,0 +1,47 @@
+{
+ "headlineKo": "DEG·EG 고위험 원료 확인시험 누락, 품질부서 기능 부전",
+ "summaryKo": "FDA는 2023년 4월 13일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토한 결과, 터키 이스탄불 소재 Tan Alize Kozmetik(FEI 3004135088)의 OTC 의약품 제조에서 CGMP 위반 2건을 확인했다. 글리세린 등 DEG·EG 오염 고위험 원료에 대해 USP 확인시험을 입고 로트별로 수행하지 않았고, 품질부서(QU)가 자재시스템에서 원료의 승인·거부 권한을 제대로 행사하지 못했다. 이번 편지는 현장 실사가 아닌 기록 검토에 근거한 것으로 Form FDA 483 답변에 대한 평가는 포함되지 않았다. FDA는 2023년 6월 23일 이 회사를 수입경보 66-40에 등재했고, CGMP 적격 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 32 Omerli Mahallesi Uran Caddesi, Cekmekoy, Istanbul 34799, Turkey",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 로트별 확인시험 미실시",
+   "detailKo": "회사는 (비공개) 제품들과 자외선차단제 등 여러 OTC 의약품을 제조하면서, DEG(디에틸렌글리콜)·EG(에틸렌글리콜) 오염 고위험 원료의 각 로트·각 선적분에 대해 적절한 시험을 수행했음을 입증하지 못했다. 여기에는 제조에 사용한 글리세린과 (비공개) 원료의 확인시험이 포함된다. 이들 고위험 원료의 확인시험에는 DEG·EG 안전 한도 충족 여부를 확인하는 USP 한도시험이 포함되어야 하나, 회사는 유해 불순물을 검출하는 USP 확인시험을 각 선적 로트마다 수행하지 않아 원료의 사용 적합성을 보증하지 못했다. FDA는 DEG·EG 오염 원료 사용이 전 세계적으로 치명적 중독 사고를 초래해 왔음을 지적했다.",
+   "responseKo": "FDA는 답변 요구사항으로 편지 수령 후 30일 이내 보관 검체를 이용한 고위험 원료 전 로트의 DEG·EG 시험 결과 제출 확약, 유효기한 내 제품에 대한 전면 위험평가와 고객 통지·리콜 등 조치, COA 신뢰성 검증 프로그램 및 공급자 적격성 독립 검토 결과 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "적절한 품질관리부서 미확립",
+   "detailKo": "제출된 기록과 정보는 품질부서(QU)가 의약품 제조 운영의 품질을 감독하는 책임을 효과적으로 수행하지 못했음을 보여준다. 구체적으로 QU는 자재시스템에서 원료의 승인 또는 거부에 관한 권한을 적절히 행사하지 않았다. FDA는 QU가 생산, 시설·장비, 실험실 관리, 포장·표시 시스템 등 다른 CGMP 운영 전반에 대해서도 적절한 감독을 수행하지 못하고 있을 것을 우려한다고 밝혔다.",
+   "responseKo": "FDA는 QU가 실효적으로 기능하도록 권한과 자원을 보장하는 포괄적 평가 및 개선계획을 요구했으며, 절차의 견고성 판단, 전 공정에 걸친 QU 감독 체계, QU 출하판정 전 배치별 최종 검토, 일탈조사 감독·승인 등을 포함하도록 했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-06-23)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "DEG·EG 오염",
+  "원료 확인시험",
+  "USP 모노그래프",
+  "품질부서 권한",
+  "수입경보 66-40",
+  "공급자 적격성"
+ ],
+ "id": "tan-alize-kozmetik-ve-temizlik-urunleri-659854-08032023",
+ "extractedAt": "2026-09-12T16:23:00Z",
+ "sourceChars": 11206
+}

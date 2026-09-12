@@ -1,0 +1,74 @@
+{
+ "headlineKo": "품질부서 부재·원료 시험 누락, 미승인 신약·표시위반",
+ "summaryKo": "FDA는 2022년 11월 17일부터 22일까지 애리조나주 템피 소재 PureChemPros LLC(FEI 3019411371) 의약품 제조소를 실사했다. 품질관리부서(QU) 미구축, 입고 원료 확인시험 누락 및 미검증 공급자 COA 의존, 안정성시험 근거 없는 유효기간 표시 등 CGMP 위반 3건이 지적됐고, 이와 별도로 \"35% FOOD GRADE HYDROGEN PEROXIDE\"와 \"3% FOOD GRADE HYDROGEN PEROXIDE\"의 미승인 신약 위반, 그리고 두 제품과 \"LIQUID HAND SANITIZER\"의 표시위반(제조소 주소·국내 연락처·Drug Facts 패널 누락)이 적시됐다. 회사의 2022년 12월 29일자 Form FDA 483 답변은 시정조치의 구체성과 근거가 부족해 부적절하다고 평가됐다. FDA는 21 CFR 211.34 자격을 갖춘 컨설턴트 고용과 6개 시스템 전반 감사를 권고하고, 향후 제조 지속 의사를 밝힐 것을 요구하며 미시정 시 압류·금지명령 등 조치가 가능함을 통보했다.",
+ "inspectionStart": "2022-11-17",
+ "inspectionEnd": "2022-11-22",
+ "facility": "2141 E. Cedar Street, Suite 6, Tempe, AZ 85281, United States",
+ "form483ResponseDate": "2022-12-29",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서가 CGMP 준수 감독 책임을 수행하지 못함",
+   "detailKo": "회사는 PureCareRx Liquid Hand Sanitizer(벤잘코늄염화물 0.1%) 등 OTC 손소독제를 제조하면서 이를 감독할 품질관리부서(QU)를 구축하지 않았다. 2022년 9월 2일 아마존 물류센터로 출하된 약 (비공개) 갤런의 PureCareRx Liquid Hand Sanitizer도 이러한 감독 없이 출하됐다. QU 부재로 적절한 생산·공정관리(211.100(a)), 표시량 100% 이상 확보를 위한 처방 설계(211.101(a)), 설비 세척·유지관리 절차(211.67(b)), 배치 기록 작성(211.188), 출하 전 원료 확인·함량시험 및 검토(211.165(a)), OOS·불만·일탈에 대한 철저한 조사(211.192), 배치별 로트번호 부여 절차(211.130(c))가 모두 확보되지 않았다.",
+   "responseKo": "FDA는 회사의 483 답변 전반이 CGMP 준수를 위한 시정조치의 충분한 구체성이나 증거를 제시하지 못해 부적절하다고 평가했다. 또한 품질시스템 구축에 FDA의 Quality Systems Approach to Pharmaceutical CGMP Regulations 가이던스를 참고하라고 안내했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 시험성적서 미검증",
+   "detailKo": "회사는 의약품 제조에 사용하기 전 입고 원료에 대해 확인시험을 포함한 적절한 시험을 실시하지 않았다. 순도·함량·품질 등 규격은 적격성이 검증되지 않은 공급자의 시험성적서(COA)에 의존했으며, 공급자 시험결과의 신뢰성을 적절한 주기로 검증·확립하지 않았다. 또한 제조 원료로 사용하는 (비공개) 용수가 수성 제형에 적합하고 최소한 USP 정제수 각조 및 적절한 미생물 한도를 충족한다는 근거를 제시하지 못했으며, 해당 용수를 시험하지 않았고 용수 규격·시험·취급에 관한 적절한 절차도 없었다.",
+   "responseKo": "FDA는 회사의 2022년 12월 29일자 483 답변이 시정조치의 충분한 구체성과 증거를 결여해 부적절하다고 판단했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.137(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험으로 뒷받침되지 않는 유효기간 표시",
+   "detailKo": "회사는 적절한 안정성시험 프로그램을 운영하지 않았고, 표시된 유효기간(또는 유효기간 미표시)을 뒷받침할 과학적 근거도 갖추지 못했다. 예를 들어 회사는 표시 유효기간을 손소독제 제조에 사용한 원액 주성분(벤잘코늄염화물)의 유효기간에 근거해 정한다고 밝혔다.",
+   "responseKo": "FDA는 회사 483 답변이 CGMP 준수를 위한 시정조치의 충분한 상세 내용이나 증거를 제시하지 못해 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 위반",
+   "detailKo": "제품 표시 및 제품 웹사이트(www.bulkperoxide.com) 블로그의 \"Hydrogen Peroxide as a Gum Disease Treatment… 과산화수소가 플라크를 분해하고 세균을 죽인다\"는 주장 등에 근거해 \"35% FOOD GRADE HYDROGEN PEROXIDE\"는 항치은염/항플라크 구강건강 의약품으로, \"3% FOOD GRADE HYDROGEN PEROXIDE\"는 항치은염/항플라크 구강건강 및 응급처치 소독제 복합 OTC 의약품으로 의도된 용도가 인정된다. 2003년 ANPR(68 FR 32232, 2003년 5월 29일)은 과산화수소를 3% 이하 농도에서 안전성 Category I, 유효성 Category III로 분류하므로 505G에 따른 면제 대상이 아니며, 항치은염/항플라크와 응급처치 소독제의 복합 제품을 다루는 모노그래프도 없다. 두 제품 모두 FDA 승인 신청이 존재하지 않으며 GRASE를 뒷받침할 적절하고 잘 통제된 임상시험 문헌도 확인되지 않는다. FDA는 특히 35% 제품을 희석하지 않고 구강용으로 사용할 경우 위장관 부식 손상(식도염·위염)이나 산소 가스 색전에 따른 생명을 위협하는 뇌혈관·폐·심장 색전 위험이 있다고 지적했다.",
+   "responseKo": "FDA는 35% 제품 페이지의 치아 세정 관련 주장은 이 편지 발행 시점에는 삭제된 것으로 보인다고 각주에서 언급했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(ee), 502(b)(1), 502(x), 502(c), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "제품 표시기재 위반(허위표시)",
+   "detailKo": "\"35% FOOD GRADE HYDROGEN PEROXIDE\"와 \"3% FOOD GRADE HYDROGEN PEROXIDE\"는 505G 적용 대상 일반의약품이면서 해당 조항의 판매 요건을 충족하지 않고 505조 승인 신청도 없어 502(ee) 위반이다. \"LIQUID HAND SANITIZER\"는 표시에 제조사명 \"PureChemPros\"만 있고 제조·포장·유통업자의 영업소 소재지가 없어 502(b)(1) 위반이며, 중대 이상사례 보고를 접수할 국내 주소나 국내 전화번호가 없어 502(x) 위반이다. \"3% FOOD GRADE HYDROGEN PEROXIDE\"는 21 CFR 201.66이 요구하는 Drug Facts 패널이 표시에 없어 필수 기재사항이 일반인이 읽고 이해할 수 있도록 두드러지게 기재되지 않아 502(c) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질관리부서 부재",
+  "원료 확인시험",
+  "공급자 적격성·COA",
+  "안정성시험·유효기간",
+  "미승인 신약",
+  "표시기재 위반"
+ ],
+ "id": "purechempros-llc-649677-09012023",
+ "extractedAt": "2026-09-12T16:17:26Z",
+ "sourceChars": 20421
+}

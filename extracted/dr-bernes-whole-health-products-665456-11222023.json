@@ -1,0 +1,47 @@
+{
+ "headlineKo": "미승인 안과용 MSM 점안제 판매, 무균시험 부적합·미생물 오염",
+ "summaryKo": "FDA는 2023년 8월 Dr. Berne's Whole Health Products의 웹사이트(https://shop.drsamberne.com/)를 검토해 'MSM Eye Drops 5%·15%', 'MSM Eye Mist 15%' 3개 제품이 질병 치료·예방 표방으로 의약품에 해당하나 승인된 신약 신청이 없는 미승인 신약임을 지적했다. 또한 FDA 실험실에서 MSM DROPS 5% Solution 로트 6786을 시험한 결과 USP <71> 무균시험에 부적합했고 Exophiala sp., Bacillus spp. 등 진균·세균이 검출되어 501(a)(1)에 따른 변조 제품으로 판정됐다. 회사는 2023년 8월 21일 FDA 화상회의에서 제품이 위탁제조소에서 생산된다고 밝히고 자발적 회수에 동의했으며, 8월 26일 로트 6786을 소비자 수준으로 회수하고 이어 MSM DROPS 5%·15%, Organic Castor Oil Eye Drops, MSM MIST 15% 전 로트를 회수했다. FDA는 8월 22일 소비자에게 사용 중단을 알리는 약물 경보를 발령했고, 미시정 시 압류·금지명령 등 법적 조치를 예고하며 15영업일 내 서면 답변을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "승인 없는 신약을 주간통상에 유통",
+   "detailKo": "웹사이트와 유튜브 영상의 표방 문구로 보아 'Dr. Berne's MSM Eye Drops 5%', 'MSM Eye Drops 15%', 'MSM Eye Mist 15%'는 FD&C Act 201(g)(1)상 의약품에 해당한다. 제품 페이지에는 MSM이 강력한 항염 작용을 가져 알레르기·천식·건초열 증상을 줄인다는 표현이 있고, 2018년 3월 16일 'MSM Eye Massage' 영상에서는 염증성 안질환·안검염·건성안에 좋다고 했다. 2022년 7월 6일 '황반변성 진단' 영상에서는 MSM 점안액이 드루젠 생성을 중화하고 황반을 윤활한다고, 2022년 10월 31일 영상에서는 각막이영양증(푹스)에 좋다고 주장했다. 이들 용도에 대해 GRASE로 인정되지 않아 201(p)상 신약이며 승인된 505조 신청이 없다. 특히 안과용 제품은 신체의 자연 방어기전을 우회하는 투여경로여서 공중보건상 위해가 크다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 501(a)(1), 301(a) (21 U.S.C. 351(a)(1), 331(a))",
+   "area": "무균·멸균",
+   "titleKo": "점안제 미생물 오염으로 무균시험 부적합",
+   "detailKo": "FDA 실험실이 Dr. Berne's MSM DROPS 5% Solution 1개 배치(로트 6786, Best By 032025)를 시험한 결과 미생물 오염이 확인되어 USP <71> 무균시험 기준에 부적합했다. 무균시험 검체에서 Exophiala sp.와 Bacillus spp.를 포함한 진균 및 세균이 동정됐다. 안구 투여경로 특성상 오염 제품 사용은 경미한 감염부터 시력을 위협하는 중증 감염, 나아가 생명을 위협하는 감염으로 진행될 수 있어 환자 위해도가 높다고 평가했다. 따라서 해당 제품은 불결·부패 물질을 전부 또는 일부 포함한 변조 의약품에 해당한다.",
+   "responseKo": "2023년 8월 21일 FDA 화상회의에서 회사는 위탁제조소가 제품을 생산한다고 밝히고 미국 내 유통 로트의 자발적 회수에 동의했으며, 8월 26일 로트 6786을 소비자 수준으로 회수하고 MSM DROPS 5%·15%, Organic Castor Oil Eye Drops, MSM MIST 15% 전 로트까지 회수 중이다. FDA는 위탁제조소를 제조업자의 연장으로 보며, 위탁 계약과 무관하게 501(a)(2)(B)에 따른 의약품 품질 책임은 회사에 있음을 강조했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "안과용 점안제",
+  "무균시험 부적합",
+  "미생물 오염",
+  "자발적 회수",
+  "위탁제조소 관리"
+ ],
+ "id": "dr-bernes-whole-health-products-665456-11222023",
+ "extractedAt": "2026-09-12T16:10:36Z",
+ "sourceChars": 10437
+}

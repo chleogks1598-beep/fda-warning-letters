@@ -1,0 +1,47 @@
+{
+ "headlineKo": "DEG/EG 고위험 원료 확인시험 누락, 품질부서 기능 부재",
+ "summaryKo": "FDA는 2023년 1월 25일 FD&C Act 704(a)(4)에 따라 요청한 기록을 검토한 결과, 인도 Ahmedabad 소재 Orchid Lifesciences(FEI 3015154915)의 OTC 의약품 제조가 CGMP에 부합하지 않는다고 판단했다. 실사가 아닌 서류 검토 기반으로 2건의 위반이 지적됐으며, 글리세린·프로필렌글리콜·솔비톨액 등 DEG/EG 오염 고위험 원료에 대해 매 출하·매 로트 USP 확인시험을 수행하지 않은 점과 품질부서(QU)가 자재 시스템에서 승인·거부 권한을 제대로 행사하지 않은 점이 핵심이다. 본 서한은 회사 답변 검토가 아닌 기록 검토 결과 발부된 것으로 Form 483 답변에 대한 평가는 포함되어 있지 않다. FDA는 2023년 3월 23일 이 회사를 Import Alert 66-40에 등재했고, CGMP 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Orchid Lifesciences, 68-72 Tribhuvan Industrial Estate, Nr. Road No. 11, Kathwada, Ahmedabad, Kathwada 382430, India",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 각 로트 확인시험 미실시",
+   "detailKo": "회사는 치약과 국소 진통제 등 OTC 의약품을 제조하면서, DEG(디에틸렌글리콜) 또는 EG(에틸렌글리콜) 오염 고위험 원료의 각 출하분·각 로트에 대해 적절한 시험을 수행했음을 입증하지 못했다. 해당 원료에는 글리세린, 프로필렌글리콜, 솔비톨액 등이 포함된다. 이들 고위험 원료의 확인시험에는 DEG/EG 안전 한도 적합 여부를 확인하는 USP 한도시험이 포함되어야 한다. USP 확인시험을 매 출하·매 로트에 수행하지 않았으므로 제조에 사용한 원료의 적합성을 보증하지 못했다. FDA는 DEG/EG 오염 원료 사용이 전 세계적으로 다수의 치명적 중독 사고를 일으켰음을 지적했다.",
+   "responseKo": "FDA는 본 서한 회신 시 서한 발부일로부터 30일 이내 모든 고위험 원료 로트 보관검체의 DEG/EG 시험 결과 제출 약속, 유효기간 내 제품에 대한 전면적 위해평가 및 필요 시 고객 통보·리콜, 공급자 COA 신뢰성 검증 방안과 매 입고 로트 확인시험(글리세린 등은 USP 모노그래프 A·B·C 전항목) 수행 약속, 자재 시스템에 대한 포괄적·독립적 검토를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 책임·권한 미확립",
+   "detailKo": "제출된 기록과 정보는 품질부서(QU)가 의약품 제조 전반의 품질을 감독하는 책임을 실효적으로 수행하지 못했음을 보여준다. 구체적으로 QU는 자재 시스템에서 원료의 승인 또는 거부에 관한 권한을 적절히 행사하지 않았다. FDA는 QU가 생산, 시설·장비, 실험실 관리, 포장·표시 시스템 등 다른 CGMP 운영 영역에서도 적절한 감독을 수행하지 못하고 있을 가능성을 우려했다.",
+   "responseKo": "FDA는 QU가 실효적으로 기능하도록 권한과 자원을 부여하는 포괄적 평가·개선 계획을 요구하면서, 절차의 견고성 판단, 전 공정에 대한 QU 감독 체계, QU 처분 결정 전 배치별 완전한 최종 검토, 일탈조사 감독·승인 등을 포함하도록 지시했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-03-23)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "DEG/EG 오염",
+  "원료 확인시험",
+  "USP 한도시험",
+  "품질부서 권한",
+  "수입경보 66-40",
+  "704(a)(4) 기록요청"
+ ],
+ "id": "orchid-lifesciences-663478-08032023",
+ "extractedAt": "2026-09-12T16:24:08Z",
+ "sourceChars": 10847
+}

@@ -1,0 +1,74 @@
+{
+ "headlineKo": "방충·방서 불량, 원료 확인시험·공급자 검증 누락, 미승인 신약 표시",
+ "summaryKo": "FDA는 2023년 7월 24~28일 플로리다주 새러소타 소재 Omeza LLC 제조소를 실사하고 CGMP 위반 3건과 미승인 신약·오표시 위반을 지적했다. 제조구역 상부 에어컨 슬리브의 곰팡이 유사 물질과 보관구역의 생사(生死) 곤충·동물 배설물, 대구 간유 등 원료 확인시험 및 공급자 COA 신뢰성 검증 누락, 다른 제품의 안정성 데이터를 전용해 유효기간을 설정한 점이 확인됐다. 회사의 2023년 8월 17일 Form FDA 483 답변은 환경 모니터링 데이터 검토, 기유통 제품에 대한 소급 평가·위해성 분석, 참조시료 시험이 빠져 모두 부적절하다고 평가됐다. 또한 Omeza Lidocaine Lavage와 Omeza Skin Protectant는 OTC 모노그래프(M017·M016) 조건을 벗어나 미승인 신약이자 502(ee) 오표시 제품으로 판정됐고, FDA는 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "2023-07-24",
+ "inspectionEnd": "2023-07-28",
+ "facility": "1610 Northgate Boulevard, Sarasota, Florida",
+ "form483ResponseDate": "2023-08-17",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.56(a)",
+   "area": "시설·장비",
+   "titleKo": "건물 청결·방충방서 관리 실패",
+   "detailKo": "회사는 통증·가려움 일시 완화 용도의 OTC 의약품을 제조한다. 조사관은 제조구역 바로 위에 있는 에어컨 유닛 슬리브에서 곰팡이 유사 물질을 관찰했다. 또한 벌크 완제품과 시료를 보관하는 구역에서 살아 있거나 죽은 곤충과 동물 배설물이 발견됐다.",
+   "responseKo": "회사는 방제 프로그램 도입 CAPA와 곰팡이 유사 물질에 대한 제3자 컨설턴트 조사 결과를 제출했다. FDA는 제조구역 환경 모니터링 데이터 검토, 기제조 제품에 대한 적절한 위해성 분석, 영향받은 배치의 참조시료 시험이 빠져 있어 부적절하다고 평가했으며, 유효기간 내 전 배치 참조시료 시험 결과와 환경 모니터링 데이터, 원료 오염 위해평가 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 및 공급자 시험성적 신뢰성 검증 누락",
+   "detailKo": "입고 원료를 사용 전에 확인시험하지 않았고, 공급자 시험 분석의 신뢰성을 확립하지 않은 채 원료를 수령했다. 예로 skin protectant 및 lidocaine lavage 제조에 사용된 대구 간유(cod liver oil) 최소 1개 로트에 대해 확인시험을 하지 않았다. 또한 lidocaine lavage에 쓰인 리도카인의 공급자 적격성 기록에는 공급자 COA의 신뢰성을 확립하기 위한 초기 또는 정기 분석이 포함되어 있지 않았다.",
+   "responseKo": "회사는 창고 내 원료를 확인시험하고 공급자 관리 절차를 개정하겠다는 CAPA를 제시했다. FDA는 기유통 제품에 대한 적절한 소급 검토가 없고, 공급자 적격성 CAPA에 원료약(API) 및 첨가제 공급자의 신뢰성 확립을 위한 구체적 시험 요건과 주기가 빠져 있어 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 미준수·유효기간 근거 부재",
+   "detailKo": "lidocaine lavage 및 skin protectant 제품에 대해 자사 안정성 절차를 따르지 않았다. 다른 제품의 안정성 데이터를 부적절하게 사용해 전 제품에 (비공개)개월의 유효기간을 설정했다.",
+   "responseKo": "회사는 안정성 시험 절차 개정과 skin protectant 제품의 안정성 시험 수행을 약속했다. FDA는 현재 시장에 유통 중인 제품의 유효기간을 뒷받침할 적절한 안정성 데이터 부재를 다루지 않았고, lidocaine lavage의 누락·부적합 안정성 데이터에 대한 검토도 없어 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d) / 21 U.S.C. 355(a), 331(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간 상거래 유통",
+   "detailKo": "Omeza Lidocaine Lavage와 Omeza Skin Protectant는 제품 라벨 및 웹사이트(https://omeza.com/) 표시에 근거해 각각 외용 진통제와 피부 보호제로 의도된 '의약품'이다. Lidocaine Lavage는 '세척(lavage)', '창상 주변(periwound)' 제제, '이물 세정 보조', '염증 완화' 표방으로 OTC 모노그래프 M017(OTC000033)의 외용 진통제 사용 조건을 벗어나며, M017에 수재되지 않은 오메가-3가 '염증 완화' 표방을 통해 21 CFR 201.66(b)(2)상 유효성분으로 작용한다. Skin Protectant는 대구 간유를 유효성분으로 하는 제품에 허용되지 않는 '발진·습진으로 인한 경미한 피부 자극과 가려움 완화' 효능을 표방해 M016(OTC000005)에 부합하지 않는다. 두 제품 모두 승인된 505조 신청이 없어 미승인 신약에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(ee), 301(a) / 21 U.S.C. 352(ee), 331(a)",
+   "area": "허가·표시",
+   "titleKo": "505G 요건 미충족에 따른 오표시",
+   "detailKo": "Omeza Lidocaine Lavage와 Omeza Skin Protectant는 FD&C Act 505G조의 적용을 받는 일반의약품이면서 505조에 따른 승인 신청 대상이 아니고 505G조 요건도 충족하지 못하므로 502(ee)조에 따라 오표시 의약품이다. 오표시 의약품을 주간 상거래에 도입하거나 도입을 위해 인도하는 것은 301(a)조에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "방충·방서",
+  "원료 확인시험",
+  "공급자 적격성",
+  "안정성시험",
+  "OTC 모노그래프",
+  "미승인 신약"
+ ],
+ "id": "omeza-llc-665762-12122023",
+ "extractedAt": "2026-09-12T16:08:27Z",
+ "sourceChars": 19598
+}

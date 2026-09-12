@@ -1,0 +1,83 @@
+{
+ "headlineKo": "원료 확인시험·공급자 적격성 부재, QU 기능 불능·장비 미검교정",
+ "summaryKo": "FDA는 2023년 3월 20일부터 24일까지 한국 인천 남동구 소재 Handock Cosmetics Co., Ltd. 의약품 제조소를 실사하고 CGMP 위반 3건을 지적했다. 원료 확인시험 미실시와 공급자 적격성 미검증, 품질부서(QU)의 권한·절차 부재, 장비·정제수 시스템의 적격성평가 및 GC 교정 미실시가 핵심이며, 이와 별도로 Hand Sanitizer Perfect Care Gel의 미승인 신약 및 표시위반(502(x), 502(ee))과 등록·품목신고 미비도 지적됐다. 2023년 4월 11일자 Form FDA 483 답변은 시정조치의 구체성과 근거가 부족해 부적절하다고 평가됐다. FDA는 2023년 7월 24일 이 회사를 Import Alert 66-40에 등재했고, 2017년 8월 28일~9월 1일 실사에서도 유사 위반이 지적된 반복 위반 시설로 보아 미국 시장용 제조 재개 시 적격 컨설턴트 고용과 6개 시스템 전반 감사를 권고했다.",
+ "inspectionStart": "2023-03-20",
+ "inspectionEnd": "2023-03-24",
+ "facility": "19 Eunbong-ro, Namdong-gu, Incheon 21634, South Korea",
+ "form483ResponseDate": "2023-04-11",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1), 21 CFR 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 시험성적 신뢰성 미검증",
+   "detailKo": "제조에 사용하는 입고 원료에 대해 확인시험(identity test)을 적정하게 수행하지 않았다. 공급자 COA에만 의존하면서 적절한 주기로 공급자 시험분석의 신뢰성을 검증하지 않았다. 예로 에탄올 (비공개) 원료에 대해 확인시험을 수행하지 않았다. 또한 에탄올 등 원료 공급자가 적격성 평가를 받았다는 증거나 적절한 공급자 적격성 관리 프로그램이 있다는 증거를 제시하지 못했다.",
+   "responseKo": "FDA는 원료 시스템 전반에 대한 독립적 종합 검토(공급자 적격성, 유효기간·재시험일 설정, 입고자재 관리 적절성)와 유효기간 내 전 배치 보관검체의 함량·순도 등 시험 결과 요약 제출을 요구했으며, OOS 발생 시 고객 통보와 리콜 착수를 포함한 시정조치를 밝히라고 했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서가 품질 감독 책임을 수행하지 못함",
+   "detailKo": "이 회사는 손소독제 등 OTC 외용 의약품을 제조한다. 품질부서(QU)가 OOS 결과·일탈 처리, 조사, CAPA, 변경관리, 이상사례 보고, 불만·리콜, 용수 채취 및 모니터링, 방충·방서, 공급자 적격성, 장비 적격성평가 및 유지보수, 종업원 교육 등 핵심 품질감독 업무에 대한 책임과 권한을 갖도록 하는 절차가 있다는 증거를 제시하지 못했다. 에탄올 기반 손소독제에 대한 연간품질평가(APQR)도 제시하지 못했다. 또한 충전 라인이 특정되지 않는 등 배치제조지시서가 완결되도록 관리하지 못했다.",
+   "responseKo": "FDA는 QU에 실질적 권한과 자원이 부여되도록 하는 종합 평가 및 개선계획(절차의 견고성 판단, 전 공정에 대한 QU 감독, 출하 판정 전 배치 최종검토, 조사 승인 등)과 최고경영진의 품질보증 지원 방식 기술을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.63",
+   "area": "시설·장비",
+   "titleKo": "적절한 설계·적격성평가·교정을 갖춘 장비 사용 실패",
+   "detailKo": "제조에 사용하는 (비공개) 및 (비공개) 설비의 적격성평가·유지보수·교정 증거를 제시하지 못했다. 원료로 사용되는 (비공개) 용수 시스템의 밸리데이션 문서도 제시하지 못했다. 에탄올 함량시험에 사용하는 Shimadzu 가스크로마토그래프가 최근 2년간 교정되었거나 정기 유지보수를 받았다는 증거가 없었다.",
+   "responseKo": "FDA는 시설·장비에 대한 상시 관리감독 체계를 구축하기 위한 CAPA 계획(성능 이상의 신속 감지, 수리 이행, 예방정비 일정 준수, 설비 인프라의 적시 개선, 경영진 검토 체계 개선)을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 — Hand Sanitizer Perfect Care Gel",
+   "detailKo": "Hand Sanitizer Perfect Care Gel과 Dr. Clean Perfect Gel은 라벨의 \"Hand Sanitizer\", \"Antiseptic\", \"Hand sanitizer to help reduce bacteria on the skin.\" 등의 표방으로 볼 때 FD&C Act 201(g)(1)(B)·(C)상 '의약품'(OTC 소비자용 antiseptic rub)에 해당한다. Hand Sanitizer Perfect Care Gel은 표시된 사용조건에서 GRASE로 인정되지 않아 신약에 해당하나 승인된 신약신청서가 없다. 특히 주표시면의 \"sterilizing effect\" 표방은 1994년 TFM(2016년 Consumer Antiseptic Rubs 제안규칙으로 개정)이 정한 외용 살균제의 사용목적 범위를 벗어나므로, 승인 없이 판매할 수 있는 505G(a)(3) 요건을 충족하지 못한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(x), 502(ee) (21 U.S.C. 352(x), 352(ee))",
+   "area": "허가·표시",
+   "titleKo": "표시위반 — 국내 연락처 누락 및 505G 미준수",
+   "detailKo": "Hand Sanitizer Perfect Care Gel과 Dr. Clean Perfect Gel은 제품 라벨에 중대한 이상사례 보고를 접수할 책임자의 완전한 미국 내 주소 또는 전화번호를 기재하지 않아 502(x) 위반이다. 또한 Hand Sanitizer Perfect Care Gel은 505G 적용 대상 비처방 의약품이면서 그 판매 요건을 충족하지 않고 505조 승인도 없어 502(ee) 위반이다. 이러한 제품을 주간통상에 도입하는 것은 301(a) 위반으로 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 510(j)(1), 21 CFR 207.41",
+   "area": "허가·표시",
+   "titleKo": "의약품 품목신고(listing) 미비",
+   "detailKo": "FDA 등록·품목신고 데이터베이스 조회 결과 이 회사의 시설 등록은 유효하나 활성화된 의약품 품목신고가 없었다. 미국 상업 유통용으로 제조·처리되는 모든 의약품은 FDA에 신고해야 한다. 유통 중인 제품이 있다면 제조 재개일과 미제출 정보, 마지막 유통 로트의 유효기간에 맞춘 판매종료일을 포함해 신고 정보를 갱신해야 하며, 신고 실패는 301(p) 위반이자 502(o)상 표시위반에 해당한다. 미국 상업 유통용 제조를 더 이상 하지 않는다면 21 CFR 207.29에 따라 등록을 말소해야 한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-07-24)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "원료 확인시험",
+  "공급자 적격성",
+  "품질부서 권한",
+  "장비 적격성평가·교정",
+  "미승인 신약",
+  "수입경보 66-40"
+ ],
+ "id": "handock-cosmetics-co-ltd-658737-10042023",
+ "extractedAt": "2026-09-12T16:15:34Z",
+ "sourceChars": 20097
+}

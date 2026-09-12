@@ -1,0 +1,65 @@
+{
+ "headlineKo": "품질부서·CMO 관리 부재, OOS 미조사·안정성시험 미비, 무허가 신약",
+ "summaryKo": "FDA는 2023년 1월 23일부터 2월 3일까지 캘리포니아 Morro Bay 소재 Elemental Herbs Inc.(d/b/a ALL good) 제조소를 실사하고 CGMP 위반 2건을 지적했다. 품질부서(QU)가 CMO 적격성평가·규격설정·불만공유·변경관리 절차를 갖추지 못했고, 위탁시험소에서 나온 SPF-20 코코넛 립밤 Zinc Oxide 함량 OOS를 조사하지도, CMO에 적시 통보하지도 않았다. 또한 최소 7개 SPF 제품을 유효기간을 뒷받침할 데이터 없이 유통했고 안정성시험 프로그램 자체가 부실했으며, 2023년 2월 22일자 483 답변은 잠정조치·CAPA 일정이 없어 부적절하다고 평가됐다. 아울러 \"ALL good Goop Skin Recovery Balm\"은 모노그래프 M016·M017에 없는 성분으로 제조된 무허가 신약이자 502(ee) 표시위반으로 지적됐고, 손소독제 표시 문제와 Drug Facts 형식 위반도 함께 언급됐으며 FDA는 CGMP 컨설턴트 고용을 강력 권고했다.",
+ "inspectionStart": "2023-01-23",
+ "inspectionEnd": "2023-02-03",
+ "facility": "1149 Market Avenue, Morro Bay, CA",
+ "form483ResponseDate": "2023-02-22",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a), 21 CFR 211.22(d)",
+   "area": "품질시스템",
+   "titleKo": "품질부서 기능 미비 및 절차 문서화·준수 실패",
+   "detailKo": "품질부서가 자사 의약품 제조에 대한 적절한 감독을 수행하지 못했다. 품질부서와 위탁제조업체(CMO) 간 역할·책임을 규정한 절차가 없거나 부적절했으며, 구체적으로 CMO 적격성평가, 완제품 규격 설정, CMO와의 불만정보 공유, 변경관리, 반품 조사에 대한 절차가 미비했다. 위탁시험소가 산출한 OOS 결과도 회사가 적절히 조사하지 않았는데, \"ALL good\" SPF-20 Coconut 립밤의 실시간 안정성시험 중 여러 시점에서 Zinc Oxide 함량 OOS가 보고되었으나 조사가 수행되지 않았다. 또한 이 OOS 결과를 해당 제품을 제조한 CMO에 적시에 통보하지 않았다.",
+   "responseKo": "회사는 품질시스템 구축을 위해 컨설턴트를 고용하고 OOS 처리 등 SOP를 개발하겠다고 답변했으나, FDA는 중대한 품질부서 위반을 시정·예방할 잠정조치가 제시되지 않았고 CAPA 시행 시점도 없어 부적절하다고 평가했다. FDA는 품질부서 권한·자원에 대한 종합 평가와 시정계획, 경영진의 품질보증 지원 방식, OOS 조사체계 전반의 검토·개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성시험 프로그램 미비 및 유효기간 근거 부재",
+   "detailKo": "회사가 소유·유통하는 OTC 의약품에 대해 적절한 안정성시험 프로그램을 수립하지 않았고 타당한 유효기간을 설정하지 못했다. 최소 7개 SPF(자외선차단) 제품을 표시된 유효기간을 뒷받침할 충분한 데이터 없이 판매했다. 또한 고유한 용기·마개 시스템별로 대표 검체를 안정성시험 프로그램에 포함시키지 않았다.",
+   "responseKo": "회사는 CMO가 수행 중인 안정성 프로그램을 전면 검토하겠다며 착수 후 (비공개) 기간이 소요된다고 답변했으나 착수 예정일을 제시하지 않았다. FDA는 모든 고유 제품 유형을 포함하는 갱신된 안정성 프로토콜과 개선 일정이 없어 부적절하다고 평가하고, 안정성지시시험법·유통 전 시판용 용기 안정성시험·연간 대표배치 추가 프로그램 등을 포함한 독립적 평가와 CAPA 계획을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 유통 — Goop Skin Recovery Balm",
+   "detailKo": "\"ALL good Goop Skin Recovery Balm\"은 제품 표시 및 웹사이트(allgoodproducts.com, allgoodbodycare.com)의 \"베인 상처·찰과상·화상·물림·햇볕화상·습진·기저귀 발진 등에 좋다\"는 표현으로 볼 때 FD&C Act 201(g)(1)(B)·(C)상 의약품이며 OTC 피부보호제 및 외용진통제로 사용 의도가 있다. 그러나 표시된 성분(올리브유, 밀랍, 카렌듈라, 컴프리, 플랜테인, 라벤더, 야로우, 토코페롤 등)은 모두 피부보호제 모노그래프 M016 및 외용진통제 모노그래프 M017의 허용 활성성분에 해당하지 않으며, 단일 활성성분으로도 허용되지 않는다. 밀랍을 활성성분으로 의도한 경우 FDA가 21 CFR 310.545(a)(18)(i)(B)에서 GRASE가 아니라고 최종 판단한 성분에 해당한다. 따라서 본 제품은 201(p)상 신약이며 505조에 따른 승인 신청이 존재하지 않아 무허가 신약으로 유통된 것이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(ee), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "표시위반 및 손소독제·Drug Facts 표시 결함",
+   "detailKo": "\"ALL good Goop Skin Recovery Balm\"은 505G조 적용 비처방의약품이면서 해당 조항의 요건을 충족하지 못하고 505조 승인도 없어 502(ee)에 따라 표시위반(misbranded)에 해당한다. 또한 실사 중 수거된 손소독제 표시는 모두 \"hand sanitizer\"로 판매되면서 \"For hand washing to decrease bacteria on skin\"처럼 소비자용·의료용 항균 washes 용도로도 사용 가능한 것처럼 표시되어 있는데, 에탄올은 농도와 무관하게 항균 손세정제(wash)의 허용 활성성분이 아니다. 일부 \"ALL good\" SPF 제품 표시는 21 CFR 201.66의 Drug Facts 형식 요건을 위반해 201.66(c)(1)이 요구하는 \"Drug Facts\" 제목이 누락되고 201.66(d)(7)에서 허용되지 않는 불필요한 문구가 포함되어 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질부서 감독",
+  "위탁제조(CMO) 관리",
+  "OOS 조사",
+  "안정성시험",
+  "무허가 신약",
+  "OTC 모노그래프"
+ ],
+ "id": "elemental-herbs-inc-dba-all-good-654879-10202023",
+ "extractedAt": "2026-09-12T16:13:29Z",
+ "sourceChars": 22992
+}

@@ -1,0 +1,47 @@
+{
+ "headlineKo": "세마글루타이드·티르제파타이드 등 웹사이트 판매, 미승인 신약·표시위반",
+ "summaryKo": "FDA는 2023년 10월 US Chem Labs(마이애미 FL 소재, 서신은 128 Sunset Blvd, New Castle, DE 주소로 발송)의 웹사이트 www.uschemlabs.com을 검토했다. 사이트에서 판매 중인 \"Semaglutide\", \"Tirzepatide\", \"Thymalin\" 제품이 질병의 예방·치료 및 신체 구조·기능에 영향을 준다는 표방을 하고 있어 인체용 의약품에 해당하며, 승인된 신약신청이 없어 FD&C Act 505(a)·301(d) 위반의 미승인 신약으로 판단됐다. 또한 라벨에 적정 사용법이 없어 502(f)(1)에 따른 표시위반(misbranding) 의약품에 해당하며, 특히 Thymalin을 생후 6개월~14세 소아용으로 광고한 점을 FDA가 우려했다. 제품 라벨에 \"research chemicals only\", \"not for human consumption\"이라 적혀 있어도 웹사이트 표방이 인체용 의도를 입증한다고 보았고, 15영업일 내 시정 조치 회신을 요구하며 미시정 시 압류·금지명령 등 법적 조치를 경고했다. 이 서신은 현장 실사가 아닌 웹사이트 검토에 근거한 것이다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약을 주간 거래에 도입",
+   "detailKo": "FDA가 2023년 10월 웹사이트 www.uschemlabs.com을 검토한 결과 \"Semaglutide\", \"Tirzepatide\", \"Thymalin\" 제품을 미국 내 판매용으로 제공하고 있었다. 세마글루타이드는 제2형 당뇨 치료·체중감량, 티르제파타이드는 GLP-1 수용체 작용제로 혈당조절·체중감량, Thymalin은 소아 및 성인 면역결핍, 급만성 바이러스·세균 감염, 항암 치료 후 면역억제 등에 대한 효능을 표방했다. 이러한 표방은 해당 제품이 질병을 예방·치료·완화하거나 신체 구조·기능에 영향을 미칠 의도임을 입증하므로 201(g)(1)상 의약품이며, 표방된 용도에 대해 안전·유효하다고 일반적으로 인정되지 않아 201(p)상 \"신약\"에 해당한다. 승인된 505조 신청이 없는 상태에서 주간 거래에 도입되어 301(d)·505(a)를 위반했다. FDA는 특히 Thymalin을 생후 6개월~14세 소아용으로 판매하는 점을 우려했는데, 소아·영아는 약물의 흡수·대사·분포·배설 차이로 이상반응 위험이 더 클 수 있기 때문이다.",
+   "responseKo": "제품 라벨에 \"research chemicals only\", \"not for human consumption\"이라는 문구가 있으나, FDA는 웹사이트에서 확보한 증거가 제품이 인체용 의약품으로 의도되었음을 입증한다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 502(f)(1), 301(a) (21 U.S.C. 352(f)(1), 331(a))",
+   "area": "허가·표시",
+   "titleKo": "적정 사용법 미기재로 인한 표시위반",
+   "detailKo": "\"Semaglutide\", \"Tirzepatide\", \"Thymalin\" 제품의 표시에 의도된 용도에 대한 적정 사용법(adequate directions for use)이 기재되어 있지 않다. 21 CFR 201.5상 적정 사용법이란 일반인이 안전하게 의도된 목적으로 사용할 수 있는 지시를 말하나, 이들 제품은 일반인이 자가진단·자가치료할 수 없는 질환을 적응증으로 하므로 그러한 지시를 작성하는 것 자체가 불가능하다. 또한 독성 또는 유해작용 가능성, 사용 방법, 사용에 필요한 부수적 조치에 비추어 503(b)(1)(A)상 전문의약품에 해당한다. 따라서 502(f)(1)에 따른 표시위반 의약품이며, 이를 주간 거래에 도입하는 것은 301(a)의 금지행위다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "표시위반(misbranding)",
+  "GLP-1 수용체 작용제",
+  "온라인 판매",
+  "연구용 시약 표방",
+  "소아 사용"
+ ],
+ "id": "us-chem-labs-669074-02072024",
+ "extractedAt": "2026-09-12T16:04:27Z",
+ "sourceChars": 10987
+}

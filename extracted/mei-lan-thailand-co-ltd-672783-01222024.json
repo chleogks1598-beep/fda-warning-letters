@@ -1,0 +1,37 @@
+{
+ "headlineKo": "FDA 실사 요청 반복 무응답으로 실사 거부, 수입경보 55-03",
+ "summaryKo": "FDA는 태국 Samut Sakhon 소재 원료의약품(API) 제조소 Mei Lan (Thailand) Co., Ltd.(FEI 3012190301)에 2023년 9월 18~22일 실사를 예고했다. 그러나 2023년 5월 23일, 6월 6일·21일, 8월 29일에 보낸 전자 실사통지와 8월 25일 미국 대리인 접촉, 8월 29일 UPS로 배송 확인된 서면 요청에 회사가 모두 응답하지 않아 실사가 이루어지지 못했다. FDA는 이를 FD&C Act 501(j)에 따른 실사 지연·거부로 보아 해당 제조소 의약품을 불량의약품(adulterated)으로 규정했다. FDA는 2024년 1월 18일 이 회사를 수입경보 55-03에 등재했으며, 실사가 허용되어 CGMP 준수가 확인될 때까지 이 회사를 제조소로 기재한 신규 허가·보충허가 승인을 보류할 수 있고 미국 반입 물품은 억류·반입거부 대상이 된다.",
+ "inspectionStart": "2023-09-18",
+ "inspectionEnd": "2023-09-22",
+ "facility": "35/252-253 Moo 2, Tambol Bangnamched, Muang District, Muang Samut Sakhon, Samutsakorn, Thailand",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(j) (21 U.S.C. 351(j))",
+   "area": "품질시스템",
+   "titleKo": "FDA 실사 요청에 무응답하여 실사를 지연·거부",
+   "detailKo": "FDA는 2023년 9월 18~22일로 예정된 의약품 제조소 실사를 통지하고자 2023년 5월 23일 등록파일에 기재된 연락 이메일로 전자 실사통지를 보냈으나 회사는 응답하지 않았다. 2023년 6월 6일과 6월 21일에 보낸 2·3차 이메일 요청, 8월 29일의 4차 이메일 요청에도 회신이 없었고, 8월 25일에는 FDA 담당자가 미국 대리인(U.S. Agent) 접촉을 시도했다. 2023년 8월 29일에는 등록파일상 실제 주소로 UPS를 통해 후속 서면 요청을 발송해 배송이 확인되었으나 회사는 끝내 응답하지 않았다. 이로써 해당 시설에서 제조·가공·포장·보관된 의약품은 실사를 지연·거부·제한한 시설의 제품으로서 불량의약품에 해당한다. 회사는 원료의약품(API) 제조업체로 등록되어 있으며 crude (비공개)를 제조한다.",
+   "responseKo": "FDA는 이 서한 수령 후 15 영업일 이내 서면 답변을 요구했으며, 추가 정보 제출 또는 FDA 실사 일정 요청을 제출할 수 있다고 안내했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "55-03 (2024-01-18)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "실사 거부",
+  "FD&C Act 501(j)",
+  "수입경보 55-03",
+  "원료의약품(API)",
+  "해외 제조소 등록"
+ ],
+ "id": "mei-lan-thailand-co-ltd-672783-01222024",
+ "extractedAt": "2026-09-12T16:05:21Z",
+ "sourceChars": 3367
+}

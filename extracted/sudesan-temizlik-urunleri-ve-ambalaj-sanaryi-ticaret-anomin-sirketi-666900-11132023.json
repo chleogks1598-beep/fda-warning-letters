@@ -1,0 +1,56 @@
+{
+ "headlineKo": "수입성분 확인시험 누락, 완제품 함량·확인시험 미실시, 안정성 자료 부실",
+ "summaryKo": "FDA는 2021년 8월 26일 FD&C Act 704(a)(4)에 따라 요청한 기록을 튀르키예 이스탄불 소재 Sudesan 시설(FEI 3004647124)이 2022년 3월 11일 제출한 것을 검토했다. Amoray Instant Hand Sanitizer 등 OTC 의약품 제조와 관련해 입고 성분 확인시험 및 공급자 COA 신뢰성 검증 미흡, 완제품 출하 전 주성분 확인·함량시험 누락, 안정성 시험 프로그램 부실 등 3건의 CGMP 위반이 지적됐다. 회사가 제출한 자료는 성분 확인시험 실시 근거를 보여주지 못했고, 에탄올 입고 로트 시험은 미국 수출 이후에 시작됐으며, 안정성 자료는 2019년 제조분의 실온 12주치에 그쳐 표시된 유효기간을 뒷받침하지 못했다. FDA는 2023년 10월 18일 이 회사를 Import Alert 66-40 에 등재했고, CGMP 자격을 갖춘 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 5 Petrol Ofisi Caddesi Sehit Komando Onbasi Ugur Hanci Sokak, Avcilar Istanbul 34310, Turkey",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "성분 확인시험 미실시 및 공급자 시험성적 신뢰성 미검증",
+   "detailKo": "제출된 기록상 손소독제 제조에 사용하는 입고 성분 로트를 적절히 시험하고 있음을 입증하지 못했다. 704(a)(4) 요청에 대해 제출한 입고 성분 시험 목록에서는 어떤 성분에 대해서도 확인(identity)시험이 적절히 수행된 것으로 보이지 않았고, 시행 중인 물리적·미생물학적 관리 내용도 충분히 기술하지 못했다. 또한 에탄올 입고 로트 시험이 해당 의약품을 미국으로 선적한 이후에 시작된 것으로 나타나는 기록을 제출했다. FDA는 에탄올 함유 제품을 제조하는 점을 지적하며, 메탄올에 오염된 에탄올이 전 세계적으로 치명적 중독 사고를 일으켜 왔음을 상기시키고 관련 가이던스(Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol)를 안내했다.",
+   "responseKo": "FDA는 이 편지에 대한 회신으로 자재시스템 전반의 독립적 검토, 입고 로트별 화학·미생물 규격, 로트별 전 규격 시험 방안(COA 사용 시 공급자 결과 신뢰성의 초기 및 주기적 검증 방법과 로트별 확인시험 실시 확약 포함), 제조사별 COA 신뢰성 평가 결과 요약을 제출하도록 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 주성분 확인·함량시험 미실시",
+   "detailKo": "제출된 기록상 모든 의약품에 대해 적절한 완제품 시험을 수행하지 않았다. 특히 Amoray Hand Sanitizer 의 주성분에 대한 확인시험과 함량시험을 수행했다는 근거를 제시하지 못했다. 출하 규격과 분석법, 시험 데이터 제출 요구에 대해 회사는 손소독제의 알코올 농도와 미생물학적 특성을 평가한다는 절차를 일부 제출했으나, 실제 제출된 COA 에는 성상, 냄새, 밀도, pH 만 시험한 것으로 기재되어 있었다.",
+   "responseKo": "FDA는 로트 처분 결정 전 사용하는 화학·미생물 규격과 시험법 목록, 이 편지 시점에 유효기간 내인 미국 유통 전 배치의 품질을 확인하기 위한 보관검체 전항목 시험 계획과 일정, 그 시험 결과 요약을 제출하고, 기준 미달이 확인되면 고객 통지·리콜 등 신속한 시정조치를 취할 것을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "유효기간을 뒷받침하는 안정성 시험 프로그램 부재",
+   "detailKo": "미국으로 유통되는 자사 제조 의약품에 대해 적절한 보관조건과 유효기간을 평가하고 있음을 입증할 안정성 자료를 제시하지 못했다. 회사 COA 에는 유효기간이 (비공개)로 기재되어 있었으나, 제출된 안정성 자료는 실온(controlled room temperature) 조건 12주치에 불과했고 2019년에 제조된 제품에 한정되어 있었다. 손소독제에 부여한 유효기간을 뒷받침하는 데이터는 제출되지 않았다.",
+   "responseKo": "FDA는 안정성 프로그램의 적절성을 확보하기 위한 독립적 평가와 CAPA 계획(안정성 지시 시험법, 유통 전 시판 용기·마개 시스템에서의 제품별 안정성 시험, 매년 대표 배치를 추가해 유효기간 타당성을 확인하는 상시 프로그램, 시점별 시험항목의 구체적 정의 포함)과 관련 절차서 전부를 제출하도록 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-10-18)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "성분 확인시험",
+  "공급자 COA 검증",
+  "에탄올·메탄올 오염",
+  "완제품 출하시험",
+  "안정성 시험",
+  "수입경보 66-40"
+ ],
+ "id": "sudesan-temizlik-urunleri-ve-ambalaj-sanaryi-ticaret-anomin-sirketi-666900-11132023",
+ "extractedAt": "2026-09-12T16:09:43Z",
+ "sourceChars": 11058
+}

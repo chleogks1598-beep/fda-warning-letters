@@ -1,0 +1,46 @@
+{
+ "headlineKo": "미승인 신약 판매·M012 부적합 표시, 502(ee) 오표시",
+ "summaryKo": "FDA는 2023년 10월 12일 Novid Group, Inc.의 웹사이트(https://getnovid.com/)를 검토해 OTC 항히스타민·코충혈제거 복합제로 판매되는 novid NASAL SPRAY의 표시·광고를 점검했다. 제품은 감기·알레르기·바이러스 감염 예방 및 항염·면역증강 효능을 표방하나 표시 유효성분인 sodium chloride와 organic fulvic acids가 OTC 모노그래프 M012에서 허용되지 않고 표방 효능도 M012 범위를 벗어나, 승인 신청 없이 유통된 미승인 신약(FD&C Act 505(a)·301(d))에 해당한다고 지적했다. 또한 505G 요건을 충족하지 못해 502(ee)에 따른 오표시 의약품이며 이를 주간 통상에 반입하는 것은 301(a) 위반이라고 밝혔다. 시설 실사가 아닌 웹사이트 검토에 따른 서한으로, FDA는 수령 15영업일 이내 서면 시정 보고를 요구하고 미시정 시 압류·금지명령 등 법적 조치가 가능함을 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "승인 없이 미승인 신약을 유통",
+   "detailKo": "FDA는 2023년 10월 12일 https://getnovid.com/ 을 검토해 novid NASAL SPRAY가 상기도 알레르기·감염 증상(콧물·코막힘·부비동 압박) 완화, 감기·바이러스·세균 감염 예방, 항염, 면역 증강 등을 표방하는 것을 확인했다. 이러한 표방으로 제품은 FD&C Act 201(g)(1)(B)·(C)상 의약품이며 OTC 항히스타민·코충혈제거 복합제로 의도된 것으로 판단된다. 그러나 표시 유효성분인 sodium chloride와 organic fulvic acids는 단독으로도 병용으로도 모노그래프 M012에서 허용되는 성분이 아니고, \"fights and defends where viruses and bacteria attack\", \"individual protection from catching colds or other viral infections\", \"The only nasal spray that is effective in reducing inflammation\" 같은 예방·항염·면역 표방도 M012에서 허용되지 않는다. 따라서 제품은 GRASE로 인정되지 않는 신약(201(p))이며, 505조에 따른 승인 신청이 없는 상태에서 유통되어 505(a)·301(d)를 위반한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 502(ee), 301(a) (21 U.S.C. 352(ee), 331(a))",
+   "area": "허가·표시",
+   "titleKo": "505G 요건 미충족에 따른 오표시",
+   "detailKo": "novid NASAL SPRAY는 FD&C Act 505G의 적용을 받는 비처방 의약품이지만 해당 조항의 판매 요건을 충족하지 못하고, 505조에 따른 승인된 신청도 없다. 따라서 제품은 502(ee)에 따라 오표시(misbranded) 의약품에 해당한다. 오표시 의약품을 주간 통상에 반입하거나 반입을 위해 인도하는 행위는 301(a) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "OTC 모노그래프 M012",
+  "오표시(502(ee))",
+  "비허용 유효성분",
+  "질병 예방 표방"
+ ],
+ "id": "novid-group-inc-672251-12072023",
+ "extractedAt": "2026-09-12T16:10:02Z",
+ "sourceChars": 10971
+}

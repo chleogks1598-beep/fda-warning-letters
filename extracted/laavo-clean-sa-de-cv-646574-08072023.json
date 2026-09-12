@@ -1,0 +1,37 @@
+{
+ "headlineKo": "핸드새니타이저 BZK 함량 기준 이탈, 수입경보 66-78 등재",
+ "summaryKo": "FDA는 Laavo Clean, S.A. de C.V.(멕시코 Apodaca) 제조로 표시된 소비자용 무알코올 핸드새니타이저 Instant Hand Sanitizer LaavoClean 및 동 KIDS 제품에 대해 국경에서 억류된 배치를 시험했다. 표시 함량 0.13% benzalkonium chloride(BZK)와 달리 KIDS 제품은 평균 0.15% w/v(표시량의 115%), 일반 제품 2개 배치는 각각 0.15%와 0.12% w/v(92.7%)로 USP 기준(93.0~107.0%)을 벗어나 FD&C Act 501(c)에 따라 변조(adulterated)로 판정됐다. 제품 전량이 국경에서 억류·수입거부되어 미국 내로 반입되지 않았으므로 FDA는 회수를 권고하지 않았고, 2023년 5월 17일 소비자 대상 역가 미달·초과 사실을 공개했다. FDA는 2023년 5월 9일자로 이 회사가 제조한 모든 의약품을 수입경보 66-78에 등재했으며, 향후 미국 공급을 원할 경우 규제 미팅(Regulatory Meeting)을 요청하라고 통보했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Elias Flores Sur. No. 300, Apodaca Centro, Ciudad Apodaca, Nuevo Leon 66600, Mexico",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c)",
+   "area": "시험·QC",
+   "titleKo": "핸드새니타이저 BZK 함량이 표시량과 달라 변조",
+   "detailKo": "Instant Hand Sanitizer LaavoClean KIDS without Alcohol은 활성성분 benzalkonium chloride(BZK) 0.13% 함유로 표시됐으나, 국경 억류 배치에 대한 FDA 시험 결과 평균 0.15% w/v, 즉 표시량의 115%로 확인됐다(USP 기준 NLT 93.0%, NMT 107.0%). Instant Hand Sanitizer LaavoClean without Alcohol 역시 0.13% BZK로 표시됐으나 2개 배치에서 각각 평균 0.15% w/v 및 0.12% w/v(표시량의 92.7%)가 검출됐다. 표시 함량과 실제 함량이 달라 해당 제품들은 FD&C Act 501(c)에 따라 변조된 것으로 판정됐다.",
+   "responseKo": "FDA는 답변 시 0.13% 표시 제품에서 평균 0.15%·0.12% BZK가 나온 경위에 대한 상세 조사, 원료 및 공급자 목록, 미국으로 출하된 모든 배치 목록과 유통 물량 정산, 미국 유통 배치의 완전한 배치기록 사본을 제출하도록 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2023-05-09)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "BZK 함량",
+  "역가 기준이탈",
+  "수입경보 66-78",
+  "핸드새니타이저",
+  "국경 억류·수입거부"
+ ],
+ "id": "laavo-clean-sa-de-cv-646574-08072023",
+ "extractedAt": "2026-09-12T16:21:42Z",
+ "sourceChars": 5961
+}

@@ -1,0 +1,47 @@
+{
+ "headlineKo": "DEG·EG 고위험 원료 확인시험 누락, 품질부서 기능 미비",
+ "summaryKo": "FDA는 2023년 7월 12일자 FD&C Act 704(a)(4) 기록 제출 요구에 따라 인도 뭄바이 소재 OTC 의약품 제조소 Patcos Cosmetics Pvt. Ltd.(FEI 3009250196)가 제출한 기록을 검토했다. 검토 결과 CGMP 중대 위반 2건이 확인됐는데, 글리세린·프로필렌글리콜·소르비톨액 등 DEG/EG 오염 고위험 원료에 대해 입고 로트별 USP 확인시험을 수행하지 않았고, 품질부서(QU)가 자재시스템에서 승인·불승인 권한을 실질적으로 행사하지 못했다. FDA는 2023년 11월 17일 이 회사를 수입경보 66-40에 등재했으며, 미국 시장용 제조를 재개하려면 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트를 선임해 6개 시스템 전반 감사를 받도록 권고했다. 회사는 30영업일 내에 서면 답변을 제출해야 한다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "120 Mahavir Industrial Estate, Mahakali Caves Road, Mumbai, Maharashtra 400093, India",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1)",
+   "area": "원자재·공급자",
+   "titleKo": "고위험 원료의 로트별 확인시험 미실시",
+   "detailKo": "회사는 (비공개) 등 여러 OTC 의약품을 제조하면서, DEG(디에틸렌글리콜) 또는 EG(에틸렌글리콜) 오염 고위험 원료의 입고 로트·선적별 확인시험을 적절히 수행했음을 입증하지 못했다. 대상에는 제조에 사용한 글리세린, 프로필렌글리콜, 소르비톨액 등이 포함된다. 이들 고위험 원료의 확인시험에는 DEG/EG 안전 한도 적합 여부를 확인하는 USP 한도시험이 포함되어야 하나, 회사는 이 유해 불순물을 검출하는 USP 확인시험을 각 선적·각 로트에 대해 수행하지 않아 원료의 사용 적합성을 보증하지 못했다. FDA는 DEG/EG 오염 성분 사용이 전 세계적으로 다수의 치명적 중독 사고를 야기했음을 지적했다.",
+   "responseKo": "본 편지에 대한 답변으로 FDA는 30영업일 내 보관검체를 이용한 전 로트 DEG/EG 시험 결과 제출 약속, 유효기간 내 제품에 대한 전면적 위해평가와 필요 시 고객 통지·리콜, 공급자 COA 신뢰성 검증 절차와 SOP, 자재시스템 전반에 대한 독립적 종합 검토를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 승인·불승인 권한 미확립",
+   "detailKo": "제출된 기록과 정보는 회사의 품질부서(QU)가 의약품 제조 운영의 품질을 감독할 책임을 효과적으로 수행하지 못했음을 보여준다. 구체적으로 QU는 자재시스템에서 원료의 승인 또는 불승인 권한을 적절히 행사하지 않았다. FDA는 QU가 생산, 시설·장비, 실험실 관리, 포장·표시 시스템 등 다른 CGMP 운영에 대해서도 적절한 감독을 수행하지 못하고 있을 가능성을 우려한다고 밝혔다.",
+   "responseKo": "FDA는 QU가 실질적으로 기능할 권한과 자원을 갖추도록 하는 종합 평가·개선계획 제출을 요구했으며, 절차의 견고성 판단, 전 공정에 대한 QU 감독 체계, QU 출하판정 전 배치별 최종 검토, 일탈조사 승인 등을 포함하도록 했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-11-17)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "DEG·EG 오염",
+  "원료 확인시험",
+  "USP 한도시험",
+  "품질부서 권한",
+  "공급자 COA 검증",
+  "수입경보 66-40"
+ ],
+ "id": "patcos-cosmetics-pvt-ltd-669465-12152023",
+ "extractedAt": "2026-09-12T16:07:44Z",
+ "sourceChars": 10707
+}

@@ -1,0 +1,47 @@
+{
+ "headlineKo": "IPA 메탄올 미시험·공급자 미검증, COA 의존 원료출고",
+ "summaryKo": "FDA는 2023년 4월 3일 FD&C법 704(a)(4)조에 따른 기록 요청으로 중국 Nantong Furuida Packaging Products Co., Ltd.(FEI 3015509579)가 제출한 자료를 검토해 완제의약품 CGMP 위반을 확인했다. 번호 지적은 1건으로, 입고 API 로트에 대한 확인시험을 하지 않고 공급자 COA만 믿고 출고했으며 공급자 적격성 평가나 COA 검증 근거도 제시하지 못했다. 특히 이소프로필알코올 원료의 메탄올 시험을 수행하지 않았고 제출된 공급자 COA에도 메탄올 규격·결과가 없었으며, 추가 지적으로 장기 안정성 자료 없이 가속시험만으로 유효기간을 설정한 점이 확인됐다. FDA는 2023년 10월 26일 이 회사를 수입경보 66-40에 등재했고 CGMP 적격 컨설턴트 고용을 강력히 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No 1, Guoyuan Cun, Wenfeng Street, Chongchuan District, Nantong, Jiangsu Sheng, 226004, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1) and 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 미적격화",
+   "detailKo": "제출 기록상 OTC 의약품 제조에 사용하는 원료의약품(API) 입고 로트에 대해 확인(identity) 시험을 수행했다는 근거가 없다. 또한 공급자의 성적서(COA)만 근거로 API를 제조용으로 출고했으면서 공급자 적격성 평가나 COA 정보 검증 문서를 제시하지 못했다. 이소프로필알코올 전 입고 로트의 메탄올 시험에 관한 704(a)(4) 요청에 대해 회사는 공급자 COA 수용으로 입고검사를 갈음하며 성상·냄새·함량만 시험한다고 답했고, 제출한 공급자 COA에는 메탄올 규격이나 결과가 없었다. 다른 의약품에 쓰인 원료의 확인시험 결과도 제출하지 않았다. FDA는 이 회사가 이소프로필알코올 함유 의약품을 제조하며, 메탄올에 오염된 의약용 알코올이 전 세계적으로 치명적 중독 사고를 일으켰음을 지적했다.",
+   "responseKo": "FDA는 회사 답변(COA 수용 기반 입고검사)을 위반의 근거로 삼았으며, 회신 시 자재 시스템 독립 종합검토, 입고 로트별 규격·시험 계획, COA 신뢰성 검증(초기 및 주기적 재검증) SOP, 유효기간 내 미국 수출 손소독제 전 배치의 메탄올 시험결과 등을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "",
+   "area": "시험·QC",
+   "titleKo": "장기 안정성 자료 없이 유효기간 설정",
+   "detailKo": "안정성 프로그램에 대한 정보 요청에 회사는 3개 제품의 가속시험 보고서만 제출했다. 가속시험에 근거한 안정성 추정을 뒷받침할 장기 안정성 시험 자료를 제시하지 못했고, 안정성 프로그램 관련 문서도 전혀 제출하지 않았다. 그 결과 제품에 표시된 (비공개) 유효기간을 뒷받침할 적절한 근거가 없다고 FDA는 판단했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-10-26)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "메탄올 시험",
+  "이소프로필알코올",
+  "공급자 적격성",
+  "COA 검증",
+  "확인시험",
+  "안정성 시험"
+ ],
+ "id": "nantong-furuida-packaging-products-co-ltd-667984-11172023",
+ "extractedAt": "2026-09-12T16:05:04Z",
+ "sourceChars": 8314
+}

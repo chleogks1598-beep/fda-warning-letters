@@ -1,0 +1,74 @@
+{
+ "headlineKo": "CMO 제조 안과용제 무균성 실패·오염, 공급자관리·불만처리 부재",
+ "summaryKo": "FDA 는 인도 소재 CMO 인 Global Pharma Healthcare Private Limited 실사(2023-02-20~03-02)에서 중대한 CGMP 위반을 확인한 뒤, 2023년 3월 6일부터 24일까지 뉴욕 브롱크스 55 E. Gun Hill Road 의 Delsam Pharma 유통시설을 실사했다. FDA 시험에서 미개봉 상태의 Artificial Tears 4개 배치와 Artificial Eye Ointment 1개 배치가 비무균으로 확인됐고 용기밀봉완전성 시험에서도 20개 중 1개가 미생물 침입을 허용했으며, 해당 제품들은 80명 이상 감염·4명 사망·14명 이상 시력상실을 낳은 다제내성 녹농균 집단감염 조사 대상이었다. 회사는 Form FDA 483 에 대한 답변을 전혀 제출하지 않았고, 공급자 적격성평가 절차와 불만 접수·조사 절차가 없어 부적합 제품의 미국 내 유통을 막지 못했다. CMO 는 2023-01-03 수입경보 66-40 에 등재되고 경고장(320-24-03)을 받았으며, 2023년 2월 인공눈물·안연고 자발적 회수가 진행됐고 Delsam 은 labeler code 를 비활성화하고 의약품 리스팅 제출을 중단했다.",
+ "inspectionStart": "2023-03-06",
+ "inspectionEnd": "2023-03-24",
+ "facility": "55 E. Gun Hill Road, Bronx, New York",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(1), 501(a)(2)(A)",
+   "area": "무균·멸균",
+   "titleKo": "안과용 의약품 무균성 실패 및 미생물 오염",
+   "detailKo": "2022년 12월 CDC 와의 다제내성 녹농균 집단감염 조사(감염 80명 초과, 사망 4명, 시력상실 14건 이상)의 일환으로 FDA 가 Delsam Pharma 의 Artificial Tears 및 Artificial Eye Ointment 완제품을 수거해 FDA 실험실에서 무균시험을 실시했다. 미개봉 상태의 Artificial Tears 4개 배치와 Artificial Eye Ointment 1개 배치가 비무균으로 판정됐고, 안연고에서는 Cytobacillus spp. 와 Burkholderia cepacia complex, 인공눈물에서는 Bacillus spp., Paenibacillus spp., Cutibacterium spp., Clostridium spp. 가 검출됐다. 미개봉 검체에서 검출된 점은 제품이 본질적으로(intrinsically) 오염됐음을 보여준다. 또한 Artificial Eye Ointment 배치 (비공개) 에 대한 용기밀봉완전성 시험에서 20개 중 1개가 미생물 침입을 허용해 용기·마개 시스템이 무균성 유지에 부적합함이 확인됐다(해당 배치는 비무균 판정 배치이기도 하다).",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 301(c), 301(a)",
+   "area": "품질시스템",
+   "titleKo": "부적합(adulterated) 의약품의 수령 및 유통",
+   "detailKo": "실사 및 수입기록 검토 결과 회사는 Global Pharma Healthcare Private Limited(FEI 3012323885)를 CMO 로 사용했으며, 2021년 2월 Delsam Pharma 의 Artificial Tears 와 Artificial Eye Ointment 를 선적받은 사실이 확인됐다. 회사는 이 선적분 중 FDA 시험에서 비무균으로 판정된 제품을 유통했다. 부적합 의약품을 주간 거래에서 수령·인도한 행위는 FD&C Act 301(c) 위반이며, 이를 유통한 행위는 301(a) 위반이다.",
+   "responseKo": "FDA 는 회신 시 부적합 의약품을 수령·유통하지 않도록 하는 상세 계획을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "원자재·공급자",
+   "titleKo": "CMO·공급자 적격성평가 절차 부재",
+   "detailKo": "회사는 안과용 의약품 제조를 CMO 에 위탁했으나, 자사를 위해 제조된 모든 안과용 제품이 적절한 품질특성을 충족하고 미생물 오염이 없음을 보증할 적절한 절차를 갖추지 못했다. 또한 Global Pharma Healthcare Private Limited 로부터 받은 제품이 미국 내 유통 전 CGMP 에 따라 제조되었는지를 확인할 적절한 공급자 적격성평가 절차도 없었다. 해당 CMO 실사(2023-02-20~03-02)에서는 충전설비 부적합, 멸균공정 밸리데이션 미실시, 다회용 안과용제의 용기밀봉완전성 결여, 보존 효능이 없는 다회용 OTC 안과용제 제조 등 다수의 CGMP 위반이 확인됐다. FDA 는 계약자를 제조자의 연장으로 간주하며, 계약 내용과 무관하게 의약품 품질에 대한 책임은 회사에 있음을 명시했다.",
+   "responseKo": "FDA 는 회신 시 공급자·위탁제조소 적격성평가 프로그램 전면 평가(주기적 공급자 실사 계획 포함)와 현재 공급자·위탁제조소에 대한 평가 결과 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "",
+   "area": "품질시스템",
+   "titleKo": "불만처리 절차 부재 및 미조사",
+   "detailKo": "회사는 자사 의약품에 관한 모든 서면·구두 불만의 처리를 기술한 문서화된 절차를 갖추지 않았다. 접수된 불만을 문서화하지 않았고 조사도 수행하지 않았다. FDA 는 유통업자로서 적절한 후속조치를 위해 불만을 CMO 에 적시에 전달하는 것이 필수적이라고 지적했다.",
+   "responseKo": "FDA 는 회신 시 불만처리 체계에 대한 전면 평가를 제출하도록 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(j), 502(a); 21 CFR 200.50",
+   "area": "허가·표시",
+   "titleKo": "비무균 안과용제의 허위·오인 표시(misbranding)",
+   "detailKo": "Delsam Pharma 의 ARTIFICIAL TEARS(안과용 완화제)와 ARTIFICIAL EYE OINTMENT(안과용 연화제)는 표시상 용도로 보아 FD&C Act 201(g)(1)(B)·(C) 의 '의약품'에 해당한다. 21 CFR 200.50 은 안과용으로 제공되는 모든 제제가 무균이어야 한다고 규정하나, FDA 분석 결과 ARTIFICIAL TEARS 에서 Bacillus 속, ARTIFICIAL EYE OINTMENT 에서 Burkholderia cepacia complex 가 검출되어 두 제품 모두 502(j) 에 따라 허위표시에 해당한다. 세균에 오염된 안과용 제품을 점안할 경우 경미한 감염부터 시력을 위협하는 중증 감염, 나아가 생명을 위협하는 전신 세균감염까지 진행될 상당한 개연성이 있다. 또한 ARTIFICIAL EYE OINTMENT 는 주표시면(PDP)에 'sterile' 로 표시했으나 실제로는 무균이 아니어서 표시가 허위 또는 오인을 유발하므로 502(a) 에 따라서도 허위표시에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2023-01-03) — 위탁제조소 Global Pharma Healthcare Private Limited 대상",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "무균성 실패",
+  "용기밀봉완전성",
+  "공급자 적격성평가",
+  "위탁제조(CMO) 관리",
+  "불만처리",
+  "허위표시(misbranding)"
+ ],
+ "id": "delsam-pharma-llc-657340-02132024",
+ "extractedAt": "2026-09-12T16:04:16Z",
+ "sourceChars": 16211
+}
