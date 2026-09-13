@@ -1,0 +1,47 @@
+{
+ "headlineKo": "비USP 미검증 시험법 사용, OOS 반복 재시험 후 무효화·출하",
+ "summaryKo": "FDA는 2021년 9월 20일부터 24일까지 뉴저지주 Pennsauken 소재 Cetylite Industries, Inc.(FEI 2242327) 의약품 제조소를 실사하고 CGMP 위반 2건을 지적했다. 젤 제형인 Cetacaine Mint Gel Topical Anesthetic에 대해 해당 USP 모노그래프 대신 에어로졸용 방법과 자체 (비공개) 방법을 검증 없이 사용했고, 이로 인해 발생한 테트라카인 HCl 함량 OOS를 과학적 근거 없이 반복 재시험해 적합 결과를 얻은 뒤 무효화하고 출하했다. 회사의 2021년 10월 14일자 Form FDA 483 답변과 후속 답변은 시험법 동등성 입증 자료와 시정조치 증빙이 부족해 부적절하다고 평가됐다. FDA는 유효기간 내 유통 제품의 재검토·출하 전 시험법 시정, 무효화된 OOS 전건에 대한 소급 독립 검토를 요구하며, 미시정 시 압류·금지명령 등 조치와 수출증명서 발급 보류, 신규 허가 승인 보류가 가능함을 통보했다.",
+ "inspectionStart": "2021-09-20",
+ "inspectionEnd": "2021-09-24",
+ "facility": "9051 River Road, Pennsauken, NJ 08110, United States",
+ "form483ResponseDate": "2021-10-14",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "과학적으로 타당한 실험실 관리·시험법 미확립",
+   "detailKo": "USP 수재 품목인 Cetacaine Mint Gel Topical Anesthetic을 제조하면서, Benzocaine, Butamben, Tetracaine Hydrochloride Gel에 대한 공정서 시험법 대신 에어로졸 제형용 공정서 시험법을 사용해 분석했다. 에어로졸용 방법이 젤 제형 시험에 적합한지 적절히 밸리데이션하지 않았다. 2019년 3월 이후 에어로졸·액제·젤 국소마취제 완제품의 함량시험에서 USP를 벗어난 방법을 사용해 왔다. 또한 완제품 출하시험에 사용한 자체 (비공개) 방법의 밸리데이션 연구도 완료하지 않아, 해당 방법이 현행 USP 공정서 시험법과 동등하거나 우수함을 입증하지 못했다.",
+   "responseKo": "회사는 향후 자체 (비공개) 방법으로 출하시험을 하겠다고 했으나 USP 대비 동등성을 입증하는 밸리데이션 자료를 제출하지 않았고, 오히려 제출 자료에서 자체 시험법과 USP 공정서 시험법의 젤 제품 함량 결과가 서로 달랐다. 제품 라벨에 USP 규격 미충족 표시가 없으므로 해당 USP 모노그래프가 규제상 시험법이며, 기출하 배치가 규격 부적합으로 판명될 경우의 품질·환자안전 위험 대응 계획도 없어 답변은 부적절하다고 평가됐다. FDA는 동등성 입증 전까지 현행 USP 공정서 시험법 사용 확약, 동등성 종합 연구, 유효기간 내 유통 전 제품 참고품의 밸리데이션된 방법에 의한 재시험 결과, 고객 통지·리콜·시장철수를 포함한 조치계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.192",
+   "area": "시험·QC",
+   "titleKo": "OOS 등 불일치에 대한 철저한 조사 실패",
+   "detailKo": "미검증 방법으로 젤 제품을 분석하는 과정에서 발생한 OOS를 적절히 조사하지 않았다. 테트라카인 HCl 함량이 114.7%, 115.2%((비공개))로 OOS였고, 조사 중 Benzocaine, Butamben, Tetracaine Hydrochloride Gel USP 공정서 시험법으로 재시험한 결과도 118.9%, 118.3%((비공개))로 역시 OOS였다. 공정서 시험법에 부적합한 의약품은 FD&C Act 501(b)에 따라 불량의약품으로 간주된다. 그럼에도 회사는 충분한 과학적 정당화 없이 추가로 두 가지 방법((비공개), (비공개))으로 다시 시험해 적합 결과를 얻었고, 공정서 시험법에 의한 OOS를 포함한 OOS 결과들을 무효화할 타당한 근거 없이 제품을 출하했다.",
+   "responseKo": "회사는 OOS 조사가 철저했으며 품질부서의 출하 결정을 뒷받침한다고 주장했으나, FDA는 적합 결과가 나올 때까지 반복 시험을 하면서 과학적으로 타당한 정당화를 세우지 않았다는 점에서 부적절하다고 평가했다. 재시험 절차는 OOS 조사의 일부일 수 있으나 과학적으로 타당한 원칙과 적절히 밸리데이션·검증된 방법에 근거해야 한다고 지적했다. FDA는 유효기간 내 미국 유통 제품의 무효화된 OOS 전건에 대한 소급 독립 검토 보고서와 OOS 조사 체계의 종합 시정·개선 계획(품질부서 감독, 실험실 이상 경향 파악, 제조 측 원인 조사 등)을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "USP 공정서 시험법",
+  "시험법 밸리데이션",
+  "OOS 조사",
+  "OOS 무효화",
+  "국소마취제 함량시험",
+  "실험실 관리"
+ ],
+ "id": "cetylite-industries-inc-622823-04142022",
+ "extractedAt": "2026-09-13T08:15:08Z",
+ "sourceChars": 10631
+}

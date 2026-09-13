@@ -1,0 +1,56 @@
+{
+ "headlineKo": "불만 미조사·CMO 품질감독 부재, QA 담당자 자격 미달",
+ "summaryKo": "FDA는 2021년 12월 15일부터 2022년 1월 14일까지 뉴저지주 Shrewsbury 소재 Bi-Coastal Pharma International 시설을 실사하고 CGMP 위반 3건을 지적했다. Chlordiazepoxide HCl/Clidinium Br 관련 이상반응 불만을 접수하고도 조사에 착수하지 않았고, 위탁제조소(CMO)에 대한 품질부서 감독과 배치기록 검토·출하 절차가 사실상 이행되지 않았으며, QA 관리자가 품질·제약·과학 분야 경력이나 교육 배경이 없는 상태로 CMO 감독과 배치 출하를 담당했다. 회사의 2022년 2월 2일자 Form FDA 483 답변은 유통 중인 제품에 대한 영향 평가와 시스템 차원의 개선안이 빠져 모두 부적절하다고 평가됐다. FDA는 21 CFR 211.34 요건을 갖춘 CGMP 컨설턴트 고용을 강력히 권고했으며, 미시정 시 압류·금지명령 등 법적 조치와 수출증명서 발급 보류, 신규 허가 승인 보류가 가능하다고 경고했다.",
+ "inspectionStart": "2021-12-15",
+ "inspectionEnd": "2022-01-14",
+ "facility": "1161 Broad St Ste 216, Shrewsbury, New Jersey",
+ "form483ResponseDate": "2022-02-02",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.198(a)",
+   "area": "품질시스템",
+   "titleKo": "제품 불만 처리 절차 미비 및 불만 조사 실패",
+   "detailKo": "2020년 6월 2일 FDA가 회사가 유통한 Chlordiazepoxide HCl/Clidinium Br 5 mg/2.5 mg 복용 후 이상반응 불만을 통보하고 불만 제기자 연락처까지 제공했으나, 자사 절차에 따른 제조·포장 평가 조사가 전혀 착수되지 않았다. 회사는 2020년 7월 6일 CMO가 제공한 모든 시험성적서를 검토해 기존 출하 배치와 결과가 일치한다고만 회신했다. 해당 CMO(비공개)는 FDA로부터 Chlordiazepoxide HCl/Clidinium Br 등 여러 제품의 혼입(mix-up) 가능성을 지적받은 경고서한을 받은 이력이 있었음에도, 회사는 불만 접수 시점에 검체 확보나 불만 제기자로부터의 추가 정보 수집을 시도하지 않았다. 회사는 CMO가 폐업해 불만을 공유할 수 없었다고 진술했으나, FDA는 제품 소유자로서 외주 활동에 대한 품질 감독 책임이 회사에 있다고 지적했다.",
+   "responseKo": "불만 처리 프로세스를 개정하겠다는 답변은 부적절하다고 평가됐다. 2018년 이후 제조된 해당 제품 2개 배치를 포함한 품질 영향 조사 근거를 제시하지 못했고, 불만 조사 전반에 대한 시스템 차원의 평가가 빠져 있다. FDA는 일탈·불만·OOS·실패 조사 시스템의 포괄적 독립 평가와 개선계획, 미국 제품 불만 해당 기록의 소급 검토, CMO 폐업 시 CGMP 책임 이행을 보장할 절차 평가를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a) and (d)",
+   "area": "품질시스템",
+   "titleKo": "품질부서 미확립 및 CMO 감독·배치 검토 절차 불이행",
+   "detailKo": "CMO가 수행하는 제조 작업을 검토하기 위한 문서화된 책임과 절차를 수립하지 않았고, 각 배치의 처분 결정을 위한 자체 절차도 이행하지 않았다. CMO 감독 측면에서, CMO(비공개)가 2020년 11월 16일 출하한 Hydroquinone USP 4% Skin Bleaching Cream 배치를 다수 고객에게 유통했으나 해당 배치·처방의 적절한 안정성 자료를 제시하지 못했다. 또 다른 CMO(비공개)가 제조하는 Hydroquinone USP 4% Skin Bleaching Cream, Sodium Sulfacetamide 10% & Sulfur 5% Cleanser, Sodium Sulfacetamide 10% and Sulfur 2% Cleanser, Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser, Selenium Sulfide 2.25% Shampoo에 대한 제조·공급 계약서는 OOS 결과·일탈·불만·변경관리 검토 등 감독 활동의 책임 소재를 구체적으로 규정하지 못했다. 절차 불이행 측면에서는, FDA가 실사 중 요청하지 않는 한 실행된 배치기록을 수령·검증하지 않는다고 진술했고 이로 인해 2019년 12월 이후 다수 제품의 배치가 배치기록 검증 없이 유통됐으며, Hydroquinone Gel 4% 벌크 로트(비공개)는 출하증명서의 \"Reviewed by\" 란이 서명되지 않은 채 유통됐다. 아울러 2020·2021년 직원 교육기록에 품질부서 대표자의 부서명(counter sign) 서명이 누락됐으며, 해당 인원에는 품질 업무를 계속 수행한 QU 직원도 포함된다.",
+   "responseKo": "Hydroquinone 4% Cream에 대한 CMO 연간검토서는 접수됐으나 해당 배치의 유효기간 전반을 대표하는 안정성 특성을 제시하지 못했고, CMO 관리 책임을 문서화하겠다는 계획은 임시 통제 방안과 기존 계약서 적정성 평가가 빠져 부적절하다. 또한 부적절한 배치 검토·출하 관행이 이미 출하돼 유효기간 내 시장에 남아 있는 배치에 미친 영향에 대한 조사를 제시하지 못했다. FDA는 유통 중 전 배치에 대한 소급 평가, CMO 자격평가·감독 프로그램 요약, 품질부서 권한·자원 확보를 위한 포괄적 평가 및 개선계획을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.25(b)",
+   "area": "품질시스템",
+   "titleKo": "품질 감독 인력의 교육·경력 자격 미달",
+   "detailKo": "품질 관련 기능을 감독하는 인력이 업무 수행에 적합한 교육·훈련·경험을 갖추지 못했다. 회사의 QA 관리자는 품질보증, 제약산업 또는 과학 분야의 사전 경력이나 교육 이력이 전혀 없음에도 CMO 감독, 시험성적서 검토, 배치 출하를 책임지고 있었다. 또한 이 관리자는 CMO가 회사를 대신해 제조하는 의약품에 대한 CGMP 안정성시험 및 공정밸리데이션 요건을 인지하지 못하고 있었다.",
+   "responseKo": "신규 QA 관리자를 채용할 때까지 \"Vice President & General Manager\"가 절차 준수를 지원하겠다는 답변은 부적절하다고 평가됐다. 해당 인물이 CGMP 활동을 감독할 자격이 있음을 입증하는 근거를 제시하지 못했고, 신규 QA 관리자가 적절한 교육·학력·경력 조합을 갖추도록 보장할 방안도 제시하지 않았다. FDA는 교육 프로그램에 대한 포괄적 평가와 CAPA, 현행 교육 프로그램 요약, 감독 개선 계획, 교육 부재가 시판 제품에 미친 영향 평가를 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "불만 처리·조사",
+  "CMO 품질감독",
+  "배치기록 검토·출하",
+  "품질부서(QU) 권한",
+  "인력 자격·교육",
+  "안정성 자료"
+ ],
+ "id": "bi-coastal-pharma-international-628196-06302022",
+ "extractedAt": "2026-09-13T08:07:50Z",
+ "sourceChars": 17013
+}

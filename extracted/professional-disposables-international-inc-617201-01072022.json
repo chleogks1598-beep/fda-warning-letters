@@ -1,0 +1,47 @@
+{
+ "headlineKo": "OOS 조사 부실·55/78건 무효화, NDA Field Alert 미보고",
+ "summaryKo": "FDA는 2021년 5월 5일부터 6월 23일까지 뉴욕주 Orangeburg 소재 Professional Disposables International, Inc.(FEI 2411192) 의약품 제조소를 실사했다. OOS 조사 부실(21 CFR 211.192)과 NDA Field Alert 보고 누락 두 가지가 지적됐으며, Prevantics Swabstick/Swab 3개 배치(12000124, 11900228ES, 11800257JS)의 CHG 함량 OOS를 과학적 근거 없이 분석오류로 돌려 무효화하고 배치를 출하한 사실이 확인됐다. 회사의 2021년 7월 16일 483 답변은 근거 없는 원인 추정, CAPA 미실시, 이미 유통된 배치·보관시료에 대한 조치 부재, 개정 SOP(버전 9)의 미흡으로 부적절하다고 평가됐다. FDA는 CGMP 컨설턴트 고용을 강력 권고했고, 회사는 Povidone-Iodine 생산 중단을 약속했으며 유통사가 Betadine Swab Sticks를 자발적 회수했으나 Prevantics 제품군으로는 회수가 확대되지 않은 점을 지적했다.",
+ "inspectionStart": "2021-05-05",
+ "inspectionEnd": "2021-06-23",
+ "facility": "2 Nice-Pak Park, Orangeburg, NY 10962-1317, United States",
+ "form483ResponseDate": "2021-07-16",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.192",
+   "area": "시험·QC",
+   "titleKo": "OOS 및 배치 불일치에 대한 철저한 조사 실패",
+   "detailKo": "OOS 결과를 적시에 조사하지 않고 근본원인 규명, 영향 배치 확대 조사, CAPA 수립 및 유효성 평가를 하지 않았다. (A) Prevantics Swabstick(CHG 3.15% w/v, IPA 70% v/v) 배치 12000124는 2020년 2월 6일 CHG 함량 1.57% (비공개) OOS로 조사(OOS 20-0032-NY)가 시작됐으나, 품질부서는 분석자가 시료 전처리 유리기구를 보관하지 않았음에도 근거 없이 피펫팅 오류 또는 희석 오류로 결론짓고 재시험 합격 결과로 배치를 출하했다. (B) Prevantics Swab 배치 11900228ES(OOS 20-0099-NY, 2020년 3월 19일 개시)는 3월 25일 원시료 원액에서 추가 OOS 2건이 나왔음에도 실험실 귀책 원인을 문서화하지 못했고, 2020년 7월 17일 최초 OOS 후 약 4개월 만에 근거 없이 '분석자 간 및 HPLC 기기 내 편차'로 종결했으며 동일 HPLC로 시험한 다른 배치를 평가하지 않았다. (C) Prevantics Swab 배치 11800257JS는 2020년 3월 19일 계산 착오로 합격값이 보고됐다가 재계산 결과 OOS임이 확인됐고, 6월 19일에야 조사가 개시되어 8월 19일 지연 사유 설명 없이 최초 OOS를 무효화하고 종결했다. 또한 2021년 7월 16일 제출한 NDA 21524 연차보고서에 해당 결과를 합격으로 잘못 기재했으나 FAR도 연차보고서 수정도 제출하지 않았다.",
+   "responseKo": "답변은 부적절하다. 실험실 오류라는 결론을 뒷받침할 과학적 증거가 없고 적절한 CAPA도 없었으며, 이미 유통된 배치와 보관시료 시험에 대한 조치가 빠져 있고, 2019년 5월 5일~2021년 5월 4일 사이 OOS 78건 중 약 55건이 무효화된 점에 대한 재검토가 없다. 개정된 OOS SOP 버전 9도 (비공개) 조사 개시 시점과 실험실 오류에 의한 무효화의 명확한 증거 요건을 규정하지 못해 여전히 미흡하며, FDA는 무효화 OOS 3년치 소급 검토와 유효기간 내 보관시료 시험 결과 제출 등을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 314.81(b)(1)(i) and (ii); FD&C Act 505(k)",
+   "area": "허가·표시",
+   "titleKo": "NDA Field Alert Report 미제출",
+   "detailKo": "NDA 21524 하에서 유통된 배치 12000124, 11900228ES, 11800257JS의 함량 부적합 결과에 대해 NDA Field Alert Report를 FDA에 제출하지 않았다. 규정상 유통 제품의 세균 오염, 유의한 화학적·물리적 변화 또는 허가서상 규격 미달 사실을 인지한 날로부터 3근무일 이내에 보고해야 한다. 이 규정은 유통 중인 의약품의 잠재적 안전 위해를 예방하기 위한 조기경보 체계를 목적으로 한다.",
+   "responseKo": "FDA는 Prevantics 제품의 모든 OOS 사건에 대한 소급 검토와 FAR을 제출했어야 할 유통 배치 평가를 요구했고, FAR 처리 절차와 책임을 규정한 SOP 수립 및 전 직원 교육, 필요 시 ORA Division I 리콜 코디네이터에게 자발적 회수 통보를 요구했으며 차기 실사에서 이행 및 유효성을 확인하겠다고 밝혔다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "OOS 조사",
+  "OOS 무효화",
+  "Field Alert Report",
+  "CAPA 미실시",
+  "클로르헥시딘 함량",
+  "자발적 회수"
+ ],
+ "id": "professional-disposables-international-inc-617201-01072022",
+ "extractedAt": "2026-09-13T08:22:51Z",
+ "sourceChars": 17300
+}

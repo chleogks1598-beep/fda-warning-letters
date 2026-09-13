@@ -1,0 +1,83 @@
+{
+ "headlineKo": "BCC 오염 OOS 무효화·용수시스템 부적합, 미승인신약·표시위반",
+ "summaryKo": "FDA는 2021년 6월 7일부터 8월 20일까지 텍사스주 Fort Worth 소재 Monarch PCM, LLC 제조소를 실사했다. 미생물 OOS(BCC 검출) 무효화와 조사 부실, 용수시스템·설비 설계 및 세척 불량, 품질부서(QU) 감독 기능 상실, 안정성 프로그램 미비 등 CGMP 위반 4건과, 미승인 신약 판매 및 제품등재(listing) 누락에 따른 표시위반이 함께 지적됐다. 회사의 2021년 9월 13일자 Form FDA 483 답변은 FDA가 지적한 배치에만 범위를 한정하고 근본원인·전사적 CAPA를 제시하지 못해 부적절하다고 평가됐다. FDA는 규격 부적합 배치의 리콜을 확인했고, CGMP 컨설턴트 고용을 강력 권고하면서 데이터 완전성 개선과 미생물 오염 위해평가를 요구했다.",
+ "inspectionStart": "2021-06-07",
+ "inspectionEnd": "2021-08-20",
+ "facility": "7333 Jack Newell Boulevard North Suite 100, Fort Worth, TX 76118, United States",
+ "form483ResponseDate": "2021-09-13",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.192",
+   "area": "시험·QC",
+   "titleKo": "OOS·이상결과 조사 불충분 및 미생물 OOS 무효화",
+   "detailKo": "원료 및 완제품의 OOS 결과를 충분히 조사하지 않았다. 수성 제품 여러 품목에서 Burkholderia cepacia complex(BCC)가 검출됐음에도 추가 검체를 시험해 합격 결과가 나오자 배치를 출하했고, 2018년 9월~2019년 10월 조사는 일관되게 설비 세척 불량을 언급했으나 근본원인은 미확정 상태였다. 일부 품목에서는 재시험 합격 결과를 보존제 효력의 증거로 결론지었으나, USP <51>상 보존제는 GMP의 대체수단이 될 수 없고 유효기간 중 BCC가 증식할 수 있어 부적절하다. 구·신 용수시스템의 미생물 한도초과, 2019년 11월~2021년 5월 BCC 오염 경향, 2021년 3월 3일·3월 11일·4월 27일 튜브충전기 swab BCC 검출 시 전후 제조 제품 미평가, Sodium Sulfacetamide 10%/Sulfur 5% Cleanser 배치 19FP1146의 18개월 함량 OOS 및 Urea Cream 40% 배치 FP697의 점도 OOS에 대한 조사 미착수 등이 추가 사례다.",
+   "responseKo": "회사는 실사 후 FDA가 지목한 유효기간 내 배치의 보관검체에 대해서만 BCC 시험을 했고, 안정성 화학시험 실패와 용수 미생물 오염에 대한 대응 및 전사적 CAPA가 없었다. 조사의 적시성·근본원인 규명·동일 제품 및 타 제품으로의 확대에 관한 포괄적 계획도 제시하지 못해 부적절하다고 평가됐다. FDA는 3년치 회고적 검토, 유효기간 내 수성 제품 보관검체 전수 미생물시험(30일 내), OOS 회고적 검토 및 조사체계 개선안 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.63",
+   "area": "시설·장비",
+   "titleKo": "용수시스템·제조설비의 설계·세척·유지관리 부적절",
+   "detailKo": "여러 사용지점(POU)의 용수 검체에서 TNTC(계수불가) 결과가 나왔고, 2019년 11월~2021년 1월 기존 용수시스템 모니터링에서 약 101개 검체에서 BCC가 검출됐다. 2021년 2월 설치한 신규 용수시스템에서도 동일 POU에서 7일에 걸쳐 2건의 BCC가 검출됐고, 2021년 2~6월 사이 여러 POU 포트에서 다른 미생물도 반복 검출됐음에도 해당 용수로 제품을 제조했다. 세척 완료된 튜브충전기 펌프·부품 swab에서 2021년 3월 3일·11일·23일·4월 27일 BCC가, 호퍼에서 7월 13일 Staphylococcus aureus가, 룸 호스에서 5월 25일 곰팡이가 검출됐다. 포장라인 충전 노즐·호스에서도 6월 28일과 7월 19일 BCC가 검출됐다.",
+   "responseKo": "회사는 신규 용수시스템 성능적격성평가 프로토콜이 여러 면에서 미흡했음을 인정하고 새 프로토콜 수립·실행, 생산절차 개정, 세척 밸리데이션 수행 계획을 밝혔다. 그러나 용수시스템 설계·관리·유지보수에 대한 위해평가가 없고 세척 밸리데이션 완료 일정도 제시하지 않아 부적절하다고 평가됐다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서(QU)의 감독 책임 미이행",
+   "detailKo": "규격에 부적합한 다수 제품이 출하됐고, 다수 비무균 수성 제품에 대해 규격상 요구되는 BCC 시험이 수행되지 않았다. 재가공(reprocessing)에 대한 배치생산기록서가 수립·준수되지 않았으며, 미생물 노트북·로그북·BCC 관련 미생물시험 조사보고서(MLIR) 등 CGMP 기록이 분실됐는데도 조사가 착수되지 않았다. FDA는 데이터 생성부터 보관·폐기까지 전 생애주기의 데이터 완전성이 중요함을 지적했다.",
+   "responseKo": "회사는 이전 QA·R&D 임원의 경험 부족을 원인으로 들며 품질매뉴얼·절차·제품규격을 갱신하고, 분실 MLIR에 대한 조사 착수와 관련 출하제품 위해평가를 약속했다. FDA는 유효기간 내 규격부적합 배치(Hydroquinone USP 4% Cream 21FP1731, Sodium Sulfacetamide 10% Wash 21FP1737·21FP1738)의 리콜과 보관검체 BCC 시험은 인정했으나, 근본원인 규명과 유통 중 배치를 포함한 영향범위 평가, 체계적 CAPA가 없어 부적절하다고 보았다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성 시험 프로그램 미비·유효기간 근거 부족",
+   "detailKo": "표시된 유효기간이 안정성 자료로 뒷받침되지 않았다. Sodium Sulfacetamide 10%/Sulfur 5% Cleanser는 유효기간이 18개월인데 안정성 시험에 투입한 최초 배치가 18개월 시점 함량시험에서 부적합했다. Urea Cream 40%(유효기간 18개월)와 Selenium Sulfide 2.25% Shampoo(24개월)도 여러 시험시점에서 점도 부적합을 보였다. 재가공 제품은 안정성 프로그램에 투입되지 않아 전 생애주기 동안 규격 적합성이 보증되지 않았다.",
+   "responseKo": "회사는 자료에 근거한 유효기간 재검토·개정과 재가공 배치의 안정성 투입을 위한 절차 개정 계획을 밝혔다. 그러나 검토 범위를 FDA 조사관이 지적한 배치로만 한정하고 제조·유통 중인 전 제품을 포함하지 않아 부적절하다고 평가됐다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간(州間) 유통",
+   "detailKo": "Hydroquinone USP 4% Skin Bleaching Cream, Sodium Sulfacetamide 10% Wash, Sodium Sulfacetamide 10%/Sulfur 5% Cleanser, Selenium Sulfide 2.25% Shampoo는 질병의 진단·치료·완화·예방 목적을 표방해 FD&C Act 201(g)(1)상 의약품에 해당한다. 예컨대 Hydroquinone 제품은 기미·주근깨 등 과색소침착의 점진적 미백, Sodium Sulfacetamide 10% Wash는 지루성 피부염·비듬 및 이차 세균감염 치료, Cleanser는 여드름·주사·지루성 피부염 국소관리, Selenium Sulfide Shampoo는 두피 지루성 피부염·비듬·어루러기 치료를 표방한다. 이들은 표시된 용도에 대해 일반적으로 안전·유효하다고 인정되지 않아 신약에 해당하나 FDA 승인 신청서가 존재하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(o), 301(p); 21 CFR 207.49(12), 207.41(c)(2), 207.57",
+   "area": "허가·표시",
+   "titleKo": "제품등재 누락에 따른 표시위반",
+   "detailKo": "Hydroquinone USP 4% Skin Bleaching Cream과 Selenium Sulfide 2.25% Shampoo가 FD&C Act 510(j)에 따라 적절히 등재되지 않았다. 2021년 실사에서 Monarch PCM이 해당 제품의 수탁제조소로 확인됐으나 등재 제출서에 제조소로 포함되지 않았다. 또한 PLD(자사상표 유통업자)용 제조 제품은 21 CFR 207.41(c)(2)에 따라 Monarch PCM 자체 labeler code의 NDC로 등재해야 하나, Sodium Sulfacetamide 10% Wash는 PLD의 NDC로만 등재돼 있고 Selenium Sulfide 2.25% Shampoo는 Monarch PCM NDC 등재가 갱신·인증 누락으로 비활성화됐다. 아울러 외용진통제로 표시된 OTC 제품 2건에 대해, 하나는 활성성분 농도가 1983년 외용진통제 TFM 허용범위(0.5~4%)를 초과해 505G 요건을 충족하지 못하고, 다른 하나는 처방의약품이 아님에도 \"Rx Only\"를 표시해 FD&C Act 503(b)(4)(B)상 표시위반이라고 지적됐다(현재 미국 내 판매·유통은 확인되지 않음).",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "BCC 오염",
+  "OOS 조사·무효화",
+  "용수시스템",
+  "세척 밸리데이션",
+  "안정성 시험",
+  "미승인 신약·제품등재"
+ ],
+ "id": "monarch-pcm-llc-620779-06102022",
+ "extractedAt": "2026-09-13T08:11:03Z",
+ "sourceChars": 36164
+}

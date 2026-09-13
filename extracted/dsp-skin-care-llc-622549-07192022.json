@@ -1,0 +1,83 @@
+{
+ "headlineKo": "완제품 시험 미실시·안정성자료 부재, QU 부재 및 무허가 항진균제 표시위반",
+ "summaryKo": "FDA는 2021년 9월 7일부터 9일까지 캘리포니아 로스앤젤레스 소재 DSP Skin Care LLC 제조소를 실사해 CGMP 위반 3건을 지적했다. 출하 전 함량·확인시험 미실시, 안정성 프로그램 부재, 품질부서(QU) 절차와 배치기록 부재가 핵심이며, 회사의 2021년 9월 17일 483 답변은 구체적 시험방법·절차·유통 제품 조치가 빠져 모두 부적합 판정을 받았다. 아울러 Hongosan Anti-Fungal Set은 OTC 모노그래프 M005에 부합하지 않는 무허가 신약이자 Drug Facts 표시 위반으로 표시위반(misbranded) 제품으로 규정됐고, 제조소 등록은 2017년 12월 31일 만료, 일부 품목은 품목신고조차 되지 않은 상태였다. FDA는 2018년 실사 지적의 반복 위반을 이유로 CGMP 컨설턴트 고용을 강력 권고하고, 미시정 시 압류·금지명령 등 조치와 수출증명서 발급 보류 가능성을 경고했다.",
+ "inspectionStart": "2021-09-07",
+ "inspectionEnd": "2021-09-09",
+ "facility": "1930 Wilshire Boulevard, Suite 507, Los Angeles, CA 90057-3649, United States",
+ "form483ResponseDate": "2021-09-17",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격 적합 시험 미실시",
+   "detailKo": "Hongosan Premium Plus Spray와 DSP Skin Care Hand Sanitization Gel OTC 제품을 확인·순도·함량 등 품질특성 시험 없이 출하했다. Hongosan Premium Plus Spray는 라벨에 주성분이 표시돼 있음에도, 회사는 제품에 더 이상 undecylenic acid가 들어 있지 않다는 이유로 수탁제조소가 시험하지 않았다고 진술했다. Hand Sanitization Gel은 회사가 수탁제조소에 시험 비용을 지불하지 않아 시험이 이뤄지지 않았다고 조사관에게 진술했다.",
+   "responseKo": "회사는 Hongosan Premium Plus Spray 포장을 undecylenic acid 삭제에 맞춰 수정하고 시험에 대해 추가로 문의해 절차를 마련하겠다, Hand Sanitization Gel은 더 이상 제조하지 않겠다고 답변했다. FDA는 출하 전 확인·함량 시험 확보 방안과 시험절차·방법에 대한 구체적 내용이 없고, 유효기간 내 유통 중인 제품의 미시험 문제를 다루지 않아 부적합하다고 평가했다. FDA는 보관검체 전수 시험계획과 결과 요약, 필요 시 고객통보·리콜을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.166(a)",
+   "area": "시험·QC",
+   "titleKo": "안정성 시험 프로그램 부재",
+   "detailKo": "Hongosan Anti-Fungal Set과 Hongosan Premium Plus Spray의 화학적·미생물학적 품질이 표시된 유효기간 동안 규격을 유지함을 입증할 안정성 프로그램이 없었다. 회사는 수탁제조소가 안정성 시험이나 자료 없이 구두로 2년이 적절한 유효기간이라고 알려줬다고 조사관에게 설명했다. 안정성 프로그램 개선은 이미 2018년 실사 때 회사가 제안했던 사항이다.",
+   "responseKo": "회사는 완제품 시험 답변과 마찬가지로 시험에 대해 추가 문의 후 절차를 마련하겠다고만 답했다. FDA는 최대 2년 유효기간 동안 규격 유지를 입증하는 자료도, 안정성 자료 없이 유통 중인 제품에 대한 잠정 조치도 제시하지 않았다고 지적했다. 독립적 평가와 CAPA 계획, 안정성 지시 시험법, 연차 편입 프로그램, 유통 제품 위해평가를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 책임 미이행",
+   "detailKo": "품질부서(QU)의 역할·책임·업무를 규정한 문서화된 절차가 없었다. 일탈조사, CAPA, 변경관리, CGMP 교육, 안정성, 완제품 출하에 관한 품질절차가 모두 결여돼 있었다. 또한 Hongosan Anti-Fungal Cream과 Hongosan Premium Plus liquid 약 20개 배치의 재포장·충전 공정에 사용된 벌크 제품의 로트관리번호를 포함한 배치생산기록을 제출하지 못했다. 2018년 실사에서도 회사는 OTC 제조공정 관리를 위한 품질부서 필요성을 인정한 바 있다.",
+   "responseKo": "회사는 시험절차가 마련되면 \"이를 근거로 품질관리 문서를 만들겠다\"고 했고, 배치기록은 수탁제조소가 용기에 배치번호를 표기한 뒤 품목·로트번호·박스 수·일자를 로그에 기재하겠다고 답했다. FDA는 QU 구축에 필요한 요건을 어떻게 충족할지 구체성이 없고, 배치생산기록이 각 배치의 생산·관리 정보를 완전히 담도록 보장할 절차나 세부 내용이 없어 부적합하다고 평가했다. 답변 자체가 CGMP 이해 부족과 원료 입고부터 완제품까지의 품질감독 부재를 드러낸다고 지적했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 판매 (OTC 모노그래프 M005 미부합)",
+   "detailKo": "Hongosan Anti-Fungal Cream, Anti-Fungal Drops, Soap를 3종 세트로 동봉 판매하는 Hongosan Anti-Fungal Set은 라벨과 웹사이트(dspskincareproducts.com)에서 무좀·백선 등 진균 감염 치료를 표방해 FD&C Act 201(g)상 '의약품'에 해당한다. Tolnaftate 1% 단독은 M005상 허용되나, 세트 사용법은 undecylenic acid 0.1% 함유 Drops와 Soap를 함께 사용하도록 안내해 복수 성분·조합 사용을 금지한 M005에 부합하지 않는다. 또한 \"Treats most external fungal infections\", \"Treats most dermic infections\" 등 M005가 허용하지 않는 효능 표현을 사용했다. 승인된 신약허가가 없고 GRASE를 뒷받침하는 적절한 임상자료도 확인되지 않으며, 세트의 구성품 3종도 각각 무허가 신약에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(a), 502(c), 502(ee); 21 CFR 201.66(c)(2), 201.66(c)(8)",
+   "area": "허가·표시",
+   "titleKo": "표시위반 — Drug Facts 주성분 누락",
+   "detailKo": "Hongosan Anti-Fungal Set의 Drug Facts 란에 구성품 Hongosan Anti-Fungal Drops에 들어 있는 주성분 undecylenic acid가 기재되지 않아 21 CFR 201.66(c)(2)의 전 주성분 표시 요건을 위반했다. 또한 모든 첨가제를 \"Inactive ingredients\"라는 용어로 표시하도록 한 21 CFR 201.66(c)(8)에도 부합하지 않아 502(c)상 표시위반에 해당한다. 505G 요건을 충족하지 못한 일반의약품이므로 502(ee)에도 해당하며, 세트 구성품 3종도 개별 판매 시에도 동일하게 표시위반 제품이 된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 510(b), 510(j)(1), 502(o); 21 CFR 207.17(a), 207.29, 207.41, 207.57",
+   "area": "허가·표시",
+   "titleKo": "제조소 등록 만료 및 품목신고 미이행",
+   "detailKo": "FDA 등록·신고 데이터베이스 조회 결과 DSP Skin Care LLC(FEI 3013374118)의 제조소 등록이 2017년 12월 31일에 만료됐고 연간 등록 갱신 의무를 이행하지 않았다. 따라서 이 제조소에서 제조된 모든 의약품은 502(o)상 표시위반 제품이 된다. 품목신고 면에서는 Hongosan Anti-Fungal Set(NDC 70826-576)의 신고가 21 CFR 207.57에 따른 인증을 받지 못해 비활성화됐고, Hongosan Anti-Fungal Cream(tolnaftate 1%)과 Hongosan Premium Plus Spray(undecylenic acid 0.1%)는 아예 신고된 적이 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "완제품 출하시험",
+  "안정성 프로그램",
+  "품질부서(QU) 부재",
+  "무허가 신약",
+  "OTC 모노그래프 M005",
+  "등록·품목신고"
+ ],
+ "id": "dsp-skin-care-llc-622549-07192022",
+ "extractedAt": "2026-09-13T08:07:32Z",
+ "sourceChars": 28495
+}

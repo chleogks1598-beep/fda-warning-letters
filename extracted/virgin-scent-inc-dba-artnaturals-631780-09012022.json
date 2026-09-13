@@ -1,0 +1,65 @@
+{
+ "headlineKo": "벤젠·아세트알데히드 손소독제 리콜, 품질부서 부재·제조기록 누락",
+ "summaryKo": "FDA는 2022년 2월 14일부터 3월 11일까지 캘리포니아 Gardena 소재 Virgin Scent Inc. dba Artnaturals 시설을 실사했다. 이는 유통 중 수거한 artnaturals SCENT FREE HAND SANITIZER 배치에서 벤젠·아세트알데히드·아세탈 불순물이 허용 불가 수준으로 검출된 데 따른 것으로, 회사는 2021년 10월 26일 2개 배치를 자발적 전국 리콜했고 2022년 4월 22일 최소 38개 배치로 확대했다. CGMP 위반은 품질관리부서(QU) 미구축 및 위탁제조소 관리 부재, 충전공정 배치기록 미작성 2건이 지적됐으며, 회사는 Form FDA 483에 대해 아무런 답변도 제출하지 않았다. 이와 별도로 등록·목록 미이행에 따른 misbranding 위반이 적시됐고, FDA는 CGMP 컨설턴트 고용을 권고했으며 회사는 미국 시장용 의약품 생산 중단을 약속했다.",
+ "inspectionStart": "2022-02-14",
+ "inspectionEnd": "2022-03-11",
+ "facility": "16325 S. Avalon Blvd, Gardena, CA 90248",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서(QU) 책임 수행 실패",
+   "detailKo": "OTC 의약품 제조를 감독할 CGMP 책임·권한을 가진 QU를 설정하는 문서화된 절차가 전혀 없었다. 공동소유주가 서명한 진술서에서 QU의 책임을 규정·기술한 문서 절차가 없다고 진술했고, 과거 CoA를 검토하던 직원은 퇴사했으며 현재 품질 업무 담당자를 지목하지 못했다. 일탈조사·리콜·불만처리·제조지시서 승인·완제품 배치의 출하 전 평가 및 승인/불합격 판정에 관한 절차를 제시하지 못했고, artnaturals 손소독제의 유통기록도 제출하지 못했다. 또한 위탁제조소에 대한 감독·관리가 부재해 수준 미달 업체를 사용했으며, Gordon Laboratories Inc.(2022년 8월 17일 Warning Letter), Guangzhou Orchard Aromatherapy & Skin Care Co. Ltd.(2022년 5월 16일 Import Alert 66-79 등재, 7월 20일 Warning Letter) 등 위탁처에서 FD&C Act 위반이 확인됐다.",
+   "responseKo": "FDA는 483 관찰사항에 대한 시정조치 답변을 회사로부터 받지 못했다고 밝혔다. 회신 시 QU에 권한과 자원을 부여하기 위한 종합 평가·개선계획과 경영진의 품질보증 지원 방안을 제출할 것을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.188",
+   "area": "문서·데이터완전성",
+   "titleKo": "배치제조·관리기록 미작성",
+   "detailKo": "제조 작업을 문서화하는 적절한 배치기록 및 관리기록이 없었다. 회사는 벌크 손소독제 용기에서 소비자용 손소독제 용기로 충전 작업을 수행했는데, 충전한 병 수를 기록한 문서 하나만 제시했을 뿐 충전공정의 제조 배치기록을 제출·보관하지 못했다. 누락된 항목에는 사용 설비, 각 공정 수행자 식별, 사용한 용기·마개의 기술, 표시견본을 포함한 완전한 표시(labeling) 관리, 실수율(actual yield)이 포함된다.",
+   "responseKo": "FDA는 회신 시 제조·시험 전반의 문서화 시스템에 대한 종합 평가와, ALCOA 원칙(귀속가능·판독가능·완전·원본·정확·동시기록)에 부합하도록 문서관리 관행을 개선하는 CAPA 계획 제출을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 510(i)(1), 502(o), 301(p)",
+   "area": "허가·표시",
+   "titleKo": "제조소 등록 미이행에 따른 misbranding",
+   "detailKo": "실사 결과 Virgin Scent Inc. dba Artnaturals(FEI 3012303419)는 Artnaturals Hand Sanitizer(NDC 78706-018-00) 등 11개 품목의 의약품 재포장자(repackager)로 확인됐다. 미국 내 상업적 유통 의약품을 제조(재포장 포함)·조제·가공하는 사업장은 매년 전자적 방법으로 등록 정보를 제출해야 하나 회사는 등록 의무를 이행하지 않았다. 그 결과 이 사업장에서 제조한 모든 의약품은 FD&C Act 502(o)에 따라 misbranded에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 510(j)(1); 21 CFR 207.17, 207.41",
+   "area": "허가·표시",
+   "titleKo": "재포장자 미기재 등 의약품 목록(listing) 위반",
+   "detailKo": "Artnaturals Hand Sanitizer(NDC 78706-018-00), Hand Sanitizer Gel(NDC 78706-000-00), Sanitizing Wipes(NDC 74642-005-00), Artnaturals Isopropyl Alcohol 70%(NDC 78706-001-16)·91%(NDC 78706-002-01) 등 11개 품목의 drug listing 신고에 Virgin Scent Inc. dba Artnaturals(FEI 3012303419)가 재포장자로 기재되어 있지 않았다. 미국 상업 유통용으로 제조·가공되는 모든 의약품은 올바른 제조소 정보와 함께 FDA에 목록 신고해야 한다. 목록 신고를 제대로 하지 않은 의약품은 FD&C Act 502(o)에 따라 misbranded가 되며, 주간 통상에의 도입은 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "벤젠 불순물",
+  "손소독제 리콜",
+  "품질관리부서 부재",
+  "위탁제조소 관리",
+  "배치기록 미비",
+  "제조소 등록·목록"
+ ],
+ "id": "virgin-scent-inc-dba-artnaturals-631780-09012022",
+ "extractedAt": "2026-09-13T08:05:03Z",
+ "sourceChars": 22035
+}

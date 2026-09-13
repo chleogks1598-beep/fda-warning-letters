@@ -1,0 +1,56 @@
+{
+ "headlineKo": "핸드새니타이저 에탄올을 메탄올로 대체, 수입경보 66-78",
+ "summaryKo": "FDA가 국경에서 압류한 IMC WASH-FREE HAND SANITIZER(귀사 제조로 표시, FEI 3017086967) 배치를 시험한 결과, 표시된 에탄올 75% v/v 대신 평균 에탄올 35% v/v, 메탄올 평균 32% v/v가 검출되어 FD&C Act 501(d)(2) 및 501(a)(2)(B) 위반(성분 대체·QA 기능 부전)으로 판정됐다. 이 제품은 승인되지 않은 신약이며 502(j)·(a)·(e)·(x)·(ee)에 따라 표시위반(misbranding) 상태이기도 하다. 귀사는 IMC 제품의 제조사가 아니며 제3자에게 'FDA 인증서'를 넘겼다고 회신했고, 2021년 1월 25일 화상회의에서 리콜 지원에 동의했으나 현재까지 리콜을 확약하지 않았다. FDA는 2021년 1월 7일 귀사가 제조한 모든 의약품을 수입경보 66-78에 등재했고, CGMP 컨설턴트 고용과 미국 시장 재진입 시 규제회의 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "2,4, No.16 (#6 Plant), Jiye Road, 3rd & 4th Floor, Songgang Songxia Industrial Park, Shishan Foshan, 528225, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(d)(2); 501(a)(2)(B)",
+   "area": "제조·공정관리",
+   "titleKo": "에탄올을 메탄올로 대체한 불량 의약품",
+   "detailKo": "국경에서 압류·수입거부된 IMC WASH-FREE HAND SANITIZER 배치에 대한 FDA 실험실 시험 결과, 라벨상 유효성분인 에탄올 75% v/v와 달리 평균 에탄올 35% v/v, 평균 메탄올 32% v/v가 검출됐다. 메탄올은 피부 접촉·섭취 시 위험한 화학물질로, 피부 노출로도 전신 흡수되어 구역·구토·두통·시야흐림·영구 실명·경련·혼수·신경계 영구손상 또는 사망에 이를 수 있다. FDA는 2020년 12월 15일 귀사 핸드새니타이저의 메탄올 오염 사실을 소비자에게 공지했고, 2020년 12월 23일 수탁자 중 하나인 Shane Erickson Inc.가 Wash-Free Hand Sanitizer 1개 로트와 Thrifty White Pharmacy Wash-Free Hand Sanitizer 1개 로트를 미표시 메탄올 우려로 회수했다. 유효성분이 메탄올로 대체된 사실 자체가 귀사 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다.",
+   "responseKo": "2021년 1월 14~15일 귀사는 IMC 브랜드 제품의 제조사가 아니며 오염 제품을 제조했을 가능성이 있는 제3자에게 'FDA 인증서'를 제공했다고 회신했다. 2021년 1월 25일 화상회의에서 귀사 제조로 표시·신고된 미국 유통 핸드새니타이저 전량 회수를 권고했고 귀사는 리콜 지원에 동의했으나, 현재까지 리콜을 확약하지 않았다. FDA는 답신 시 메탄올 대체 경위에 대한 상세 조사, 원료 및 공급자 목록, 미국 반입 배치 목록과 물량 대사, 전 배치기록 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a), 301(d); 21 U.S.C. 355(a), 331(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간통상 유통",
+   "detailKo": "IMC WASH-FREE HAND SANITIZER는 라벨에 \"Purpose…Antiseptic…Use(s) to help reduce bacteria on skin\" 등을 표방하여 FD&C Act 201(g)(1)(B)·(C)상 '의약품'이자 201(p)상 '신약'에 해당하나, 해당 사용조건에서 GRASE로 인정되지 않으며 승인된 505조 신청서도 없다. 1994년 TFM 및 2016년 소비자용 antiseptic rub 제안규칙의 조건에도 부합하지 않아 505G(a)(3)에 따른 무승인 판매 요건도 충족하지 못한다. 표시된 에탄올 75% v/v보다 낮은 함량이 검출됐고, 1994 TFM에도 COVID-19 한시 정책 가이던스 처방에도 없는 메탄올이 상당 농도로 함유되어 있으며, 메탄올은 독성으로 21 CFR 330.1(e)의 안전·적합한 불활성성분 요건도 충족하지 못한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(j), 502(a), 502(e)(1)(A), 502(x), 502(ee); 21 U.S.C. 352",
+   "area": "허가·표시",
+   "titleKo": "허위·불충분 표시(misbranding)",
+   "detailKo": "라벨대로 손소독제로 사용할 경우 건강에 위험하므로 502(j) 위반이다. 라벨에 에탄올 75% v/v로 표시했으나 실제 에탄올 함량은 그보다 낮고 미표시 메탄올이 상당 농도 함유되어 표시가 허위·오인 소지가 있어 502(a) 위반이며, 메탄올을 성분으로 기재하지 않아 502(e)(1)(A) 위반이다. 또한 중대 이상사례를 접수할 수 있는 완전한 미국 내 주소나 전화번호를 라벨에 표시하지 않아 502(x) 위반이고, 505G 대상 비처방의약품이면서 해당 조항의 요건을 준수하지 않고 505조 승인도 없어 502(ee) 위반이다. FDA는 아울러 21 CFR 201.61(a)에 따라 주표시면에 제품 식별표시를 두어야 하며 \"alcohol gel\"을 식별표시에 포함할 것을 권고했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-01-07)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "메탄올 혼입",
+  "유효성분 대체",
+  "손소독제",
+  "수입경보 66-78",
+  "미승인 신약",
+  "표시위반"
+ ],
+ "id": "guangdong-kemei-pharmaceutical-technology-co-ltd-612090-12142021",
+ "extractedAt": "2026-09-13T08:24:02Z",
+ "sourceChars": 20315
+}

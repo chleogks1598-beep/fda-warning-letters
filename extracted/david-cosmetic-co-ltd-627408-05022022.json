@@ -1,0 +1,38 @@
+{
+ "headlineKo": "핸드새니타이저 벤젠 6ppm 오염, 불순물시험 미실시·리콜 미이행",
+ "summaryKo": "FDA는 David Cosmetic Co., Ltd.(인천 서구) 제조 소비자용 손소독제 CALA Advanced Hand Sanitizer Moisturizing with Aloe Vera Extract의 미국 유통 배치를 자체 시험한 결과 발암물질인 벤젠이 약 6ppm 검출되어, 해당 제품이 FD&C Act 501(a)(2)(B)에 따른 변조의약품에 해당한다고 판단했다. 2021년 12월 27일 화상회의에서 FDA가 유통 중 배치 회수를 권고하자 회사는 12월 28일 리콜을 약속했으나, 본 서한 발행일 현재까지 리콜에 착수하지 않았다. 회사는 12월 29일 회신에서 원료의약품 및 완제품에 대해 벤젠을 포함한 불순물 시험을 전혀 수행하지 않는다고 밝혔는데, FDA는 21 CFR 211.160(b)에 따른 완제품 벤젠 규격 설정과 211.165에 따른 배치별 완제품 시험이 필요하다고 지적했다. FDA는 2022년 1월 12일 이 결과를 대중에 공지했고, 2022년 3월 10일 이 회사가 제조한 모든 의약품을 수입경보 66-78에 등재했으며, CGMP 컨설턴트 고용과 규제회의(Regulatory Meeting) 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "David Cosmetic Co., Ltd., 14 Dodam 8-ro, Seo-gu, Incheon, Republic of Korea",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "손소독제 완제품에서 벤젠 6ppm 검출 (변조)",
+   "detailKo": "FDA 실험실이 미국에 유통 중인 CALA Advanced Hand Sanitizer Moisturizing with Aloe Vera Extract 한 배치를 시험한 결과 벤젠 불순물이 약 6ppm 수준으로 검출되었다. 벤젠은 백혈병과 기타 혈액질환을 일으키는 것으로 알려진 인체 발암물질로, 의약품 제조에 사용해서는 안 되며 FDA는 이미 전 제조업체에 벤젠 오염 위험인자를 경고한 바 있다. 회사는 2021년 12월 29일 회신에서 원료의약품과 완제 손소독제 모두에 대해 벤젠을 포함한 불순물 시험을 수행하지 않는다고 밝혔다. FDA는 벤젠 오염이 제조공정의 알려진 위험이므로 21 CFR 211.160(b)에 따라 손소독제 완제품 벤젠 규격이 필요하고, 21 CFR 211.165에 따라 배치별 완제품 시험이 요구된다고 지적했다. 2022년 1월 12일 FDA는 해당 결과를 소비자 대상 웹사이트에 공지했다.",
+   "responseKo": "회사는 2021년 12월 27일 화상회의 후 12월 28일 회신에서 해당 배치 리콜을 약속했으나 본 서한 발행일까지 리콜에 착수하지 않았다. FDA는 벤젠 오염 사실과 12월 27일 요청 정보에 대한 회사 답변의 미흡함이 함께 해당 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다고 평가했으며, 오염 경위 조사·원료 및 공급자 목록·미국 수출 배치 목록과 물량 정산·배치기록 사본·메탄올/벤젠/아세탈/아세트알데히드 시험결과 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2022-03-10)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "벤젠 오염",
+  "손소독제",
+  "완제품 시험",
+  "불순물 규격",
+  "수입경보 66-78",
+  "리콜 미이행"
+ ],
+ "id": "david-cosmetic-co-ltd-627408-05022022",
+ "extractedAt": "2026-09-13T08:13:06Z",
+ "sourceChars": 8288
+}

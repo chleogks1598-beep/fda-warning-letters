@@ -1,0 +1,56 @@
+{
+ "headlineKo": "BZK 물티슈 출하 전 역가·미생물 시험 누락, 원료 확인시험 및 품질부서 부재",
+ "summaryKo": "FDA는 2022년 3월 24일부터 3월 31일까지 조지아주 Suwanee 소재 Sanitizer Supply LLC의 의약품 제조소를 실사했다. BZK(염화벤잘코늄) 손소독 물티슈와 알코올 기반 손소독제 등 OTC 제품에 대해 출하 전 완제품 시험 누락, 입고 원료 확인시험 및 공급자 COA 신뢰성 검증 미실시, 품질부서(QU) 기능 부재 등 CGMP 위반 3건이 지적되었다. 회사는 2022년 4월 28일 Form FDA 483에 답변하면서 컨설턴트 고용과 제조 중단 의사를 밝혔으나, 483 지적사항에 대한 구체적 시정조치 정보나 증거를 제출하지 않아 부적절한 것으로 평가되었다. FDA는 제조 중단 의사는 인정하되 제조소가 여전히 제조업자로 등록되어 있음을 지적하며, 제조 재개 시 21 CFR 211.34 자격을 갖춘 컨설턴트 고용과 재개 전 FDA와의 회의를 요구했다.",
+ "inspectionStart": "2022-03-24",
+ "inspectionEnd": "2022-03-31",
+ "facility": "2780 Horizon Ridge Court, Suwanee, GA 30024-3569, United States",
+ "form483ResponseDate": "2022-04-28",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 적합성 시험 미실시",
+   "detailKo": "회사는 BZK 기반 손소독 물티슈와 알코올 기반 손소독제 등 OTC 의약품을 제조하고, 계약에 따라 손소독제를 재포장한다. BZK 손소독 물티슈에 대해 유통 출하 전 역가(potency) 시험과 미생물 시험을 수행하지 않았다. 출하는 (비공개)에 근거해 이루어졌다. 또한 서명한 진술서(affidavit)에서 회사는 BZK 손소독 물티슈의 완제품 시험 결과를 보유하고 있지 않다고 진술했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) and (2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 및 공급자 시험성적서 신뢰성 검증 미실시",
+   "detailKo": "입고되는 구성 원료와 원약품(예: BZK)에 대해 확인(identity) 시험을 수행하지 않았으며, 이는 조사관에게 제출된 서명 진술서에서도 확인되었다. 회사는 적격성이 평가되지 않은 공급자의 시험성적서(COA)에 의존했고, 각 공급자 COA의 신뢰성을 원료 규격 및 특성에 대해 확립하지 않았다. FDA는 제조 사용 전 각 원료 로트마다 확인시험이 필수이며, 그 외 항목에 대해 COA에 의존하려면 적절한 주기로 공급자 시험결과를 검증해야 한다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 CGMP 감독 책임 미이행",
+   "detailKo": "회사의 품질시스템이 부적절하며, 의약품 제조를 감독할 적절한 품질부서(QU)를 확립하지 못했다. 예를 들어 불만처리를 담당하는 고객서비스 인력이 불만처리 절차에 대한 공식 교육을 받지 못했다고 조사관에게 진술했고, 불만 처리 시 QU와 상의한다고 답했다. 불만처리 절차에는 검토를 어떻게 수행할지, 불만의 심각도를 어떻게 분류할지에 대한 요건이 없었다. 또한 서명 진술서에서 회사는 연간품질평가(APR), 교육기록을 포함한 CGMP 기록, BZK 손소독 물티슈 등 제품의 유효기간을 설정하는 안정성 시험, 마스터 배치기록 등 QU 관련 다수 문서를 보유하지 않고 있다고 진술했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "완제품 출하시험",
+  "원료 확인시험",
+  "공급자 COA 검증",
+  "품질부서(QU) 부재",
+  "손소독제 CGMP",
+  "제조 중단"
+ ],
+ "id": "sanitizer-supply-llc-633583-09022022",
+ "extractedAt": "2026-09-13T08:04:54Z",
+ "sourceChars": 10885
+}

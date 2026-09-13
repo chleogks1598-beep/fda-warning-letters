@@ -1,0 +1,74 @@
+{
+ "headlineKo": "QU 부재·CMO 관리 부실, 미생물오염 조사 미흡·안정성 자료 없음",
+ "summaryKo": "FDA는 2021년 9월 8일부터 20일까지 캘리포니아 Monterey 소재 NDAL Mfg Inc. 시설을 실사했다. 품질관리부서(QU) 자체가 없어 CMO가 제조한 제품의 규격·출하 관리가 이루어지지 않았고, ManukaGuard Allercleanse 비강스프레이 lot 2010045의 미생물 오염 조사가 부실했으며, 3년 유효기간을 뒷받침할 안정성 자료가 없다는 CGMP 위반 3건이 지적됐다. 이와 별도로 MANUKA HONEY 계열 비강스프레이 3종은 미승인 신약으로, 일부 Manuka Honey 제품은 건강기능식품 표시 요건 위반으로 지적됐다. 회사의 2021년 9월 30일자 Form FDA 483 답변은 위험평가·CMO 관리방안·안정성 프로토콜이 빠져 모두 부적절하다고 평가됐으며, FDA는 CGMP 컨설턴트 고용을 강력 권고했고 회사는 미국向 의약품 생산을 일시 중단했다(해당 lot은 자진 회수됨).",
+ "inspectionStart": "2021-09-08",
+ "inspectionEnd": "2021-09-20",
+ "facility": "80 Garden Court, Suite 100, Monterey, California 93940, United States",
+ "form483ResponseDate": "2021-09-30",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서 부재 및 CMO 관리 실패",
+   "detailKo": "회사는 CMO를 통해 의약품을 제조하면서 일부 CMO에 원료를 직접 공급했고, 계약상 시장 출하 책임도 회사에 있었다. 그러나 품질관리부서(QU)가 아예 존재하지 않았고, 제품이 적절한 품질 특성을 갖추도록 보장할 절차도 없었다. CMO에 공급하는 원료의 승인 절차, OOS 결과 조사 절차, 고객 불만 평가 절차가 모두 수립되어 있지 않았다. 또한 CMO가 제품을 상업적으로 출하할 때 사용하는 규격조차 제시하지 못했다.",
+   "responseKo": "회사는 QU 신설, 전 CMO와의 품질협약 및 규격 수립 의사를 밝히고 품질책임자를 채용하고 제3자 컨설턴트를 고용했다고 답변했다. FDA는 규격 없이 출하한 제품의 영향에 대한 상세 위험평가가 없고, CMO 적격성 평가·감독 방안의 구체성이 부족하며, 품질시스템 전반의 포괄적 평가·개선 계획이 제시되지 않아 부적절하다고 판단했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "미생물 오염에 대한 철저한 조사 실패",
+   "detailKo": "CMO (비공개)가 제조한 ManukaGuard Allercleanse 비강스프레이 lot 2010045의 미생물 오염에 대해 철저한 조사를 수행하지 않았다. 회사가 주장한 근본원인에는 과학적 근거가 부족했고, 원료·설비·제조환경 등 다른 잠재적 근본원인은 충분히 평가되지 않았다. 또한 회사를 위해 생산된 다른 의약품의 미생물 오염 가능성을 판단하기 위한 CMO의 조사 자료도 제출하지 못했다.",
+   "responseKo": "회사는 해당 lot 오염 조사에 대한 서면 기록을 작성하고 일탈조사 절차를 수립하겠다고 답변했으며, FDA는 해당 lot의 자진 회수 사실을 인정했다. 그러나 오염이 한 개 lot에 국한된다는 과학적 근거가 없고, 동일 제품의 다른 배치 및 연관 가능한 타 제품으로 조사를 확대하지 않았으며, 불만사항에 대한 소급적·포괄적 검토도 제출하지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.137(a)",
+   "area": "시험·QC",
+   "titleKo": "유효기간을 뒷받침하는 안정성시험 미실시",
+   "detailKo": "적절한 안정성 프로그램이 수립되어 있지 않아, OTC 제품의 화학적·물리적·미생물학적 특성이 표시된 3년 유효기간 동안 유지된다는 것을 입증할 자료가 없었다. 실사 중 비강스프레이 제품의 안정성 자료를 요구하자 2016년에 제조된 1개 lot에 대해 외부 시험소가 작성한 가속조건 (비공개) 보고서를 제출했을 뿐, 전체 유효기간 시험은 수행되지 않았다. 해당 보고서에는 사전 설정된 허용기준이나 용기·마개 시스템에 대한 기술이 없었고, 그 lot은 현재 CMO가 제조한 것도 아니었다.",
+   "responseKo": "회사는 안정성 규격을 수립하고 3년 유효기간 전체를 포괄하는 장기보존시험을 개시하겠다고 답변했다. FDA는 관련 품질 특성과 허용기준을 포함한 안정성 프로토콜을 제출하지 않았고 시험법이 안정성 지시적(stability indicating)이라는 보증도 제시하지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d); 21 U.S.C. 355(a), 331(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 위반",
+   "detailKo": "MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE의 제품 표시 및 웹사이트(https://www.manukaguard.com)에 \"의료용 등급 마누카꿀이 강한 면역체계를 지원하고 인후 자극을 줄이며 기침을 완화한다\", \"비강 통로 정화 지원\" 등의 표현과, 부비동염·독감 바이러스 예방 효과를 암시하는 사용자 후기가 게재됐다. FDA는 이러한 표시된 의도된 사용에 근거해 이들 제품이 FD&C Act 201(g)(1)(B) 및 (C)상 \"의약품\"에 해당한다고 판단했다. 표시된 사용조건에서 안전성·유효성이 일반적으로 인정되지 않으므로 201(p)상 \"신약\"이며, 승인된 신청서가 존재하지 않아 주간 거래 반입이 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 201(ff)",
+   "area": "허가·표시",
+   "titleKo": "건강기능식품 표시 요건 위반",
+   "detailKo": "ManukaGuard Throat Soother Manuka Honey (8.8 oz), ManukaGuard Immune Support Manuka Honey (8.8 oz), ManukaGuard Gut Health Manuka Honey (8.8 oz)는 건강기능식품(dietary supplement)으로 표시되어 있다. 그러나 표시에 \"인후 진정, 로젠지 대체제\", \"1/2 티스푼을 설하 투여\" 같은 문구가 포함되어 있었다. FD&C Act 201(ff)에 따라 섭취(ingestion)를 목적으로 하는 제품만 건강기능식품으로 합법적으로 판매할 수 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질관리부서 부재",
+  "CMO 위탁제조 관리",
+  "미생물 오염 조사",
+  "안정성시험",
+  "미승인 신약",
+  "건강기능식품 표시"
+ ],
+ "id": "ndal-mfg-inc-621656-03282022",
+ "extractedAt": "2026-09-13T08:18:52Z",
+ "sourceChars": 18810
+}

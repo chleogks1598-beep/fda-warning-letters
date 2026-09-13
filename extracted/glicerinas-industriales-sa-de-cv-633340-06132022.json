@@ -1,0 +1,38 @@
+{
+ "headlineKo": "사전예고 실사 거부, 글리세린 공급업체 수입경보 66-79 등재",
+ "summaryKo": "FDA는 멕시코 Zapopan 소재 Glicerinas Industriales, S.A. de C.V.(GLINSA, FEI 3016420687)에 2022년 5월 16일~20일 의약품 제조시설 실사를 사전 통보했으나, 회사는 2022년 2월 24일 규제업무국(ORA) 담당자와의 전화 통화 및 2022년 3월 23일 UPS로 수령한 서면 통지를 통해 사전예고된 실사를 거부했다. 이 회사는 미국 시장에 완제의약품을 유통하는 제조업체에 글리세린 등 의약품 원료를 공급하는 업체로, 디에틸렌글리콜(DEG)에 오염된 글리세린 사용은 전 세계적으로 다수의 치명적 중독 사고를 초래한 바 있다. FDA는 실사를 지연·거부·제한하는 시설에서 제조·가공·포장·보관된 의약품은 FD&C Act 501(j)조에 따라 변질(adulterated)된 것으로 판단했으며, 2022년 6월 9일 해당 업체를 수입경보 66-79에 등재했다. 또한 실사가 허용되고 CGMP 준수가 확인될 때까지 이 회사를 제조소로 기재한 신규 허가·변경 신청의 승인을 보류할 수 있으며, 해당 시설 제품의 미국 반입은 801(a)(3)조에 따라 유치 또는 반입 거부 대상이 된다고 통보했다.",
+ "inspectionStart": "2022-05-16",
+ "inspectionEnd": "2022-05-20",
+ "facility": "Calle Uranio No. 80, Col. Arenales Tapatios, 45188 Zapopan, Jal., Mexico",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(j) (21 U.S.C. 351(j))",
+   "area": "품질시스템",
+   "titleKo": "사전예고된 FDA 실사 거부",
+   "detailKo": "FDA는 2022년 5월 16일부터 5월 20일까지 예정된 의약품 제조시설 실사를 사전 통보했으나, 회사는 2022년 2월 24일 규제업무국(ORA) 담당자와의 전화 통화와 2022년 3월 23일 UPS로 수령한 서면 통지를 통해 이 사전예고 실사를 거부했다. 회사는 미국 시장에 유통되는 완제의약품 제조업체에 글리세린 등 의약품 원료를 공급하는 업체다. FDA는 실사를 지연·거부·제한하거나 출입 또는 실사를 허용하지 않는 시설에서 제조·가공·포장·보관된 의약품은 FD&C Act 501(j)조에 따라 변질된 것으로 간주된다고 지적했다. FDA는 DEG에 오염된 글리세린 사용이 전 세계적으로 여러 치명적 중독 사고를 일으켰음을 언급하며, 글리세린의 DEG 시험에 관한 FDA 가이던스를 참고하도록 안내했다.",
+   "responseKo": "FDA는 본 서한 수령 후 15 영업일 이내에 서면으로 회신하되, 추가 정보 제출 또는 FDA 실사 일정 요청을 제출할 수 있다고 안내했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-79 (2022-06-09)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "실사 거부",
+  "수입경보 66-79",
+  "글리세린",
+  "디에틸렌글리콜(DEG)",
+  "원료 공급자",
+  "FD&C Act 501(j)"
+ ],
+ "id": "glicerinas-industriales-sa-de-cv-633340-06132022",
+ "extractedAt": "2026-09-13T08:11:21Z",
+ "sourceChars": 3238
+}

@@ -1,0 +1,47 @@
+{
+ "headlineKo": "손소독제 IPA를 에탄올로 대체·표시 허위, CGMP 미준수",
+ "summaryKo": "FDA는 중국 광저우 소재 Guangzhou Shiruoni Cosmetics(FEI 3014510437)에서 제조된 것으로 신고된 IMPACTA HEALTH HAND SANITIZER를 수입 단계에서 억류·반입거부하고 시험한 결과, 라벨에 표시된 이소프로필알코올 75% v/v는 검출되지 않고 대신 에탄올 평균 67% v/v가 확인되어 유효성분이 전부 또는 일부 대체된 위조(501(d)(2)) 제품으로 판정했다. 2020년 12월 17일 화상회의 후 FDA가 요청한 자료에 대해 회사는 21 CFR 210·211을 따르지 않는다고 답했고, 에탄올 공급자 COA를 제출하지 않았으며 완제품 출하 전 시험 여부도 밝히지 않았고, 라벨 작업자가 영어를 읽지 못해 라벨과 처방의 일치를 확인할 수 없다고 진술했다. 또한 웹사이트의 \"FDA-Approved Hand Sanitizer\" 표현과 에탄올 미표시로 502(a) 및 502(e)(1)(A) 표시위반이 인정됐다. FDA는 2021년 3월 10일 이 회사의 모든 의약품을 Import Alert 66-78에 등재했고, CGMP 적격 컨설턴트 고용과 향후 미국 시장 재진입 시 Regulatory Meeting 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Guangzhou Shiruoni Cosmetics Co., Ltd., Room 307, Bldg. 6, West Zone Union Town, 12 Dagang Road, Guangzhou, Guangdong 510000, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(d)(2) / 501(a)(2)(B)",
+   "area": "품질시스템",
+   "titleKo": "표시된 IPA를 에탄올로 대체한 위조 의약품",
+   "detailKo": "IMPACTA HEALTH HAND SANITIZER는 유효성분으로 이소프로필알코올(IPA) 75% v/v를 함유한다고 표시되어 있으나, 국경에서 억류된 배치에 대한 FDA 실험실 시험 결과 IPA는 0%였고 에탄올이 평균 67% v/v 검출됐다. 유효성분이 전부 또는 일부 다른 물질로 대체된 것으로, FD&C Act 501(d)(2)에 따른 위조에 해당한다. 이러한 성분 대체는 해당 시설의 품질보증 기능이 CGMP 요건에 따라 작동하지 않음을 보여주므로 501(a)(2)(B)에 따른 위조에도 해당한다고 FDA는 판단했다. 해당 제품은 미국 수입 시도 후 국경에서 억류되고 반입이 거부됐다.",
+   "responseKo": "2020년 12월 17일 화상회의 후 FDA는 완제품 시험법, 유효성분 공급자 정보와 COA, 21 CFR 210·211 준수 확인서, 성분 대체 로트에 대한 조사 결과를 요청했다. 회사는 라벨 작업 직원이 영어를 읽지 못해 라벨 정확성이나 처방과의 일치를 확인할 수 없다고 답했고, 손소독제 제조에 21 CFR 210·211을 따르지 않는다고 진술했으며, 에탄올 공급자 COA를 제출하지 않고 출하 전 완제품 시험 실시 여부도 밝히지 않았다. FDA는 회신 시 성분 대체 경위에 대한 상세 조사, 미국으로 선적된 모든 손소독제 배치 목록과 전량 수불 대사, 해당 배치들의 전체 제조기록 사본을 제출할 것을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 502(a), 502(e)(1)(A) / 301(a)",
+   "area": "허가·표시",
+   "titleKo": "허위·오인 표시 및 에탄올 미표시 misbranding",
+   "detailKo": "이 제품은 소비자용 국소 소독제로 의도되어 FD&C Act 201(g)(1)(B)·(C)상 \"의약품\"에 해당하며, 라벨에 \"HAND SANTIZER… Drug Facts… Antiseptic… Uses: Hand sanitizer to help reduce bacteria that can potentially cause disease…\" 등의 표시가 의도된 용도를 입증한다. 회사 웹페이지는 제품 설명에 \"FDA-Approved Hand Sanitizer\"라고 기재해 FDA 승인 제품인 것처럼 오인시키나, 이 제품은 FDA 승인 신청의 대상이 아니다. 또한 라벨에는 IPA 75% v/v가 표시되어 있으나 FDA 분석에서 IPA는 검출 한계 이하였고 미표시 성분인 에탄올이 66.9% v/v 확인됐다. 에탄올 단독은 소비자용·의료인용 손소독제 유효성분으로 허용되지만 라벨에 표시되지 않아, 유효성분 농도의 오인 표시와 에탄올 미표시로 502(a) 및 502(e)(1)(A) 위반에 해당하며 주간(州間) 거래 반입은 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-03-10)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "유효성분 대체",
+  "손소독제",
+  "표시 위반(misbranding)",
+  "수입경보 66-78",
+  "CGMP 미준수",
+  "공급자 COA"
+ ],
+ "id": "guangzhou-shiruoni-cosmetics-co-ltd-613170-12072021",
+ "extractedAt": "2026-09-13T08:25:07Z",
+ "sourceChars": 12083
+}
