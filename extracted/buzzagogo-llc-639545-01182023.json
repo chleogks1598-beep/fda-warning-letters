@@ -1,0 +1,47 @@
+{
+ "headlineKo": "미승인 신약 표방·비강 스왑 제품 균 오염(B. cereus 검출)",
+ "summaryKo": "FDA는 2022년 8월 Buzzagogo, LLC의 웹사이트(https://buzzagogo.com/) 표시·광고를 검토해 동종요법 제품 \"Allergy Bee Gone for Kids\"가 알레르기·감기 증상 완화 등을 표방하는 미승인 신약이라고 판단했다. 또한 FDA 실험실 시험에서 해당 제품 lot 2006491이 총호기성미생물수 50~770 CFU/mL, 효모·곰팡이수 5~70 CFU/mL로 검출되고 Bacillus cereus, B. amyloliquefaciens, B. atrophaeus 등이 동정되어 FD&C Act 501(a)(1)에 따른 변질(adulterated) 제품으로 판정됐다. 만 1세 이상 소아에게 코에 스왑하는 투여경로라는 점에서 위해 우려가 크다고 지적했다. 회사는 2022년 5월 24일 FDA 전화회의에서 위탁제조 사실을 밝히고 자진회수에 동의했으며, 2022년 6월 7일 해당 lot을 소비자 수준까지 자진회수했다. FDA는 위탁제조소 정보, 제조·미생물학적 위해에 대한 독립적 종합평가, 위해평가, 오염 근본원인 조사, 미생물 출하규격·시험법, 보관검체 시험 결과 제출을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 505(a), 301(d) (21 U.S.C. 355(a), 331(d))",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약을 표시·판매",
+   "detailKo": "제품 표시와 웹사이트 제품 페이지에 \"Relieves sinus congestion, sneezing, runny nose and post-nasal drip\", \"Nasal Swab Remedy\", 비염 증상·염증과 싸운다는 설명, \"cold and flu viruses\"의 체내 침입 경로와 관련해 이환 기간·중증도를 줄일 수 있다는 주장, 마누카 꿀 블렌드가 항균·프리바이오틱·프로바이오틱이라는 주장, \"helps alleviate common cold symptoms\" 등의 문구가 게재됐다. 이러한 표방은 제품이 질병의 진단·치료·완화·처치·예방 목적이거나 신체 구조·기능에 영향을 줄 의도임을 보여주므로 FD&C Act 201(g)(1)상 의약품에 해당한다. 표시된 사용조건에서 안전성·유효성이 일반적으로 인정되지 않아 201(p)상 신약이며, 이 제품에 대한 505조 승인 신청이 유효하게 존재하지 않는다. 동종요법 의약품도 다른 의약품과 동일한 법적 요건(변질·허위표시·승인)을 적용받으며 면제되지 않는다고 명시했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 501(a)(1) (21 U.S.C. 351(a)(1))",
+   "area": "시험·QC",
+   "titleKo": "비강용 제품의 objectionable 미생물 오염",
+   "detailKo": "FDA 실험실이 Allergy Bee Gone For Kids Nasal Swab Remedy 한 배치(lot 2006491)를 시험한 결과 총호기성미생물수가 개별 검체별로 50~770 CFU/mL, 총 효모·곰팡이수가 5~70 CFU/mL로 나타났다. 동정된 미생물에는 Bacillus cereus, Bacillus amyloliquefaciens, Bacillus atrophaeus 등이 포함됐으며, B. cereus는 독소를 생성하고 사람에게 병원성이 있다. 제품 표시상 만 1세 이하 어린 아동까지 사용 가능하다고 안내되어 있어, 높은 bioburden과 objectionable 미생물의 존재가 비강 투여경로와 결합해 소아를 포함한 환자에게 높은 위해를 초래한다. 이에 따라 해당 제품은 501(a)(1)상 오물·부패물질을 전부 또는 일부 함유한 변질 제품이다.",
+   "responseKo": "2022년 5월 24일 FDA 전화회의에서 회사는 제품이 위탁제조소에서 제조되고 출하 전 위탁제조소가 시험한다고 진술했으며, 미국 내 유통 중인 lot의 자진회수에 동의해 2022년 6월 7일 lot 2006491을 소비자 수준까지 자진회수했다. FDA는 이 편지에 대한 답변으로 위탁제조·미생물시험 수탁기관 명칭과 주소, 제조 설계·관리에 대한 독립적 종합평가, 위해평가, 오염 배치 전수 조사와 근본원인, 적절한 미생물 출하규격과 시험법, 보관검체 시험 결과 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미승인 신약",
+  "동종요법 의약품",
+  "미생물 오염",
+  "Bacillus cereus",
+  "자진회수",
+  "위탁제조소 관리"
+ ],
+ "id": "buzzagogo-llc-639545-01182023",
+ "extractedAt": "2026-09-13T00:18:38Z",
+ "sourceChars": 10537
+}

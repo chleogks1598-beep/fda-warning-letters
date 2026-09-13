@@ -1,0 +1,74 @@
+{
+ "headlineKo": "배치별 미생물시험 누락·OOS 미조사, 만료 BZK 사용·무허가신약",
+ "summaryKo": "FDA는 2022년 8월 1일부터 8월 5일까지 테네시주 Athens 소재 Midlab Incorporated 의약품 제조소를 실사하고 CGMP 위반 4건과 무허가 신약·표시위반을 지적했다. 배치별 미생물시험을 하지 않고 일부만 외부 시험소에 보냈으며, 항균 손세정제의 chloroxylenol 함량 OOS(0.31%)를 조사하지 않았고 2021년 6월 17일 만료된 benzalkonium chloride를 2022년 6월 28일 손소독제 제조에 사용해 출하했다. 품질부서 감독·공정 및 용수시스템 밸리데이션도 미흡했고, 회사의 2022년 8월 26일 Form FDA 483 답변은 시정조치의 구체성과 근거가 부족해 부적절하다고 평가됐다. 아울러 MAXIM Instant Foam Hand Sanitizer는 무허가 신약이자 misbranded, 나머지 MAXIM 항균비누 제품들은 활성성분 표기(PCMX)와 스페인어 함량 표시 누락으로 misbranded로 판단됐으며, FDA는 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "2022-08-01",
+ "inspectionEnd": "2022-08-05",
+ "facility": "140 Private Brand Way, Athens, Tennessee 37303-1401",
+ "form483ResponseDate": "2022-08-26",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "배치별 미생물시험 미실시 후 출하",
+   "detailKo": "OTC 의약품을 출하 전 적절히 시험하지 않았다. 손소독제와 항균 손세정제의 배치기록에는 미생물시험 요구사항이 있으나 각 배치를 미생물 항목으로 시험하지 않았고, (비공개)만 외부 시험소에 보내 분석했다고 조사관에게 진술했다. 또한 언급된 standard plate count 시험에 무엇이 포함되는지에 대한 문서와 샘플 시험 주기에 대한 과학적 근거를 요청에도 제출하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "OOS 미조사 및 만료 원료 사용",
+   "detailKo": "항균 손세정제 여러 배치의 안정성시험 중 발생한 함량 OOS를 조사하지 않았다. 예를 들어 chloroxylenol 함량시험에서 (비공개) 시점 안정성 검체가 0.31%로 나왔고 제품 규격은 (비공개)%였으나 어떠한 조사도 실시하지 않았다. 또한 만료 원료를 격리·부적합 처리하지 않아, 2021년 6월 17일 만료된 benzalkonium chloride(BZK)를 2022년 6월 28일 instant foam hand sanitizer 제조에 사용하고 출하했다. FDA는 회사의 일탈조사 품질시스템이 부적절해 안전하고 유효한 제품의 일관된 생산을 보장하지 못한다고 판단했다.",
+   "responseKo": "FDA는 회사가 만료된 BZK를 폐기 목적으로 격리했고 instant foam hand sanitizer를 회수했다는 답변 내용을 확인했다. 다만 최근 3년간 OOS 결과의 소급 독립 검토와 조사시스템 전반의 종합 평가·개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 감독 책임 미이행",
+   "detailKo": "품질부서(QU)가 의약품 제조에 대한 적절한 감독을 하지 못했다. 구체적으로 일탈조사 처리, 제품 격리, 불만 처리, 변경관리, 안정성 실패에 관한 적절한 절차를 확보하지 못했고(21 CFR 211.22(d)), 입고 자재의 확인·순도·함량 등 품질특성 시험도 적절히 보장하지 못했다(21 CFR 211.84(d)(1), (d)(2)). 또한 적절한 지속적 안정성 프로그램을 수립하지 않았다(21 CFR 211.166(a)).",
+   "responseKo": "FDA는 품질부서가 실질적으로 기능할 권한과 자원을 갖도록 하는 종합 평가 및 개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "제조공정·용수시스템 밸리데이션 미비",
+   "detailKo": "손소독제와 항균 손세정제 제조에 사용되는 제조공정과 용수시스템을 적절히 밸리데이션하지 않았다. 배치기록에는 항균 손세정제의 밀도가 낮으면 필요에 따라 (비공개)를 추가하는 등 밸리데이션되지 않은 공정 중 조정이 포함돼 있었다. 제조공정이 균일한 특성과 품질의 제품을 일관되게 생산하도록 관리되고 있음을 입증하지 못했으며, 용수시스템은 밸리데이션도 되지 않았고 절차서도 유지하지 않았으며 조사관 요청 시 규격도 제시하지 못했다. 공정관리를 지속 모니터링하는 프로그램도 없었다.",
+   "responseKo": "FDA는 밸리데이션 프로그램 요약과 절차서, 품목별 공정 성능 적격성평가 일정, 용수시스템의 정기 미생물시험 절차 및 총균수·유해균 관리기준 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a) / 502(ee) / 502(c)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 및 표시기재 위반",
+   "detailKo": "MAXIM Instant Foam Hand Sanitizer는 소비자용 antiseptic rub 용도로 판매되는 신약이나 승인된 신약허가가 없어 무허가 신약이며, 라벨의 \"confirmed to reduce S. aureus 99.9% in as little as 15 seconds\" 같은 특정 병원체 관련 주장이 1994 TFM 및 2016 Consumer Antiseptic Rubs 제안규칙의 범위를 벗어나 505G(a)(3) 요건도 충족하지 못한다. MAXIM Antibacterial Foam Soap FDF, MAXIM Antibacterial Hand Soap, MAXIM Assure Antibacterial은 Drug Facts 패널에 공정서상 확립명인 chloroxylenol 대신 약어 \"PCMX\"를 활성성분으로 기재해 502(c) 위반이다. 또한 4개 제품 모두 라벨에 스페인어 표기가 있으면서 내용량 표시는 영어로만 기재해 21 CFR 201.15에 부합하지 않아 misbranded에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미생물시험 누락",
+  "OOS 조사",
+  "만료 원료 사용",
+  "공정·용수 밸리데이션",
+  "무허가 신약",
+  "표시기재 위반"
+ ],
+ "id": "midlab-incorporated-642374-02152023",
+ "extractedAt": "2026-09-13T00:12:06Z",
+ "sourceChars": 26961
+}

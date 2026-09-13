@@ -1,0 +1,37 @@
+{
+ "headlineKo": "704(a)(4) 기록요청 응답 거부, 수입경보 66-79 등재",
+ "summaryKo": "FDA는 원료의약품(API) 제조소로 등록된 Chengdu KeCheng Fine Chemicals(중국 쓰촨성 청두)에 대해 2022년 7월 18일과 8월 8일 FD&C Act 704(a)(4)에 따른 전자 기록·정보 제출 요청을 보냈으나 회사는 응답하지 않았다. 2022년 10월 24일 전화 통화에서 총경리는 성명 전체와 대체 이메일 제공을 거부하고 미국으로 제품을 보내지 않으며 등록을 말소하겠다고 했으나, 실제로는 2023년 1월까지 미국으로 API를 계속 선적했고 2023년 3월 9일 추가 요청에도 답하지 않았다. 기록 접근·복사를 거부하는 것은 301(e)에 따른 금지행위이며, FDA는 회사 제조 의약품의 품질보증 수준을 전혀 확인할 수 없다고 판단했다. FDA는 2023년 6월 8일 이 회사의 모든 의약품을 수입경보 66-79에 등재했고, 신규 허가·보충 승인 보류 및 801(a)(3)에 따른 수입 억류·거부가 적용될 수 있음을 통지하며 15영업일 내 서면 답변 또는 실사 요청 제출을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Chengdu KeCheng Fine Chemicals Co., Ltd., Floor 9, No. 18 Chuangye Road, Chengdu High-Tech District, Chengdu, Sichuan, 610000, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 704(a)(4) / 301(e) (21 U.S.C. 374(a)(4), 331(e))",
+   "area": "품질시스템",
+   "titleKo": "FDA 기록 제출 요청에 응답 거부",
+   "detailKo": "FDA는 2022년 7월 18일 등록파일에 기재된 연락 이메일로 704(a)(4)에 따른 기록·정보 제출 요청을 보냈으나 무응답이었고, 2022년 8월 8일 2차 요청, 2022년 10월 24일 전화 연락이 이어졌다. 전화 통화에서 수신자는 자신의 성명 전체와 추가 연락용 대체 이메일 제공을 거부했으며, 미국으로 제품을 선적하지 않고 의약품 제조소 등록을 말소하겠다고 진술했다. 그러나 회사는 2023년 1월까지도 미국으로 API를 계속 선적했고, 2023년 3월 9일 발송된 후속 전자 요청에도 응답하지 않았다. FDA는 요청 및 후속 연락에서 요구 기록을 충분하고 명확하게 특정했다고 밝혔으며, 704(a)에 따라 요구되는 기록의 접근·복사를 거부하는 것은 301(e)상 금지행위다. 그 결과 FDA는 해당 시설에서 제조된다고 등재된 의약품의 품질보증 수준을 확인할 근거가 전혀 없다고 판단했다.",
+   "responseKo": "회사는 반복된 요청과 전화 연락에 일체 응답하지 않았다. FDA는 본 서한 수령 후 15영업일 내 서면 답변과 함께 고려할 정보 제출 및/또는 FDA 실사 일정 요청 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-79 (2023-06-08)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록요청",
+  "응답 거부",
+  "수입경보 66-79",
+  "API 제조소",
+  "등록 말소 미이행"
+ ],
+ "id": "chengdu-kecheng-fine-chemicals-co-ltd-659389-06202023",
+ "extractedAt": "2026-09-13T00:04:38Z",
+ "sourceChars": 3769
+}

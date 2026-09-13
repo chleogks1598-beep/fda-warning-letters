@@ -1,0 +1,83 @@
+{
+ "headlineKo": "출하시험 미실시·원료 미시험 COA 의존, 품질부서 부재·무허가 신약",
+ "summaryKo": "FDA는 2022년 5월 2일부터 5월 16일까지 푸에르토리코 Ponce 소재 Skyless, LLC 제조소를 실사해 CGMP 위반 3건과 무허가 신약·표시위반·등록/목록 미이행을 지적했다. 회사는 OTC 국소 진통 연고를 출하 전 이화학·미생물 시험 없이 유통했고, 원료는 공급자 COA에만 의존해 확인시험조차 하지 않았으며, 품질부서의 역할·공정 모니터링·세척 밸리데이션·설비 유지보수 절차가 모두 없었다. 2022년 6월 20일자 483 답변은 절차서·시험법·공급자 적격성 계획·구체적 CAPA를 제출하지 않아 모두 부적절하다고 평가됐다. FDA는 X-PASMO 3개 제품이 1983년 외용진통제 TFM 기준(캠퍼 2%, 메틸살리실레이트 8% 등)을 벗어난 무허가 신약이자 misbranded 제품이며 FDA 등록·목록도 되지 않았다고 지적하고, CGMP 컨설턴트 고용을 강력히 권고하면서 미개선 시 압류·금지명령 등 조치를 예고했다.",
+ "inspectionStart": "2022-05-02",
+ "inspectionEnd": "2022-05-16",
+ "facility": "Barrio Real Anón, Carr. 511, Km. 2.0, Ponce, Puerto Rico",
+ "form483ResponseDate": "2022-06-20",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 시험 미실시",
+   "detailKo": "OTC 국소 의약품 각 배치에 대해 유통 전 이화학·미생물 출하시험을 전혀 수행하지 않았다. Xpasmo Manteca de Ubre(Cow's Udder grease), Xpasmo Arthritis Formula 등이 해당된다. FDA는 출하 전 확인·함량·품질·순도 시험 없이는 각 배치가 규격에 적합하다는 기본 데이터 자체가 없다고 지적했다.",
+   "responseKo": "완제품이 출하 전 적절한 품질기준을 충족하도록 보장하는 절차서를 제출하지 않아 답변이 부적절하다고 평가했다. FDA는 시험실 전반에 대한 독립적 평가와 개선계획, 배치 판정 전 사용하는 화학·미생물 규격 및 시험법 목록 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1), 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 검증 부재",
+   "detailKo": "API를 포함한 모든 입고 원자재에 대해 시험을 하지 않고 공급자 COA에만 의존해 순도·함량·확인·품질을 판정했다. 공급자 시험 결과의 신뢰성을 초기 및 주기적으로 평가하는 공급자 적격성 프로그램도 수립하지 않았다.",
+   "responseKo": "원자재 평가 절차를 수립하겠다고 했으나 절차서나 시험법을 제출하지 않았고, 공급자 적격성 프로그램 계획도 없었다. 이미 유통된 OTC 제품에 사용된 원료의 확인을 위한 보관 검체 시험도 약속하지 않아 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 책임 수행 실패",
+   "detailKo": "품질부서(QU)의 역할·책임과 품질 관련 업무 검토·승인 권한을 규정한 절차서가 없었다(21 CFR 211.22(d)). 안정적 제조와 일관된 품질을 보장하기 위한 공정관리 모니터링 프로그램이 문서화되지 않았고(21 CFR 211.100(a)), 비전용 제조설비의 세척 공정이 문서화·밸리데이션·검토·승인되지 않아 제품 접촉면 잔류물 제거가 보장되지 않았다. 설비 유지보수 절차 역시 수립·문서화·검토·승인되지 않았다(21 CFR 211.67(b)).",
+   "responseKo": "CGMP 준수 절차를 수립·이행하겠다고 했으나 결함을 체계적으로 해결할 구체적 CAPA 계획을 제출하지 않아 부적절하다고 평가했다. FDA는 QU 권한 보장 평가·개선계획, 밸리데이션 프로그램 요약, 각 제품 PPQ 일정, 세척 밸리데이션 개선안 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 판매",
+   "detailKo": "X-PASMO ARTHRITIS FORMULA, X-PASMO MUSCULAR FORMULA, X-PASMO UNGUENTO MANTECA DE UBRE 3개 제품은 관절·근육통 완화를 표방하는 counterirritant 외용진통제로 FD&C Act 201(g)상 의약품에 해당한다. ARTHRITIS FORMULA는 캠퍼 2%로 1983년 TFM 허용범위 3~11%에 미달하고, 웹사이트에서 관절염 염증·부기 감소 및 혈액순환 개선을 표방했다. MUSCULAR FORMULA는 항염·항경련·스트레스 및 불안 감소·호흡기 개선을 표방했고, 유칼립투스 오일 함유 counterirritant 외용진통제는 21 CFR 310.545(a)(10)(ii)에 따라 GRASE가 아닌 것으로 결정되어 505G(a)(5)상 신약으로 간주된다. MANTECA DE UBRE는 메틸살리실레이트 8%로 허용범위 10~60%에 미달하며 염증 완화를 표방했다. 승인된 신약 신청도 없고 GRASE를 뒷받침할 적절한 임상시험 문헌도 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 502(c), 502(ee), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "표시기재 위반(misbranding)",
+   "detailKo": "X-PASMO UNGUENTO MANTECA DE UBRE는 표시에 영어와 스페인어를 함께 쓰면서도 주표시면(제품명 포함)은 주로 스페인어이고 Drug Facts 패널은 영어로만 기재되어, 외국어 표기가 있으면 법정 기재사항 전부를 해당 외국어로도 표기하도록 한 21 CFR 201.15(c)(2)·(3)에 위반되어 502(c)상 misbranded 이다. 또한 3개 제품 모두 505G 적용 비처방 의약품이면서 그 요건을 충족하지 못하고 505조 승인도 없어 502(ee)상 misbranded 이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 510(j)(1), 21 CFR 207.41, 502(o), 301(p)",
+   "area": "허가·표시",
+   "titleKo": "의약품 목록(listing) 미신고",
+   "detailKo": "미국 내 상업적 유통을 위해 제조되는 모든 의약품은 FDA에 목록 신고를 해야 하나, Xpasmo Arthritis Formula(연고), Xpasmo Muscular Formula(연고), Xpasmo Manteca de Ubre(Cow's Udder Grease)는 한 번도 FDA에 목록 신고되지 않았다. 이는 301(p) 위반이며 해당 제품을 502(o)상 misbranded 로 만든다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "출하시험 미실시",
+  "원료 확인시험",
+  "공급자 적격성",
+  "품질부서 부재",
+  "세척 밸리데이션",
+  "무허가 신약"
+ ],
+ "id": "skyless-llc-636200-01232023",
+ "extractedAt": "2026-09-13T00:14:36Z",
+ "sourceChars": 28451
+}

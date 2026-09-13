@@ -1,0 +1,47 @@
+{
+ "headlineKo": "손소독제 아세트알데히드·아세탈·벤젠 초과, 불순물 시험 미실시",
+ "summaryKo": "FDA는 Salon Technologies International(플로리다주 올랜도)이 제조해 미국에 유통한 소비자용 손소독제를 자체 실험실에서 시험하고, 회사가 제출한 보관검체 시험 결과를 검토했다. Salon Technologies International Sanitizing Hand Spray 80% 배치에서 아세트알데히드 약 739ppm, 아세탈 약 988ppm이 검출되어 USP 알코올 기준(아세트알데히드 환산 10ppm 이하)을 크게 초과했고, Antica Farmacista Hand Sanitizer Ocean Citron 배치에서는 발암물질인 벤젠이 약 12ppm 검출됐다. 회사는 원료 및 완제품에 대해 아세탈·아세트알데히드·벤젠 불순물 규격을 두지 않고 출하 전 시험도 하지 않아, 제품이 FD&C Act 501(a)(2)(B)에 따라 변질(adulterated)로 판정됐다. 2022년 9월 14일 FDA 전화회의 후 회사는 9월 17일 두 제품 각 1개 로트를 자발적 전국 회수했고, FDA는 10월 6일 소비자 공지를 냈으며 CGMP 컨설턴트 고용과 미국 시장 재개 시 규제회의(Regulatory Meeting) 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Salon Technologies International, Inc., 8810 Commodity Circle, Suite 20, Orlando, FL 32819, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B); FD&C Act 501(b)",
+   "area": "원자재·공급자",
+   "titleKo": "손소독제에서 USP 기준 초과 불순물 및 벤젠 검출",
+   "detailKo": "FDA 실험실이 미국 유통 중인 Salon Technologies International Sanitizing Hand Spray 80% 배치를 시험한 결과 아세트알데히드 약 739ppm, 아세탈 약 988ppm이 검출됐다. USP 알코올 각조는 아세트알데히드·아세탈 합계를 아세트알데히드 환산 10uL/L(10ppm) 이하로 제한하며, 이 기준을 벗어난 알코올은 501(b)에 따라 변질로 간주된다. 또한 회사가 2022년 9월 2일 제출한 보관검체 시험 결과에서 Antica Farmacista Hand Sanitizer Ocean Citron 배치의 벤젠이 약 12ppm으로 확인됐다. 아세트알데히드는 조직에 직접 접촉 시 유전독성·발암 가능성이 있고, 벤젠은 백혈병 등 혈액질환을 유발하는 알려진 인체 발암물질로 의약품 제조에 사용해서는 안 된다.",
+   "responseKo": "FDA는 2022년 6월 24일 서한으로 불순물 초과를 통보하고 유효기간 내 유통 배치 전량의 보관검체 시험을 요구했으며, 9월 14일 전화회의에서 유통 중 배치의 시장 철수를 권고했다. 회사는 9월 17일 두 제품 각 1개 로트를 자발적 전국 회수했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.160(b); 21 CFR 211.165",
+   "area": "시험·QC",
+   "titleKo": "불순물 규격 미설정 및 출하 전 완제품 시험 미실시",
+   "detailKo": "회사는 유통 전에 원료의약품(API) 또는 완제 손소독제에 대해 아세탈·아세트알데히드·벤젠 등 불순물 시험을 실시하지 않았다. 알코올은 제품의 주요 구성 성분이므로 21 CFR 211.160(b)에 따라 아세트알데히드·아세탈에 대한 규격을 보유해야 하며, 이들 불순물은 제조공정상 알려진 위험요소이므로 완제품 규격 설정이 요구된다. 또한 21 CFR 211.165에 따라 각 배치의 완제품 시험이 필수다. 검출된 불순물 수치는 알코올이 공정서 기준에 적합하고 불순물 규격에 따른 완제품 시험이 수행됐다면 나올 수 없는 수준이었다.",
+   "responseKo": "FDA는 이 서한에 대해 불순물 초과 원인에 대한 상세 조사, 사용 원자재 및 공급자 목록, 미국 유통 전 배치의 완전한 배치기록 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "손소독제 불순물",
+  "벤젠 오염",
+  "아세트알데히드·아세탈",
+  "USP 알코올 규격",
+  "완제품 출하시험",
+  "자발적 회수"
+ ],
+ "id": "salon-technologies-international-inc-630566-12212022",
+ "extractedAt": "2026-09-13T00:15:49Z",
+ "sourceChars": 11345
+}

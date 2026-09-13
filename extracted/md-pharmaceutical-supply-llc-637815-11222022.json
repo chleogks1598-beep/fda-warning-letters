@@ -1,0 +1,56 @@
+{
+ "headlineKo": "반품 API 재유통·COA 유효기간 불일치 미조사, 보관조건 미관리",
+ "summaryKo": "FDA는 2022년 4월 25일부터 5월 9일까지 펜실베이니아 하노버 소재 MD Pharmaceutical Supply, LLC의 원료의약품(API) 재포장·재라벨링 시설을 실사하고 CGMP 이탈 3건을 지적했다. 품질 문제로 반품된 phentolamine mesylate API 로트를 조사 없이 다른 고객에게 재유통했고, aminocaproic acid API의 유효기간이 다른 COA 두 건을 받고도 조사하지 않았으며, 보관구역 온·습도 모니터링이 이뤄지지 않았고, dasatinib·sirolimus 같은 고위험 API를 배치기록·라인클리어런스 없이 개방된 환경에서 취급했다. 회사의 2022년 5월 25일자 Form FDA 483 답변은 SOP 제정만 제시했을 뿐 소급 평가와 세부 관리방안이 없어 모두 부적절하다고 평가됐다. FDA는 CGMP 컨설턴트 고용을 강력히 권고했고, 회사가 해당 시설에서 재포장·재라벨링을 중단하겠다고 한 약속을 확인하며 재개 시 사전 통보를 요구했다.",
+ "inspectionStart": "2022-04-25",
+ "inspectionEnd": "2022-05-09",
+ "facility": "210 Poplar Street, Suite B, Hanover, PA",
+ "form483ResponseDate": "2022-05-25",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "",
+   "area": "품질시스템",
+   "titleKo": "불만·불일치 사항에 대한 조사·문서화 미흡",
+   "detailKo": "공급자 (비공개)로부터 phentolamine mesylate API 로트 (비공개)가 \"quality issues\"로 반품되었음을 통보받았음에도, 품질 평가를 위한 적절한 조사 없이 동일 로트를 다른 고객에게 재유통했다. 실사에서 수집된 기록상 재유통 19일 후 공급자는 재고에 남은 해당 API 로트를 폐기하라고 지시했다. 또한 FDA 조사관은 aminocaproic acid API 로트 (비공개)에 대해 유효기간이 2024년 4월 19일로 기재된 COA를 확인했는데, 조사관 요청으로 공급자에게 재요청해 받은 COA에는 유효기간이 2023년 4월 19일로 달리 적혀 있었다. 유효기간이 서로 다른 COA를 받고도 변경이 정확하고 타당한지, 1년 더 긴 유효기간으로 유통한 로트가 과학적으로 정당한지 조사를 개시하지 않았다.",
+   "responseKo": "회사는 반품 처리 절차(SOP MD#3-Returned goods)를 제정했다고 답변했으나 FDA는 부적절하다고 평가했다. 공급자가 제기한 품질 문제가 다른 API에도 영향을 주었는지 확인하는 유통 업무 소급 검토가 없고, 신규 절차에 반품 후 재유통되는 API의 보관조건 검증이 포함되어 있지 않기 때문이다. FDA는 일탈·불만·OOS 조사 체계 전반에 대한 종합 평가와 유통 제품의 품질·환자 안전 위험 조치계획(고객 통지·회수 포함) 제출을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 2,
+   "cfr": "",
+   "area": "시설·장비",
+   "titleKo": "API 보관조건 관리 미흡으로 동일성·순도 보증 실패",
+   "detailKo": "API 보관조건을 적절히 모니터링하지 않았다. 예를 들어 향정신성의약품 보관구역과 냉장고 온도 프로브가 FDA 실사 시점에 작동하지 않는 상태였다. 또한 보관구역의 습도를 전혀 모니터링하지 않았다. 제조사가 요구하는 온·습도 보관 조건을 준수했음을 입증할 온도·습도 모니터링 기록을 제출하지 못했다.",
+   "responseKo": "회사는 온·습도 모니터링 절차(SOP MD#5-Temperature and Humidity Controls)를 제정했다고 답변했으나 FDA는 부적절하다고 평가했다. 선정한 프로브 위치가 보관구역의 최악 조건을 대표하는지에 대한 근거가 없고, 절차에 모니터링 수행 책임자와 데이터 관리·유지·검토 방법이 명시되어 있지 않다. FDA는 보관·환경모니터링 관리 전반의 종합 평가와, 재포장·재라벨링 전반의 문서화 체계 평가 및 ALCOA 기록 확보를 위한 CAPA 계획을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "제조·공정관리",
+   "titleKo": "혼동·교차오염 방지 없는 재포장·재라벨링 수행",
+   "detailKo": "혼동과 교차오염을 방지할 적절한 관리 없이 통제되지 않은 개방 환경에서 API 재포장·재라벨링을 수행했다. 예를 들어 라벨 발행, 라인 클리어런스 절차, 배치기록 등의 문서 없이 dasatinib monohydrate API를 재라벨링하고 sirolimus API를 재포장했다. Dasatinib monohydrate는 고역가·독성 항암제로, sirolimus는 면역억제제로 분류되며 둘 다 타 제품으로의 교차오염을 막기 위한 적절한 취급과 관리가 필요하다. 시설 설계, 효과적 절차 수립, 활동 기록 유지, 견고한 관리 체계가 모두 미비해 유통된 의약품이 오염 및 안전 위해에 노출되었다.",
+   "responseKo": "회사는 앞으로 재포장·재라벨링 작업을 더 이상 수행하지 않겠다고 답변했으나 FDA는 부적절하다고 평가했다. API 유통 과정에서 혼동이나 교차오염이 발생하지 않았음을 확인하는 소급 평가를 제출하지 않았기 때문이다. FDA는 입고 API와 출고 API의 대조를 포함한 유통 업무 종합 평가와 혼동·교차오염 확인 시 공급자·고객 통지 및 회수를 포함한 조치계획을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "API 재포장·재라벨링",
+  "반품 API 재유통",
+  "COA 유효기간 불일치",
+  "보관 온·습도 모니터링",
+  "교차오염 관리",
+  "CGMP 컨설턴트"
+ ],
+ "id": "md-pharmaceutical-supply-llc-637815-11222022",
+ "extractedAt": "2026-09-13T00:19:46Z",
+ "sourceChars": 10860
+}

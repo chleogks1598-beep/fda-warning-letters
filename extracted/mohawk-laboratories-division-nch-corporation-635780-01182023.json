@@ -1,0 +1,38 @@
+{
+ "headlineKo": "핸드새니타이저 아세트알데하이드·아세탈 초과, 전국 자진회수",
+ "summaryKo": "FDA는 Irving, TX 소재 Mohawk Laboratories(NCH Corporation 사업부, FEI 1610021)에서 제조된 Alcohol Antiseptic, 80% Topical Solution, Hand Sanitizer 3개 로트를 수거해 시험했고, 3개 로트 모두에서 아세트알데하이드와 아세탈이 허용 불가 수준으로 검출됐다. USP 알코올 각조는 아세트알데하이드·아세탈을 10 ppm 이하로 제한하는데, 회사는 해당 불순물에 대한 기준(21 CFR 211.160(b))과 완제품 시험(21 CFR 211.165)을 갖추지 않아 제품이 FD&C Act 501(a)(2)(B)에 따라 변질(adulterated)로 판정됐다. 2022년 7월 28일 정보요청 서한과 11월 29일 원격회의를 거쳐 회사가 제출한 보관시료 시험 결과에서도 불순물이 초과 검출됐고, 회사는 2022년 12월 9일 전국 자진회수를 실시했으며 FDA는 12월 14일 이를 공개했다. 회사는 해당 시설에서 의약품 생산을 중단하고 재개 의사가 없다고 밝혔으며, FDA는 재개 시 CGMP 자격을 갖춘 컨설턴트(21 CFR 211.34) 활용을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Mohawk Laboratories, Division of NCH Corporation, 2730 Carl Road, Irving, TX 75062, United States",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.160(b); 21 CFR 211.165; FD&C Act 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "알코올 불순물 기준·완제품 시험 미비로 변질 제품 제조",
+   "detailKo": "FDA가 수거한 Alcohol Antiseptic, 80% Topical Solution, Hand Sanitizer(비멸균 용액, 2 X 2.5 GL, 유효기한 없음) 로트 12014115, 12014804, 12015401 3개 모두에서 아세트알데하이드와 아세탈이 허용 불가 수준으로 검출됐다(구체 수치는 (비공개)). USP 알코올 각조는 아세트알데하이드와 아세탈을 아세트알데하이드로 환산해 10 ppm(10 mL/L) 이하로 제한하며, 규격에 맞지 않는 알코올은 FD&C Act 501(b)에 따라 변질로 간주된다. 알코올이 제품의 주요 성분이므로 21 CFR 211.160(b)에 따라 아세트알데하이드·아세탈 기준을 설정해야 하고, 21 CFR 211.165에 따라 각 배치 완제품 시험을 해야 하나 이를 수행하지 않았다. 아세트알데하이드는 조직에 직접 접촉 시 유전독성 및 잠재적 발암성이 있는 것으로 보인다. 회사는 2022년 4월 19일까지 해당 제품을 유통했다.",
+   "responseKo": "FDA는 회사의 2022년 9월 6일 정보요청 답변을 검토했고, 답변에 기술된 제조·가공·포장·보관 방법과 시설, 관리가 CGMP에 부합하지 않는다고 판단했다. 2022년 11월 30일 회사가 제출한 보관시료 시험 결과에서도 아세트알데하이드·아세탈이 허용 불가 수준으로 확인됐다. 제조시설의 품질보증 기능이 CGMP 요건대로 작동하지 않고 있음을 보여준다는 것이 FDA의 평가다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "핸드새니타이저",
+  "아세트알데하이드·아세탈",
+  "USP 알코올 각조 10 ppm",
+  "완제품 시험 누락",
+  "자진회수",
+  "제조 중단"
+ ],
+ "id": "mohawk-laboratories-division-nch-corporation-635780-01182023",
+ "extractedAt": "2026-09-13T00:15:53Z",
+ "sourceChars": 11833
+}

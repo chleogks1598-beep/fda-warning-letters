@@ -1,0 +1,65 @@
+{
+ "headlineKo": "품질부서 부재·배치기록 전무, 미등재 의약품 유통·전량 리콜",
+ "summaryKo": "FDA는 2022년 7월 26일부터 8월 10일까지 매사추세츠주 Westborough 소재 Atlantic Management Resources Ltd.(dba Claire Ellen Products)의 동종요법 의약품 제조소를 실사했다. 품질부서(QU)와 문서화된 절차가 전혀 없고, 보관조건 관리와 배치제조기록이 부재한 CGMP 위반 3건에 더해, 자사 명의로 유통한 Neuroquell Plus Cream을 FDA에 등재하지 않은 미표시(misbranding) 위반이 지적됐다. 회사의 2022년 8월 17일자 Form FDA 483 답변은 시정조치의 구체성과 근거가 부족해 부적합 판정을 받았다. FDA는 2022년 11월 3일 전화회의에서 유통 중단과 시장 회수를 권고했고, 회사는 11월 5일 생산·유통 중단을 약속한 뒤 11월 21일 전 제품 자발적 전국 리콜을 실시했으며, FDA는 제조 재개 시 21 CFR 211.34 자격 컨설턴트 선임과 6개 시스템 전반 감사를 요구했다.",
+ "inspectionStart": "2022-07-26",
+ "inspectionEnd": "2022-08-10",
+ "facility": "39 Harvey Lane, Westborough, MA 01581-3013, United States",
+ "form483ResponseDate": "2022-08-17",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.22(a) and (d)",
+   "area": "품질시스템",
+   "titleKo": "품질부서 미설치 및 문서화된 절차 전무",
+   "detailKo": "동종요법 의약품 제조를 감독할 책임과 권한을 가진 품질부서(QU)를 설치하지 않았다. 회사는 품질 업무를 규율하는 절차를 포함해 어떠한 문서화된 절차도 없다고 진술했다. 예로 생산 투입 전 원료의 샘플링·검사·시험을 문서화하는 절차가 없었고, 공급자 적격성 평가 프로그램과 완제품 출하·유통 전 시험 체계도 수립하지 않았다. 입고 원료·중간체·완제품의 승인 또는 불합격 판정, 제조 중 관리기준 이행 확인, 제조기록 검토 및 미해명 편차 조사 같은 기본적 품질부서 책임이 이행되지 않았다.",
+   "responseKo": "FDA는 회사의 품질시스템 전반이 부적절하다고 평가하고, CGMP 요구 충족을 위해 'Quality Systems Approach to Pharmaceutical CGMP Regulations' 가이던스를 참고할 것을 안내했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.142(b)",
+   "area": "시설·장비",
+   "titleKo": "온도·습도·광 보관조건 관리 실패",
+   "detailKo": "의약품의 보관·창고관리가 부적절했다. 공급자의 시험성적서(COA)에 해당 벌크 원료가 열·직사광선·수분에 민감하다고 명시되어 있었음에도 온도와 습도를 포함한 보관조건을 모니터링하지 않았다. 회사 스스로도 완제 의약품은 물론 용기·마개의 보관조건이 부적절했음을 인정했다. 보관은 제품의 확인시험·함량·품질·순도가 영향을 받지 않도록 적절한 조건에서 이루어져야 한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.188(b)",
+   "area": "문서·데이터완전성",
+   "titleKo": "배치제조·관리기록 작성 실패",
+   "detailKo": "제조 작업을 문서화하는 배치기록과 관리기록이 없었다. 회사는 배치기록도 배치번호도 존재하지 않는다고 진술했다. 배치기록은 의약품이 적절히 제조·가공·포장·보관되었음을 보증하는 주요 정보를 담아야 한다.",
+   "responseKo": "",
+   "dataIntegrity": true
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(o) / 301(p); 21 CFR 207.41, 207.49(a)(5)",
+   "area": "허가·표시",
+   "titleKo": "미등재 의약품 유통에 따른 미표시 위반",
+   "detailKo": "미국 내 상업 유통을 목적으로 제조·가공된 모든 의약품은 FD&C Act 510(j)(1)에 따라 FDA에 등재해야 한다. Atlantic Management Resources LTD는 자사 명의와 라벨로 Neuroquell Plus Cream을 유통했으나 제조·유통 당시 해당 제품은 FDA에 등재되어 있지 않았다. 또한 2022년 11월 5일 회사가 전 제품 생산·유통 중단을 약속한 뒤에도 기존 등재 품목은 모두 등재 상태로 남아 있었고, 동일 주소의 제조 법인 Atlantic Management Resources Inc.는 2023년 1월 9일 2023년도 등록을 갱신했다. 미표시 의약품의 주간 통상 반입은 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "품질부서 부재",
+  "배치기록 미작성",
+  "보관조건 관리",
+  "의약품 등재 누락",
+  "자발적 전국 리콜",
+  "동종요법 의약품"
+ ],
+ "id": "atlantic-management-resources-ltd-dba-claire-ellen-products-642082-01202023",
+ "extractedAt": "2026-09-13T00:10:52Z",
+ "sourceChars": 11597
+}

@@ -1,0 +1,56 @@
+{
+ "headlineKo": "미생물시험 없이 OTC 제품 출하, 품질부서 기능 부재·미승인 신약",
+ "summaryKo": "FDA는 2022년 5월 23일부터 27일까지 조지아주 Dalton 소재 Kobayashi America Manufacturing, LLC 제조소를 실사했다. 완제품 미생물시험 미실시와 품질부서(QU) 기능 미비 등 CGMP 위반 2건과 함께, \"ZIM'S HYDRO COOLING PAIN RELIEF PATCH\"의 미승인 신약·표시위반이 지적됐다. 회사의 2022년 6월 21일자 Form FDA 483 답변은 알코올 함량으로 미생물이 자라지 않는다는 과학적 근거를 제시하지 못했고, 시판 중 제품에 대한 소급시험과 배치기록 소급검토도 없어 부적절하다고 평가됐다. FDA는 21 CFR 211.34에 따른 컨설턴트 활용을 강력 권고했고, 미개선 시 압류·금지명령, 수출증명서 발급 보류, 신규 허가 보류가 가능하다고 통보했다.",
+ "inspectionStart": "2022-05-23",
+ "inspectionEnd": "2022-05-27",
+ "facility": "Kobayashi America Manufacturing, LLC, 245 Kraft Drive, Dalton, Georgia",
+ "form483ResponseDate": "2022-06-21",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "완제품 미생물시험 없이 OTC 제품 출하",
+   "detailKo": "Zim's Max Freeze Gel, Roll-on, Liquid 등 OTC 의약품을 배치별 미생물 품질시험 없이 출하했다. 예로 Zim's Max Freeze Roll-on 로트 B87695는 2022년 1월 20일 미생물시험 없이 품질부서가 출하 판정했다. 실사 중 품질보증 책임자는 미생물시험이 완제품 출하시험에 포함되어 있지 않다고 진술했다. FDA는 출하 전 및 제품 수명주기 전반의 미생물시험이 필수라고 지적했다.",
+   "responseKo": "회사는 제품의 알코올 함량 때문에 미생물이 증식·생존할 수 없고 시판 제품은 안전하다고 주장했으나, FDA는 이를 뒷받침할 적절한 과학적 근거가 없고 알코올에서 생존·증식하는 미생물이 잘 알려져 있다며 부적절하다고 평가했다. 시판 중 제품에 대한 소급시험 자료도 제출되지 않았다. FDA는 미생물 규격·시험법 목록, 보관검체 소급시험 계획과 결과, 시험법의 독립적 평가, USP <51> 항균력시험 자료 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 감독 책임 미이행",
+   "detailKo": "품질부서(QU)의 역할·책임·권한을 기술한 절차를 수립·준수하지 않았고, 제조 운영에 대한 감독이 미흡했다. OTC 제품 수탁제조소의 제조·관리 기록을 출하·유통 전에 검토하거나 승인하지 않았다. Zim's Max Freeze S 로트 B77086은 (비공개) 용도로 제조됐으나 제조·포장·시험 기록의 검토·승인 없이 (비공개)용으로 재라벨링됐다. 고객 불만 관리 및 조사에 대한 적절한 절차도 수립되지 않았다.",
+   "responseKo": "회사는 배치기록 검토와 불만조사 미비가 품질부서 문서와 세부내용 부족 때문이라고 답했으나, FDA는 시판 중 모든 배치가 확립된 규격대로 제조됐는지 확인하는 소급 검토가 없어 부적절하다고 평가했다. FDA는 품질부서의 권한·자원 확보를 위한 종합 평가·개선계획과 시판 배치 전수 소급검토를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 505(a); 502(ee); 301(d), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 및 표시위반 (외용진통 패치)",
+   "detailKo": "\"ZIM'S HYDRO COOLING PAIN RELIEF PATCH\"는 통증 완화 목적의 표시(포장 및 아마존 등 판매처 웹사이트 문구)로 인해 의약품에 해당한다. 표시 내용은 근육·관절 통증 완화, \"deep penetrating\", \"cooling\" 등 counterirritant(자극대체제) 외용진통제 문구에 해당하나, 실제 성분은 리도카인 4%와 멘톨 1%다. 리도카인은 counterirritant 외용진통제 최종행정명령의 유효성분에 포함되지 않으며, 멘톨도 허용 함량범위 1.25~16%에 미달한다. 따라서 1983년 외용진통제 TFM 기반 최종행정명령 조건에 부합하지 않고, GRASE를 뒷받침하는 적절히 통제된 임상연구도 확인되지 않아 미승인 신약이며 502(ee)에 따라 표시위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "미생물시험 미실시",
+  "품질부서 감독 미흡",
+  "수탁제조소 관리",
+  "미승인 신약",
+  "표시위반",
+  "OTC 외용진통제"
+ ],
+ "id": "kobayashi-healthcare-international-inc-637313-01272023",
+ "extractedAt": "2026-09-13T00:16:51Z",
+ "sourceChars": 17894
+}

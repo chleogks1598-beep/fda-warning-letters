@@ -1,0 +1,74 @@
+{
+ "headlineKo": "세척·성분시험·공정밸리데이션 부재, 품질부서 기능 상실",
+ "summaryKo": "FDA는 2022년 7월 5일~18일 조지아주 Hapeville 소재 Auto-Chlor System LLC의 의약품 제조소를 실사했다. 산업용 세정제와 동일 설비로 손소독제를 제조하고, 에탄올의 메탄올 시험 등 입고 성분시험을 하지 않았으며, 공정 밸리데이션·설비 적격성평가가 없고 품질부서(QU)가 교육·시험·안정성·연간품질평가·OOS 조사 등 전반을 관리하지 못한 4건의 CGMP 위반이 지적됐다. 또한 벤제토늄 클로라이드 함유 HAND KLEEN FOAMING INSTANT HAND SANITIZER는 미승인 신약이자 502(ee) 표시위반으로 판단됐다. 회사의 2022년 8월 8일 Form FDA 483 답변은 시정조치의 구체성과 증거가 부족해 불충분하다고 평가됐고, FDA는 CGMP 컨설턴트 고용을 권고했으며 회사는 이 시설에서의 의약품 생산 중단 및 외부 위탁 방침을 밝혔다.",
+ "inspectionStart": "2022-07-05",
+ "inspectionEnd": "2022-07-18",
+ "facility": "3045 Commerce Way, Hapeville, GA 30354-1240, United States",
+ "form483ResponseDate": "2022-08-08",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.67(b)",
+   "area": "시설·장비",
+   "titleKo": "설비 세척·유지관리 절차 미확립 및 미준수",
+   "detailKo": "회사는 의약품 제조업체로 등록되어 HAND KLEEN FOAMING INSTANT HAND SANITIZER 등 OTC 손소독제(핸드럽)를 제조하면서, 동시에 산업용 세정제 등 비의약품도 생산한다. FDA는 교차오염 위험 때문에 산업용 세정제 등 비의약품 제조에 사용하는 동일 설비로 의약품을 계속 제조하는 것은 CGMP상 용인될 수 없다고 지적했다. 조사관은 의약품 제조설비의 세척·유지관리도 부적절함을 관찰했다. 전용화되지 않은 설비 표면에서 활성성분과 의약품 잔류물이 충분히 제거되지 않으면 이후 제조되는 의약품이 오염될 수 있다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1) 및 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 성분 확인시험 및 공급자 시험성적 검증 미실시",
+   "detailKo": "의약품 제조에 사용하기 전 입고 성분의 확인시험을 하지 않았으며, 여기에는 활성성분으로 사용하는 에탄올의 메탄올 시험 미실시가 포함된다. 순도·함량·품질 등 규격은 적격성이 평가되지 않은 공급자의 시험성적서(COA)에만 의존했다. 또한 의약품 제조용 성분수로 (비공개) 용수를 사용한다고 확인했으나, 해당 용수가 수성 제형 제조에 적합한지, 최소한 USP 정제수 모노그래프와 적절한 미생물 한도를 충족하는지 입증하지 못했고, 조사관에게 해당 용수에 대한 시험을 전혀 수행한 바 없다고 확인했으며 용수 규격·시험·취급에 관한 절차도 없었다. FDA는 메탄올에 오염된 에탄올 사용이 전 세계적으로 치명적 중독 사고를 일으켜 왔음을 지적하며 관련 지침(Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol)을 안내했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "생산·공정관리 절차 및 공정 밸리데이션 부재",
+   "detailKo": "손소독제 제조에 사용하는 공정이 밸리데이션되었음을 입증하지 못했다. 또한 사용 중인 설비에 대해 적격성평가(qualification)를 수행했다는 증거도 제시하지 못했다. FDA는 공정 밸리데이션이 제품 수명주기 전반에 걸쳐 공정 설계의 타당성과 관리상태를 평가하는 활동이며, 성공적인 공정 적격성평가 연구가 상업적 유통 전에 반드시 완료되어야 하고 이후에도 공정 성능과 제품 품질에 대한 지속적 감시가 필요하다고 설명했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질관리부서의 감독 책임 미이행",
+   "detailKo": "품질부서(QU)가 의약품 제조에 대한 적절한 감독을 제공하지 못했다. 구체적으로 직원의 CGMP 교육 및 숙지(21 CFR 211.25(a)), 배치별 출하 전 활성성분의 확인·함량 시험 수행 및 검토(211.165(a)), 배치별 유해미생물 부재 시험(211.165(b)), 적절한 지속적 안정성 프로그램 수립(211.166(a)), 연간 제품 품질평가 수행(211.180(e)), 손소독제에 대한 적절한 배치 관리·제조기록 작성(211.188), 승인된 적절한 절차에 따른 OOS 결과·불만·일탈 등 이상결과에 대한 철저한 조사(211.192)를 보장하지 못했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d) 및 502(ee)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 판매 및 표시위반",
+   "detailKo": "HAND KLEEN FOAMING INSTANT HAND SANITIZER 라벨에는 활성성분 Benzethonium Chloride 0.20% w/w, 용도 \"Antiseptic handwash\", \"For handwashing to decrease bacteria on the skin\", 사용법 \"Apply a small amount to palm · Briskly rub, covering hands with product until dry\" 등이 기재되어 있다. 이 표시는 제품이 소비자용 살균 세정제(wash)이자 핸드럽(rub) 양쪽으로 사용되는 것처럼 나타내나, 벤제토늄 클로라이드는 농도와 무관하게 1994년 TFM상 소비자용 핸드럽의 허용 활성성분이 아니며, 핸드럽 용도로는 OTC Drug Review 평가 대상 자체가 되지 않는다고 판단됐다. 따라서 해당 제품은 표시된 사용조건에서 GRASE로 일반적으로 인정되지 않는 '신약'이며, 승인된 신약신청이 없고 FD&C Act 505G(a)(3)의 무승인 시판 요건도 충족하지 못한다. 아울러 505G 적용 대상 일반의약품이면서 그 요건을 준수하지 않아 502(ee)에 따라 표시위반 상태다. 각주에 따르면 COVID-19 관련 손소독제 임시정책의 제형 요건에도 부합하지 않아 한시적 규제유예 대상이 아니었다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "교차오염·비전용설비",
+  "메탄올 시험",
+  "공정 밸리데이션",
+  "품질부서 감독",
+  "미승인 신약",
+  "손소독제"
+ ],
+ "id": "auto-chlor-system-llc-641808-12202022",
+ "extractedAt": "2026-09-13T00:18:53Z",
+ "sourceChars": 19460
+}
