@@ -1,0 +1,83 @@
+{
+ "headlineKo": "물시스템 미검증·B. cepacia 오염, 조사 부실·QC 부서 기능 마비·COVID-19 미승인 표시",
+ "summaryKo": "FDA는 2021년 3월 1일부터 26일까지 오하이오주 Maumee 소재 Spartan Chemical Company 제조소를 실사하고 CGMP 위반 3건과 미승인 신약·부정표시 위반을 지적했다. 제조용수 시스템의 성능적격성평가(PQ)가 없는 상태로 수성 제제를 생산했고, B. cepacia 및 효모·곰팡이 오염에 대한 조사가 부실했으며, 품질부서는 변경관리·연차품질평가·교육·AET를 수행하지 않았다. FDA 시료분석에서 Lite'n Foamy Lemon Blossom Hand Sanitizer(lot 538756, 유효기한 2023년 1월)에서 B. cepacia complex와 기준을 크게 초과한 TAMC/TYMC가 검출됐고, 2021년 4월 5일자 Form FDA 483 답변은 근본원인과 예방조치가 빠져 부적절하다고 평가됐다. FDA는 회사가 2021년 3월 29일 시작한 8배치 리콜의 범위가 부족하다고 보아 5월 12일 전화회의에서 유효기한 내 모든 수성 제제의 회수를 권고했고(5월 24일 확대), 회사의 의약품 생산 잠정 중단을 확인하며 CGMP 컨설턴트 고용과 재개 전 사전 회의를 요구했다.",
+ "inspectionStart": "2021-03-01",
+ "inspectionEnd": "2021-03-26",
+ "facility": "Spartan Chemical Company, Inc., 1110 Spartan Drive, Maumee, OH 43537, United States",
+ "form483ResponseDate": "2021-04-05",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "제조용수 시스템 미검증 및 공정관리 절차 미비",
+   "detailKo": "제조용수 시스템에 대해 설치적격성평가(IQ)만 수행하고 성능적격성평가(PQ)는 실시하지 않은 채 수성 제제 제조에 그 물을 사용했다. 2020년 7월까지 용수 품질에 대한 정기 시험 프로그램을 운영하지 않았고, 완제품 시험으로 용수 적합성이 보증된다고 잘못 전제했다. 모니터링 프로그램 개시 후에는 용수 시스템에서 미생물 조치한도를 크게 벗어나는 일탈이 확인됐다. 2016년 직전 FDA 실사에서도 동일하게 용수 시스템이 의도된 용도로 적절히 밸리데이션되지 않았다는 지적이 있었고 당시 경영진과 논의된 바 있다.",
+   "responseKo": "회사는 용수 시스템을 대폭 변경했고 (비공개) 작업을 (비공개)까지 완료하겠다고 답했다. 그러나 2016년 실사에서 이미 논의됐음에도 왜 시스템이 적절히 설계·검증되지 않았는지 그 이유를 설명하지 못했고, 향후 감시·조치의 적시성을 보장할 예방조치도 제시하지 않아 부적절하다고 평가됐다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "부적합 결과에 대한 조사 불충분",
+   "detailKo": "부적합 결과 조사가 근본원인을 규명하지 못했고, 이미 출하된 배치에 대한 영향 평가와 적절한 CAPA가 없었다. 2020년 9월 15일 여러 손소독제 로트의 미생물 계수 부적합에 대해 조사(CAR 09152020QCU)를 개시했으나, 위탁시험실에서 B. cepacia가 동정되고 효모·곰팡이가 허용 수준을 초과했음을 알고도 해당 유해미생물을 특정해 다루지 않았고 근본원인 규명도 미흡했으며 재발방지 조치도 불충분했다. 2020년 9월 21일 이후 제조에 사용되는 분배 포트에서 미생물 한도를 초과하는 용수 모니터링 부적합이 반복 발생했으나 조사가 통상적으로 이뤄지지 않았다. 시정조치 절차(SOP.002.011.001)에는 근본원인 규명·효과성 확인 조항이 미비했고 예방조치 관련 절차도 부재했다.",
+   "responseKo": "회사는 용수 시험 한도를 설명하고 관련 절차·서식을 개정 중이라고 답했다. 그러나 용수 부적합에 대해 왜 조사를 개시하지 않았는지 설명이 없고, 과거 조사 누락에 대한 회고적 분석과 시스템 전반의 개선안이 빠져 있어 부적절하다고 평가됐다. FDA는 일탈·OOS·불만 조사 시스템과 CAPA 프로그램에 대한 독립적 평가와 개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 감독 책임 미이행",
+   "detailKo": "품질부서가 제조 전반에 대한 적절한 감독을 하지 않았고 절차를 수립·준수하지 못했다. 변경관리를 위한 적절한 절차와 공식 체계가 없었으며, 2010년 3월 22일 제정된 (비공개) 제품 평가 절차는 제정 이후 단 한 번도 수행되지 않았다. 직원 (비공개)명의 교육기록 검토 결과 전원이 교육을 완전히 이수하지 않은 것으로 확인됐다. 2020년 9월 21일부터 위탁시험실을 통해 용수 및 완제품 평판계수 시험을 시작하면서 TAMC·TYMC 적합성 및 밸리데이션 시험은 의뢰했으나 B. cepacia 적합성 시험은 의뢰하지 않았고, 클로록실레놀 함유 제품에 대해 항균효력시험(AET)을 실시하지 않았다. FDA는 Bcc가 벤잘코늄염화물 제제 등 스트레스 환경에서 배양되지 않은 채 생존하다가 유효기한 후반에 증식할 수 있다고 지적하며, 출하시험은 합격했던 lot 538756이 이후 위탁시험실과 FDA 시험에서 Bcc 및 총균수 부적합으로 나온 사례를 들었다.",
+   "responseKo": "회사는 관련 절차 제·개정, 유지관리 및 교육 프로그램 강화, 시험실 결함 조치를 진행 중이라고 답했으나, 이러한 실패를 초래한 품질부서의 근본적 결함을 다루지 않았다. 이번 실사에서 다루지 않은 다른 제조 업무에 미친 영향 평가도 없었고, 결함 범위 검토와 체계적 개선 증거를 제시하지 못해 부적절하다고 평가됐다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 501(a)(2)(A)",
+   "area": "시험·QC",
+   "titleKo": "완제품에서 B. cepacia complex 등 미생물 오염 검출",
+   "detailKo": "실사 중 FDA 조사관이 수거한 시료(FDA Sample number 1148361, Lite'n Foamy Lemon Blossom Hand Sanitizer lot 538756, 유효기한 2023년 1월, 1갤런 용기 3개 부시료)에서 FDA 시험실이 B. cepacia complex를 검출했다. 3개 부시료 모두에서 TAMC·TYMC가 회사 완제품 규격 (비공개) CFU/mL을 크게 초과하는 높은 수준으로 검출됐으며(개별 수치는 비공개), 회사가 병행 수거한 시료에 대한 위탁시험실 결과도 유사했다. 회사는 2020년 7월 1일에도 위탁시험실에서 B. cepacia complex와 효모·곰팡이 오염이 확인돼 10개 배치를 리콜한 전력이 있고, FDA는 2020년 8월 3일 이를 대중에 공지했다.",
+   "responseKo": "회사는 2021년 3월 29일 8개 배치 리콜을 개시했으나 FDA는 그 범위에 동의하지 않았고, 2021년 5월 12일 전화회의에서 유효기한 내 모든 수성 제제의 회수를 권고했으며 회사는 5월 24일 리콜을 확대했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 5,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "COVID-19 효능 표방 미승인 신약 판매",
+   "detailKo": "FDA는 2021년 10월 8일 회사 웹사이트(spartanchemical.com)와 foamyiQ·Lite'n Foamy 제품 포장 표시를 검토했다. foamyiQ Lemon Blossom Hand Sanitizer(4604), Lite'n Foamy Lemon Blossom Hand Sanitizer(3338), foamyiQ Eucalyptus Mint Sanitizing Handwash(4603), Lite'n Foamy Eucalyptus Mint Sanitizing Handwash(3337), foamyiQ Healthcare Personnel Handwash(4605), Lite'n Foamy Healthcare Personnel Handwash(3341)에 대해 COVID-19 및 2019-nCoV 예방·확산 차단을 시사하는 표현과 \"FDA에 등록·승인된 제품\"이라는 문구를 사용했다. 이들 성분(벤잘코늄염화물, 클로록실레놀 등)은 소비자용·의료용 항균제로서 Category III로 분류돼 GRASE로 인정되지 않으며, 1994년 TFM 등 어떤 모노그래프 조건에도 부합하지 않아 505G(a)(3)의 무허가 판매 요건을 충족하지 못한다. 승인된 신약 신청이 없어 미승인 신약에 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 6,
+   "cfr": "FD&C Act 502(a), 502(ee)",
+   "area": "허가·표시",
+   "titleKo": "허위·오인 표시로 인한 부정표시",
+   "detailKo": "해당 소비자용·의료용 항균 제품의 표시가 FDA에 등록되고 승인된 제품인 것처럼 허위로 표시해 502(a)에 따른 부정표시에 해당한다. 회사 제품은 FDA 승인 신청의 대상이 아니며, 21 CFR Part 207에 따른 등록·품목신고 사실을 승인으로 표현하는 것은 허위 또는 오인의 소지가 있다. 또한 505G의 적용을 받는 비처방의약품이면서 그 요건을 충족하지 않고 505조에 따른 승인도 없어 502(ee)에 따른 부정표시에도 해당한다. 이들 제품의 주간 거래 반입은 FD&C Act 301(a) 및 (d)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": true,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "제조용수 밸리데이션",
+  "B. cepacia complex 오염",
+  "일탈조사·CAPA",
+  "품질부서 감독",
+  "항균효력시험(AET)",
+  "COVID-19 미승인 표방"
+ ],
+ "id": "spartan-chemical-company-inc-614450-12152021",
+ "extractedAt": "2026-09-13T16:04:18Z",
+ "sourceChars": 38477
+}

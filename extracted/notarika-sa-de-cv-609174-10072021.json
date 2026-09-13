@@ -1,0 +1,56 @@
+{
+ "headlineKo": "손소독제 에탄올 0%·메탄올 54% 검출, 미승인·표시위반",
+ "summaryKo": "FDA는 미국 수입 시도 중 국경에서 억류·수입거부된 Greenfrog HAND SANITIZER 배치를 실험실 시험한 결과, 라벨상 에탄올 70% 제품에서 에탄올이 0%이고 메탄올이 평균 54%(v/v) 검출됐음을 확인했다. 이는 활성성분이 전부 또는 일부 메탄올로 대체된 것으로 FD&C Act 501(d)(2) 위반이며, 동시에 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여 501(a)(2)(B) 위반에 해당한다. 또한 이 제품은 승인 없이 유통된 미승인 신약(505(a))이자, 메탄올 미표시·Drug Facts 누락·경고문 누락·생수병 유사 용기 등으로 502(j)·(a)·(e)·(c)·(f)(2)·(i)·(ee) 표시위반 제품으로 판단됐다. FDA는 2020년 8월 3일 공개 경고를 게시하고 2020년 8월 11일 해당 업체의 전 의약품을 Import Alert 66-78에 등재했으며, 미국 시장 재진입을 원할 경우 CGMP 적격 컨설턴트 고용과 규제회의(Regulatory Meeting) 요청을 권고했다. 제품 전량이 국경에서 거부돼 미국에 들어오지 않았으므로 회수는 권고하지 않았다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Prolongación 5 de Mayo 35, Col. Parque Industrial, 55370 Naucalpan, Exo de Mexico",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(d)(2), 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "에탄올을 메탄올로 대체한 위조 손소독제",
+   "detailKo": "Greenfrog HAND SANITIZER는 활성성분 에탄올 70%(v/v) 함유로 표시됐으나, 국경에서 억류된 배치에 대한 FDA 실험실 시험 결과 에탄올 평균 0%, 메탄올 54%(v/v)가 검출됐다. 메탄올은 피부 접촉이나 섭취 시 위험한 물질로 피부염, 경피 흡수에 따른 전신 독성, 구역·구토·두통·시야 흐림·영구 실명·경련·혼수·신경계 영구 손상 또는 사망을 일으킬 수 있어 손소독제에 사용할 수 없는 성분이다. FDA는 이러한 성분 대체가 해당 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 입증한다고 판단했다. FDA는 2020년 8월 3일 자사 웹사이트를 통해 해당 제품의 메탄올 오염 사실을 대중에게 알렸다.",
+   "responseKo": "회사는 Greenfrog HAND SANITIZER를 미국으로 선적한 적이 없다고 FDA에 통보했으나, FDA는 다른 업체가 제품을 구매해 미국으로 유통할 가능성을 우려해 목적지 국가와 무관하게 제조·유통한 전 로트 목록, 원료 및 공급자 목록, 배치기록 사본, 대체 경위에 대한 상세 조사를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 주간 상거래 유통",
+   "detailKo": "Greenfrog HAND SANITIZER는 소비자용 국소 살균제로 의도된 FD&C Act 201(g)(1)(B)·(C)상의 \"의약품\"이며, 라벨의 \"HAND SANITIZER … Put enough product on hands to cover all surfaces. Rub hands together, until hands feel dry.\" 문구가 의도된 용도를 뒷받침한다. 표시된 사용조건에서 GRASE로 일반적으로 인정되지 않으므로 201(p)상 \"신약\"에 해당하나, 승인된 신약신청서가 없다. 실제 에탄올 함량 0%는 1994 TFM이 제시한 알코올 60~95%(v/v) 조건에 맞지 않고, 메탄올은 TFM에도 COVID-19 임시정책 가이던스의 처방에도 포함되지 않으며 21 CFR 330.1(e)의 안전·적합한 비활성성분 요건도 충족하지 못해 505G(a)(3)에 따른 승인 없는 판매 조건을 충족하지 못한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(j), 502(a), 502(e)(1)(A), 502(c), 502(f)(2), 502(i)(1), 502(ee); 21 CFR 201.66, 330.1(g)",
+   "area": "허가·표시",
+   "titleKo": "표시위반(부정표시) 다수 항목 해당",
+   "detailKo": "라벨대로 손소독제로 사용할 경우 메탄올의 전신 흡수로 실명·영구 신경계 손상·사망에 이를 수 있어 건강에 위험하므로 502(j) 위반이다. 알코올 70% 표시와 달리 실제 에탄올 함량이 낮고 미표시 메탄올이 상당 농도 함유돼 라벨이 거짓·오도하므로 502(a) 및 메탄올 미기재로 502(e)(1)(A) 위반이다. 21 CFR 201.66의 Drug Facts 패널이 없고 활성·비활성 성분을 구분 기재하지 않아 502(c) 위반이며, 21 CFR 330.1(g)가 요구하는 \"If swallowed, get medical help or contact a Poison Control Center right away.\" 경고문이 없어 502(f)(2) 위반이다. 또한 미국 소비자가 통상 사용하는 생수병과 유사한 33.8 fl oz 투명 플라스틱 용기에 무색 제품을 담아 용기가 오인을 유발하므로 502(i)(1) 위반이고, 505G 요건을 충족하지 못한 비처방 의약품이므로 502(ee) 위반이다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2020-08-11)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "메탄올 오염",
+  "활성성분 대체",
+  "손소독제",
+  "미승인 신약",
+  "표시위반",
+  "수입경보 66-78"
+ ],
+ "id": "notarika-sa-de-cv-609174-10072021",
+ "extractedAt": "2026-09-13T16:07:42Z",
+ "sourceChars": 21081
+}

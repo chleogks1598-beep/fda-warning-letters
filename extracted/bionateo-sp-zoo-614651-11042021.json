@@ -1,0 +1,56 @@
+{
+ "headlineKo": "손소독제 메탄올 2,500ppm 검출·이소프로판올 미표기, 수입경보 등재",
+ "summaryKo": "폴란드 Bionateo Sp. z.o.o.가 제조한 것으로 등재된 소비자용 손소독제 ALTAIO HAND SANITIZING GEL이 미국 수입 시 국경에서 유치·반입 거부됐고, FDA 시험 결과 메탄올 625~2,500ppm과 미표시 이소프로판올 약 0.88%(v/v)가 검출됐다. 라벨상 에탄올 80%와 달리 실제 에탄올 농도는 이에 미치지 못했으며, FDA는 이를 CGMP 품질보증 기능 부재에 따른 501(a)(2)(B) 변조로 판단하고 미승인 신약·502(j)(a)(e)(x)(ee) 표시위반도 함께 적용했다. 2021년 4월 22일 화상회의 이후 FDA가 원료 및 완제품 시험법·역가 결과를 여러 차례 요구했으나 회사는 충분한 답변과 기한을 반복적으로 지키지 않았다. FDA는 2021년 5월 26일 소비자 경고를 공지하고 2021년 6월 7일 이 회사의 전 제품을 Import Alert 66-78에 등재했으며, 미국 시장 재개를 원할 경우 CGMP 컨설턴트 활용과 규제회의(Regulatory Meeting) 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Bionateo Sp. z.o.o, Ul. Chocimska 6, Kalisz, Wielkopolskie, Poland",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "손소독제 메탄올·이소프로판올 오염으로 품질보증 기능 부재",
+   "detailKo": "라벨에 에탄올 80%(v/v) 함유로 표시된 ALTAIO HAND SANITIZING GEL은 미국 반입 시도 중 국경에서 유치·반입 거부됐다. FDA 실험실이 유치된 배치를 시험한 결과 메탄올 불순물이 625ppm~2,500ppm 수준으로 검출됐고, 미표시 이소프로판올도 약 0.88%(v/v) 확인됐다. 메탄올은 손소독제에 허용되지 않는 성분으로 피부 노출 시 피부염과 경피 흡수에 의한 전신 독성을 일으키며, 다량 노출 시 구역·구토·두통·시야 흐림·영구 실명·경련·혼수·신경계 영구 손상 또는 사망에 이를 수 있다. 특히 실수로 삼키는 어린이와 에탄올 대용으로 마시는 청소년·성인이 메탄올 중독 위험이 크다. FDA는 2021년 5월 26일 해당 오염 사실을 웹사이트를 통해 공개 공지했다.",
+   "responseKo": "2021년 4월 22일 FDA가 회사 및 미국 대리인 Magic Play LLC와 전화회의를 열어 원료 에탄올 및 완제품 시험법 등 CGMP 운영 정보를 요청했고 이후에도 여러 차례 추가 자료를 요구했으나, 회사는 역가 결과와 구체적 시험법 등 요청 자료를 제출하지 않고 기한도 지키지 않는 행태를 반복했다. FDA는 이러한 시험 및 문서화가 21 CFR 211.165에 따라 요구되는 사항임을 지적했다. 회신 시 오염 경위 조사, 원료·공급자 목록, 미국 출하 배치 전량 대조, 배치기록 사본, 독립적 시험실 종합평가 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a), 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약을 주간 거래에 유통",
+   "detailKo": "ALTAIO HAND SANITIZING GEL은 라벨에 \"Drug Facts…Purpose: Antiseptic…Hand Sanitizer to help reduce bacteria that potentially can cause disease\", \"Directions…Place enough product on hands to cover all surfaces. Rub hands together until dry\" 등의 표시가 있어 FD&C Act 201(g)(1)(B)·(C)상 '의약품'이며 소비자용 국소 소독제로 의도됐다. 표시된 사용조건에서 일반적으로 안전·유효(GRASE)하다고 인정되지 않으므로 201(p)상 '신약'에 해당하나, 승인된 신약 신청이 존재하지 않는다. 1994년 TFM 및 2016년 소비자 소독제 러브 제안규칙의 조건에도 부합하지 않아 505G(a)(3)에 따른 무승인 판매 요건도 충족하지 못한다. 메탄올은 1994 TFM에도, COVID-19 임시정책 가이던스의 처방에도 포함되지 않으며 21 CFR 330.1(e)상 안전·적합한 비활성 성분 요건도 충족하지 못한다. 아울러 해당 제품은 젤 제형이어서 FDA 임시정책의 적용 대상이 아니다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(j), (a), (e), (x), (ee); 301(a)",
+   "area": "허가·표시",
+   "titleKo": "허위·불완전 표시로 인한 표시위반",
+   "detailKo": "502(j) 위반: 메탄올 함유 제품을 라벨대로 손소독제로 사용할 경우 경피 흡수에 의한 실명·영구 신경계 손상·사망까지 초래할 수 있어 건강에 위험하다. 502(a) 위반: 라벨은 에탄올 80% 함유를 표방하나 실제 에탄올 농도는 80% 미만(1994 TFM 허용범위 이상)이었고, 이소프로필알코올과 메탄올은 라벨에 표시되지 않아 표시가 허위·오인 소지가 있다. 502(e)(1)(A) 위반: 이소프로필알코올과 메탄올을 성분으로 기재하지 않았다. 502(x) 위반: 중대한 이상사례 보고를 받을 책임자의 완전한 국내 주소나 국내 전화번호를 라벨에 기재하지 않았다. 502(ee) 위반: 505G 적용 대상 일반의약품이나 해당 요건을 충족하지 못하고 505조 승인도 없다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-06-07)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "메탄올 오염",
+  "손소독제",
+  "미승인 신약",
+  "표시위반",
+  "수입경보 66-78",
+  "시험법 미제출"
+ ],
+ "id": "bionateo-sp-zoo-614651-11042021",
+ "extractedAt": "2026-09-13T16:05:09Z",
+ "sourceChars": 19369
+}

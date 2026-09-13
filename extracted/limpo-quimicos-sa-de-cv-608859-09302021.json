@@ -1,0 +1,56 @@
+{
+ "headlineKo": "핸드새니타이저 에탄올을 메탄올로 대체·함량미달, 수입경보 66-78",
+ "summaryKo": "FDA는 Limpo Quimicos(멕시코 General Escobedo 소재, FEI 3016628153)에서 제조된 것으로 표시된 소비자용 핸드새니타이저 Andy's Best ADVANCED HAND SANITIZER와 NeoNatural gel Hand Sanitizer를 국경에서 압류·수입거부하고 FDA 시험실에서 시험했다. 에탄올 70% v/v로 표시된 Andy's Best는 에탄올이 평균 1.0~1.2%에 불과하고 메탄올이 평균 63~66% 검출되어 성분 대체(501(d)(2))로, NeoNatural gel은 에탄올이 평균 32%에 그쳐 함량미달(501(c))로 판정됐으며, 이는 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다(501(a)(2)(B)). 또한 두 제품 모두 승인되지 않은 신약이자 표시위반(Andy's Best는 502(j)·(a)·(e)·(ee), NeoNatural은 502(a)·(ee)) 제품이다. FDA는 2020년 7월 8일 전화회의에서 미국 내 유통 제품의 회수를 권고하고 같은 날 대중에 메탄올 오염을 공지했으나, 회사는 메탄올 시험결과를 제출하지 않았고 2020년 5월 19일 이후 미국 반입이 없다는 주장도 FDA 기록과 배치되며 본 서한 시점까지 시장조치를 취하지 않았다. FDA는 2020년 7월 15일 수입경보 66-78에 등재했고 CGMP 컨설턴트 고용과 재개 희망 시 규제회의 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Limpo Quimicos S.A. de C.V., Privada Jose Silvestre Aramberri No. 149, Col. Solidaridad, General Escobedo, Nuevo León, Mexico",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(d)(2) / 501(c) / 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "활성성분 메탄올 대체 및 에탄올 함량미달",
+   "detailKo": "에탄올 70% v/v 함유로 표시된 Andy's Best ADVANCED HAND SANITIZER의 국경 압류 배치를 FDA가 시험한 결과 에탄올 평균 1.1%·메탄올 평균 63%, 에탄올 평균 1.2%·메탄올 평균 66%, 에탄올 평균 1.0%·메탄올 평균 63%로 확인되어 활성성분 에탄올이 전부 또는 일부 메탄올로 대체됐다(501(d)(2)). 메탄올은 피부 접촉이나 섭취 시 위험한 물질로 피부염, 경피흡수에 의한 전신독성, 구역·구토·두통·시야흐림·영구실명·경련·혼수·신경계 영구손상 또는 사망을 유발할 수 있다. 동일하게 에탄올 70% v/v로 표시된 NeoNatural gel Hand Sanitizer는 에탄올이 평균 32% v/v에 불과해 표시 함량보다 낮아 501(c)에 따라 불량의약품에 해당한다. CDC와 1994년 TFM은 알코올(에탄올) 60% 이상을 권고·규정하고 있다. 이러한 대체와 함량미달은 시설의 품질보증이 CGMP에 따라 작동하지 않음을 보여준다(501(a)(2)(B)).",
+   "responseKo": "회사는 2020년 7월 7일 통지에서 Andy's Best 제조와 관련해 조사와 시정조치에 착수했다고 밝혔으나 이를 뒷받침할 충분한 증거를 제출하지 않았다. 2020년 7월 23일에는 2020년 5월 19일 이전 미국 수출 제품에 메탄올 오염 시험결과가 없으며 그 이후 미국에 반입된 것도 없다고 주장했으나, 메탄올 시험결과를 제출하지 않았고 FDA 기록상 5월 19일 이후에도 제품 선적이 미국에 반입됐다. 서한일 현재까지 유통된 전 제품에 대한 시장조치를 취하지 않았으며, FDA는 메탄올 대체와 32% 에탄올 원인에 대한 상세조사, 원료·공급자 목록, 미국 선적 전 배치 목록과 물량 조정, 완전한 배치기록 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a) / 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약을 주간거래에 도입",
+   "detailKo": "두 제품은 라벨에 \"Use Hand Sanitizer to help reduce bacteria on skin\" 등의 표시가 있어 소비자용 국소 살균제로 의도된 의약품(201(g)(1)(B)·(C))에 해당한다. 두 제품은 라벨에 제시된 조건에서 일반적으로 안전하고 유효하다고 인정되지 않아(GRASE 아님) 신약이며, 승인된 신약신청도 없고 이를 뒷받침할 적절한 임상시험 문헌도 확인되지 않는다. 표시된 에탄올 70%에 미달하는 실제 함량과 Andy's Best의 메탄올 함유는 1994년 TFM(2016년 소비자용 살균제 제안규칙으로 개정) 및 COVID-19 한시정책상 처방과도 부합하지 않아 505G(a)(3)에 따른 무승인 판매 조건을 충족하지 못한다. 메탄올은 독성이 있어 21 CFR 330.1(e)의 안전하고 적합한 비활성성분 요건도 충족하지 못한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(j), 502(a), 502(e)(1)(A), 502(ee) / 301(a)",
+   "area": "허가·표시",
+   "titleKo": "표시위반 — 허위·오도 라벨 및 성분 미기재",
+   "detailKo": "Andy's Best ADVANCED HAND SANITIZER는 라벨대로 손소독제로 사용할 때 건강에 위험하므로 502(j) 위반이다. 또한 에탄올 70% v/v로 표시했으나 실제 에탄올 농도는 표시보다 낮고 라벨에 기재되지 않은 메탄올이 상당 농도로 함유되어 라벨이 허위·오도에 해당해 502(a) 위반이며, 메탄올을 성분으로 기재하지 않아 502(e)(1)(A) 위반이다. NeoNatural gel Hand Sanitizer도 에탄올 70% v/v 표시와 달리 실제 농도가 훨씬 낮아 502(a) 위반이다. 두 제품 모두 505G 적용 대상 일반의약품이면서 해당 조항의 판매 요건을 충족하지 못하고 505조 승인신청도 없어 502(ee) 위반이며, 표시위반 의약품의 주간거래 도입은 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2020-07-15)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "메탄올 오염",
+  "활성성분 대체",
+  "함량미달",
+  "핸드새니타이저",
+  "미승인 신약",
+  "수입경보 66-78"
+ ],
+ "id": "limpo-quimicos-sa-de-cv-608859-09302021",
+ "extractedAt": "2026-09-13T16:08:53Z",
+ "sourceChars": 23726
+}

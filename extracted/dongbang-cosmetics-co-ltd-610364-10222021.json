@@ -1,0 +1,47 @@
+{
+ "headlineKo": "손소독제 에탄올 함량 미달(62%→55%), 무허가·표시위반 및 자료제출 불응",
+ "summaryKo": "FDA는 미국 수입 시 통관 보류·거부된 DongBang Cosmetics(인천 서구, FEI 3013677509) 제조 MISSY KAY Premium Hand Sanitizer 배치를 자체 실험실에서 시험했고, 현장 실사가 아닌 제품 시험과 서면 질의를 근거로 본 경고서한을 발부했다. 표시상 에탄올 62% w/w 제품에서 평균 55% w/w만 검출되어 FD&C Act 501(c) 및 501(a)(2)(B) 위반(품질보증 기능 미작동)으로 판단했고, 무허가 신약(505(a)) 및 502(a)·(c)·(x)·(ee) 표시위반도 함께 지적했다. 2020년 10월 14일 전화회의와 2021년 1월 19일 질의에 대해 회사는 의약품 CGMP가 아닌 화장품 CGMP 문서를 제출하고 완제품 시험법·분석절차·불순물·안정성 자료를 제출하지 않는 등 반복적으로 불충분한 답변을 했다. FDA는 2021년 1월 11일 이 회사의 모든 의약품을 Import Alert 66-78에 등재했고, 미국 시장 재개를 원할 경우 21 CFR 211.34 자격을 갖춘 CGMP 컨설턴트 고용을 강력 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "DongBang Cosmetics Co., Ltd., 39 Gajaeullo-Ro, 32 Beon-Gil, Seo-Gu, Incheon, South Korea",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c); FD&C Act 501(a)(2)(B); 21 CFR 211.84; 21 CFR 211.165",
+   "area": "시험·QC",
+   "titleKo": "유효성분 함량 미달 및 완제품·원료 시험 미비",
+   "detailKo": "MISSY KAY Premium Hand Sanitizer는 유효성분 에탄올 62% w/w 함유로 표시되었으나, 국경에서 보류된 배치에 대한 FDA 실험실 시험 결과 평균 55% w/w만 검출되었다. 이는 CDC 권고 및 1994년 Tentative Final Monograph(59 FR 31402, 81 FR 42912로 개정)가 정한 최소 60% 에탄올 기준에도 미달한다. 표시 함량보다 낮은 유효성분 함량으로 제품은 501(c)에 따라 불량의약품(adulterated)에 해당한다. 또한 회사는 완제품 시험법·분석절차·불순물시험·안정성 자료를 전혀 제출하지 못했으며, 21 CFR 211.84(원료 입고시험) 및 211.165(완제품 시험) 요건을 충족하지 못해 확인시험·함량·품질·순도 규격 적합성을 보증할 수 없다.",
+   "responseKo": "2020년 10월 14일 전화회의에서 FDA가 완제품 시험법, 원료약품 공급자 정보, 21 CFR Parts 210·211 준수 확인, 함량미달 배치 조사결과를 요청했고 이후 여러 차례 추가 요청을 보냈으나, 회사는 적절하거나 완전한 답변을 제출하지 않는 패턴을 보였다. 특히 의약품 CGMP와 동등하지 않은 화장품 CGMP 문서를 제출했다. FDA는 함량미달 사실과 자료 제출 미흡을 근거로 시설의 품질보증 기능이 CGMP에 따라 작동하지 않는다고 판단하고, 2021년 1월 19일자 질의 전체에 대한 완전한 답변(함량미달 원인 조사, 원료·공급자 목록, 미국 출하 배치 목록 및 물량 대사, 전 배치기록 사본)을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a); 301(d); 502(a), (c), (x), (ee); 21 CFR 201.15(c)(2)",
+   "area": "허가·표시",
+   "titleKo": "무허가 신약 및 표시위반(misbranding)",
+   "detailKo": "MISSY KAY Premium Hand Sanitizer는 \"물 없이 손과 피부를 살균·소독한다\", \"Antiseptic … 피부의 세균 감소\" 등 라벨 표시로 보아 FD&C Act 201(g)(1)(B)·(C)상 의약품이며, GRASE로 인정되지 않아 201(p)상 신약에 해당하나 승인된 신약허가가 없어 505(a)·301(d) 위반이다. 에탄올은 소비자용 antiseptic rub에서 Category III로 분류되어 있어 505G(a)(3)에 따라 해당 TFM 조건(에탄올 농도 포함)에 적합해야 하나, 표시 62% v/v 대비 실측 농도가 낮아 1994 TFM 및 COVID-19 한시적 정책 가이던스의 처방과도 불일치한다. 표시 함량과 실제 함량이 달라 라벨이 허위·오도이므로 502(a) 위반이고, 제품명은 한국어와 영어로 되어 있으나 법정 기재사항이 영어로만 표시되어 21 CFR 201.15(c)(2) 위반으로 502(c)에도 해당한다. 또한 중대이상사례 보고를 받을 수 있는 미국 내 완전한 주소나 전화번호를 표시하지 않아 502(x), 505G 요건 미준수로 502(ee) 위반이다. FDA는 \"disinfects\"라는 표현이 무생물 표면용 소독제를 연상시켜 소비자에게 혼동을 줄 수 있다고도 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-01-11)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "손소독제 함량미달",
+  "무허가 신약",
+  "표시위반(misbranding)",
+  "완제품·원료 시험 미비",
+  "수입경보 66-78",
+  "자료 제출 불응"
+ ],
+ "id": "dongbang-cosmetics-co-ltd-610364-10222021",
+ "extractedAt": "2026-09-13T16:05:42Z",
+ "sourceChars": 19660
+}

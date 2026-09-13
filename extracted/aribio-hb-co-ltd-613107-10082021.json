@@ -1,0 +1,65 @@
+{
+ "headlineKo": "핸드새니타이저 에탄올 70% 표시에 실측 58% 역가미달·부정표시",
+ "summaryKo": "FDA는 현장 실사 없이, 미국 수입 시 국경에서 억류·반입 거부된 AriBio H&B(충북 제천 소재)의 Hand Sanitizer Original 배치를 자체 실험실에서 시험했다. 표시된 에탄올 70% w/v에 크게 못 미치는 평균 58% w/v가 검출돼 FD&C Act 501(c) 위반(역가 미달)으로 판정됐고, 2020년 11월 20일 화상회의에서 FDA가 요청한 CGMP 자료 중 메탄올 함량 시험법 문서와 에탄올 함량 시험법의 과학적 근거를 제출하지 못해 입고 원료 시험(21 CFR 211.84)이 미흡한 것으로 지적됐다. 또한 라벨에 'Dietary Supplement' 표기로 오인을 유발하고(502(a)), 중대이상사례 신고용 미국 내 주소·전화번호를 표시하지 않아(502(x)) 부정표시로 판단됐다. FDA는 2021년 3월 4일 이 회사의 모든 의약품을 수입경보 66-78에 등재했으며, CGMP 컨설턴트 고용과 향후 미국 시장 재진입 시 규제회의(Regulatory Meeting) 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "AriBio H&B Co., Ltd., 77, Hanbangexpo-ro5-gil, Jecheon-si, Chungcheongbuk-do 27116, South Korea",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c); 21 U.S.C. 351(c)",
+   "area": "시험·QC",
+   "titleKo": "표시 함량 대비 에탄올 역가 미달",
+   "detailKo": "Hand Sanitizer Original은 활성성분 무수에탄올 70% w/v 함유로 표시돼 있었다. 그러나 국경에서 억류된 해당 제품 배치에 대한 FDA 실험실 시험 결과 평균 58% w/v의 에탄올만 검출됐다. 이는 CDC가 권고하고 1994년 Tentative Final Monograph(59 FR 31402)에서 정한 최소 유효농도 60%에도 미달한다. 따라서 표시된 함량보다 낮은 수준의 활성성분이 존재해 FD&C Act 501(c)에 따라 불량의약품에 해당한다.",
+   "responseKo": "FDA는 이 서한에 대해 70% 표시 제품이 실제 평균 58% 에탄올을 함유하게 된 경위에 대한 상세 후속 조사, 원료 목록 및 공급자 정보, 미국 출하 전 배치 목록과 수불 대조, 전체 배치기록 사본, 메탄올 함량 시험법 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84; FD&C Act 501(a)(2)(B)",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료 시험 미흡 및 품질보증 기능 부재",
+   "detailKo": "2020년 11월 20일 FDA는 회사와 화상회의를 열어 완제의약품 시험법, 활성성분 공급자 정보, 21 CFR Part 210·211 CGMP 준수 확인서, FDA가 시험한 역가미달 배치에 대한 조사 결과 등 CGMP 운영 관련 추가 정보를 요청했다. 회사는 완제 핸드새니타이저 출하 시험법에 대한 설명은 제출했으나, 자사 또는 공급자가 사용하는 메탄올 함량 시험법에 대한 문서나 에탄올 함량 시험법의 과학적 근거는 전혀 제출하지 않았다. 21 CFR 211.84가 요구하는 입고 원료의 적절한 시험 없이는 제품이 확인시험·함량·품질·순도의 적합 기준에 부합함을 보증할 수 없다. 역가 미달과 이러한 자료 제출 미비는 시설 내 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다.",
+   "responseKo": "FDA는 회사가 제출한 답변이 메탄올 시험법 문서와 에탄올 시험법의 과학적 근거를 결여해 불충분하다고 평가했다. 또한 해당 제품은 표시된 처방 구성상 COVID-19 한시적 정책(Temporary Policy)의 적용 대상에도 해당하지 않는다고 판단했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(a); 21 U.S.C. 352(a)",
+   "area": "허가·표시",
+   "titleKo": "건강기능식품으로 오인시키는 허위·오인 표시",
+   "detailKo": "Hand Sanitizer Original은 'Purpose: Antiseptic', 'Uses: Hand sanitizer to decrease bacteria on the skin that could cause disease' 등의 표시로 소비자용 국소 살균제로서 FD&C Act 201(g)(1)(B)·(C)상 '의약품'에 해당한다. 그럼에도 라벨에는 'REDLAB Korea NO1 Dietary Supplement', 'H&B aribio Korea NO1 Dietary Supplement'라는 문구가 있어 이 제품이 건강기능식품인 것처럼 암시한다. 그러나 라벨의 용도·용법란은 이 제품이 섭취용이 아니라 국소 살균용임을 나타내며, 건강기능식품은 정의상 섭취를 목적으로 해야 하므로(201(ff)(2)(A)(i)) 해당 표시는 허위 또는 오인을 유발한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 4,
+   "cfr": "FD&C Act 502(x); 21 U.S.C. 352(x)",
+   "area": "허가·표시",
+   "titleKo": "중대이상사례 신고용 미국 내 연락처 미표시",
+   "detailKo": "제품 라벨에 책임자가 해당 의약품의 중대이상사례(serious adverse event) 보고를 접수할 수 있는 미국 내 주소 또는 미국 내 전화번호가 표시돼 있지 않다. 이에 따라 FD&C Act 502(x)에 의한 부정표시 의약품에 해당한다. 부정표시 의약품을 주간(州間) 거래에 도입하거나 도입을 위해 인도하는 행위는 301(a)에 따라 금지된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-03-04)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "핸드새니타이저 역가미달",
+  "에탄올 함량시험",
+  "원료 입고시험",
+  "메탄올 시험법",
+  "부정표시",
+  "수입경보 66-78"
+ ],
+ "id": "aribio-hb-co-ltd-613107-10082021",
+ "extractedAt": "2026-09-13T16:06:45Z",
+ "sourceChars": 12346
+}

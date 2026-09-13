@@ -1,0 +1,47 @@
+{
+ "headlineKo": "손소독제 에탄올 함량 미달(75%→35%), 미승인·허위표시",
+ "summaryKo": "FDA는 중국 광저우 YouXing Cosmetic 사에서 제조된 것으로 표시된 소비자용 손소독제 V&W ADVANCE HAND SANITIZER REFRESHING GEL(240ml/8oz)을 국경에서 검체 채취해 시험했으며, 실사가 아닌 제품 시험 결과에 근거해 본 경고서한이 발부되었다. 에탄올 75% v/v로 표시된 제품에서 평균 35% v/v만 검출되어 FD&C Act 501(c) 및 501(a)(2)(B) 위반(품질보증 기능 미작동)으로 판정되었고, 동시에 미승인 신약(505(a))이자 허위·오인 표시(502(a), 502(ee)) 위반으로 지적되었다. 해당 제품은 전량 국경에서 억류·수입거부되어 미국 시장에 유입되지 않았으므로 FDA는 회수를 권고하지 않았으며, 2020년 10월 1일 소비자 공지를 게시했다. FDA는 2020년 10월 8일 이 회사의 전 의약품을 Import Alert 66-78에 등재했고, CGMP 컨설턴트 고용과 향후 미국 시장 재진입 시 규제회의(Regulatory Meeting) 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "GuangZhou YouXing Cosmetics Co. LTD., FEI 3011347036, No. 14, Shuanghe 2nd Road, Changhong, Baiyun District, GuangZhou, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c) / 501(a)(2)(B)",
+   "area": "시험·QC",
+   "titleKo": "표시 함량 대비 유효성분 에탄올 현저 미달",
+   "detailKo": "V&W ADVANCE HAND SANITIZER REFRESHING GEL(240ml/8oz)은 유효성분 에탄올 75% v/v 함유로 표시되었으나, 국경에서 억류된 배치에 대한 FDA 실험실 시험 결과 평균 35% v/v만 검출되었다. 이는 CDC가 권고하고 1994년 Tentative Final Monograph(59 FR 31402)가 규정한 최소 60% 에탄올에도 미달한다. FDA는 이러한 함량 미달이 해당 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다고 판단했다. 또한 COVID-19 기간 한시적 손소독제 정책(2020-03-19 가이던스)의 적용 대상에도 해당하지 않는다고 보았다.",
+   "responseKo": "회사 답변에 대한 언급은 없다. FDA는 회신 시 75% 표시 제품에서 평균 35%가 검출된 경위에 대한 상세 조사, 원자재 및 공급자 목록, 미국으로 출하된 전 배치 목록과 물량 대조, 해당 배치의 완전한 제조기록서 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a), 301(d) / 502(a), 502(ee), 301(a)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약 유통 및 허위·오인 표시",
+   "detailKo": "해당 제품은 라벨에 \"Antiseptic\", \"Hand sanitizer to help reduce bacteria that potentially can cause diseases\" 등의 표시를 하여 FD&C Act 201(g)(1)(B)·(C)상의 의약품이자 201(p)상의 신약에 해당하나, 승인된 신약신청이 없고 GRASE를 뒷받침하는 적절한 임상자료도 확인되지 않는다. 에탄올은 소비자용 antiseptic rub에서 Category III로 분류되어 있어 505G(a)(3)에 따라 해당 TFM 조건(에탄올 60~95% 등)에 부합해야 하나, 실제 함량이 표시값 및 TFM 기준에 미달하여 조건을 충족하지 못한다. 따라서 미승인 신약으로 주간거래에 유통된 505(a)·301(d) 위반이다. 아울러 표시된 에탄올 75% v/v가 실제 분석치와 크게 달라 라벨이 허위·오인성이므로 502(a) 위반이며, 505G 요건을 충족하지 못한 비처방의약품으로서 502(ee) 위반에도 해당한다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2020-10-08)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "손소독제 함량미달",
+  "에탄올 subpotency",
+  "미승인 신약",
+  "허위표시",
+  "수입경보 66-78",
+  "국경 억류·수입거부"
+ ],
+ "id": "guangzhou-youxing-cosmetic-co-ltd-610709-09302021",
+ "extractedAt": "2026-09-13T16:07:56Z",
+ "sourceChars": 17167
+}

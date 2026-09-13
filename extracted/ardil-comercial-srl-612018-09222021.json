@@ -1,0 +1,56 @@
+{
+ "headlineKo": "IPA 70% 표시 제품에 에탄올 혼입·함량 미달, 음료병 유사 용기",
+ "summaryKo": "FDA는 도미니카공화국 Ardil Comercial S.R.L. 제조로 표시된 소비자용 손소독제 Alcohol Isopropilico Hand Sanitizer Limar를 미국 수입 시도 중 국경에서 유치·수입거부하고 시험한 결과, 표시된 IPA 70%와 달리 IPA 평균 48% v/v, 미표시 에탄올 평균 16% v/v가 검출되어 성분 대체(FD&C Act 501(d)(2))로 판정했다. 2021년 2월 23일과 6월 16일 두 차례 화상회의 후 FDA가 원료·완제품 시험법과 조사 자료를 반복 요청했으나 회사는 충분하거나 완전한 답변을 제공하지 않는 행태를 보였고, 조사 보고서에는 로트 정보 등 구체성이 결여되어 있었다. 제품은 미승인 신약이자 502(a)(c)(i)(1)(x)(ee)에 따른 표시위반으로도 지적됐으며, 특히 4 fl oz 생수병 유사 용기로 오음 위험이 제기되어 2021년 7월 1일 1개 로트를 자발적 전국 회수했다. FDA는 2021년 6월 30일 이 회사 전 제품을 Import Alert 66-78에 등재했고, 미국 시장 재개 시 CGMP 컨설턴트 고용과 규제 미팅 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Ardil Comercial S.R.L., Pastora Elida Km 19 No. 03, Apto. 1, Santo Domingo, 11606, Dominican Republic",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(d)(2); FD&C Act 501(a)(2)(B); 21 CFR 211.84; 21 CFR 211.165",
+   "area": "시험·QC",
+   "titleKo": "표시 성분 IPA를 미표시 에탄올로 일부 대체",
+   "detailKo": "제품은 활성성분 IPA 70%를 함유한다고 표시됐으나, 국경에서 유치된 배치에 대한 FDA 실험실 시험 결과 IPA 평균 48% v/v, 에탄올 평균 16% v/v가 검출됐다. 즉 표시 활성성분 IPA가 미표시 에탄올로 전부 또는 일부 대체되어 501(d)(2)에 따른 부정의약품에 해당한다. 2021년 2월 23일 FDA는 회사 및 미국 대리인 Registrar Corp와 화상회의를 열어 입고 원료(IPA)와 완제품 시험법 등 CGMP 운영 정보를 요청했고, 회사는 제품이 잘못 표시된 상태로 미국에 출하된 사실을 알고 있었다고 인정했다. 회사 제출 조사자료는 구체적 로트 정보 등 상세 내용이 결여되어 있었다.",
+   "responseKo": "회의 이후 FDA의 반복된 정보 요청에 대해 회사는 적절하거나 완전한 답변을 제공하지 않는 행태를 보였다. 특히 21 CFR 211.84가 요구하는 입고 원료의 IPA 확인시험법과 21 CFR 211.165가 요구하는 완제품 함량시험법을 제출하지 않아, 제품이 확인·함량·품질·순도 기준에 적합함을 보증할 수 없다고 평가했다. FDA는 회신 시 대체 경위에 대한 갱신 조사보고서, 전 원료 및 공급자 목록, 미국 출하 배치 목록과 물량 대사, 배치기록 사본, IPA·에탄올 전 로트의 USP 메탄올 시험 이행 확약을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 505(a); FD&C Act 301(d)",
+   "area": "허가·표시",
+   "titleKo": "미승인 신약의 미국 유통",
+   "detailKo": "Alcohol Isopropilico Hand Sanitizer Limar는 \"Antibacterial … Antimicrobial Uses hand sanitizer to help reduce bacteria on the skin\" 등의 표시 문구로 보아 201(g)(1)(B)·(C)상의 의약품이자 소비자용 국소 항균제로 의도된 제품이다. 승인된 신약 신청이 없고 GRASE를 뒷받침하는 적절한 대조 임상자료도 확인되지 않아 신약에 해당한다. IPA는 1994 TFM 및 후속 제안규칙에서 소비자용 항균 러브에 대해 Category III로 분류되어 505G(a)(3)에 따라 TFM 조건에 부합할 때만 신청 없이 판매 가능하나, 이 제품은 IPA 함량이 표시된 70%와 1994 TFM의 60~95% 기준에 미달하고 미표시 에탄올이 혼입돼 있다. 에탄올 단독은 소비자용 국소 항균 러브에 허용되나 IPA와의 병용은 제안된 바 없으며, 검출된 에탄올 농도도 TFM 허용 농도 미만이다. 또한 COVID-19 기간 손소독제 한시정책의 처방과도 일치하지 않는다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "FD&C Act 502(a), 502(c), 502(i)(1), 502(x), 502(ee); 21 CFR 201.15",
+   "area": "허가·표시",
+   "titleKo": "허위·오도 표시 및 음료병 유사 용기",
+   "detailKo": "502(a) 위반: IPA 70% v/v로 표시했으나 실제 IPA는 표시치 미만이고 라벨에 없는 에탄올이 함유되어 표시가 허위·오도에 해당한다. 502(c) 위반: 영어와 스페인어 병기 라벨이면서 21 CFR 201.15에 어긋나게 스페인어 \"Drug Facts\" 패널이 없다. 502(i)(1) 위반: 무색 투명한 제품이 미국 소비자가 통상 구입하는 생수병과 유사한 4 fl oz 용기에 충전되어 용기 자체가 오도하는 형태다. 502(x) 위반: 라벨에 중대 이상사례 보고를 받을 국내 주소 또는 국내 전화번호가 기재되지 않았다. 502(ee) 위반: 505G 적용 대상 비처방의약품이나 해당 조항의 판매 요건을 충족하지 않고 505조 승인 신청 대상도 아니다.",
+   "responseKo": "2021년 6월 16일 두 번째 화상회의에서 FDA는 음료병 유사 용기로 인한 아동·성인의 오음 위험 우려를 전달하고 미국 유통 로트 079932-4611-05-J의 회수 검토를 권고했으며, 같은 날 대국민 공지를 게시했다. 회사는 2021년 7월 1일 해당 1개 로트에 대해 자발적 전국 회수를 실시했다. FDA는 이 회의에서 요청한 정보에 대한 답변 미비가 성분 대체와 함께 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다고 평가했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-06-30)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "성분 대체",
+  "손소독제",
+  "미표시 에탄올",
+  "미승인 신약",
+  "표시위반",
+  "수입경보 66-78"
+ ],
+ "id": "ardil-comercial-srl-612018-09222021",
+ "extractedAt": "2026-09-13T16:09:12Z",
+ "sourceChars": 20913
+}
