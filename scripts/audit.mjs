@@ -31,6 +31,9 @@ const hangulRatio = (s) => {
   return (t.match(/[가-힣]/g) || []).length / t.length;
 };
 
+/** 한글 음절 수 — 지적 표제처럼 짧은 문자열용. 비율은 고유명사 하나에 무너진다. */
+const hangulCount = (s) => ((s || "").match(/[가-힣]/g) || []).length;
+
 const suspects = [];
 let total = 0;
 for (const f of fs.readdirSync(EXT).filter((f) => f.endsWith(".json"))) {
@@ -50,7 +53,10 @@ for (const f of fs.readdirSync(EXT).filter((f) => f.endsWith(".json"))) {
   if (!v.length) why = "지적사항 0건";
   // ② 요약이 영문 그대로 남은 건 — 이 대시보드의 존재 이유가 한국어 정리다.
   else if (hangulRatio(o.summaryKo) < 0.2) why = `요약이 한국어가 아님 (한글 비율 ${(hangulRatio(o.summaryKo) * 100).toFixed(0)}%)`;
-  else if (v.some((x) => hangulRatio(x.titleKo) < 0.2))
+  // titleKo 는 30자 내외라 'NDA Field Alert Report 미제출' 처럼 번역 규칙상 영문으로 남기는
+  // 고유명사 하나만 들어가도 비율이 20% 밑으로 떨어진다(오탐). 진짜 번역 누락은 한글이 아예
+  // 없는 형태('Failure to investigate OOS')로 나타나므로 개수로 본다.
+  else if (v.some((x) => hangulCount(x.titleKo) < 2))
     why = "지적 표제가 한국어가 아님";
   // ③ 본문이 있는데 요약이 지나치게 짧으면 앞부분만 읽고 끝낸 것이다.
   else if (o.sourceChars > 8000 && o.summaryKo.length < 80) why = `본문 ${o.sourceChars}자인데 요약 ${o.summaryKo.length}자`;
@@ -63,7 +69,8 @@ for (const f of fs.readdirSync(EXT).filter((f) => f.endsWith(".json"))) {
   if (why) suspects.push({ id, why });
 }
 
-for (const s of suspects) console.log(`  ${s.id.slice(0, 56).padEnd(57)} ${s.why}`);
+// id 를 자르면 extracted/<id>.json 을 그대로 찾을 수 없다 — 폭만 맞추고 잘라내지 않는다.
+for (const s of suspects) console.log(`  ${s.id.padEnd(57)} ${s.why}`);
 console.error(`추출 ${total}건 중 재처리 대상 ${suspects.length}건`);
 
 if (PURGE) {
