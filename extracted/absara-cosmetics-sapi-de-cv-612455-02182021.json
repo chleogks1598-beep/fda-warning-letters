@@ -1,0 +1,56 @@
+{
+ "headlineKo": "핸드새니타이저 에탄올 함량 미달(58%), 시험법·일탈조사 부적정",
+ "summaryKo": "FDA는 멕시코 Absara Cosmetics S.A.P.I. De C.V.(FEI 3012333567)가 제조한 것으로 표시된 소비자용 손소독제(FRAGRANCE FREE VLANC + PLUR HAND SANITIZER, 에탄올 70% v/v 표시)를 미국 수입 시 국경에서 억류·반입거부하고 자체 시험을 실시했다. 시험 결과 해당 배치의 에탄올 함량이 58% v/v에 불과해 FD&C Act 501(c) 및 501(a)(2)(B) 위반(함량 미달, 품질보증 기능 미작동)으로 판정됐다. 2020년 10월 16일 전화회의를 통해 제출받은 자료에서 회사의 자체 시험법은 검증(밸리데이션)이나 USP 시험법과의 동등성 입증 자료가 없고 내부표준·시스템적합성 기술이 빠졌으며 계산 오류가 있었고, 함량미달 배치 조사도 해당 배치에 국한된다는 결론의 과학적 근거가 부족했다. FDA는 2021년 2월 4일 회사가 제조한 모든 의약품을 Import Alert 66-78에 등재했고, CGMP 적격 컨설턴트 고용과 향후 미국 시장 재진입 희망 시 Regulatory Meeting 요청을 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Absara Cosmetics S.A.P.I. De C.V., Autopista Mexico – Toluca Km. 53.5 Av. Ind. Farmac. Accesso, Parque Industrial Dona Rosa Planta II, Emiliano Zapata 52004 Mexico",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c)",
+   "area": "시험·QC",
+   "titleKo": "표시 함량 미달 손소독제 제조(에탄올 58%)",
+   "detailKo": "FRAGRANCE FREE VLANC + PLUR HAND SANITIZER는 유효성분 에탄올을 70% v/v 함유한다고 표시되어 있으나, 국경에서 억류된 배치를 FDA 실험실에서 시험한 결과 에탄올이 58% v/v에 불과했다. CDC는 비누와 물을 쓸 수 없을 때 에탄올 60% 이상 함유 제품 사용을 권고하며, 이는 1994년 Tentative Final Monograph(59 FR 31402, 81 FR 42912로 개정 제안)에서 규정한 최소 유효성분 농도이기도 하다. 표시 함량보다 낮은 유효성분 수준으로 인해 제품은 501(c)에 따라 변질(adulterated) 의약품에 해당한다. 또한 표시상의 처방 구성을 검토한 결과 COVID-19 한시 정책(Temporary Policy) 가이던스의 성분·처방 요건에도 부합하지 않아 한시적 단속유예 대상이 아니다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.160",
+   "area": "시험·QC",
+   "titleKo": "적절한 시험법 미확보(밸리데이션·USP 동등성 부재)",
+   "detailKo": "FDA는 2020년 10월 16일 전화회의에서 완제의약품 시험법, USP 시험법과의 동등성 입증 자료, 함량미달 로트 조사 결과 등 CGMP 운영 관련 추가 자료를 요청했다. 회사는 사내 시험법에 대한 설명은 제출했으나 방법 밸리데이션 자료나 관련 USP 시험법과의 동등성을 기술한 문서를 전혀 제출하지 못했다. 제출된 시험법은 정당화 근거 없이 USP 방법과 차이가 있었고, 내부표준과 시스템적합성에 대한 기술이 없었으며 계산 오류를 포함하고 있었다.",
+   "responseKo": "회사 답변은 사내 시험 내용만 기술했을 뿐 밸리데이션·USP 동등성 근거를 제시하지 못해 FDA는 적절한 시험법 미보유를 21 CFR 211.160 위반으로 판단했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.192",
+   "area": "품질시스템",
+   "titleKo": "함량미달 배치에 대한 불충분한 일탈조사",
+   "detailKo": "회사는 FDA가 시험한 함량미달 배치에 대한 조사 결과를 제출하면서, 함량미달 문제가 해당 FDA 시험 배치에만 국한된다고 결론지었다. 그러나 이 결론을 뒷받침할 적절한 과학적 근거를 제시하지 못했다. 따라서 근본원인을 정확히 규명했는지, 영향을 받은 모든 제품과 배치로 조사를 충분히 확대했는지 불분명하다. 또한 조사에는 시험법, 시험실 운영, 분석 결과에 대한 검토가 포함되지 않았다.",
+   "responseKo": "FDA는 조사 결론의 과학적 정당성과 조사 범위 확대가 미흡하다고 평가했으며, 이 서한에 대한 답변으로 영향 배치 식별과 시험법·절차 전반 검토를 포함한 상세 후속조사, 원료·공급자 목록, 미국 반입 배치 목록 및 물량 정산, 완전한 배치기록 사본, 로트 출하판정에 사용하는 화학·미생물 시험법 및 규격과 관련 절차서 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-02-04)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "손소독제 함량미달",
+  "에탄올 58%",
+  "시험법 밸리데이션",
+  "USP 동등성",
+  "일탈조사(211.192)",
+  "수입경보 66-78"
+ ],
+ "id": "absara-cosmetics-sapi-de-cv-612455-02182021",
+ "extractedAt": "2026-09-15T23:17:24Z",
+ "sourceChars": 11288
+}

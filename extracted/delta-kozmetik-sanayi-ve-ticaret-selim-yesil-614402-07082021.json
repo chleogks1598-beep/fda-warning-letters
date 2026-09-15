@@ -1,0 +1,56 @@
+{
+ "headlineKo": "손소독제 에탄올 함량 미달(59%), 원료·완제 시험 부적합",
+ "summaryKo": "FDA는 터키 이스탄불 소재 Delta Kozmetik Sanayi Ve Ticaret-Selim Yesil(FEI 3010166780)에서 제조된 것으로 등재된 소비자용 손소독제가 미국 수입 시 국경에서 억류·수입거부된 후 해당 배치를 시험했다. 시험 결과 표시량보다 낮은 평균 59% v/v 에탄올이 검출되어 FD&C Act 501(c) 및 501(a)(2)(B) 위반으로 판정됐다. 2021년 3월 19일 전화회의 후 회사가 제출한 시험법에는 에탄올 확인시험과 메탄올 시험(21 CFR 211.84), 완제품 함량시험(21 CFR 211.165)이 빠져 있어 부적절했다. FDA는 2021년 5월 17일 이 회사의 모든 의약품을 수입경보 66-78에 등재했고, CGMP 컨설턴트 고용과 미국 재진출 시 규제회의(Regulatory Meeting) 요청을 권고했다. 전량 국경에서 차단되어 미국에 유입되지 않았으므로 회수는 권고하지 않았다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "N.12 Istanbul Endustri Ve Ticaret Serbest, Bolgesi Aydinli Sb Mahallesi, 6. Sokak, 34953 Tuzla/İstanbul, Turkey",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c)",
+   "area": "시험·QC",
+   "titleKo": "손소독제 에탄올 함량이 표시량에 미달",
+   "detailKo": "귀사 시설에서 제조된 것으로 등재된 소비자용 손소독제(품명 비공개)는 유효성분 에탄올을 (비공개)% v/v 함유한다고 표시되어 있었다. 그러나 국경에서 억류된 해당 배치에 대한 FDA 실험실 시험 결과 평균 59% v/v 에탄올만 검출됐다. 이는 표시량보다 낮을 뿐 아니라, CDC 권고 및 1994년 Health-Care Antiseptic Drug Products 잠정최종규정(1994 TFM, 59 FR 31402, Consumer Antiseptic Rubs Proposed Rule 81 FR 42912로 개정)이 정한 최소 60% 에탄올 기준에도 미달한다. 따라서 이 제품은 함량·순도·품질이 표방한 수준에 미치지 못해 FD&C Act 501(c)에 따라 불량의약품에 해당한다.",
+   "responseKo": "FDA는 회신 시 표시량과 실측 59% 간 차이의 원인에 대한 상세 조사, 원료 공급자 목록, 미국으로 출하된 모든 손소독제 배치 목록과 물량 대사, 해당 배치 제조기록서 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84",
+   "area": "원자재·공급자",
+   "titleKo": "입고 원료(에탄올)에 대한 확인시험·메탄올 시험 누락",
+   "detailKo": "2021년 3월 19일 FDA는 회사 및 등록된 미국 대리인과 전화회의를 갖고 입고 원료(에탄올)와 완제품 시험법을 포함한 CGMP 운영 관련 추가 정보를 요청했다. 회사는 시험법과 관련 실험실 장비 문서를 제출했으나, 제출된 시험법에는 에탄올에 대한 적절한 확인시험(identity test)이 포함되어 있지 않았고 메탄올 시험도 포함되어 있지 않았다. 이는 21 CFR 211.84 요건 위반이다.",
+   "responseKo": "FDA는 회사가 제출한 시험법이 요건을 충족하지 못한다고 평가했으며, 실험실 관행·절차·시험법·장비·문서·분석자 적격성에 대한 포괄적·독립적 평가와 개선계획 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.165",
+   "area": "시험·QC",
+   "titleKo": "완제품에 대한 적절한 함량시험 누락",
+   "detailKo": "회사가 제출한 시험법에는 완제품에 대한 적절한 함량(assay) 시험이 포함되어 있지 않아 21 CFR 211.165 요건에 부합하지 않았다. 입고 원료와 완제품에 대한 적정한 시험 없이는 의약품이 확인(identity)·함량(strength)·품질(quality)·순도(purity)의 적절한 기준에 적합함을 보증할 수 없다. 이러한 시험 미비와 손소독제의 함량 미달은 귀사 시설의 품질보증 기능이 CGMP 요건에 따라 작동하지 않고 있음을 보여준다.",
+   "responseKo": "FDA는 회사의 정보 제출이 미흡하다고 판단했으며, 실험실 시스템 전반에 대한 독립적 평가와 개선 및 효과성 검증 계획을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2021-05-17)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "손소독제 함량미달",
+  "에탄올 확인시험",
+  "메탄올 시험",
+  "완제품 함량시험",
+  "수입경보 66-78",
+  "CGMP 컨설턴트"
+ ],
+ "id": "delta-kozmetik-sanayi-ve-ticaret-selim-yesil-614402-07082021",
+ "extractedAt": "2026-09-15T23:12:36Z",
+ "sourceChars": 10504
+}

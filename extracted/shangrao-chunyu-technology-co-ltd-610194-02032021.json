@@ -1,0 +1,47 @@
+{
+ "headlineKo": "손소독제 에탄올 함량 미달(75%→58%), 부적합 시험법 사용",
+ "summaryKo": "FDA는 중국 ShangRao Chunyu Technology(FEI 3015958566)에서 제조된 것으로 표시된 소비자용 손소독제 'Instant – Hand Sanitizer – Moisturizing'을 수입 통관 단계에서 유치·수입거부하고 자체 시험을 실시했다. 라벨에는 에탄올 75%로 표시돼 있었으나 실제 평균 함량은 58% v/v에 그쳐 FD&C Act 501(c) 및 501(a)(2)(B) 위반(역가 미달·QA 기능 부재)으로 판정됐다. 2020년 9월 8일 화상회의 후 회사가 제출한 완제품 출하 시험법은 에탄올·물 외 성분이 포함된 손소독제에 부적합한 (비공개) 방식이어서 21 CFR 211.160(b) 위반으로 지적됐다. FDA는 2020년 11월 6일 이 회사의 모든 의약품을 수입경보 66-78에 등재했고, CGMP 컨설턴트 고용과 미국 유통 배치에 대한 제3자 분석·회수 검토를 포함한 시정계획 제출을 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Xuri Zone, Shangrao Economic-Technical Development Area, Shangrao, Jiangxi 334100, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(c) (21 U.S.C. 351(c))",
+   "area": "시험·QC",
+   "titleKo": "표시량 미달 손소독제 유통(역가 부족)",
+   "detailKo": "국경에서 유치된 'Instant – Hand Sanitizer – Moisturizing' 배치는 유효성분 에탄올 75% 함유로 표시돼 있었다. 그러나 FDA 실험실 시험 결과 평균 에탄올 함량은 58% v/v에 불과했다. 이는 CDC가 권고하고 1994년 Tentative Final Monograph(59 FR 31402)가 규정한 최소 농도 60%에도 미치지 못한다. 표시량보다 낮은 유효성분 함량으로 인해 제품은 FD&C Act 501(c)에 따라 변조(adulterated)로 판정됐으며, 이러한 역가 미달은 시설의 품질보증 기능이 CGMP에 따라 작동하지 않음을 보여준다(501(a)(2)(B)).",
+   "responseKo": "FDA는 라벨 75% 표시 제품이 실제 58%였던 경위에 대한 상세 조사, 전 원료 및 공급자 목록, 미국으로 출하한 모든 배치 목록과 물량 대조, 미국 유통 배치에 대한 검증된 시험법을 이용한 제3자 분석, 규격외(OOS) 배치에 대한 고객 통보·회수를 포함한 조치계획, 전 배치기록 사본 제출을 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.160(b)",
+   "area": "시험·QC",
+   "titleKo": "완제품 출하시험에 부적합한 시험법 사용",
+   "detailKo": "2020년 9월 8일 FDA는 회사 및 미국 대리인 Pragmatic Compliance, LLC와 화상회의를 열어 CGMP 운영과 완제품 시험법 등 추가 정보를 요청했다. 회사가 제출한 완제품 손소독제 출하 시험법은 (비공개) 방식을 사용하는데, 이는 에탄올과 물 이외의 물질이 (비공개)에 포함된 완제 손소독제 시험에는 적합하지 않다. 적합하지 않은 장치를 완제품 시험에 사용하는 것은 제품이 확인시험·함량·품질·순도 규격에 적합함을 보증하기 위해 과학적으로 타당하고 적절한 시험절차를 사용하도록 요구하는 21 CFR 211.160(b) 위반이다.",
+   "responseKo": "FDA는 실험실 관행·절차·시험법·장비·문서·분석자 적격성에 대한 완전하고 포괄적인 독립 평가와, 이를 근거로 한 실험실 시스템 개선 및 효과성 평가 계획 제출을 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-78 (2020-11-06)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "손소독제",
+  "에탄올 함량 미달",
+  "수입경보 66-78",
+  "시험법 부적합",
+  "수입 유치·거부",
+  "COVID-19 임시정책 배제"
+ ],
+ "id": "shangrao-chunyu-technology-co-ltd-610194-02032021",
+ "extractedAt": "2026-09-15T23:18:13Z",
+ "sourceChars": 10036
+}
