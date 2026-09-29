@@ -1,0 +1,56 @@
+{
+ "headlineKo": "HPLC 미해명 시험주입·Developer 권한 남용, 원본기록 파쇄 폐기",
+ "summaryKo": "FDA는 2026년 1월 28일~2월 5일 뉴욕주 Rensselaer 소재 Curia New York의 API 제조시설을 실사하고, API CGMP 중대 일탈 3건을 지적했다. 분석자들이 Empower·TotalChrom에서 문서화나 감독 없이 미해명 시험주입을 수천 건 수행했다. 실험실 파쇄함에서는 원본 기록이 발견됐고, 로그인 계정도 공유됐다. 회사는 2026년 2월 27일 Form 483에 답변했지만, 모든 미해명 주입을 조사하지 않았고 파쇄함 조사와 회고적 검토의 범위가 제한적이어서 부적절하다고 평가됐다. FDA는 독립적인 전사 데이터 완전성 평가와 글로벌 CAPA를 요구했고, 시정 완료 전까지 신규 허가 승인과 수출증명서 발급을 보류할 수 있다고 밝혔다.",
+ "inspectionStart": "2026-01-28",
+ "inspectionEnd": "2026-02-05",
+ "facility": "33 Riverside Avenue, Rensselaer, New York",
+ "form483ResponseDate": "2026-02-27",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "",
+   "area": "문서·데이터완전성",
+   "titleKo": "모든 시험 데이터를 포함한 실험실 기록 미유지",
+   "detailKo": "분석자들이 HPLC·UPLC에서 문서화나 감독 없이 미해명 시험주입(trial injection)을 반복했다. 최근 30개월간 Empower에서 수천 건, 2025년 10월 한 달 동안 TotalChrom에서 70건 이상이 있었고, Empower 주입은 문서화 없이 'Operator'가 아닌 'Developer' 권한으로 수행됐다. 2026년 1월 14일 HPLC 49에서 Developer 권한으로 수행된 미해명 시험주입 4건이 발견됐는데, 분석자도 어떤 제품·검체와 연결되는지 추적하지 못했고 실험노트 830-7에도 기록이 없었다. 2026년 2월 1일 UPLC 57에서도 미해명 주입 2건이 있었으나 실험노트 823-6에 관련 기록이 없었다.",
+   "responseKo": "회사는 QC 감독자가 참여한 문제해결(troubleshooting) 목적의 주입이라 영향이 없다고 답했다. 그러나 자체 회고 검토에서도 근거가 부족한 주입 9건이 확인됐고, Empower 시험주입의 약 20%가 Developer 모드에서 생성·변경됐다. 모든 미해명 주입에 대한 조사와 Developer 권한 사용 사유 설명이 없어 부적절하다고 평가됐다. FDA는 시험주입 중단과 Developer 권한 삭제는 인정했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 2,
+   "cfr": "",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 종이·전자 기록 관리 책임 불이행",
+   "detailKo": "2026년 1월 29일 실험실 파쇄함에서 원본 기록이 발견됐다. pH 측정기 출력지(측정값 비공개), 분석저울 출력지(무게 비공개), 검토자가 서명한 Analytical Data Review Checklist 등이다. 2025년 12월 19일 pH 출력지는 작성자와 폐기 사유를 확인하지 못했고, 2026년 1월 25일 저울 출력지도 폐기 사유가 기록되지 않았으며, 폐기 기록과 배치를 연결하지 못했다. 실험노트 사본도 과도하게 많이 발견됐다. 검토자는 원본이 아닌 사본을 검토한 뒤 원본 노트에 서명해 SOP-RLS-000456을 위반했고, 문서 보존 절차 RLS-SOP-PW-0047도 지키지 않았다. 파쇄함 내용물은 제3자 업체가 외부에서 파기해 과거 폐기 범위를 파악할 수 없다.",
+   "responseKo": "회사는 영향이 미미하다고 주장했지만 이를 뒷받침할 근거가 없었다. 파쇄함을 QU 관리로 옮겼으나 모든 파쇄함을 분석하지 않았고, 요약 보고서에서 빠진 파쇄함 1개에 대한 설명도 없어 부적절하다고 평가됐다. FDA는 폐기 기간 확인, 회고적 데이터 완전성 조사, 글로벌 CAPA, 데이터 완전성 준수 책임자 채용 확약 등을 요구했다.",
+   "dataIntegrity": true
+  },
+  {
+   "no": 3,
+   "cfr": "",
+   "area": "문서·데이터완전성",
+   "titleKo": "전산시스템 무단 접근·변경 방지 통제 미흡",
+   "detailKo": "개인별 고유 계정으로 접근을 제한하는 전산시스템(비공개)에서 한 분석자가 다른 분석자의 로그인 정보로 교정과 검체 시험을 수행했다. 품질시스템은 이런 계정 공유가 반복되는 것을 감지하거나 막지 못했다. SOP-RLS-000438은 계정 공유를 금지하고 있었다.",
+   "responseKo": "Protocol RQA-P-0560에 따른 회고 검토가 독립형 분석기기 12대, 2025년 2월 10일~2026년 2월 4일 기간으로 한정돼 있었다. 계정 접근이 필요한 전체 전산장비와 그 외 기간을 다루지 않아 부적절하다고 평가됐다. FDA는 전 시설 전산장비의 회고 검토와 3년치 독립 평가를 요구했다.",
+   "dataIntegrity": true
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": true
+ },
+ "keywordsKo": [
+  "데이터 완전성",
+  "미해명 시험주입",
+  "Empower Developer 권한",
+  "원본기록 파쇄",
+  "계정 공유",
+  "원료의약품(API)"
+ ],
+ "id": "curia-new-york-inc-728790-09182026",
+ "extractedAt": "2026-09-29T16:04:31Z",
+ "sourceChars": 19642
+}

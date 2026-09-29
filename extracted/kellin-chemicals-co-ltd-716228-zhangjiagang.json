@@ -1,0 +1,37 @@
+{
+ "headlineKo": "사전 통보된 FDA 실사 거부로 제품 불량 간주",
+ "summaryKo": "FDA는 미국 시장에 유통되는 완제의약품 제조사에 원료의약품(API)을 공급하는 Kellin Chemicals (Zhangjiagang) Co., Ltd.(FEI 3017343300)에 2025년 7월 7일부터 11일까지 실사하겠다고 사전 통보했다. 그러나 미국 대리인 Registrar Corp.를 통해 회사가 실사를 거부했다는 통보가 왔다. FDA는 FD&C Act 501(j)에 따라 이 시설의 의약품을 불량(adulterated) 의약품으로 간주했다. 실사로 CGMP 준수가 확인될 때까지 이 회사를 제조소로 기재한 신규 신청·변경신청은 승인이 보류될 수 있고, 수입품은 801(a)(3)에 따라 억류되거나 수입이 거부될 수 있다. FDA는 미국 고객사에 이 서한을 알리라고 권고했고, 15영업일 안에 서면 답변하거나 실사 일정을 요청하라고 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 5 Changjiang North Road, Yangzijiang Chemical Industrial Park, Zhangjiagana, Jiangsu",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "FD&C Act 501(j)",
+   "area": "기타",
+   "titleKo": "사전 통보된 FDA 실사를 거부함",
+   "detailKo": "FDA는 2025년 7월 7일부터 11일까지 원료의약품 제조시설을 실사하겠다고 사전 통보했다. 회사의 미국 대리인 Registrar Corp.는 회사가 이 실사를 거부했다고 FDA에 알렸다. 이에 따라 이 시설에서 제조·가공·포장·보관된 의약품은 소유자나 운영자가 실사를 지연·거부·제한한 시설의 제품이 되어 501(j)에 따른 불량 의약품으로 간주된다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": true,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "실사 거부",
+  "501(j)",
+  "원료의약품(API)",
+  "수입 억류·거부",
+  "신청 승인 보류"
+ ],
+ "id": "kellin-chemicals-co-ltd-716228-zhangjiagang",
+ "extractedAt": "2026-09-29T16:04:33Z",
+ "sourceChars": 3164
+}
