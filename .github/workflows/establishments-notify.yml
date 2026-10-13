@@ -1,0 +1,63 @@
+name: Notify FDA 등록 제조소 (대한민국 신규)
+
+# public/establishments.json 이 바뀐 푸시마다 직전 커밋과 비교해, 새로 등록된
+# 대한민국 원료의약품·완제의약품 제조소가 있을 때만 메일을 보낸다.
+# 수신자: recipients.json (warning letter 알림과 같은 목록)
+#
+# ★ warning letter 알림(notify.yml)과 따로 둔다 — 같은 커밋에서 둘 다 바뀌면 메일도 두 통 간다.
+# ★ 커밋은 로컬 스케줄러가 사용자 자격으로 푸시하므로 push 트리거가 정상 동작한다
+#   (GITHUB_TOKEN 푸시였다면 워크플로우가 트리거되지 않는다 — nedrug 에서 겪은 함정).
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/establishments.json'
+  workflow_dispatch:
+    inputs:
+      sample:
+        description: '테스트 발송: 대한민국 대상 제조소 N곳으로 견본 메일 (0=실제 diff)'
+        required: false
+        default: '0'
+      prev_ref:
+        description: '보정 발송: 이 커밋 이후 신규를 한 번에 알림 (비우면 HEAD~1)'
+        required: false
+        default: ''
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: ${{ github.event.inputs.prev_ref && '0' || '2' }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: 직전 스냅샷 확보
+        env:
+          PREV: ${{ github.event.inputs.prev_ref || 'HEAD~1' }}
+        run: |
+          echo "비교 기준: $PREV"
+          git show "$PREV:public/establishments.json" > prev-establishments.json 2>/dev/null || echo '{"records":[]}' > prev-establishments.json
+      - name: 메일 본문 생성 (직전 대비 신규)
+        id: build
+        env:
+          SAMPLE: ${{ github.event.inputs.sample }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: node scripts/build-estab-email.mjs prev-establishments.json
+      - name: Send email via Gmail SMTP
+        if: steps.build.outputs.send == 'true'
+        uses: dawidd6/action-send-mail@v4
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: FDA 등록 제조소 <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ steps.build.outputs.to }}
+          subject: ${{ steps.build.outputs.subject }}
+          html_body: file://estab-email-body.html
+      - name: No email needed
+        if: steps.build.outputs.send != 'true'
+        run: echo "대한민국 원료·완제 제조소 신규 등록 없음 — 메일 발송 생략."
