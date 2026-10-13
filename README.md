@@ -125,10 +125,10 @@ FDA **DECRS**(Drug Establishments Current Registration Site)의 현재 등록 �
 - 5,000건 미만이면 FDA 파일 이상으로 보고 덮어쓰지 않습니다. 실패해도 warning letter 갱신은 계속됩니다.
 - 이 파일만 바뀐 커밋은 `notify.yml` 을 깨우지 않습니다(메일은 warning letter 변화에만).
 - FDA 의 업체 검색(`drls/default.cfm`)은 POST 라 업체별 직접 링크를 만들 수 없습니다.
-- **대한민국 신규 알림**:  이 이 파일이 바뀐 푸시마다 직전 커밋과 비교해,
-  새로 나타난 한국 사업장(DUNS) 중 업무에 (원료) 또는 (완제)가 있는 곳만
-   전원에게 보냅니다(). 직전 스냅샷이 5,000건 미만이면 보내지 않습니다.
-  드라이런: SEND=true 신규 2곳 SUBJECT=[FDA 등록 제조소] 대한민국 신규 2곳 — ABCPharm co.,LTD 외 1곳 TO=han1598@gccorp.com,jswon_qm@gccorp.com,rudgns264@gccorp.com,an4013@gccorp.com,hghq@gccorp.com,bckim77@gccorp.com,newpcb@gccorp.com,dykim@gccorp.com,kck113@gccorp.com,gyw@gccorp.com,kmb9634@gccorp.com,orion12a@gccorp.com,mathene@gccorp.com → .
+- **대한민국 신규 알림**: `establishments-notify.yml` 이 이 파일이 바뀐 푸시마다 직전 커밋과 비교해,
+  새로 나타난 한국 사업장(DUNS) 중 업무에 `API MANUFACTURE`(원료) 또는 `MANUFACTURE`(완제)가 있는 곳만
+  `recipients.json` 전원에게 보냅니다(`scripts/build-estab-email.mjs`). 직전 스냅샷이 5,000건 미만이면 보내지 않습니다.
+  드라이런: `SAMPLE=2 node scripts/build-estab-email.mjs /dev/null` → `estab-email-body.html`.
 
 ## FDA 접속 — 봇탐지 주의
 
