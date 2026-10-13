@@ -122,13 +122,21 @@ function main() {
   const a = node("scripts/audit.mjs");
   if (Number(a.SUSPECT)) log(`⚠ 재확인 필요 ${a.SUSPECT}건 — 'node scripts/audit.mjs' 로 목록 확인`);
 
+  // FDA 등록 의약품 제조소(DECRS). FDA 는 영업일마다 1회 갱신하므로 대부분의 회차는 '변경 없음'이다.
+  // 실패해도 warning letter 갱신을 막지 않는다(스크립트가 종료코드 0 + FAILED=1 로 알린다).
+  const s = node("scripts/fetch-establishments.mjs");
+  if (s.FAILED === "1") log("⚠ 등록 제조소(DECRS) 갱신 실패 — 기존 파일 유지");
+  else if (s.CHANGED === "1") log(`등록 제조소 ${s.ESTAB}곳 (신규 ${s.ADDED} · 목록에서 빠짐 ${s.REMOVED})`);
+
   if (repo) {
     const parts = [];
     if (Number(f.NEW)) parts.push(`신규 ${f.NEW}건`);
     if (Number(e.EXTRACTED)) parts.push(`요약 ${e.EXTRACTED}건`);
     if (Number(e.FAIL)) parts.push(`추출실패 ${e.FAIL}건`);
+    if (s.CHANGED === "1") parts.push(`등록 제조소 ${s.ESTAB}곳`);
     const msg = `data: FDA warning letter 갱신${parts.length ? " — " + parts.join(" · ") : ""}`;
-    if (commit(msg, ["public/data.json", "extracted", "newdocs/list.json"])) push("데이터");
+    // 등록 제조소만 바뀐 커밋은 notify.yml(paths: public/data.json)을 깨우지 않는다 — 메일은 warning letter 변화에만 간다.
+    if (commit(msg, ["public/data.json", "public/establishments.json", "extracted", "newdocs/list.json"])) push("데이터");
     else if (!DRY) log("변경 없음 — 커밋할 것이 없습니다.");
   }
   log("=== 갱신 끝 ===");

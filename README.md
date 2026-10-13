@@ -109,6 +109,23 @@ warning letter 는 본래 위반을 적는 문서라 **지적 0건은 거의 항
 이 표현 덕분에 **하드 스톱이 필요 없습니다.** (`nedrug-gmp` 에서는 부분 반영을 막으려 하드 스톱을
 걸었는데, 열리지 않는 1건 때문에 전체 갱신이 14시간 멈춘 적이 있습니다.)
 
+## FDA 등록 의약품 제조소 (`establishments.html`)
+
+FDA **DECRS**(Drug Establishments Current Registration Site)의 현재 등록 제조소 전체(약 1만 곳)를
+`scripts/fetch-establishments.mjs` 가 `public/establishments.json` 으로 만듭니다. 갱신 회차마다 함께 돕니다.
+
+- 원본: `https://www.accessdata.fda.gov/cder/drls_reg.zip`(탭 구분 txt, 매 영업일 갱신) +
+  `drls_excluded.zip`(FDA 제외 목록, 사유 비공개). accessdata 는 봇탐지가 없습니다.
+- **담당자 이름·이메일·전화는 싣지 않습니다**(회사·주소·업무·만료일·등록자·미국 대리인 회사명만).
+- 인코딩이 섞여 있습니다(대부분 UTF-8, 일부 행 Windows-1252) → 행 단위 판별.
+- 원본은 현재 등록분만 담아서 만료·말소된 곳은 그냥 사라집니다. 이전 회차와 비교해
+  `firstSeen`(처음 본 날)과 `removed[]`(빠진 날, 400일 보관)를 우리가 기록합니다.
+  추적 시작일(`baseline`) 이전 등록분은 `firstSeen` 이 빈 값입니다.
+- 키는 사업장 DUNS(전 건 고유). Warning Letter 와는 **FEI**(앞자리 0 제거)로 연결합니다.
+- 5,000건 미만이면 FDA 파일 이상으로 보고 덮어쓰지 않습니다. 실패해도 warning letter 갱신은 계속됩니다.
+- 이 파일만 바뀐 커밋은 `notify.yml` 을 깨우지 않습니다(메일은 warning letter 변화에만).
+- FDA 의 업체 검색(`drls/default.cfm`)은 POST 라 업체별 직접 링크를 만들 수 없습니다.
+
 ## FDA 접속 — 봇탐지 주의
 
 `www.fda.gov` 는 Akamai 봇탐지를 씁니다. 평범한 UA 나 curl 기본 헤더로는
