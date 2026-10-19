@@ -17710,17 +17710,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "augustine-temperature-management-llc-671243-03212024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/augustine-temperature-management-llc-671243-03212024",
-  "postedDate": "2024-05-07",
-  "letterDate": "2024-03-21",
-  "company": "Augustine Temperature Management, LLC",
-  "office": "Center for Devices and Radiological Health",
-  "subject": "Medical Device Reporting/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "bioptimal-international-678281-04032024",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/bioptimal-international-678281-04032024",
   "postedDate": "2024-05-07",
@@ -17838,6 +17827,17 @@
   "company": "Pingdingshan Tianjing Plant Albumen Co., Ltd.",
   "office": "Center for Food Safety and Applied Nutrition (CFSAN)",
   "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "augustine-temperature-management-llc-671243-03212024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/augustine-temperature-management-llc-671243-03212024",
+  "postedDate": "2024-05-07",
+  "letterDate": "2024-03-21",
+  "company": "Augustine Temperature Management, LLC",
+  "office": "Center for Devices and Radiological Health",
+  "subject": "Medical Device Reporting/Misbranded",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -18238,17 +18238,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "soulaire-corporation-675069-01292024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/soulaire-corporation-675069-01292024",
-  "postedDate": "2024-04-16",
-  "letterDate": "2024-01-29",
-  "company": "Soulaire Corporation",
-  "office": "Center for Devices and Radiological Health",
-  "subject": "Investigational Device Exemptions (IDE)/Premarket Approval Application (PMA) Adulterated Device",
-  "responseDate": "",
-  "closeoutDate": "2026-08-31"
- },
- {
   "id": "appleton-city-feed-service-llc-662279-11012023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/appleton-city-feed-service-llc-662279-11012023",
   "postedDate": "2024-04-16",
@@ -18256,6 +18245,17 @@
   "company": "Appleton City Feed Service LLC",
   "office": "Division of Human and Animal Food Operations West II",
   "subject": "CGMP/Medicated Feeds/Adulterated",
+  "responseDate": "",
+  "closeoutDate": "2026-08-31"
+ },
+ {
+  "id": "soulaire-corporation-675069-01292024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/soulaire-corporation-675069-01292024",
+  "postedDate": "2024-04-16",
+  "letterDate": "2024-01-29",
+  "company": "Soulaire Corporation",
+  "office": "Center for Devices and Radiological Health",
+  "subject": "Investigational Device Exemptions (IDE)/Premarket Approval Application (PMA) Adulterated Device",
   "responseDate": "",
   "closeoutDate": "2026-08-31"
  },
@@ -18278,17 +18278,6 @@
   "company": "Vape Dojo Corporate Headquarters",
   "office": "Center for Tobacco Products",
   "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "new-india-bazar-inc-677343-04012024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-india-bazar-inc-677343-04012024",
-  "postedDate": "2024-04-09",
-  "letterDate": "2024-04-01",
-  "company": "New India Bazar, Inc.",
-  "office": "Division of West Coast Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -18344,6 +18333,17 @@
   "company": "FirstCham Co., Ltd.",
   "office": "Center for Drug Evaluation and Research | CDER",
   "subject": "CGMP/Finished Pharmaceuticals/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "new-india-bazar-inc-677343-04012024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-india-bazar-inc-677343-04012024",
+  "postedDate": "2024-04-09",
+  "letterDate": "2024-04-01",
+  "company": "New India Bazar, Inc.",
+  "office": "Division of West Coast Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -19327,17 +19327,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "inmar-supply-chain-solutions-llc-666158-01302024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/inmar-supply-chain-solutions-llc-666158-01302024",
-  "postedDate": "2024-02-06",
-  "letterDate": "2024-01-30",
-  "company": "Inmar Supply Chain Solutions, LLC",
-  "office": "Division of Human and Animal Food Operations West III",
-  "subject": "CGMP/Manufacturing, Packing or Holding Human Food/Adulterated/Insanitary Conditions",
-  "responseDate": "",
-  "closeoutDate": "2024-11-04"
- },
- {
   "id": "nantong-furuida-packaging-products-co-ltd-667984-11172023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nantong-furuida-packaging-products-co-ltd-667984-11172023",
   "postedDate": "2024-02-06",
@@ -19380,6 +19369,17 @@
   "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
   "responseDate": "",
   "closeoutDate": ""
+ },
+ {
+  "id": "inmar-supply-chain-solutions-llc-666158-01302024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/inmar-supply-chain-solutions-llc-666158-01302024",
+  "postedDate": "2024-02-06",
+  "letterDate": "2024-01-30",
+  "company": "Inmar Supply Chain Solutions, LLC",
+  "office": "Division of Human and Animal Food Operations West III",
+  "subject": "CGMP/Manufacturing, Packing or Holding Human Food/Adulterated/Insanitary Conditions",
+  "responseDate": "",
+  "closeoutDate": "2024-11-04"
  },
  {
   "id": "avalanche-distribution-llc-dba-avalanche-vapes-676579-01312024",
@@ -19536,39 +19536,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "grace-supply-inc-668552-01082024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/grace-supply-inc-668552-01082024",
-  "postedDate": "2024-01-30",
-  "letterDate": "2024-01-08",
-  "company": "Grace Supply Inc.",
-  "office": "Division of Southwest Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "cavevi-naturals-llc-666694-11082023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/cavevi-naturals-llc-666694-11082023",
-  "postedDate": "2024-01-30",
-  "letterDate": "2023-11-08",
-  "company": "Cavevi Naturals LLC",
-  "office": "Division of Southwest Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "s-j-international-enterprises-public-company-limited-668482-01262024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/s-j-international-enterprises-public-company-limited-668482-01262024",
-  "postedDate": "2024-01-30",
-  "letterDate": "2024-01-26",
-  "company": "S & J International Enterprises Public Company Limited",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "marion-mullet-farm-665227-11282023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/marion-mullet-farm-665227-11282023",
   "postedDate": "2024-01-30",
@@ -19631,6 +19598,39 @@
   "company": "JJR Global Inc.",
   "office": "Division of Southwest Imports",
   "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "grace-supply-inc-668552-01082024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/grace-supply-inc-668552-01082024",
+  "postedDate": "2024-01-30",
+  "letterDate": "2024-01-08",
+  "company": "Grace Supply Inc.",
+  "office": "Division of Southwest Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "cavevi-naturals-llc-666694-11082023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/cavevi-naturals-llc-666694-11082023",
+  "postedDate": "2024-01-30",
+  "letterDate": "2023-11-08",
+  "company": "Cavevi Naturals LLC",
+  "office": "Division of Southwest Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "s-j-international-enterprises-public-company-limited-668482-01262024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/s-j-international-enterprises-public-company-limited-668482-01262024",
+  "postedDate": "2024-01-30",
+  "letterDate": "2024-01-26",
+  "company": "S & J International Enterprises Public Company Limited",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -19756,6 +19756,28 @@
   "closeoutDate": ""
  },
  {
+  "id": "prime-lab-llc-667057-01022024",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prime-lab-llc-667057-01022024",
+  "postedDate": "2024-01-09",
+  "letterDate": "2024-01-02",
+  "company": "Prime Lab LLC",
+  "office": "Office of Pharmaceutical Quality",
+  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "curexa-east-llc-dba-curexa-663403-09132023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/curexa-east-llc-dba-curexa-663403-09132023",
+  "postedDate": "2024-01-09",
+  "letterDate": "2023-09-13",
+  "company": "Curexa – East, LLC dba Curexa",
+  "office": "Office of Pharmaceutical Quality",
+  "subject": "Compounding Pharmacy/Adulterated Drug Products",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
   "id": "jeffrey-w-taub-mdchildrens-hospital-michigan-674545-12192023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jeffrey-w-taub-mdchildrens-hospital-michigan-674545-12192023",
   "postedDate": "2024-01-09",
@@ -19778,28 +19800,6 @@
   "closeoutDate": "2024-02-28"
  },
  {
-  "id": "deymed-diagnostic-sro-671076-11072023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/deymed-diagnostic-sro-671076-11072023",
-  "postedDate": "2024-01-09",
-  "letterDate": "2023-11-07",
-  "company": "Deymed Diagnostic s.r.o.",
-  "office": "\"OHT5: Office of Neurological and Physical Medicine Devices, Office of Product Evaluation and Quality\"",
-  "subject": "CGMP/QSR/Medical Devices/Adulterated",
-  "responseDate": "",
-  "closeoutDate": "2025-08-12"
- },
- {
-  "id": "woorilife-health-672936-12282023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/woorilife-health-672936-12282023",
-  "postedDate": "2024-01-09",
-  "letterDate": "2023-12-28",
-  "company": "Woorilife & Health",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "mimedx-group-inc-662942-12202023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mimedx-group-inc-662942-12202023",
   "postedDate": "2024-01-09",
@@ -19807,28 +19807,6 @@
   "company": "MiMedx Group, Inc.",
   "office": "Center for Biologics Evaluation and Research (CBER)",
   "subject": "Deviations/CFR/Regulations for Human Cells, Tissues & Cellular Products (HCT/Ps)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "prime-lab-llc-667057-01022024",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prime-lab-llc-667057-01022024",
-  "postedDate": "2024-01-09",
-  "letterDate": "2024-01-02",
-  "company": "Prime Lab LLC",
-  "office": "Office of Pharmaceutical Quality",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "curexa-east-llc-dba-curexa-663403-09132023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/curexa-east-llc-dba-curexa-663403-09132023",
-  "postedDate": "2024-01-09",
-  "letterDate": "2023-09-13",
-  "company": "Curexa – East, LLC dba Curexa",
-  "office": "Office of Pharmaceutical Quality",
-  "subject": "Compounding Pharmacy/Adulterated Drug Products",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -24706,39 +24684,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "sorcerzcom-656021-04192023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sorcerzcom-656021-04192023",
-  "postedDate": "2023-05-16",
-  "letterDate": "2023-04-19",
-  "company": "Sorcerz.com",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "Notice of Unlawful Sale of Unapproved Drugs to United States Consumers Over the Internet",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "garys-cheesecakes-fine-desserts-654471-04282023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/garys-cheesecakes-fine-desserts-654471-04282023",
-  "postedDate": "2023-05-16",
-  "letterDate": "2023-04-28",
-  "company": "Gary’s Cheesecakes & Fine Desserts",
-  "office": "Division of Human and Animal Food Operations East V",
-  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
-  "responseDate": "",
-  "closeoutDate": "2023-11-17"
- },
- {
-  "id": "islim-llc-655819-05032023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/islim-llc-655819-05032023",
-  "postedDate": "2023-05-16",
-  "letterDate": "2023-05-03",
-  "company": "iSlim, LLC",
-  "office": "Division of Pharmaceutical Quality Operations II",
-  "subject": "Unapproved New Drugs/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "califa-imports-inc-607634-05042023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/califa-imports-inc-607634-05042023",
   "postedDate": "2023-05-16",
@@ -24790,6 +24735,39 @@
   "company": "Pharmedica USA, LLC",
   "office": "Division of Pharmaceutical Quality Operations IV",
   "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "sorcerzcom-656021-04192023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sorcerzcom-656021-04192023",
+  "postedDate": "2023-05-16",
+  "letterDate": "2023-04-19",
+  "company": "Sorcerz.com",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "Notice of Unlawful Sale of Unapproved Drugs to United States Consumers Over the Internet",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "garys-cheesecakes-fine-desserts-654471-04282023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/garys-cheesecakes-fine-desserts-654471-04282023",
+  "postedDate": "2023-05-16",
+  "letterDate": "2023-04-28",
+  "company": "Gary’s Cheesecakes & Fine Desserts",
+  "office": "Division of Human and Animal Food Operations East V",
+  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+  "responseDate": "",
+  "closeoutDate": "2023-11-17"
+ },
+ {
+  "id": "islim-llc-655819-05032023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/islim-llc-655819-05032023",
+  "postedDate": "2023-05-16",
+  "letterDate": "2023-05-03",
+  "company": "iSlim, LLC",
+  "office": "Division of Pharmaceutical Quality Operations II",
+  "subject": "Unapproved New Drugs/Misbranded",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -24915,6 +24893,39 @@
   "closeoutDate": ""
  },
  {
+  "id": "pharmaplast-sae-648883-04132023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pharmaplast-sae-648883-04132023",
+  "postedDate": "2023-04-25",
+  "letterDate": "2023-04-13",
+  "company": "Pharmaplast S.A.E.",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "five-star-trading-il-inc-649717-03292023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/five-star-trading-il-inc-649717-03292023",
+  "postedDate": "2023-04-25",
+  "letterDate": "2023-03-29",
+  "company": "Five Star Trading IL, Inc.",
+  "office": "Division of Northern Border Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "pop-daddy-popcorn-llc-646807-03282023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pop-daddy-popcorn-llc-646807-03282023",
+  "postedDate": "2023-04-25",
+  "letterDate": "2023-03-28",
+  "company": "Pop Daddy Popcorn, LLC",
+  "office": "Division of Human and Animal Food Operations East VI",
+  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+  "responseDate": "",
+  "closeoutDate": "2024-02-12"
+ },
+ {
   "id": "spartan-enterprises-inc-dba-watershed-wellness-center-642030-03082023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/spartan-enterprises-inc-dba-watershed-wellness-center-642030-03082023",
   "postedDate": "2023-04-25",
@@ -24957,39 +24968,6 @@
   "subject": "Unapproved New Drugs/Misbranded",
   "responseDate": "",
   "closeoutDate": ""
- },
- {
-  "id": "pharmaplast-sae-648883-04132023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pharmaplast-sae-648883-04132023",
-  "postedDate": "2023-04-25",
-  "letterDate": "2023-04-13",
-  "company": "Pharmaplast S.A.E.",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "five-star-trading-il-inc-649717-03292023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/five-star-trading-il-inc-649717-03292023",
-  "postedDate": "2023-04-25",
-  "letterDate": "2023-03-29",
-  "company": "Five Star Trading IL, Inc.",
-  "office": "Division of Northern Border Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "pop-daddy-popcorn-llc-646807-03282023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pop-daddy-popcorn-llc-646807-03282023",
-  "postedDate": "2023-04-25",
-  "letterDate": "2023-03-28",
-  "company": "Pop Daddy Popcorn, LLC",
-  "office": "Division of Human and Animal Food Operations East VI",
-  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
-  "responseDate": "",
-  "closeoutDate": "2024-02-12"
  },
  {
   "id": "fuzion-vapor-llc-656635-04202023",
@@ -25421,39 +25399,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "emmons-livestock-643463-02102023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/emmons-livestock-643463-02102023",
-  "postedDate": "2023-03-14",
-  "letterDate": "2023-02-10",
-  "company": "Emmons Livestock",
-  "office": "Division of Human and Animal Food Operations East V",
-  "subject": "Unapproved New Animal Drug Products",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "atlantic-management-resources-ltd-dba-claire-ellen-products-642082-01202023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/atlantic-management-resources-ltd-dba-claire-ellen-products-642082-01202023",
-  "postedDate": "2023-03-14",
-  "letterDate": "2023-01-20",
-  "company": "Atlantic Management Resources LTD dba. Claire Ellen Products",
-  "office": "Division of Pharmaceutical Quality Operations I",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "b-j-group-641099-01192023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/b-j-group-641099-01192023",
-  "postedDate": "2023-03-14",
-  "letterDate": "2023-01-19",
-  "company": "B & J Group",
-  "office": "Division of Pharmaceutical Quality Operations I",
-  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "maggie-jeffries-md-avanti-anesthesiology-llc-646498-03032023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/maggie-jeffries-md-avanti-anesthesiology-llc-646498-03032023",
   "postedDate": "2023-03-14",
@@ -25527,6 +25472,39 @@
   "company": "Primal Pet Foods, Inc.",
   "office": "Division of Human and Animal Food Operations West V",
   "subject": "CGMP/Food for Animals/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "emmons-livestock-643463-02102023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/emmons-livestock-643463-02102023",
+  "postedDate": "2023-03-14",
+  "letterDate": "2023-02-10",
+  "company": "Emmons Livestock",
+  "office": "Division of Human and Animal Food Operations East V",
+  "subject": "Unapproved New Animal Drug Products",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "atlantic-management-resources-ltd-dba-claire-ellen-products-642082-01202023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/atlantic-management-resources-ltd-dba-claire-ellen-products-642082-01202023",
+  "postedDate": "2023-03-14",
+  "letterDate": "2023-01-20",
+  "company": "Atlantic Management Resources LTD dba. Claire Ellen Products",
+  "office": "Division of Pharmaceutical Quality Operations I",
+  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "b-j-group-641099-01192023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/b-j-group-641099-01192023",
+  "postedDate": "2023-03-14",
+  "letterDate": "2023-01-19",
+  "company": "B & J Group",
+  "office": "Division of Pharmaceutical Quality Operations I",
+  "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -26202,6 +26180,17 @@
   "closeoutDate": ""
  },
  {
+  "id": "ooo-elanders-643068-01202023",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ooo-elanders-643068-01202023",
+  "postedDate": "2023-01-31",
+  "letterDate": "2023-01-20",
+  "company": "OOO “Elanders”",
+  "office": "Center for Food Safety and Applied Nutrition",
+  "subject": "Seafood HACCP/CGMP for Foods/Adulterated",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
   "id": "kobayashi-healthcare-international-inc-637313-01272023",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kobayashi-healthcare-international-inc-637313-01272023",
   "postedDate": "2023-01-31",
@@ -26220,17 +26209,6 @@
   "company": "Fei Fah Medical Manufacturing Pte. Ltd.",
   "office": "Center for Drug Evaluation and Research | CDER",
   "subject": "CGMP/Finished Pharmaceuticals/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "ooo-elanders-643068-01202023",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ooo-elanders-643068-01202023",
-  "postedDate": "2023-01-31",
-  "letterDate": "2023-01-20",
-  "company": "OOO “Elanders”",
-  "office": "Center for Food Safety and Applied Nutrition",
-  "subject": "Seafood HACCP/CGMP for Foods/Adulterated",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -26763,6 +26741,28 @@
   "closeoutDate": ""
  },
  {
+  "id": "natures-way-farms-llc-641201-11212022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/natures-way-farms-llc-641201-11212022",
+  "postedDate": "2022-12-20",
+  "letterDate": "2022-11-21",
+  "company": "Nature’s Way Farms, LLC",
+  "office": "Division of Southwest Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "nortec-quimica-sa-639894-12082022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nortec-quimica-sa-639894-12082022",
+  "postedDate": "2022-12-20",
+  "letterDate": "2022-12-08",
+  "company": "Nortec Quimica SA",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
+  "responseDate": "",
+  "closeoutDate": "2023-10-30"
+ },
+ {
   "id": "chs-incchs-river-plains-642790-11302022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/chs-incchs-river-plains-642790-11302022",
   "postedDate": "2022-12-20",
@@ -26818,28 +26818,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "natures-way-farms-llc-641201-11212022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/natures-way-farms-llc-641201-11212022",
-  "postedDate": "2022-12-20",
-  "letterDate": "2022-11-21",
-  "company": "Nature’s Way Farms, LLC",
-  "office": "Division of Southwest Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "nortec-quimica-sa-639894-12082022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nortec-quimica-sa-639894-12082022",
-  "postedDate": "2022-12-20",
-  "letterDate": "2022-12-08",
-  "company": "Nortec Quimica SA",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
-  "responseDate": "",
-  "closeoutDate": "2023-10-30"
- },
- {
   "id": "dollar-tree-inc-629509-11082022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dollar-tree-inc-629509-11082022",
   "postedDate": "2022-12-20",
@@ -26862,17 +26840,6 @@
   "closeoutDate": "2026-07-30"
  },
  {
-  "id": "vape-king-inc-646625-12152022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vape-king-inc-646625-12152022",
-  "postedDate": "2022-12-15",
-  "letterDate": "2022-12-15",
-  "company": "Vape King Inc.",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "vapor-e-cigarette-llc-646876-12152022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vapor-e-cigarette-llc-646876-12152022",
   "postedDate": "2022-12-15",
@@ -26884,13 +26851,13 @@
   "closeoutDate": ""
  },
  {
-  "id": "thriftmaster-texas-llc-dba-thriftmaster-global-holdings-inc-and-tm-global-biosciences-llc-641057",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/thriftmaster-texas-llc-dba-thriftmaster-global-holdings-inc-and-tm-global-biosciences-llc-641057",
-  "postedDate": "2022-12-13",
-  "letterDate": "2022-12-05",
-  "company": "Thriftmaster Texas, LLC. d/b/a ThriftMaster Global Holdings, Inc. and TM Global Biosciences, LLC",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "Finished Pharmaceuticals/Unapproved New Drug/Misbranded/Adulterated Human Foods",
+  "id": "vape-king-inc-646625-12152022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vape-king-inc-646625-12152022",
+  "postedDate": "2022-12-15",
+  "letterDate": "2022-12-15",
+  "company": "Vape King Inc.",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -26901,6 +26868,17 @@
   "letterDate": "2022-11-21",
   "company": "Euphoria Fancy Food Inc.",
   "office": "Division of Northeast Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "cecilia-alvarez-643706-11222022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/cecilia-alvarez-643706-11222022",
+  "postedDate": "2022-12-13",
+  "letterDate": "2022-11-22",
+  "company": "Cecilia Alvarez",
+  "office": "Division of Southwest Imports",
   "subject": "Foreign Supplier Verification Program (FSVP)",
   "responseDate": "",
   "closeoutDate": ""
@@ -26928,17 +26906,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "cecilia-alvarez-643706-11222022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/cecilia-alvarez-643706-11222022",
-  "postedDate": "2022-12-13",
-  "letterDate": "2022-11-22",
-  "company": "Cecilia Alvarez",
-  "office": "Division of Southwest Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "gobwa-exotic-imports-inc-641031-11292022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gobwa-exotic-imports-inc-641031-11292022",
   "postedDate": "2022-12-13",
@@ -26946,6 +26913,17 @@
   "company": "Gobwa Exotic Imports Inc.",
   "office": "Division of Northeast Imports",
   "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "thriftmaster-texas-llc-dba-thriftmaster-global-holdings-inc-and-tm-global-biosciences-llc-641057",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/thriftmaster-texas-llc-dba-thriftmaster-global-holdings-inc-and-tm-global-biosciences-llc-641057",
+  "postedDate": "2022-12-13",
+  "letterDate": "2022-12-05",
+  "company": "Thriftmaster Texas, LLC. d/b/a ThriftMaster Global Holdings, Inc. and TM Global Biosciences, LLC",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "Finished Pharmaceuticals/Unapproved New Drug/Misbranded/Adulterated Human Foods",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -27896,28 +27874,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "ragin-vapors-641871-10202022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ragin-vapors-641871-10202022",
-  "postedDate": "2022-10-25",
-  "letterDate": "2022-10-20",
-  "company": "Ragin’ Vapors",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2024-09-16"
- },
- {
-  "id": "riteaid-corporation-643207-10192022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/riteaid-corporation-643207-10192022",
-  "postedDate": "2022-10-25",
-  "letterDate": "2022-10-19",
-  "company": "RiteAid Corporation",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "Failure to Comply with Drug Listing Requirements/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2022-12-27"
- },
- {
   "id": "nicotine-river-llc-642589-10192022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nicotine-river-llc-642589-10192022",
   "postedDate": "2022-10-25",
@@ -27929,6 +27885,17 @@
   "closeoutDate": ""
  },
  {
+  "id": "ragin-vapors-641871-10202022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ragin-vapors-641871-10202022",
+  "postedDate": "2022-10-25",
+  "letterDate": "2022-10-20",
+  "company": "Ragin’ Vapors",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2024-09-16"
+ },
+ {
   "id": "el-gordo-spices-llc-639957-09302022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/el-gordo-spices-llc-639957-09302022",
   "postedDate": "2022-10-25",
@@ -27938,6 +27905,17 @@
   "subject": "Seafood HACCP/CGMP for Foods/Adulterated/Insanitary Conditions",
   "responseDate": "",
   "closeoutDate": ""
+ },
+ {
+  "id": "riteaid-corporation-643207-10192022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/riteaid-corporation-643207-10192022",
+  "postedDate": "2022-10-25",
+  "letterDate": "2022-10-19",
+  "company": "RiteAid Corporation",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "Failure to Comply with Drug Listing Requirements/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2022-12-27"
  },
  {
   "id": "nephron-sc-inc-634647-10112022",
@@ -28688,28 +28666,6 @@
   "closeoutDate": "2026-05-28"
  },
  {
-  "id": "swmo-vape-shop-llc-638844-09082022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/swmo-vape-shop-llc-638844-09082022",
-  "postedDate": "2022-09-08",
-  "letterDate": "2022-09-08",
-  "company": "SWMO Vape Shop, LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "american-smoking-cessation-corp-dba-yeti-vape-640431-09082022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-smoking-cessation-corp-dba-yeti-vape-640431-09082022",
-  "postedDate": "2022-09-08",
-  "letterDate": "2022-09-08",
-  "company": "American Smoking Cessation Corp d/b/a Yeti Vape",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "singing-hawk-llc-dba-sin-city-vapor-640514-09082022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/singing-hawk-llc-dba-sin-city-vapor-640514-09082022",
   "postedDate": "2022-09-08",
@@ -28726,6 +28682,28 @@
   "postedDate": "2022-09-08",
   "letterDate": "2022-09-08",
   "company": "Staccato Ventures LLC d/b/a Carolina Vape Kings",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "swmo-vape-shop-llc-638844-09082022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/swmo-vape-shop-llc-638844-09082022",
+  "postedDate": "2022-09-08",
+  "letterDate": "2022-09-08",
+  "company": "SWMO Vape Shop, LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "american-smoking-cessation-corp-dba-yeti-vape-640431-09082022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-smoking-cessation-corp-dba-yeti-vape-640431-09082022",
+  "postedDate": "2022-09-08",
+  "letterDate": "2022-09-08",
+  "company": "American Smoking Cessation Corp d/b/a Yeti Vape",
   "office": "Center for Tobacco Products",
   "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
   "responseDate": "",
@@ -29249,6 +29227,28 @@
   "closeoutDate": ""
  },
  {
+  "id": "rev-products-llc-639730-08122022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/rev-products-llc-639730-08122022",
+  "postedDate": "2022-08-16",
+  "letterDate": "2022-08-12",
+  "company": "Rev Products LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "vapewell-supply-llc-639732-08122022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vapewell-supply-llc-639732-08122022",
+  "postedDate": "2022-08-16",
+  "letterDate": "2022-08-12",
+  "company": "Vapewell Supply LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
   "id": "oregons-wild-harvest-inc-621842-08082022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/oregons-wild-harvest-inc-621842-08082022",
   "postedDate": "2022-08-16",
@@ -29313,28 +29313,6 @@
   "subject": "Foreign Supplier Verification Program (FSVP)",
   "responseDate": "",
   "closeoutDate": "2023-04-04"
- },
- {
-  "id": "rev-products-llc-639730-08122022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/rev-products-llc-639730-08122022",
-  "postedDate": "2022-08-16",
-  "letterDate": "2022-08-12",
-  "company": "Rev Products LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "vapewell-supply-llc-639732-08122022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vapewell-supply-llc-639732-08122022",
-  "postedDate": "2022-08-16",
-  "letterDate": "2022-08-12",
-  "company": "Vapewell Supply LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
  },
  {
   "id": "boardwalk-elixir-638212-08112022",
@@ -33066,17 +33044,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "pbdragon-llc-626854-02112022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pbdragon-llc-626854-02112022",
-  "postedDate": "2022-02-22",
-  "letterDate": "2022-02-11",
-  "company": "PBDragon LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2022-06-22"
- },
- {
   "id": "freedom-smoke-usa-international-dba-freedom-smoke-usa-inc-626859-02112022",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/freedom-smoke-usa-international-dba-freedom-smoke-usa-inc-626859-02112022",
   "postedDate": "2022-02-22",
@@ -33185,6 +33152,17 @@
   "subject": "Unlawful Sale of Unapproved and Misbranded Drugs to United States Consumers Over the Internet",
   "responseDate": "",
   "closeoutDate": ""
+ },
+ {
+  "id": "pbdragon-llc-626854-02112022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pbdragon-llc-626854-02112022",
+  "postedDate": "2022-02-22",
+  "letterDate": "2022-02-11",
+  "company": "PBDragon LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2022-06-22"
  },
  {
   "id": "vapors-inc-dba-vapors-alabama-jasper-624054-02172022",
@@ -33979,17 +33957,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "pure-ground-ingredients-inc-639559-01032022",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pure-ground-ingredients-inc-639559-01032022",
-  "postedDate": "2022-01-11",
-  "letterDate": "2022-01-03",
-  "company": "Pure Ground Ingredients, Inc.",
-  "office": "Division of Human and Animal Food Operations West V",
-  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "aroma-imports-inc-617818-12232021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/aroma-imports-inc-617818-12232021",
   "postedDate": "2022-01-11",
@@ -34074,6 +34041,17 @@
   "company": "Tropic Trading Co.",
   "office": "Division of Southwest Imports",
   "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "pure-ground-ingredients-inc-639559-01032022",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/pure-ground-ingredients-inc-639559-01032022",
+  "postedDate": "2022-01-11",
+  "letterDate": "2022-01-03",
+  "company": "Pure Ground Ingredients, Inc.",
+  "office": "Division of Human and Animal Food Operations West V",
+  "subject": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
   "responseDate": "",
   "closeoutDate": ""
  },
@@ -34804,17 +34782,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "liv-health-llc-dba-infiniwell-and-deal-media-llc-dba-harmonia-613114-11232021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/liv-health-llc-dba-infiniwell-and-deal-media-llc-dba-harmonia-613114-11232021",
-  "postedDate": "2021-11-30",
-  "letterDate": "2021-11-23",
-  "company": "LIV Health LLC dba INFINIWELL and DEAL Media L.L.C. dba HARMONIA",
-  "office": "Office of Human and Animal Foods Operations‐East V",
-  "subject": "New Drug/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2022-07-05"
- },
- {
   "id": "mcelroy-imports-613680-05122021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mcelroy-imports-613680-05122021",
   "postedDate": "2021-11-30",
@@ -34892,6 +34859,17 @@
   "closeoutDate": "2022-02-15"
  },
  {
+  "id": "liv-health-llc-dba-infiniwell-and-deal-media-llc-dba-harmonia-613114-11232021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/liv-health-llc-dba-infiniwell-and-deal-media-llc-dba-harmonia-613114-11232021",
+  "postedDate": "2021-11-30",
+  "letterDate": "2021-11-23",
+  "company": "LIV Health LLC dba INFINIWELL and DEAL Media L.L.C. dba HARMONIA",
+  "office": "Office of Human and Animal Foods Operations‐East V",
+  "subject": "New Drug/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2022-07-05"
+ },
+ {
   "id": "surgenex-llc-615254-11152021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/surgenex-llc-615254-11152021",
   "postedDate": "2021-11-23",
@@ -34901,17 +34879,6 @@
   "subject": "Deviations/CFR/Regulations for Human Cells, Tissues & Cellular Products (HCT/Ps)",
   "responseDate": "",
   "closeoutDate": "2023-09-29"
- },
- {
-  "id": "california-terra-garden-inc-616499-11102021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/california-terra-garden-inc-616499-11102021",
-  "postedDate": "2021-11-23",
-  "letterDate": "2021-11-10",
-  "company": "California Terra Garden Inc.",
-  "office": "Division of West Coast Imports",
-  "subject": "Foreign Supplier Verification Program (FSVP)",
-  "responseDate": "",
-  "closeoutDate": ""
  },
  {
   "id": "smiths-medical-asd-inc-617147-10012021",
@@ -34964,6 +34931,17 @@
   "letterDate": "2021-09-07",
   "company": "Selected Food & Beverage, Inc.",
   "office": "Division of Southwest Imports",
+  "subject": "Foreign Supplier Verification Program (FSVP)",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "california-terra-garden-inc-616499-11102021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/california-terra-garden-inc-616499-11102021",
+  "postedDate": "2021-11-23",
+  "letterDate": "2021-11-10",
+  "company": "California Terra Garden Inc.",
+  "office": "Division of West Coast Imports",
   "subject": "Foreign Supplier Verification Program (FSVP)",
   "responseDate": "",
   "closeoutDate": ""
@@ -35420,50 +35398,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "new-green-nutrition-inc-615846-10142021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-615846-10142021",
-  "postedDate": "2021-10-26",
-  "letterDate": "2021-10-14",
-  "company": "New Green Nutrition, Inc.",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "Finished Pharmaceuticals/Unapproved New Drug/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "empower-clinic-services-llc-dba-empower-pharmacy-613792-10152021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/empower-clinic-services-llc-dba-empower-pharmacy-613792-10152021",
-  "postedDate": "2021-10-26",
-  "letterDate": "2021-10-15",
-  "company": "Empower Clinic Services, LLC dba Empower Pharmacy",
-  "office": "Office of Pharmaceutical Quality Operations, Division II",
-  "subject": "Compounding Pharmacy/Adulterated Drug Products",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "joseph-zadra-md-619451-10142021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/joseph-zadra-md-619451-10142021",
-  "postedDate": "2021-10-26",
-  "letterDate": "2021-10-14",
-  "company": "Joseph A. Zadra, M.D.",
-  "office": "Center for Drug Evaluation and Research | CDER",
-  "subject": "Clinical Investigator",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "flair-products-llcflair-vapor-llc-619418-10152021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/flair-products-llcflair-vapor-llc-619418-10152021",
-  "postedDate": "2021-10-26",
-  "letterDate": "2021-10-15",
-  "company": "Flair Products LLC/Flair Vapor LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "za-imports-inc-618774-10182021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/za-imports-inc-618774-10182021",
   "postedDate": "2021-10-26",
@@ -35546,6 +35480,50 @@
   "postedDate": "2021-10-26",
   "letterDate": "2021-10-22",
   "company": "Juice Roll Upz, Inc.",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "new-green-nutrition-inc-615846-10142021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/new-green-nutrition-inc-615846-10142021",
+  "postedDate": "2021-10-26",
+  "letterDate": "2021-10-14",
+  "company": "New Green Nutrition, Inc.",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "Finished Pharmaceuticals/Unapproved New Drug/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "empower-clinic-services-llc-dba-empower-pharmacy-613792-10152021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/empower-clinic-services-llc-dba-empower-pharmacy-613792-10152021",
+  "postedDate": "2021-10-26",
+  "letterDate": "2021-10-15",
+  "company": "Empower Clinic Services, LLC dba Empower Pharmacy",
+  "office": "Office of Pharmaceutical Quality Operations, Division II",
+  "subject": "Compounding Pharmacy/Adulterated Drug Products",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "joseph-zadra-md-619451-10142021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/joseph-zadra-md-619451-10142021",
+  "postedDate": "2021-10-26",
+  "letterDate": "2021-10-14",
+  "company": "Joseph A. Zadra, M.D.",
+  "office": "Center for Drug Evaluation and Research | CDER",
+  "subject": "Clinical Investigator",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "flair-products-llcflair-vapor-llc-619418-10152021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/flair-products-llcflair-vapor-llc-619418-10152021",
+  "postedDate": "2021-10-26",
+  "letterDate": "2021-10-15",
+  "company": "Flair Products LLC/Flair Vapor LLC",
   "office": "Center for Tobacco Products",
   "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
   "responseDate": "",
@@ -39600,6 +39578,17 @@
   "closeoutDate": ""
  },
  {
+  "id": "kidney-puncher-llc-613684-03262021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kidney-puncher-llc-613684-03262021",
+  "postedDate": "2021-03-30",
+  "letterDate": "2021-03-26",
+  "company": "Kidney Puncher LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
   "id": "grand-vapors-613962-03262021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/grand-vapors-613962-03262021",
   "postedDate": "2021-03-30",
@@ -39820,72 +39809,6 @@
   "closeoutDate": ""
  },
  {
-  "id": "philosophers-stone-llc-613737-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/philosophers-stone-llc-613737-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "The Philosopher's Stone, LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2021-07-20"
- },
- {
-  "id": "clean-vape-613733-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/clean-vape-613733-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "The Clean Vape",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2021-07-21"
- },
- {
-  "id": "tooters-vape-shop-613735-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tooters-vape-shop-613735-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "Tooters Vape Shop",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "vapinusa-wi-llc-dba-vapinusa-613740-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vapinusa-wi-llc-dba-vapinusa-613740-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "VapinUSA WI LLC d/b/a VapinUSA",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
-  "id": "revolution-vapor-llc-613743-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revolution-vapor-llc-613743-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "Revolution Vapor LLC",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": "2021-06-23"
- },
- {
-  "id": "dieselbycg-hometown-vape-lounge-613741-03122021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dieselbycg-hometown-vape-lounge-613741-03122021",
-  "postedDate": "2021-03-12",
-  "letterDate": "2021-03-12",
-  "company": "Dieselbycg-Hometown Vape Lounge",
-  "office": "Center for Tobacco Products",
-  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
-  "responseDate": "",
-  "closeoutDate": ""
- },
- {
   "id": "boardwalk-elixir-llc-613738-03122021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/boardwalk-elixir-llc-613738-03122021",
   "postedDate": "2021-03-12",
@@ -39961,6 +39884,72 @@
   "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
   "responseDate": "",
   "closeoutDate": "2022-09-14"
+ },
+ {
+  "id": "philosophers-stone-llc-613737-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/philosophers-stone-llc-613737-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "The Philosopher's Stone, LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2021-07-20"
+ },
+ {
+  "id": "clean-vape-613733-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/clean-vape-613733-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "The Clean Vape",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2021-07-21"
+ },
+ {
+  "id": "tooters-vape-shop-613735-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tooters-vape-shop-613735-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "Tooters Vape Shop",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "vapinusa-wi-llc-dba-vapinusa-613740-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/vapinusa-wi-llc-dba-vapinusa-613740-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "VapinUSA WI LLC d/b/a VapinUSA",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
+ },
+ {
+  "id": "revolution-vapor-llc-613743-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revolution-vapor-llc-613743-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "Revolution Vapor LLC",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": "2021-06-23"
+ },
+ {
+  "id": "dieselbycg-hometown-vape-lounge-613741-03122021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dieselbycg-hometown-vape-lounge-613741-03122021",
+  "postedDate": "2021-03-12",
+  "letterDate": "2021-03-12",
+  "company": "Dieselbycg-Hometown Vape Lounge",
+  "office": "Center for Tobacco Products",
+  "subject": "Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded",
+  "responseDate": "",
+  "closeoutDate": ""
  },
  {
   "id": "evelyn-lopez-brignoni-md-612542-03022021",
@@ -40062,6 +40051,17 @@
   "closeoutDate": "2025-03-31"
  },
  {
+  "id": "shenzhen-sunell-technology-corporation-613563-03042021",
+  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/shenzhen-sunell-technology-corporation-613563-03042021",
+  "postedDate": "2021-03-04",
+  "letterDate": "2021-03-04",
+  "company": "Shenzhen Sunell Technology Corporation",
+  "office": "Center for Devices and Radiological Health",
+  "subject": "Adulterated and Misbranded Products Related to Coronavirus Disease 2019 (COVID-19)",
+  "responseDate": "",
+  "closeoutDate": "2023-07-27"
+ },
+ {
   "id": "thermavis-613564-03042021",
   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/thermavis-613564-03042021",
   "postedDate": "2021-03-04",
@@ -40137,17 +40137,6 @@
   "subject": "Adulterated and Misbranded Products Related to Coronavirus Disease 2019 (COVID-19)",
   "responseDate": "",
   "closeoutDate": ""
- },
- {
-  "id": "shenzhen-sunell-technology-corporation-613563-03042021",
-  "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/shenzhen-sunell-technology-corporation-613563-03042021",
-  "postedDate": "2021-03-04",
-  "letterDate": "2021-03-04",
-  "company": "Shenzhen Sunell Technology Corporation",
-  "office": "Center for Devices and Radiological Health",
-  "subject": "Adulterated and Misbranded Products Related to Coronavirus Disease 2019 (COVID-19)",
-  "responseDate": "",
-  "closeoutDate": "2023-07-27"
  },
  {
   "id": "safalab-inc-611233-02182021",
