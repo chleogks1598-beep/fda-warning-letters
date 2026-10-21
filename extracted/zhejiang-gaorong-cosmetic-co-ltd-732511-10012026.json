@@ -1,0 +1,47 @@
+{
+ "headlineKo": "원료 확인시험 미실시·공급자 COA 무검증 수용, 품질부서 감독 부실",
+ "summaryKo": "FDA는 2026-01-20 요청에 따라 FD&C Act 704(a)(4)에 근거해 중국 저장성 Zhejiang Gaorong Cosmetic Co., Ltd.(FEI 3009819718)가 제출한 기록을 검토했으며, 현장 실사는 없었다. 그 결과 CGMP 위반 2건이 지적됐다. 고위험 원료의 확인·불순물 시험을 하지 않았고 공급자 COA를 신뢰성 검증 없이 수용했으며, 품질부서가 배치생산기록과 안정성 자료를 제대로 감독하지 않았다. FDA는 2026-07-31 이 회사 의약품 전체를 수입경보 66-40에 올렸다. 또 CGMP 컨설턴트를 고용하고, 고위험 원료 보관검체 시험 결과를 30일 이내에 제출하며, 오염된 로트는 리콜을 포함해 조치하라고 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 88 Xixi Street, Linjiang Industrial Park, Jinhua Shi, Zhejiang Sheng, 321204, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1), 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시 및 공급자 시험 신뢰성 미검증",
+   "detailKo": "제출된 기록에서 입고 원료의 각 출하분·각 로트를 사용 전에 적절히 시험했다는 근거가 확인되지 않았다. 오염 위험이 있거나 고위험인 원료(비공개)에 대해서도 확인시험과 불순물시험 기록이 적절하지 않았다. 원료의약품(API)은 공급자 COA만 보고 받아들였으며, 공급자 시험의 신뢰성을 주기적으로 검증하지 않았다. FDA는 이런 원료 오염(비공개)이 전 세계에서 여러 차례 치명적인 중독 사고로 이어졌다고 지적했다.",
+   "responseKo": "FDA는 각 로트의 확인시험 이행 약속, 고위험 원료 보관검체의 시험 결과(30일 이내), 유효기간 내 제품 위험평가와 리콜 등의 조치, 원자재 시스템에 대한 독립 검토를 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22(a)",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 권한·책임 미이행",
+   "detailKo": "품질부서(QU)가 의약품 제조 운영의 품질을 실질적으로 감독하지 않았다. 배치생산기록에 세부 내용이 완전하게 기재되도록 관리하지 않았다. 제품 유효기간을 뒷받침할 안정성 자료도 확보되었는지 확인하지 않았다.",
+   "responseKo": "FDA는 QU가 권한과 자원을 갖추도록 하는 종합 평가와 개선 계획을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2026-07-31)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록검토",
+  "원료 확인시험",
+  "공급자 COA 신뢰성",
+  "고위험 원료 오염",
+  "품질부서 감독",
+  "안정성 자료"
+ ],
+ "id": "zhejiang-gaorong-cosmetic-co-ltd-732511-10012026",
+ "extractedAt": "2026-10-21T23:14:46Z",
+ "sourceChars": 12018
+}
