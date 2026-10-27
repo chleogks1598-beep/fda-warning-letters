@@ -1,0 +1,47 @@
+{
+ "headlineKo": "ISO 5 미생물 반복 검출 미조사·EM 배지 살균제 노출",
+ "summaryKo": "FDA는 2026년 5월 26~29일 노스다코타주 Bismarck의 PET 의약품 제조소 Northland Nuclear Medicine을 실사했다. 이 실사에서 21 CFR part 212(PET 의약품 CGMP) 위반 2건이 지적됐다. 첫째는 환경모니터링(EM) 기준 초과와 반복되는 저수율에 대한 조사·CAPA가 미흡했다는 점이다. 둘째는 EM 배지 관리, 동적 스모크 스터디, 표면 소독 등 오염 관리가 부적절했다는 점이다. 회사는 2026년 6월 11일 Form 483에 답변했으나, FDA는 근거 문서와 시정 증거가 없고 과거 데이터·출하 판정에 대한 소급 평가가 없다며 부적절하다고 판단했다. 2023년 12월 13일 규제 회의에서 논의된 위반이 반복됐다는 점도 지적됐으며, FDA는 CGMP 컨설턴트 고용을 권고했다.",
+ "inspectionStart": "2026-05-26",
+ "inspectionEnd": "2026-05-29",
+ "facility": "1815 Michigan Ave., Bismarck, ND 58504-6121",
+ "form483ResponseDate": "2026-06-11",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 212.20(d)",
+   "area": "품질시스템",
+   "titleKo": "EM 기준 초과 및 저수율 반복에 대한 조사·CAPA 미흡",
+   "detailKo": "2024년 3월~2026년 4월 EM 데이터를 보면 LAFW 등 ISO 5 구역에서 미생물이 100건 넘게 검출되는 부정적 경향이 있었으나, 균 동정 없이 90건 이상을 '이전에 동정된 Bacillus 집락과 유사' 등으로만 기록했다. 2024년 12월 이후 ISO 5 검출 약 75건 중 정식 동정 의뢰는 2건뿐이었고, 2025년 9월 이후에는 EM 로그에 속·종이 전혀 기록되지 않았다. ISO 7 청정실 인증에서도 조치기준을 넘는 검출(Pseudopithomyces palmicola, Micrococcus spp., coryneform bacillus 등)이 있었으나 조사를 개시하지 않았다. 아울러 2024년 8월~2025년 4월 수율 기준 미달 배치를 조사하지 않았다. 저수율 CAPA는 유효성 확인 없이 종결됐고, 근본원인을 찾는 대신 수율 기준을 낮췄으며, 낮춘 기준에도 계속 미달했다.",
+   "responseKo": "앞으로 ISO 5 검출균을 동정하고 인원을 재교육하겠다고 답했으나, FDA는 미동정 검출균과 경향에 대한 소급 평가, 과거 출하 판정의 적정성 평가, 포자형성균·진균 존재에 대한 대응이 없다고 지적했다. 또 저수율의 근본원인 규명과 수율 기준 하향의 적정성 검토가 빠져 있어 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 212.30(b)",
+   "area": "무균·멸균",
+   "titleKo": "EM 배지 관리·기류시험·표면 소독 절차 미준수",
+   "detailKo": "EM 접촉 배지를 샘플링 전후로 다량의 살포자성 용액(비공개)이 든 용기에 보관했고, 이것이 미생물 회수에 미치는 영향을 평가하지 않아 위음성 가능성이 있다. ISO 5 구역 스모크 스터디에는 LAFW와 (비공개) 작업에 대한 동적 평가가 포함되지 않았다. 무균 제조 전에 (비공개) 외부 표면을 적절히 소독하지 않았고, 해당 표면의 세척·소독 문서 절차도 없었다.",
+   "responseKo": "EM 배지 분무 중단, 모의작업 시 자재 반입 포함, 소독 재교육을 약속했다. 그러나 FDA는 과거 EM 데이터의 신뢰성과 출하 판정에 대한 소급 평가, 실제 조건에서의 검증된 동적 기류 평가, 문서화된 소독 절차가 없어 부적절하다고 평가했다.",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "PET 의약품",
+  "환경모니터링 미생물 동정",
+  "CAPA 유효성",
+  "수율 기준 하향",
+  "무균공정 스모크테스트",
+  "반복 위반"
+ ],
+ "id": "northland-nuclear-medicine-llc-736893-10222026",
+ "extractedAt": "2026-10-27T23:13:38Z",
+ "sourceChars": 20872
+}

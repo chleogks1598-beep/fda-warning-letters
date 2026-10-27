@@ -1,0 +1,56 @@
+{
+ "headlineKo": "선크림 완제품 함량·미생물 시험 누락, 원료 확인시험 미실시",
+ "summaryKo": "FDA는 2025년 9월 9일 FD&C Act 704(a)(4)에 따라 싱가포르 OTC 선크림 제조소 TSP Solutions Pte. Ltd.에 기록을 요청했고, 이 회사가 제출한 기록과 후속 서신을 서면 검토했다(현장 실사 아님). 검토 결과 CGMP 위반 3건이 지적됐다: 완제품 출하시험(유효성분 함량·불순물·미생물) 누락, 원료 확인시험 미실시 및 공급자 COA 신뢰성 미검증, 품질부서의 책임 미이행이다. FDA는 2026년 8월 14일 이 회사의 모든 의약품을 수입경보 66-40에 올렸다. 또 자격 있는 CGMP 컨설턴트를 고용해 6개 시스템 전체를 감사받으라고 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Block 998 Toa Payoh North, #05-05/06 Mapletree Industrial, Singapore 318993, Singapore",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a), 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격시험·미생물시험 미실시",
+   "detailKo": "회사는 선크림 의약품을 제조한다. 회사가 제출한 시험성적서(COA)와 배치기록 어디에도 유효성분 함량시험이나 불순물시험이 없었다. 적절한 미생물시험 기록도 없었다. FDA는 출하·유통 전에 유효성분 확인·함량시험과 미생물시험을 포함한 전체 출하시험을 해야 하며, 이 시험 없이는 제품이 규격에 맞는다는 과학적 근거가 없다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.84(d)(1), 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료 확인시험 미실시, 공급자 COA 신뢰성 미검증",
+   "detailKo": "회사는 입고 원료마다 확인시험을 한다는 것을 입증하지 못했다. 원료 품질 확인은 공급자가 보낸 COA와 물질안전보건자료(MSDS)를 검토하는 데 그쳤다. 공급자 COA 결과를 정해진 주기로 검증하지 않고 그대로 받아들였다. FDA는 제조사가 생산에 쓰기 전에 원료를 직접 검체채취·시험·검사할 책임이 있다고 지적했다.",
+   "responseKo": "회사 답변에서 공급자 COA를 주기적 검증 없이 받아들이고 있다는 사실이 확인됐다. FDA는 원료 관리 시스템 전반을 독립적으로 검토하고, 입고 로트마다 확인시험을 하겠다는 약속과 COA 검증 프로그램을 제출하라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서가 CGMP 준수·규격 적합 보장 책임 미이행",
+   "detailKo": "회사는 의약품 제조를 감독할 책임과 권한을 가진 품질부서를 제대로 갖추지 못했다. 품질부서는 다음을 보장하지 못했다: 생산·공정관리 및 제조설비 적격성평가 절차(21 CFR 211.100(a)), 확인·함량·품질·순도를 보장하는 시험실 관리 절차(21 CFR 211.160(b)), 지속적인 안정성 시험 프로그램 수립(21 CFR 211.166(a)). FDA는 회사의 품질시스템이 부적절하다고 판단했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2026-08-14)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록 검토",
+  "완제품 출하시험",
+  "원료 확인시험",
+  "공급자 COA 검증",
+  "품질부서 책임",
+  "안정성 프로그램"
+ ],
+ "id": "tsp-solutions-pte-ltd-735071-10222026",
+ "extractedAt": "2026-10-27T23:13:31Z",
+ "sourceChars": 11946
+}
