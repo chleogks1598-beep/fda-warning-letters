@@ -1,0 +1,47 @@
+{
+ "headlineKo": "사용 금지 색소 FD&C Red No. 2 사용, 품질부서 감독 부실",
+ "summaryKo": "FDA는 2026년 5월 1일 FD&C Act 704(a)(4)에 따라 광저우 소재 OTC 의약품 수탁제조소에 기록 제출을 요청했고, 제출 기록을 서면으로 검토했다. 실사는 없었다. 검토 결과 한 OTC 제품(품명 비공개)에 1976년 사용 금지된 색소 CI 16185(FD&C Red No. 2, Amaranth)가 들어 있어 501(a)(4)(A)에 따른 불량의약품으로 판정됐다. 라벨·배합표·COA에 적힌 색소가 서로 달라 품질부서(QU)의 감독 부실도 지적됐다. FDA는 2026년 7월 28일과 8월 5일 두 차례 해명을 요청했지만 회사는 답하지 않았다. FDA는 미국 유통 배치의 위험 평가와 고객 통지·리콜 등 조치 계획을 요구했고, 위반을 시정하지 않으면 신규 허가를 보류하고 801(a)(3)에 따라 수입을 거부할 수 있다고 경고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 3 Yiheng Road, Nanling Gongye Districtqinghu Ma Tian Street, Jiahe Street, Baiyun District, Guangzhou, Guangdong",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 81.30(j)(1); FD&C Act 501(a)(4)(A), 721(a)",
+   "area": "원자재·공급자",
+   "titleKo": "사용 금지 색소 FD&C Red No. 2를 제품에 사용",
+   "detailKo": "제품 라벨을 검토한 결과, 한 OTC 제품(품명 비공개)에 색소 CI 16185(FD&C Red No. 2, Amaranth)가 들어 있었다. FDA는 이 색소의 안전성이 입증되지 않아 1976년에 인증을 취소하고 허용 목록에서 삭제했다. 21 CFR 81.30(j)(1)에 따라 1976년 1월 28일 이후 이 색소를 쓴 의약품은 불량의약품이 된다. FDA는 금지 색소가 배합에 포함된 것 자체가 원료 적격성 평가와 배합 검토 절차에 대한 QU 검토가 부실하다는 뜻이라고 판단했다.",
+   "responseKo": "FDA는 별칭까지 포함해 전 제품 배합의 색소 적합성을 위험 평가하고, 미국 유통 배치에 대해 고객 통지·리콜·시장 회수를 포함한 조치 계획을 내라고 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서가 CGMP 준수 감독 책임을 다하지 않음",
+   "detailKo": "제출 자료에 적힌 색소가 문서마다 달랐다. 라벨에는 CI 16185(FD&C Red No. 2)가 적혀 있었다. 별도로 제출한 배합 성분 정보에는 두 번째 색소(비공개)가, COA에는 세 번째 색소(비공개)가 적혀 있었다. FDA는 2026년 7월 28일 이 불일치를 해명해 달라고 전자 요청을 보냈고, 2026년 8월 5일 후속 요청도 보냈다.",
+   "responseKo": "회사는 두 차례 해명 요청에 모두 답하지 않았다. FDA는 QU 권한·자원에 대한 종합 평가와 개선 계획, 문서 정확성 평가, 최근 3년간 미국 유통 제품·고객 목록, 제품 소유자와의 품질 계약서를 요구했다.",
+   "dataIntegrity": true
+  }
+ ],
+ "flags": {
+  "importAlert": "",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "사용 금지 색소",
+  "FD&C Red No. 2",
+  "품질부서 감독",
+  "704(a)(4) 기록 검토",
+  "문서 불일치",
+  "수탁제조 책임"
+ ],
+ "id": "guangzhou-jiugong-research-and-development-biotechnology-co-ltd-737769-10272026",
+ "extractedAt": "2026-11-03T23:03:31Z",
+ "sourceChars": 10738
+}

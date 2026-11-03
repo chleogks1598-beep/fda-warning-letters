@@ -1,0 +1,56 @@
+{
+ "headlineKo": "원료 확인·DEG/EG 한도시험 미실시, 완제품 출하시험 누락",
+ "summaryKo": "FDA 는 2026-01-20 자 FD&C Act 704(a)(4) 기록 제출 요청에 따라 Guangdong Bangze Medicine Co., Ltd.(중국 산터우, OTC 의약품 제조소)가 낸 기록을 서면 검토했고, 현장 실사는 하지 않았다. 지적은 3건이다. 원료 확인·순도·함량 시험 미실시와 공급자 COA 의존, 완제품 출하 전 확인·함량·불순물·미생물 시험 누락, 품질부서 감독 실패(안정성 프로그램과 (비공개) 시스템 적격성 확인 미흡)다. FDA 는 2026-08-07 이 회사의 모든 의약품을 수입경보 66-40 에 올렸고, 21 CFR 211.34 요건을 갖춘 CGMP 컨설턴트를 고용해 6대 시스템 전반을 감사받으라고 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "No. 300 Shangfang Avenue, Simapu Town, Chaonan Qu, Shantou Shi, Guangdong Sheng, 515149, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.84(d)(1), 211.84(d)(2)",
+   "area": "원자재·공급자",
+   "titleKo": "원료의 확인·순도·함량 시험 및 규격 적합성 확인 미실시",
+   "detailKo": "제출 기록상 회사는 원료의 확인·순도·함량 시험을 제대로 했다는 것을 입증하지 못했다. 또 공급자 시험의 신뢰성을 주기적으로 검증하지 않은 채 공급자 COA 에만 의존했다. (비공개) 주성분의 입고 시험 기록에는 약전 확인시험·함량시험·불순물시험이 없었다. 다른 (비공개) 원료도 약전 확인시험과 (비공개) 한도시험이 빠져 있었다. FDA 는 이런 오염 원료가 전 세계에서 치명적 중독 사고를 일으켰다고 지적했다. 또 다른 (비공개) 원료는 규격이 USP 대신 중국약전을 근거로 했고, 적절한 (비공개) 시험도 하지 않았다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.165(a), 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "완제품 출하 전 확인·함량 및 미생물 시험 미실시",
+   "detailKo": "제출 기록상 회사는 미국으로 출하하는 OTC 완제품을 출하 전에 제대로 시험했다는 것을 입증하지 못했다. 회사가 제출한 COA 에는 확인·함량·불순물 시험 결과가 없었다. 또 배치별 유해 미생물 시험도 제대로 하지 않은 것으로 나타났다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 CGMP 준수·규격 적합성 감독 책임 미이행",
+   "detailKo": "제출 기록상 품질부서는 제조 작업의 품질 감독 책임을 제대로 다하지 못했다. 적절한 상시 안정성 프로그램을 세우지 않았다(21 CFR 211.166(a)). 또 (비공개) 시스템의 적격성 확인을 포함해 생산·공정 관리 절차를 적절히 갖추지 못했다(21 CFR 211.100(a)).",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2026-08-07)",
+  "recall": false,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록검토",
+  "원료 확인시험",
+  "DEG/EG 한도시험",
+  "공급자 COA 의존",
+  "완제품 출하시험",
+  "안정성 프로그램"
+ ],
+ "id": "guangdong-bangze-medicine-co-ltd-734509-10262026",
+ "extractedAt": "2026-11-03T23:03:34Z",
+ "sourceChars": 10322
+}
