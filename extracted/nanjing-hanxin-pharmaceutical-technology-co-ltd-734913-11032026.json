@@ -1,0 +1,47 @@
+{
+ "headlineKo": "부적합 공급자 원료 사용, 실제 API 제조원 은폐 의혹",
+ "summaryKo": "FDA는 실사 대신 FD&C Act 704(a)(4)에 따라 2025년 11월 18일 기록을 요청하고 이후 추가 서신을 주고받아, 원료의약품(API) 제조소인 Nanjing Hanxin Pharmaceutical Technology의 제출 기록을 검토했다. 품질부서(QU)가 핵심 출발물질 공급자를 제대로 적격성 평가하지 않은 점이 지적됐다. 해당 공급자는 FDA 실사 결과 CGMP 부적합으로 수입경보 66-40에 올라 있는 업체다. 또 FDA는 실제 제조원이 아닌 이 회사를 제조원으로 내세운 것이 안전장치를 우회하려는 시도였을 수 있다고 우려했다. 그 밖에 503A·503B 조제에 쓸 수 없는 API가 등록 목록에 올라 있다는 점도 함께 지적됐다. FDA는 2026년 6월 22일 이 회사의 모든 수입 의약품을 수입경보 66-40에 올렸고, 부적합 공급자 원료로 만든 로트는 고객사에 서면으로 알리라고 요구했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Building C5, No. 9, Weidi Road, Xianlin University Town, Nanjing, Jiangsu",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "",
+   "area": "원자재·공급자",
+   "titleKo": "품질부서가 핵심 원료 공급자 적격성 평가를 하지 않음",
+   "detailKo": "이 회사는 무균 완제의약품 생산과 약국 조제에 쓰이는 (비공개) API를 제조한다. 그런데 QU가 (비공개) API 제조에 쓰는 핵심 원료의 공급자를 제대로 적격성 평가하지 않았다. 회사는 704(a)(4) 기록 요청에 응하면서 해당 API 제조 문서를 하나도 내지 않았다. 추가 요청을 받고서야 2025년 11월 이후 생산을 자회사(비공개)로 옮겼다고 답했다. 회사가 적격 공급자로 정한 핵심 출발물질 공급자는 FDA 실사에서 CGMP 부적합 판정을 받아 수입경보 66-40에 오른 업체였다. FDA는 실제 제조원 대신 이 회사를 제조원으로 내세운 것이 안전장치를 우회하려는 시도였을 수 있고, 환자가 품질이 낮은 API를 받게 될 위험이 있다고 우려했다.",
+   "responseKo": "FDA는 회사의 공급자 관리가 불충분하다고 평가했다. 공급자 적격성 프로그램 CAPA, QU 권한·자원 평가, 재시험일 근거가 되는 안정성 데이터, 최근 3년 유통 품목과 원 제조원 목록을 요구했다. 부적합 공급자 원료로 만든 로트는 고객사에 서면으로 알리라고도 요구했다.",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "FD&C Act 503A, 503B",
+   "area": "허가·표시",
+   "titleKo": "조제에 쓸 수 없는 API를 등록 목록에 올림(미승인 의약품 수입)",
+   "detailKo": "이 회사의 제조소 등록 목록에는 704(a)(4) 기록 요청에 대한 답변에서 빠진 API가 여럿 있었다. 이 API들은 요청 시점에 모두 활성 상태였고, (비공개)도 그중 하나다. FDA는 (비공개)가 FD&C Act 503A·503B에 따른 인체용 의약품 조제에 쓸 수 없는 API라고 통지했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2026-06-22)",
+  "recall": false,
+  "consultantRecommended": false,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록 검토",
+  "공급자 적격성 평가",
+  "품질부서 책임",
+  "수입경보 66-40",
+  "제조원 은폐 의혹",
+  "조제용 API"
+ ],
+ "id": "nanjing-hanxin-pharmaceutical-technology-co-ltd-734913-11032026",
+ "extractedAt": "2026-11-10T23:26:31Z",
+ "sourceChars": 8868
+}
