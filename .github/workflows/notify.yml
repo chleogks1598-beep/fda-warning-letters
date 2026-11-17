@@ -5,11 +5,14 @@ name: Notify FDA Warning Letter
 #
 # ★ 문서·스크립트만 푸시하면 이 워크플로우는 돌지 않는다(paths 필터). data.json 이 바뀐
 #   푸시에서만 메일이 간다 — 문서 커밋마다 메일이 오는 일을 막으려는 의도다.
+# ★2026-11-17 push 트리거 해제: 이 저장소엔 Gmail 시크릿이 없어 발송이 늘 530 실패했다.
+#   실제 발송은 nedrug-gmp-dashboard 의 fda-notify-relay.yml 이 맡는다(로컬 스케줄러가 호출).
+#   시크릿을 등록하게 되면 아래 push 블록을 되살리고 run-local-update.mjs 의 relayNotify 를 끌 것.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'public/data.json'
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'public/data.json'
   workflow_call:
     inputs:
       ref:

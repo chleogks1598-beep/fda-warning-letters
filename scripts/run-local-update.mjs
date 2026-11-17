@@ -84,6 +84,45 @@ function push(label) {
   throw new Error(`${label} push 를 3회 시도 후 포기`);
 }
 
+// ── 메일 대리 발송 ──
+// 이 저장소엔 Gmail 시크릿이 없다(2026-09-11~11-17 알림 64회 전부 530 실패, 앱 비밀번호 재발급 불가).
+// 그래서 메일은 nedrug-gmp-dashboard 저장소의 fda-notify-relay.yml 이 그쪽 시크릿으로 보낸다.
+// 마지막으로 넘긴 커밋을 .last-notified 에 적어 두고 다음 비교 기준으로 쓰므로,
+// 호출이 한 번 실패해도(DNS 등) 다음 회차가 그 사이 변화를 한 통으로 이어서 보낸다.
+// 변화가 없는 커밋이면 relay 쪽 build-email 이 send=false 로 알아서 생략한다.
+const LAST = path.join(ROOT, ".last-notified");
+const RELAY_REPO = "chleogks1598-beep/nedrug-gmp-dashboard";
+function relayNotify() {
+  let head;
+  try {
+    head = git(["rev-parse", "HEAD"]);
+    git(["merge-base", "--is-ancestor", head, "origin/main"]); // push 안 된 커밋이면 예외
+  } catch {
+    log("메일 대리발송 보류 — 아직 push 되지 않은 커밋");
+    return;
+  }
+  let last = "";
+  try {
+    last = fs.readFileSync(LAST, "utf8").trim();
+  } catch {}
+  if (last === head) return;
+  const args = ["workflow", "run", "fda-notify-relay.yml", "-R", RELAY_REPO, "-f", `ref=${head}`];
+  if (last) args.push("-f", `prev_ref=${last}`);
+  for (const gh of ["gh", "C:\\Program Files\\GitHub CLI\\gh.exe"]) {
+    try {
+      execFileSync(gh, args, { cwd: ROOT, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
+      fs.writeFileSync(LAST, head + "\n");
+      log(`메일 대리발송 요청 — ${head.slice(0, 7)} (기준 ${last ? last.slice(0, 7) : "직전 커밋"})`);
+      return;
+    } catch (e) {
+      if (e.code === "ENOENT") continue;
+      log(`⚠ 메일 대리발송 요청 실패(다음 회차에 이어서 보냄) — ${String(e.stderr || e.message || e).slice(0, 200)}`);
+      return;
+    }
+  }
+  log("⚠ 메일 대리발송 요청 실패 — gh 를 찾을 수 없음");
+}
+
 function main() {
   log("=== 갱신 시작 ===");
   const repo = isRepo();
@@ -138,6 +177,7 @@ function main() {
     // 등록 제조소만 바뀐 커밋은 notify.yml(paths: public/data.json)을 깨우지 않는다 — 메일은 warning letter 변화에만 간다.
     if (commit(msg, ["public/data.json", "public/establishments.json", "extracted", "newdocs/list.json"])) push("데이터");
     else if (!DRY) log("변경 없음 — 커밋할 것이 없습니다.");
+    if (!DRY) relayNotify();
   }
   log("=== 갱신 끝 ===");
 }
