@@ -1,0 +1,56 @@
+{
+ "headlineKo": "멸균 표시 OTC 제품 무균시험·출하시험 미실시, 공정밸리데이션 부재",
+ "summaryKo": "FDA 는 실사 대신 FD&C Act 704(a)(4)에 근거해 Shenzhen Benliju Biotech(중국 선전)의 기록을 서면으로 검토했다. 2026년 1월 20일 기록 제출을 요청했고, 이후 오간 서신까지 검토해 CGMP 위반 3건을 지적했다. 지적 내용은 '멸균' 표시 OTC 제품을 포함한 완제품의 출하시험·무균시험 미실시, 공정밸리데이션 절차와 연구 부재, 품질부서의 실험실 관리·안정성 프로그램 감독 소홀이다. FDA 는 2026년 9월 30일 이 회사를 수입경보 66-40에 올렸다. 10월 21일 원격회의에서는 유효기간 내 '멸균' 표시 전 로트의 리콜을 권고했고 회사는 10월 22일 이에 동의했다. FDA 는 CGMP 컨설턴트를 고용하라고도 권고했다.",
+ "inspectionStart": "",
+ "inspectionEnd": "",
+ "facility": "Factory Building 303, Qihong Pinshun Industrial Park, 105 Pinshun Road, Guixiang Community, Guanlan Street, Shenzhen, Guangdong 518000, China",
+ "form483ResponseDate": "",
+ "violations": [
+  {
+   "no": 1,
+   "cfr": "21 CFR 211.165(a), 211.165(b)",
+   "area": "시험·QC",
+   "titleKo": "출하 전 완제품 규격시험 및 미생물시험 미실시",
+   "detailKo": "회사는 '멸균(sterile)'으로 표시된 OTC 의약품((비공개))을 제조한다. 그런데 제출 자료상 완제품 시험이 적절히 수행된다는 근거가 없었다. 회사는 출하 전에 배치마다 완제품 출하규격 적합 여부를 시험하지 않는다고 밝혔다. 멸균을 표방하는 제품에 무균시험도 하지 않았다. FDA 는 출하 전에 유효성분의 확인시험과 함량시험이 필수라고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 2,
+   "cfr": "21 CFR 211.100(a)",
+   "area": "제조·공정관리",
+   "titleKo": "공정관리 절차 미수립 및 공정밸리데이션 부재",
+   "detailKo": "제출 자료로는 제조공정이 재현 가능하고 균일한 품질의 제품을 생산하도록 관리된다는 점이 입증되지 않았다. 회사 답변에 따르면 공정밸리데이션 절차도, 공정밸리데이션 연구도 없다. 멸균을 표방하는 제품에 대해 공정이 무균성을 보장할 수 있는지 입증하는 연구도 하지 않았다. FDA 는 상업 유통 전에 공정적격성평가(PQ)를 완료하고 이후 지속적으로 공정을 모니터링해야 한다고 지적했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  },
+  {
+   "no": 3,
+   "cfr": "21 CFR 211.22",
+   "area": "품질시스템",
+   "titleKo": "품질부서의 CGMP 준수 보장 책임 미이행",
+   "detailKo": "품질부서(QU)가 OTC 의약품 제조에 대해 책임과 권한을 적절히 행사했다는 근거가 없었다. 예를 들어 제품이 확인·함량·품질·순도 기준에 맞도록 하는 실험실 관리 절차를 확보하지 않았다(21 CFR 211.160(b)). 적절한 지속 안정성 프로그램도 수립하지 않았다(21 CFR 211.166(a)). FDA 는 회사의 품질시스템이 부적절하다고 판단했다.",
+   "responseKo": "",
+   "dataIntegrity": false
+  }
+ ],
+ "flags": {
+  "importAlert": "66-40 (2026-09-30)",
+  "recall": true,
+  "consultantRecommended": true,
+  "productionSuspended": false,
+  "refusedInspection": false,
+  "postWarningMeeting": false
+ },
+ "keywordsKo": [
+  "704(a)(4) 기록 검토",
+  "무균시험 미실시",
+  "출하시험",
+  "공정밸리데이션",
+  "안정성 프로그램",
+  "멸균 표시 OTC 리콜"
+ ],
+ "id": "shenzhen-benliju-biotech-co-ltd-738522-11062026",
+ "extractedAt": "2026-11-17T23:12:27Z",
+ "sourceChars": 10276
+}
