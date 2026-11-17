@@ -69,6 +69,17 @@ if (SAMPLE > 0) {
   );
 }
 
+// ★2026-11-17 사용자 결정: 메일은 **대한민국 업체 건만** 보낸다(대시보드는 전 세계 그대로).
+//   전건 발송이면 연 100건 이상이 13명에게 가서 정작 국내 건이 묻힌다. KOREA_ONLY=0 이면 전건.
+const KOREA_ONLY = process.env.KOREA_ONLY !== "0";
+if (KOREA_ONLY) {
+  const isKorea = (r) => /korea/i.test(r.country || "") && !/north|democratic/i.test(r.country || "");
+  fresh = fresh.filter(isKorea);
+  closed = closed.filter(isKorea);
+  gone = gone.filter(isKorea);
+  summarized = summarized.filter(isKorea);
+}
+
 // ★ 소급 추출(backfill) 중에는 '요약완료' 알림을 보내지 않는다.
 //   512건을 소급 정리하는 동안은 회차마다 수십 건씩 요약이 붙는데, 그걸 매번 메일로 보내면
 //   정작 중요한 '신규 warning letter' 알림이 묻힌다. 평소 회차(신규 몇 건이 뒤늦게 정리된 경우)
@@ -131,7 +142,7 @@ function section(title, rows, note) {
 }
 
 const html = `<div style="${F.wrap}">
-<div style="font-size:17px;font-weight:bold;margin-bottom:4px">FDA Warning Letter — 의약품 CGMP</div>
+<div style="font-size:17px;font-weight:bold;margin-bottom:4px">FDA Warning Letter — 의약품 CGMP${KOREA_ONLY ? " · 대한민국 업체" : ""}</div>
 <div style="color:#78889a;font-size:12px;margin-bottom:6px">
   ${esc((cur.generatedAt || "").replace("T", " ").replace("Z", " UTC"))} 기준 ·
   전체 ${(cur.total || 0).toLocaleString()}건 (요약 대기 ${cur.pending || 0}건)
@@ -157,7 +168,7 @@ if (summarized.length) bits.push(`요약완료 ${summarized.length}건`);
 if (closed.length) bits.push(`종결 ${closed.length}건`);
 if (gone.length) bits.push(`목록삭제 ${gone.length}건`);
 const lead = fresh[0] ? ` — ${fresh[0].company}${fresh.length > 1 ? ` 외 ${fresh.length - 1}곳` : ""}` : "";
-const subject = `[FDA Warning Letter] ${bits.join(" · ")}${lead}`;
+const subject = `[FDA Warning Letter${KOREA_ONLY ? " · 대한민국" : ""}] ${bits.join(" · ")}${lead}`;
 
 emitOutput({ send: "true", subject, to: recipients.join(",") });
 console.log(`SEND=true ${bits.join(" ")} TO=${recipients.join(",")}`);
